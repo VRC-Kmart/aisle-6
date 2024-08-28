@@ -1,0 +1,274 @@
+{
+  "header": {
+    "LocationName": "Super Kmart Center",
+    "Active": true,
+    "Pardons": [
+      {
+        "VRC_Username": "Fukaziroh",
+        "Reason": "LPD Administration"
+      },
+      {
+        "VRC_Username":"Chris_Kani",
+        "Reason":"PJKT Administration"
+      },
+      {
+        "VRC_Username":"BeanBoi50404",
+        "Reason":"LPD Member"
+      }
+    ]
+  },
+  "Clocked_In_Associates": [
+    {
+      "VRC_Username": "DemonitizedBoi",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1700707140000,
+      "departments": [
+        { "ID": 255, "Name": "ADMINISTRATION" },
+        { "ID": 254, "Name": "DEVELOPER" },
+        { "ID": 253, "Name": "MANAGEMENT" }
+      ]
+    },
+    {
+      "VRC_Username": "markthomas007",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1628383288040,
+      "departments": [
+        { "ID": 255, "Name": "ADMINISTRATION" },
+        { "ID": 254, "Name": "DEVELOPER" },
+        { "ID": 253, "Name": "MANAGEMENT" }
+      ]
+    },
+    {
+      "VRC_Username": "lowkeykayla",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 884376000000,
+      "departments": [
+        { "ID": 255, "Name": "ADMINISTRATION" },
+        { "ID": 254, "Name": "DEVELOPER" },
+        { "ID": 253, "Name": "MANAGEMENT" }
+      ]
+    },
+    {
+      "VRC_Username": "Ermina West",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1718060054721,
+      "departments": [
+        { "ID": 254, "Name": "DEVELOPER" },
+        { "ID": 251, "Name": "HUMAN RESOURCES" },
+        { "ID": 253, "Name": "MANAGEMENT" }
+      ]
+    },
+    {
+        "VRC_Username": "Kohai~Senpai",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 251, "Name": "HUMAN RESOURCES" },
+          { "ID": 253, "Name": "MANAGEMENT" }
+        ]
+    },
+    {
+        "VRC_Username": "Friskiiii",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 254, "Name": "DEVELOPER" },
+          { "ID": 250, "Name": "MARKETING" },
+          { "ID": 253, "Name": "MANAGEMENT" }
+        ]
+      },
+      {
+        "VRC_Username": "AmusedBirb",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 3, "Name": "Hardlines" },
+          { "ID": 250, "Name": "MARKETING" },
+          { "ID": 253, "Name": "MANAGEMENT" }
+        ]
+      },
+      {
+        "VRC_Username": "-_Dio_-",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 4, "Name": "Sporting Goods" },
+          { "ID": 253, "Name": "MANAGEMENT" }
+        ]
+      },
+      {
+        "VRC_Username": "cressi85",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 4, "Name": "Sporting Goods" },
+          { "ID": 253, "Name": "MANAGEMENT" }
+        ]
+      },
+      {
+        "VRC_Username": "AgentWanderer",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 0, "Name": "Customer Service" },
+          { "ID": 253, "Name": "MANAGEMENT" }
+        ]
+      },
+      {
+        "VRC_Username": "CucumberWator",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 10, "Name": "KCafe" },
+          { "ID": 253, "Name": "MANAGEMENT" }
+        ]
+      },
+      {
+        "VRC_Username": "Koyaemi",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 20, "Name": "Janitorial" },
+          { "ID": 253, "Name": "MANAGEMENT" }
+        ]
+      },
+      {
+        "VRC_Username": "Jammin' Jon",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 14, "Name": "Layaway" },
+          { "ID": 253, "Name": "MANAGEMENT" }
+        ]
+      },
+      {
+        "VRC_Username": "Marinesargent26",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 9, "Name": "Garden" },
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 4, "Name":"Claims"}
+        ]
+      },
+      {
+        "VRC_Username": "Mavryn Arex",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 12, "Name": "Bakery/Deli" },
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 254, "Name": "DEVELOPER" }
+        ]
+      },
+      {
+        "VRC_Username": "N3RV3SSOPSYCH",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 15, "Name": "Home Improvement" },
+          { "ID": 253, "Name": "MANAGEMENT" }
+        ]
+      },
+      {
+        "VRC_Username":"NovaStarPhantom",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp":1718060054721,
+        "departments": [
+            { "ID": 12, "Name":"Bakery/Deli"},
+            { "ID":253, "Name":"MANAGEMENT"}
+        ]
+      },
+      {
+        "VRC_Username": "Panzaa",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 5, "Name": "Automotive" },
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 254, "Name": "DEVELOPER" }
+        ]
+      },
+      {
+        "VRC_Username": "PrincessAmia",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 21, "Name": "Photo Center" },
+          { "ID": 253, "Name": "MANAGEMENT" }
+        ]
+      },
+      {
+        "VRC_Username": "RexWolfenVRC1",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 1, "Name": "Electronics" },
+          { "ID": 253, "Name": "MANAGEMENT" }
+        ]
+      },
+      {
+        "VRC_Username": "Rustthelion",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 42, "Name": "Pharmacy" },
+          { "ID": 253, "Name": "MANAGEMENT" }
+        ]
+      },
+      {
+        "VRC_Username": "sam555",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 55, "Name": "Security" },
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 255, "Name": "ADMINISTRATION" }
+        ]
+      },
+      {
+        "VRC_Username": "ShinyZards",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 42, "Name": "Pharmacy" },
+          { "ID": 253, "Name": "MANAGEMENT" }
+        ]
+      },
+      {
+        "VRC_Username": "ThatSystemWho",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 10, "Name": "KCafe" },
+          { "ID": 253, "Name": "MANAGEMENT" }
+        ]
+      },
+      {
+        "VRC_Username": "Yoshie Hayashi",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 3, "Name": "Garden" },
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 254, "Name": "DEVELOPER" }
+        ]
+      },
+      {
+        "VRC_Username": "Zenduko",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718060054721,
+        "departments": [
+          { "ID": 0, "Name": "Customer Service" },
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 4, "Name": "Sporting Goods" }
+        ]
+      }
+  ],
+  "footer": {
+    "event": {
+      "Name": "Online Services Return",
+      "Description": "The ClockBoy Online Services 2.0 are in BETA, and is limited to Administration and Department Managers."
+    }
+  }
+}
