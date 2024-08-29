@@ -35,7 +35,7 @@
       "departments": [
         { "ID": 255, "Name": "ADMINISTRATION" },
         { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 253, "Name": "MANAGEMENT" }
+        { "ID": 120, "Name": "cunt" }
       ]
     },
     {
@@ -45,7 +45,7 @@
       "departments": [
         { "ID": 255, "Name": "ADMINISTRATION" },
         { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 120, "Name": "bitch" }
+        { "ID": 253, "Name": "MANAGEMENT" }
       ]
     },
     {
