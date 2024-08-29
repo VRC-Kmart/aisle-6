@@ -1,20 +1,31 @@
 {
   "header": {
     "LocationName": "Super Kmart Center",
-    "Active": false,
+    "Active": true,
     "Pardons": [
       {
         "VRC_Username": "Fukaziroh",
-        "Reason": "LPD Administration"
+        "Reason": "LPD Admin"
       },
       {
         "VRC_Username":"Chris_Kani",
-        "Reason":"PJKT Administration"
+        "Reason":"PJKT Admin"
       },
       {
         "VRC_Username":"BeanBoi50404",
         "Reason":"LPD Member"
-      }
+      },
+      {
+        "VRC_Username":"Bеtty",
+        "Reason":"Balls Enjoyer"
+      },
+      {
+        "VRC_Username":"Squiggle Bear",
+        "Reason":"Actor"
+      },
+      {
+        "VRC_Username":"TheHatman5",
+        "Reason":"cunt"
     ]
   },
   "Clocked_In_Associates": [
