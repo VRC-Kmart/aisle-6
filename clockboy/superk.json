@@ -24,16 +24,22 @@
         "Reason":"Actor"
       },
       {
-        "VRC_Username":"TheHatman5",
-        "Reason":"cunt"
-      },
-      {
         "VRC_Username":"JadeBingus",
         "Reason":"Happy Fucking Arbor Day Bitch"
       }
     ]
   },
   "Clocked_In_Associates": [
+    {
+      "VRC_Username": "Tizzy",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1451903199390,
+      "departments": [
+        { "ID": 128, "Name": "system_gremlin" },
+        { "ID": 129, "Name": "Among Us" },
+        { "ID": 130, "Name": "i don't fucking know" }
+      ]
+    },
     {
       "VRC_Username": "DemonitizedBoi",
       "ShiftCount": 69420,
@@ -99,8 +105,8 @@
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 3, "Name": "Hardlines" },
-          { "ID": 250, "Name": "MARKETING" },
-          { "ID": 200, "Name": "cunt" }
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 250, "Name": "MARKETING" }
         ]
       },
       {
