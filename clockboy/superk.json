@@ -471,8 +471,8 @@
           "ShiftCount": 69420,
           "RegistryTimeStamp": 1725069785045,
           "departments": [
-            { "ID": 4, "Name": "Sporting Goods" }
-
+            { "ID": 4, "Name": "Sporting Goods" },
+            { "ID": 5, "Name": "Automotive" }
           ]
       }
     ],
