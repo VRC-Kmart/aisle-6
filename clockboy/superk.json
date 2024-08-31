@@ -56,6 +56,10 @@
           "Reason":"Actor"
         },
         {
+          "VRC_Username":"deadknight911",
+          "Reason":"Actor"
+        },
+        {
           "VRC_Username":"Sᴜᴘᴇʀʟᴜᴍɪɴᴏᴠᴀ",
           "Reason":"Actor"
         },
@@ -461,7 +465,16 @@
               { "ID": 4, "Name": "Sporting Goods" }
 
             ]
-        }
+        },
+        {
+          "VRC_Username": "Lankev78",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1725069785045,
+          "departments": [
+            { "ID": 4, "Name": "Sporting Goods" }
+
+          ]
+      }
     ],
     "footer": {
       "event": {
