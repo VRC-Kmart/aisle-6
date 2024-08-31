@@ -1,7 +1,7 @@
 {
     "header": {
       "LocationName": "Super Kmart Center",
-      "Active": true,
+      "Active": false,
       "Pardons": [
         {
           "VRC_Username": "Fukaziroh",
