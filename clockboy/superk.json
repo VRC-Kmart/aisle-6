@@ -555,6 +555,15 @@
             { "ID": 24, "Name": "Jewlery" },
             { "ID": 21, "Name": "Photo Center" }
           ]
+        },
+        {
+          "VRC_Username": "Foran",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1699734871437,
+          "departments": [
+            { "ID": 21, "Name": "Photo Center" },
+            { "ID": 3, "Name": "Hardlines" }
+          ]
         }
         
     ],
