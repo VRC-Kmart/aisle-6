@@ -292,6 +292,15 @@
           ]
         },
         {
+          "VRC_Username": "Snord",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1718060054721,
+          "departments": [
+            { "ID": 150, "Name": "MARKETING" },
+            { "ID": 125, "Name": "Snord" }
+          ]
+        },
+        {
           "VRC_Username": "ShinyZards",
           "ShiftCount": 69420,
           "RegistryTimeStamp": 1718060054721,
