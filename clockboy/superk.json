@@ -4,12 +4,24 @@
       "Active": true,
       "Pardons": [
         {
+          "VRC_Username": "PablosCorner",
+          "Reason": "Original Development Team"
+        },
+        {
           "VRC_Username": "Fukaziroh",
           "Reason": "LPD Admin"
         },
         {
+          "VRC_Username":"Jura~",
+          "Reason": "LPD Admin"
+        },
+        {
+          "VRC_Username":"KadenTGM",
+          "Reason":"LPD Admin"
+        },
+        {
           "VRC_Username":"Chris_Kani",
-          "Reason":"PJKT Admin"
+          "Reason":"Furry Bitch"
         },
         {
           "VRC_Username":"BeanBoi50404",
@@ -20,52 +32,12 @@
           "Reason":"Balls Enjoyer"
         },
         {
-          "VRC_Username":"Squiggle Bear",
-          "Reason":"Actor"
+          "VRC_Username":"Legoman99573",
+          "Reason":"Persian Cats Enjoyer"
         },
         {
-          "VRC_Username":"Mightydoob",
-          "Reason":"Actor"
-        },
-        {
-          "VRC_Username":"jpegnaka",
-          "Reason":"Actor"
-        },
-        {
-          "VRC_Username":"iLordie",
-          "Reason":"Actor"
-        },
-        {
-          "VRC_Username":"Seulji",
-          "Reason":"Actor"
-        },
-        {
-          "VRC_Username":"ThreeMoons 8248",
-          "Reason":"Actor"
-        },
-        {
-          "VRC_Username":"MVPSpecial2Me",
-          "Reason":"Actor"
-        },
-        {
-          "VRC_Username":"Makarov Cereal",
-          "Reason":"Actor"
-        },
-        {
-          "VRC_Username":"Itsdevildog",
-          "Reason":"Actor"
-        },
-        {
-          "VRC_Username":"deadknight911",
-          "Reason":"Actor"
-        },
-        {
-          "VRC_Username":"Sᴜᴘᴇʀʟᴜᴍɪɴᴏᴠᴀ",
-          "Reason":"Actor"
-        },
-        {
-          "VRC_Username":"devsgone",
-          "Reason":"Actor"
+          "VRC_Username":"CastOpex2020",
+          "Reason":"Stage Pin Lookin Head Ass"
         }
       ]
     },
@@ -463,7 +435,6 @@
               { "ID": 66, "Name": "Security" },
               { "ID": 1, "Name": "Electronics" },
               { "ID": 4, "Name": "Sporting Goods" }
-
             ]
         },
         {
@@ -474,12 +445,123 @@
             { "ID": 4, "Name": "Sporting Goods" },
             { "ID": 5, "Name": "Automotive" }
           ]
-      }
+        },
+        {
+          "VRC_Username": "Somniumscape",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1718060054721,
+          "departments": [
+            { "ID": 1, "Name": "Electronics" },
+            { "ID": 12, "Name":"Bakery/Deli"},
+            { "ID": 20, "Name": "Janitorial" }
+          ]
+        },
+        {
+          "VRC_Username": "ButterflyCutie",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1718060054721,
+          "departments": [
+            { "ID": 42, "Name": "Pharmacy" }
+          ]
+        },
+        {
+          "VRC_Username": "devsgone",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1718060054721,
+          "departments": [
+            { "ID": 0, "Name": "Customer Service" },
+            { "ID": 12, "Name":"Bakery/Deli"},
+            { "ID": 42, "Name": "Pharmacy" }
+          ]
+        },
+        {
+          "VRC_Username": "ComicBomb",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1718060054721,
+          "departments": [
+            { "ID": 42, "Name": "Pharmacy" }
+          ]
+        },
+        {
+          "VRC_Username": "nickm",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1718060054721,
+          "departments": [
+            { "ID": 5, "Name": "Automotive" }
+          ]
+        },
+        {
+          "VRC_Username": "PVTGhostly76",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1718060054721,
+          "departments": [
+            { "ID": 5, "Name": "Automotive" }
+          ]
+        },
+        {
+          "VRC_Username": "Mogami K․",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1718060054721,
+          "departments": [
+            { "ID": 1, "Name": "Electronics" }
+          ]
+        },
+        {
+          "VRC_Username": "-spiritwolf-",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1718060054721,
+          "departments": [
+            { "ID": 0, "Name": "Customer Service" }
+          ]
+        },
+        {
+          "VRC_Username": "Aliceღ",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1718060054721,
+          "departments": [
+            { "ID": 1, "Name": "Electronics" }
+          ]
+        },
+        {
+          "VRC_Username": "evaqn123",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1718060054721,
+          "departments": [
+            { "ID": 42, "Name": "Pharmacy" }
+          ]
+        },
+        {
+          "VRC_Username": "Illucio",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1718060054721,
+          "departments": [
+            { "ID": 0, "Name": "Customer Service" }
+          ]
+        },
+        {
+          "VRC_Username": "jack14050",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1718060054721,
+          "departments": [
+            { "ID": 10, "Name": "KCafe" },
+            { "ID": 1, "Name": "Electronics" }
+          ]
+        },
+        {
+          "VRC_Username": "PeachesGold",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1718060054721,
+          "departments": [
+            { "ID": 24, "Name": "Jewlery" },
+            { "ID": 21, "Name": "Photo Center" }
+          ]
+        }
+        
     ],
     "footer": {
       "event": {
         "Name": "Online Services Return",
-        "Description": "The ClockBoy Online Services 2.0 are in BETA, and is limited to Administration and Department Managers."
+        "Description": "The ClockBoy Online Services 2.0 are in BETA, and is being slowly rolled out. Please be patient."
       }
     }
   }
