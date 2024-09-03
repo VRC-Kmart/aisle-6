@@ -43,6 +43,10 @@
         {
           "VRC_Username":"SorΒ",
           "Reason":"YandereDev Lookin Head Ass"
+        },
+        {
+          "VRC_Username":"［Jagga］",
+          "Reason":"Fire Alarm Inspector"
         }
       ]
     },
@@ -405,6 +409,14 @@
             "departments": [
               { "ID": 66, "Name": "Security" }
             ]
+        },
+        {
+          "VRC_Username": "JCloud",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1722304800000,
+          "departments": [
+            { "ID": 66, "Name": "Security" }
+          ]
         },
         {
             "VRC_Username": "Purple_Emma",
