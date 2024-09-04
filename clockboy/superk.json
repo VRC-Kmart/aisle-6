@@ -594,6 +594,14 @@
             { "ID": 21, "Name": "Photo Center" },
             { "ID": 3, "Name": "Hardlines" }
           ]
+        },
+        {
+          "VRC_Username": "Kattsu-AMR",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1725438753932,
+          "departments": [
+            { "ID": 20, "Name": "Janitorial" }
+          ]
         }
         
     ],
