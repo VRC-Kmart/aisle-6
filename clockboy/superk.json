@@ -47,10 +47,6 @@
         {
           "VRC_Username":"SorΒ",
           "Reason":"YandereDev Lookin Head Ass"
-        },
-        {
-          "VRC_Username":"［Jagga］",
-          "Reason":"Fire Alarm Inspector"
         }
       ]
     },
@@ -149,6 +145,16 @@
             { "ID": 254, "Name": "DEVELOPER" },
             { "ID": 250, "Name": "MARKETING" },
             { "ID": 253, "Name": "MANAGEMENT" }
+          ]
+        },
+        {
+            "VRC_Username": "［Jagga］",
+          "ShiftCount": 69420,
+          "RegistryTimeStamp": 1718060054721,
+          "departments": [
+            { "ID": 254, "Name": "DEVELOPER" },
+            { "ID": 127, "Name": "Space Station 69 Enjoyer" },
+            { "ID": 126, "Name": "Actually a Fire Alarm" }
           ]
         },
         {
