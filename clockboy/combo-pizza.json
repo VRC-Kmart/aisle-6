@@ -715,6 +715,16 @@
         "departments": [
           { "ID": 1, "Name": "Electronics" }
         ]
+      },
+      {
+        "VRC_Username": "CorruptTag",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1722638830853,
+        "departments": [
+          { "ID": 1, "Name": "Electronics" },
+          { "ID": 25, "Name": "Claims" },
+          { "ID": 5, "Name": "Automotive" }
+        ]
       }
   ],
   "footer": {
