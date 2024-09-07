@@ -705,10 +705,10 @@
         
     ],
     "footer": {
-      "event": {
-        "Name": "Online Services Return",
-        "Description": "The ClockBoy Online Services 2.0 are in BETA, and is being slowly rolled out. Please be patient."
-      }
+    "event": {
+      "Name": "Online Services Return",
+      "Description": "The ClockBoy Online Services 2.0 are in BETA. Stability may suffer!"
+    }
     }
   }
   
