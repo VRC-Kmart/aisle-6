@@ -734,6 +734,14 @@
           { "ID": 1, "Name": "Electronics" },
           { "ID": 0, "Name": "Customer Service" }
         ]
+      },
+          {
+        "VRC_Username": "Brolyuchiha1963",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1676499114657,
+        "departments": [
+          { "ID": 1, "Name": "Electronics" }
+        ]
       }
   ],
   "footer": {
