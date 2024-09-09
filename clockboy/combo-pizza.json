@@ -92,9 +92,9 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1620190608604,
       "departments": [
+        { "ID": 126, "Name": "broke the fucking lighting" },
         { "ID": 255, "Name": "ADMINISTRATION" },
-        { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 253, "Name": "MANAGEMENT" }
+        { "ID": 254, "Name": "DEVELOPER" }
       ]
     },
     {
