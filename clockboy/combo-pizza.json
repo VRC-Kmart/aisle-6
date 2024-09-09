@@ -725,6 +725,15 @@
           { "ID": 25, "Name": "Claims" },
           { "ID": 5, "Name": "Automotive" }
         ]
+      },
+      {
+        "VRC_Username": "SpyFolf",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1670545433687,
+        "departments": [
+          { "ID": 1, "Name": "Electronics" },
+          { "ID": 0, "Name": "Customer Service" }
+        ]
       }
   ],
   "footer": {
