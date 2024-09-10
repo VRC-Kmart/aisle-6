@@ -735,12 +735,22 @@
           { "ID": 0, "Name": "Customer Service" }
         ]
       },
-          {
+      {
         "VRC_Username": "Brolyuchiha1963",
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1676499114657,
         "departments": [
           { "ID": 1, "Name": "Electronics" }
+        ]
+      },
+      {
+        "VRC_Username": "Ruby Rose",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1595691876906,
+        "departments": [
+          { "ID": 0, "Name": "Customer Service" },
+          { "ID": 42, "Name": "Pharmacy" },
+          { "ID": 3, "Name": "Hardlines" }
         ]
       }
   ],
