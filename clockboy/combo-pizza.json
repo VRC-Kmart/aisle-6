@@ -4,7 +4,7 @@
       "superk":{
           "LocationName": "Super Kmart Center",
           "Active": true,
-          "AssociateOnly":false
+          "AssociateOnly":true
       },
       "mainstore":{
           "LocationName": "Kmart Main Store",
