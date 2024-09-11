@@ -254,7 +254,7 @@
         "departments": [
           { "ID": 9, "Name": "Garden" },
           { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 4, "Name":"Claims"}
+          { "ID": 25, "Name":"Claims"}
         ]
       },
       {
@@ -384,7 +384,7 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1626840561229,
         "departments": [
-          { "ID": 15, "Name": "Claims" },
+          { "ID": 25, "Name": "Claims" },
           { "ID": 120, "Name": "Arbor Day" }
         ]
       },
@@ -767,6 +767,14 @@
         "RegistryTimeStamp": 1726036910287,
         "departments": [
           { "ID": 4, "Name": "Sporting Goods" }
+        ]
+      },
+      {
+        "VRC_Username": "Kitsune Dusky",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1674866746125,
+        "departments": [
+          { "ID": 25, "Name": "Claims" }
         ]
       }
   ],
