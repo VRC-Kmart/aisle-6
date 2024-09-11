@@ -752,6 +752,14 @@
           { "ID": 42, "Name": "Pharmacy" },
           { "ID": 3, "Name": "Hardlines" }
         ]
+      },
+      {
+        "VRC_Username": "NylaB0nes",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1700707140000,
+        "departments": [
+          { "ID": 0, "Name": "Customer Service" }
+        ]
       }
   ],
   "footer": {
