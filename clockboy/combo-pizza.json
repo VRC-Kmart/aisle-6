@@ -760,6 +760,14 @@
         "departments": [
           { "ID": 0, "Name": "Customer Service" }
         ]
+      },
+      {
+        "VRC_Username": "Mr․SpiderKing",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1726036910287,
+        "departments": [
+          { "ID": 4, "Name": "Sporting Goods" }
+        ]
       }
   ],
   "footer": {
