@@ -786,7 +786,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1718883769842,
         "departments": [
-          { "ID": 12, "Name": "Bakery/Deli" }
+          { "ID": 12, "Name": "Bakery/Deli" },
+          { "ID": 4, "Name": "Sporting Goods" }
         ]
       }
   ],
