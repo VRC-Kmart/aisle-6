@@ -780,6 +780,14 @@
         "departments": [
           { "ID": 25, "Name": "Claims" }
         ]
+      },
+      {
+        "VRC_Username": "CielFreeman",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718883769842,
+        "departments": [
+          { "ID": 12, "Name": "Bakery/Deli" }
+        ]
       }
   ],
   "footer": {
