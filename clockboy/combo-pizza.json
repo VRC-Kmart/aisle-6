@@ -798,6 +798,16 @@
           { "ID": 254, "Name": "DEVELOPER" },
           { "ID": 0, "Name": "Customer Service" }
         ]
+      },
+      {
+        "VRC_Username": "Cart Narcs",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1688699003673,
+        "departments": [
+          { "ID": 55, "Name": "Security" },
+          { "ID": 3, "Name": "Hardlines" },
+          { "ID": 0, "Name": "Customer Service" }
+        ]
       }
   ],
   "footer": {
