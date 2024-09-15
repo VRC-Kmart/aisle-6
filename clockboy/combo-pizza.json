@@ -789,6 +789,15 @@
           { "ID": 12, "Name": "Bakery/Deli" },
           { "ID": 4, "Name": "Sporting Goods" }
         ]
+      },
+      {
+        "VRC_Username": "neostarx",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718883769842,
+        "departments": [
+          { "ID": 254, "Name": "DEVELOPER" },
+          { "ID": 0, "Name": "Customer Service" }
+        ]
       }
   ],
   "footer": {
