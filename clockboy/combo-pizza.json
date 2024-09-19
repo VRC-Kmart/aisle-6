@@ -192,9 +192,9 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1609576636925,
         "departments": [
-          { "ID": 3, "Name": "Hardlines" },
+          { "ID": 250, "Name": "MARKETING" },
           { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 250, "Name": "MARKETING" }
+          { "ID": 3, "Name": "Hardlines" }
         ]
       },
       {
@@ -202,8 +202,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
-          { "ID": 4, "Name": "Sporting Goods" },
-          { "ID": 253, "Name": "MANAGEMENT" }
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 4, "Name": "Sporting Goods" }
         ]
       },
       {
@@ -211,8 +211,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1641492313586,
         "departments": [
-          { "ID": 4, "Name": "Sporting Goods" },
-          { "ID": 253, "Name": "MANAGEMENT" }
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 4, "Name": "Sporting Goods" }
         ]
       },
       {
@@ -220,8 +220,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1644435554467,
         "departments": [
-          { "ID": 0, "Name": "Customer Service" },
-          { "ID": 253, "Name": "MANAGEMENT" }
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 0, "Name": "Customer Service" }
         ]
       },
       {
@@ -229,8 +229,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1675578940693,
         "departments": [
-          { "ID": 10, "Name": "KCafe" },
-          { "ID": 253, "Name": "MANAGEMENT" }
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 10, "Name": "KCafe" }
         ]
       },
       {
@@ -238,8 +238,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1707682125445,
         "departments": [
-          { "ID": 20, "Name": "Janitorial" },
-          { "ID": 253, "Name": "MANAGEMENT" }
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 20, "Name": "Janitorial" }
         ]
       },
       {
@@ -247,8 +247,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1660574061049,
         "departments": [
-          { "ID": 14, "Name": "Layaway" },
-          { "ID": 253, "Name": "MANAGEMENT" }
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 14, "Name": "Layaway" }
         ]
       },
       {
@@ -256,8 +256,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
-          { "ID": 9, "Name": "Garden" },
           { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 9, "Name": "Garden" },
           { "ID": 25, "Name":"Claims"}
         ]
       },
@@ -266,9 +266,9 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1673427328419,
         "departments": [
-          { "ID": 12, "Name": "Bakery/Deli" },
+          { "ID": 254, "Name": "DEVELOPER" },
           { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 254, "Name": "DEVELOPER" }
+          { "ID": 12, "Name": "Bakery/Deli" }
         ]
       },
       {
@@ -276,8 +276,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
-          { "ID": 15, "Name": "Home Improvement" },
-          { "ID": 253, "Name": "MANAGEMENT" }
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 15, "Name": "Home Improvement" }
         ]
       },
       {
@@ -285,8 +285,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp":1718060054721,
         "departments": [
-            { "ID": 12, "Name":"Bakery/Deli"},
-            { "ID":253, "Name":"MANAGEMENT"}
+          { "ID":253, "Name":"MANAGEMENT"},
+            { "ID": 12, "Name":"Bakery/Deli"}
         ]
       },
       {
@@ -294,9 +294,9 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
-          { "ID": 5, "Name": "Automotive" },
+          { "ID": 254, "Name": "DEVELOPER" },
           { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 254, "Name": "DEVELOPER" }
+          { "ID": 5, "Name": "Automotive" }
         ]
       },
       {
@@ -304,8 +304,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1715834990119,
         "departments": [
-          { "ID": 21, "Name": "Photo Center" },
-          { "ID": 253, "Name": "MANAGEMENT" }
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 21, "Name": "Photo Center" }
         ]
       },
       {
@@ -313,8 +313,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1677977682853,
         "departments": [
-          { "ID": 1, "Name": "Electronics" },
-          { "ID": 253, "Name": "MANAGEMENT" }
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 1, "Name": "Electronics" }
         ]
       },
       {
@@ -322,8 +322,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1671152658317,
         "departments": [
-          { "ID": 42, "Name": "Pharmacy" },
-          { "ID": 253, "Name": "MANAGEMENT" }
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 42, "Name": "Pharmacy" }
         ]
       },
       {
@@ -331,9 +331,9 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
-          { "ID": 55, "Name": "Security" },
+          { "ID": 255, "Name": "ADMINISTRATION" },
           { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 255, "Name": "ADMINISTRATION" }
+          { "ID": 55, "Name": "Security" }
         ]
       },
       {
@@ -350,8 +350,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1673665295969,
         "departments": [
-          { "ID": 42, "Name": "Pharmacy" },
-          { "ID": 253, "Name": "MANAGEMENT" }
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 42, "Name": "Pharmacy" }
         ]
       },
       {
@@ -359,8 +359,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
-          { "ID": 10, "Name": "KCafe" },
-          { "ID": 253, "Name": "MANAGEMENT" }
+          { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 10, "Name": "KCafe" }
         ]
       },
       {
@@ -368,9 +368,9 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1699593949761,
         "departments": [
-          { "ID": 3, "Name": "Garden" },
+          { "ID": 254, "Name": "DEVELOPER" },
           { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 254, "Name": "DEVELOPER" }
+          { "ID": 3, "Name": "Garden" }
         ]
       },
       {
@@ -378,8 +378,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
-          { "ID": 0, "Name": "Customer Service" },
           { "ID": 253, "Name": "MANAGEMENT" },
+          { "ID": 0, "Name": "Customer Service" },
           { "ID": 4, "Name": "Sporting Goods" }
         ]
       },
@@ -808,12 +808,21 @@
           { "ID": 3, "Name": "Hardlines" },
           { "ID": 0, "Name": "Customer Service" }
         ]
+      },
+      {
+        "VRC_Username": "Jarbear",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1636088066338,
+        "departments": [
+          { "ID": 25, "Name": "Claims" },
+          { "ID": 1, "Name": "Electronics" }
+        ]
       }
   ],
   "footer": {
     "event": {
-      "Name": "Online Services Return",
-      "Description": "The ClockBoy Online Services 2.0 are in BETA. Stability may suffer!"
+      "Name": "Earth, Wind, and Fire Day",
+      "Description": "September 21st is Earth, Wind, and Fire Day!"
     }
   }
 }
