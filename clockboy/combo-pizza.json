@@ -842,6 +842,7 @@
         "departments": [
           { "ID": 20, "Name": "Janitorial" }
         ]
+    }
   ],
   "footer": {
     "event": {
