@@ -145,7 +145,8 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1619096956226,
       "departments": [
-        { "ID": 254, "Name": "DEVELOPER" }
+        { "ID": 254, "Name": "DEVELOPER" },
+        { "ID": 128, "Name": "Titty Enjoyer" },
       ]
     },
     {
@@ -846,8 +847,8 @@
   ],
   "footer": {
     "event": {
-      "Name": "Earth, Wind, and Fire Day",
-      "Description": "The store is currently in a different variant, and will return to standard operations on the 22nd. Leave feedback at discord.gg/kmart"
+      "Name": "Experiment Active",
+      "Description": "The store is currently running an experiment! Leave feedback at discord.gg/kmart"
     }
   }
 }
