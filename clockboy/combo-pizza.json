@@ -819,7 +819,7 @@
           { "ID": 25, "Name": "Claims" },
           { "ID": 1, "Name": "Electronics" }
         ]
-      },
+    },
     {
         "VRC_Username": "LukeTheLPSWolf",
         "ShiftCount": 69420,
@@ -829,7 +829,7 @@
           { "ID": 1, "Name": "Electronics" }
         ]
     },
-        {
+    {
         "VRC_Username": "Masked_Majora64",
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1718883769842,
@@ -837,19 +837,28 @@
           { "ID": 1, "Name": "Electronics" }
         ]
     },
-            {
+    {
         "VRC_Username": "s0la_c0rvus",
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1718883769842,
         "departments": [
           { "ID": 20, "Name": "Janitorial" }
         ]
+    },
+    {
+        "VRC_Username": "Razer345",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718883769842,
+        "departments": [
+          { "ID": 0, "Name": "Customer Service" },
+          { "ID": 10, "Name": "KCafe" }
+        ]
     }
   ],
   "footer": {
     "event": {
       "Name": "Experiment Active",
-      "Description": "The store is currently running an experiment! Leave feedback at discord.gg/kmart"
+      "Description": "The store is currently running a small lighting experiment! Leave feedback at discord.gg/kmart"
     }
   }
 }
