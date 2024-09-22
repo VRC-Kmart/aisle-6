@@ -25,6 +25,11 @@
           "LocationName": "Distribution Center",
           "Active": true,
           "AssociateOnly":false
+      },
+      "skevent":{
+          "LocationName": "SuperK Event Version",
+          "Active": true,
+          "AssociateOnly":false
       }
   },
     "Pardons": [
