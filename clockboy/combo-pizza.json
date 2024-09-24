@@ -863,7 +863,8 @@
   "footer": {
     "event": {
       "Name": "Experiment Active",
-      "Description": "The store is currently running a small lighting experiment! Leave feedback at discord.gg/kmart"
+      "Description": "The store is currently running a small lighting experiment! Leave feedback at discord.gg/kmart",
+      "Notification": "NOTICE: A wild event appears!"
     }
   }
 }
