@@ -76,18 +76,6 @@
       {
         "VRC_Username":"WavyNationSquxd",
         "Reason":"Highest Flappy Hat Score"
-      },
-      {
-        "VRC_Username":"N̶e̶p̶t̶u̶n̶e",
-        "Reason":"Bypass because i fucked up something"
-      },
-      {
-        "VRC_Username":"uıʞdɯnd",
-        "Reason":"Bypass because i fucked up something"
-      },
-      {
-        "VRC_Username":"Goow",
-        "Reason":"Bypass because i fucked up something"
       }
     ]
   },
@@ -862,9 +850,9 @@
   ],
   "footer": {
     "event": {
-      "Name": "Experiment Active",
-      "Description": "The store is currently running a small lighting experiment! Leave feedback at discord.gg/kmart",
-      "Notification": "NOTICE: A wild event appears!"
+      "Name": "No Event",
+      "Description": "How the fuck are you seeing this? Anyways join our server! discord.gg/kmart",
+      "Notification": "NOTICE: There is no event."
     }
   }
 }
