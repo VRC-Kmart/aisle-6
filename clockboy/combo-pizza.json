@@ -846,6 +846,14 @@
           { "ID": 0, "Name": "Customer Service" },
           { "ID": 10, "Name": "KCafe" }
         ]
+    },
+    {
+        "VRC_Username": "Вubblеѕ",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718883769842,
+        "departments": [
+          { "ID": 10, "Name": "KCafe" }
+        ]
     }
   ],
   "footer": {
