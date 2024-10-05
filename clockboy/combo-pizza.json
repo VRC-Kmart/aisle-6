@@ -556,6 +556,7 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
+          { "ID": 43, "Name": "BIRTHDAY BOY" },
           { "ID": 42, "Name": "Pharmacy" }
         ]
       },
@@ -858,9 +859,9 @@
   ],
   "footer": {
     "event": {
-      "Name": "No Event",
-      "Description": "How the fuck are you seeing this? Anyways join our server! discord.gg/kmart",
-      "Notification": "NOTICE: There is no event."
+      "Name": "Comicbomb's Birthday!",
+      "Description": "YOOOOOOO IT'S COMICBOMB'S BIRTHDAY! Happy Birthday man. Take some cake over at discord.gg/kmart",
+      "Notification": "NOTICE: Birthday Party!"
     }
   }
 }
