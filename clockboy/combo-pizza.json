@@ -859,6 +859,14 @@
         "departments": [
           { "ID": 10, "Name": "KCafe" }
         ]
+    },
+    {
+        "VRC_Username": "NightPanda25",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1696375200000,
+        "departments": [
+          { "ID": 66, "Name": "Security" }
+        ]
     }
   ],
   "footer": {
