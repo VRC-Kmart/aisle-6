@@ -867,6 +867,14 @@
         "departments": [
           { "ID": 66, "Name": "Security" }
         ]
+    },
+    {
+        "VRC_Username": "Piyes",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1718883769842,
+        "departments": [
+          { "ID": 10, "Name": "KCafe" }
+        ]
     }
   ],
   "footer": {
