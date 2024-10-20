@@ -32,61 +32,9 @@
           "AssociateOnly":false
       }
   },
-    "Pardons": [
-      {
-        "VRC_Username": "PablosCorner",
-        "Reason": "Original Development Team"
-      },
-      {
-        "VRC_Username": "Fukaziroh",
-        "Reason": "LPD Admin"
-      },
-      {
-        "VRC_Username":"Jura~",
-        "Reason": "LPD Admin"
-      },
-      {
-        "VRC_Username":"KadenTGM",
-        "Reason":"LPD Admin"
-      },
-      {
-        "VRC_Username":"Chris_Kani",
-        "Reason":"Furry Bitch"
-      },
-      {
-        "VRC_Username": "Wulf",
-        "Reason": "VRCLegends Wiki Admin / Uganda Simp"
-      },
-      {
-        "VRC_Username":"BeanBoi50404",
-        "Reason":"LPD Member"
-      },
-      {
-        "VRC_Username":"CastOpex2020",
-        "Reason":"Stage Pin Lookin Head Ass"
-      },
-      {
-        "VRC_Username":"SorΒ",
-        "Reason":"YandereDev Lookin Head Ass"
-      },
-      {
-        "VRC_Username":"SarahSmith",
-        "Reason":"LRF Admin"
-      },
-      {
-        "VRC_Username":"WavyNationSquxd",
-        "Reason":"Highest Flappy Hat Score"
-      },
-      {
-        "VRC_Username":"iDreamTheater",
-        "Reason":"Fuckin nerd"
-      }
-    ]
-  },
-  "Clocked_In_Associates": [
+  "Associates": [
     {
       "VRC_Username": "Tizzy",
-      "ShiftCount": 69420,
       "RegistryTimeStamp": 1451903199390,
       "departments": [
         { "ID": 128, "Name": "system_gremlin" },
@@ -96,7 +44,6 @@
     },
     {
       "VRC_Username": "DemonitizedBoi",
-      "ShiftCount": 69420,
       "RegistryTimeStamp": 1700707140000,
       "departments": [
         { "ID": 255, "Name": "ADMINISTRATION" },
@@ -106,17 +53,15 @@
     },
     {
       "VRC_Username": "MarcellaVT",
-      "ShiftCount": 69420,
       "RegistryTimeStamp": 1620190608604,
       "departments": [
-        { "ID": 126, "Name": "broke the fucking lighting" },
+        { "ID": 126, "Name": "Girl Kisser" },
         { "ID": 255, "Name": "ADMINISTRATION" },
         { "ID": 254, "Name": "DEVELOPER" }
       ]
     },
     {
       "VRC_Username": "KmartWorlds",
-      "ShiftCount": 69420,
       "RegistryTimeStamp": 1569750679822,
       "departments": [
         { "ID": 255, "Name": "ADMINISTRATION" },
@@ -126,7 +71,6 @@
     },
     {
       "VRC_Username": "lowkeykayla",
-      "ShiftCount": 69420,
       "RegistryTimeStamp": 884376000000,
       "departments": [
         { "ID": 255, "Name": "ADMINISTRATION" },
@@ -136,7 +80,6 @@
     },
     {
       "VRC_Username": "【ᴊᴄ】",
-      "ShiftCount": 69420,
       "RegistryTimeStamp": 1519871728936,
       "departments": [
         { "ID": 254, "Name": "DEVELOPER" },
@@ -145,7 +88,6 @@
     },
     {
       "VRC_Username": "Chilgt",
-      "ShiftCount": 69420,
       "RegistryTimeStamp": 1520966253178,
       "departments": [
         { "ID": 254, "Name": "DEVELOPER" },
@@ -155,7 +97,6 @@
     },
     {
       "VRC_Username": "Smirf123",
-      "ShiftCount": 69420,
       "RegistryTimeStamp": 1619096956226,
       "departments": [
         { "ID": 254, "Name": "DEVELOPER" },
@@ -165,7 +106,6 @@
     },
     {
       "VRC_Username": "［Jagga］",
-      "ShiftCount": 69420,
       "RegistryTimeStamp": 1725343270625,
       "departments": [
         { "ID": 254, "Name": "DEVELOPER" },
@@ -175,7 +115,6 @@
     },
     {
       "VRC_Username": "Ermina West",
-      "ShiftCount": 69420,
       "RegistryTimeStamp": 1718060054721,
       "departments": [
         { "ID": 254, "Name": "DEVELOPER" },
@@ -185,7 +124,6 @@
     },
     {
         "VRC_Username": "Kohai~Senpai",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1595914793216,
         "departments": [
           { "ID": 251, "Name": "HUMAN RESOURCES" },
@@ -194,7 +132,6 @@
     },
     {
         "VRC_Username": "Friskiiii",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1670216238796,
         "departments": [
           { "ID": 254, "Name": "DEVELOPER" },
@@ -204,7 +141,6 @@
       },
       {
         "VRC_Username": "AmusedBirb",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1609576636925,
         "departments": [
           { "ID": 250, "Name": "MARKETING" },
@@ -214,7 +150,6 @@
       },
       {
         "VRC_Username": "-_Dio_-",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 253, "Name": "MANAGEMENT" },
@@ -223,7 +158,6 @@
       },
       {
         "VRC_Username": "cressi85",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1641492313586,
         "departments": [
           { "ID": 253, "Name": "MANAGEMENT" },
@@ -232,7 +166,6 @@
       },
       {
         "VRC_Username": "AgentWanderer",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1644435554467,
         "departments": [
           { "ID": 253, "Name": "MANAGEMENT" },
@@ -241,7 +174,6 @@
       },
       {
         "VRC_Username": "CucumberWator",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1675578940693,
         "departments": [
           { "ID": 253, "Name": "MANAGEMENT" },
@@ -250,7 +182,6 @@
       },
       {
         "VRC_Username": "Koyaemi",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1707682125445,
         "departments": [
           { "ID": 253, "Name": "MANAGEMENT" },
@@ -259,7 +190,6 @@
       },
       {
         "VRC_Username": "Jammin' Jon",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1660574061049,
         "departments": [
           { "ID": 253, "Name": "MANAGEMENT" },
@@ -268,7 +198,6 @@
       },
       {
         "VRC_Username": "Marinesargent26",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 253, "Name": "MANAGEMENT" },
@@ -278,7 +207,6 @@
       },
       {
         "VRC_Username": "Mavryn Arex",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1673427328419,
         "departments": [
           { "ID": 254, "Name": "Cheated in Minecraft" },
@@ -288,7 +216,6 @@
       },
       {
         "VRC_Username": "N3RV3SSOPSYCH",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 253, "Name": "MANAGEMENT" },
@@ -297,7 +224,6 @@
       },
       {
         "VRC_Username":"NovaStarPhantom",
-        "ShiftCount": 69420,
         "RegistryTimeStamp":1718060054721,
         "departments": [
           { "ID":253, "Name":"MANAGEMENT"},
@@ -306,7 +232,6 @@
       },
       {
         "VRC_Username": "Panzaa",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 254, "Name": "DEVELOPER" },
@@ -316,7 +241,6 @@
       },
       {
         "VRC_Username": "PrincessAmia",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1715834990119,
         "departments": [
           { "ID": 253, "Name": "MANAGEMENT" },
@@ -325,7 +249,6 @@
       },
       {
         "VRC_Username": "RexWolfenVRC1",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1677977682853,
         "departments": [
           { "ID": 253, "Name": "MANAGEMENT" },
@@ -334,7 +257,6 @@
       },
       {
         "VRC_Username": "Rustthelion",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1671152658317,
         "departments": [
           { "ID": 253, "Name": "MANAGEMENT" },
@@ -343,7 +265,6 @@
       },
       {
         "VRC_Username": "sam555",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 255, "Name": "ADMINISTRATION" },
@@ -353,7 +274,6 @@
       },
       {
         "VRC_Username": "Snord",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 150, "Name": "MARKETING" },
@@ -362,7 +282,6 @@
       },
       {
         "VRC_Username": "ShinyZards",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1673665295969,
         "departments": [
           { "ID": 253, "Name": "MANAGEMENT" },
@@ -371,7 +290,6 @@
       },
       {
         "VRC_Username": "ThatSystemWho",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 253, "Name": "MANAGEMENT" },
@@ -380,7 +298,6 @@
       },
       {
         "VRC_Username": "Yoshie Hayashi",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1699593949761,
         "departments": [
           { "ID": 254, "Name": "DEVELOPER" },
@@ -390,7 +307,6 @@
       },
       {
         "VRC_Username": "Zenduko",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 253, "Name": "MANAGEMENT" },
@@ -400,16 +316,15 @@
       },
       {
         "VRC_Username": "JadeBingus",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1626840561229,
         "departments": [
+          { "ID": 254, "Name": "Claims Sleeper" },
           { "ID": 25, "Name": "Claims" },
           { "ID": 120, "Name": "Arbor Day" }
         ]
       },
       {
           "VRC_Username": "﮴tea",
-          "ShiftCount": 69420,
           "RegistryTimeStamp": 1718060054721,
           "departments": [
             { "ID": 66, "Name": "Security" },
@@ -419,7 +334,6 @@
       },
       {
           "VRC_Username": "FlyingSeacat",
-          "ShiftCount": 69420,
           "RegistryTimeStamp": 1718060054721,
           "departments": [
             { "ID": 66, "Name": "Security" }
@@ -427,7 +341,6 @@
       },
       {
           "VRC_Username": "HighestInDaRoom",
-          "ShiftCount": 69420,
           "RegistryTimeStamp": 1695964195195,
           "departments": [
             { "ID": 66, "Name": "Security" }
@@ -435,7 +348,6 @@
       },
       {
           "VRC_Username": "jeffthedndgod",
-          "ShiftCount": 69420,
           "RegistryTimeStamp": 1718060054721,
           "departments": [
             { "ID": 66, "Name": "Security" }
@@ -443,7 +355,6 @@
       },
       {
           "VRC_Username": "Legendboy",
-          "ShiftCount": 69420,
           "RegistryTimeStamp": 1718060054721,
           "departments": [
             { "ID": 66, "Name": "Security" }
@@ -451,7 +362,6 @@
       },
       {
           "VRC_Username": "luckydoomknight",
-          "ShiftCount": 69420,
           "RegistryTimeStamp": 1718060054721,
           "departments": [
             { "ID": 66, "Name": "Security" }
@@ -459,7 +369,6 @@
       },
       {
         "VRC_Username": "JCloud",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1722304800000,
         "departments": [
           { "ID": 66, "Name": "Security" }
@@ -467,7 +376,6 @@
       },
       {
           "VRC_Username": "Purple_Emma",
-          "ShiftCount": 69420,
           "RegistryTimeStamp": 1718060054721,
           "departments": [
             { "ID": 66, "Name": "Security" },
@@ -477,7 +385,6 @@
       },
       {
           "VRC_Username": "Smoogley",
-          "ShiftCount": 69420,
           "RegistryTimeStamp": 1718060054721,
           "departments": [
             { "ID": 66, "Name": "Security" }
@@ -485,7 +392,6 @@
       },
       {
           "VRC_Username": "Sonreckoner",
-          "ShiftCount": 69420,
           "RegistryTimeStamp": 1718060054721,
           "departments": [
             { "ID": 66, "Name": "Security" },
@@ -494,7 +400,6 @@
       },
       {
           "VRC_Username": "Cpt Caldwell",
-          "ShiftCount": 69420,
           "RegistryTimeStamp": 1672295108444,
           "departments": [
             { "ID": 66, "Name": "Security" }
@@ -502,7 +407,6 @@
       },
       {
           "VRC_Username": "Dᴜʙʙʏ",
-          "ShiftCount": 69420,
           "RegistryTimeStamp": 1718060054721,
           "departments": [
             { "ID": 66, "Name": "Security" },
@@ -512,7 +416,6 @@
       },
       {
         "VRC_Username": "Lankev78",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1725069785045,
         "departments": [
           { "ID": 4, "Name": "Sporting Goods" },
@@ -521,7 +424,6 @@
       },
       {
         "VRC_Username": "Somniumscape",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 1, "Name": "Electronics" },
@@ -531,7 +433,6 @@
       },
       {
         "VRC_Username": "ButterflyCutie",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 42, "Name": "Pharmacy" }
@@ -539,7 +440,6 @@
       },
       {
           "VRC_Username": "Jacob94",
-          "ShiftCount": 69420,
           "RegistryTimeStamp": 1718060054721,
           "departments": [
             { "ID": 42, "Name": "Pharmacy" }
@@ -547,7 +447,6 @@
         },
       {
         "VRC_Username": "devsgone",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 0, "Name": "Customer Service" },
@@ -557,7 +456,6 @@
       },
       {
         "VRC_Username": "Comicbomb",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 43, "Name": "BIRTHDAY BOY" },
@@ -566,7 +464,6 @@
       },
       {
         "VRC_Username": "nickm",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1595979352360,
         "departments": [
           { "ID": 5, "Name": "Automotive" }
@@ -574,7 +471,6 @@
       },
       {
         "VRC_Username": "PVTGhostly76",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1701284514609,
         "departments": [
           { "ID": 5, "Name": "Automotive" }
@@ -582,7 +478,6 @@
       },
       {
         "VRC_Username": "Mogami K․",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 1, "Name": "Electronics" }
@@ -590,7 +485,6 @@
       },
       {
         "VRC_Username": "-spiritwolf-",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 0, "Name": "Customer Service" }
@@ -598,7 +492,6 @@
       },
       {
         "VRC_Username": "Aliceღ",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1671295105405,
         "departments": [
           { "ID": 1, "Name": "Electronics" }
@@ -606,7 +499,6 @@
       },
       {
         "VRC_Username": "evaqn123",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 42, "Name": "Pharmacy" }
@@ -614,7 +506,6 @@
       },
       {
         "VRC_Username": "Illucio",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 0, "Name": "Customer Service" }
@@ -622,7 +513,6 @@
       },
       {
         "VRC_Username": "jack14050",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
         "departments": [
           { "ID": 10, "Name": "KCafe" },
@@ -631,7 +521,6 @@
       },
       {
         "VRC_Username": "Foran",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1699734871437,
         "departments": [
           { "ID": 21, "Name": "Photo Center" },
@@ -640,7 +529,6 @@
       },
       {
         "VRC_Username": "Kattsu-AMR",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1725438753932,
         "departments": [
           { "ID": 20, "Name": "Janitorial" }
@@ -648,7 +536,6 @@
       },
       {
         "VRC_Username": "Pickleson69",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1723088491688,
         "departments": [
           { "ID": 12, "Name": "Bakery/Deli" }
@@ -656,7 +543,6 @@
       },
       {
         "VRC_Username": "Sweet1019",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1723083634754,
         "departments": [
           { "ID": 42, "Name": "Pharmacy" }
@@ -664,7 +550,6 @@
       },
       {
         "VRC_Username": "Legoman99573",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1701055512575,
         "departments": [
           { "ID": 20, "Name": "Janitorial" }
@@ -672,7 +557,6 @@
       },
       {
         "VRC_Username": "Wokipokei",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718099154731,
         "departments": [
           { "ID": 1, "Name": "Electronics" }
@@ -680,7 +564,6 @@
       },
       {
         "VRC_Username": "ComboWDash",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1723534510492,
         "departments": [
           { "ID": 42, "Name": "Pharmacy" }
@@ -688,7 +571,6 @@
       },
       {
         "VRC_Username": "Elfatuation",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1721510682586,
         "departments": [
           { "ID": 42, "Name": "Pharmacy" }
@@ -696,7 +578,6 @@
       },
       {
         "VRC_Username": "LukeTheLPSWolf",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1700110398070,
         "departments": [
           { "ID": 1, "Name": "Electronics" },
@@ -705,7 +586,6 @@
       },
       {
         "VRC_Username": "-~Vegas~-",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1695074635163,
         "departments": [
           { "ID": 4, "Name": "Sporting Goods" }
@@ -713,7 +593,6 @@
       },
       {
         "VRC_Username": "mattmatt122",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1722638830853,
         "departments": [
           { "ID": 1, "Name": "Electronics" }
@@ -721,7 +600,6 @@
       },
       {
         "VRC_Username": "CorruptTag",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1722638830853,
         "departments": [
           { "ID": 1, "Name": "Electronics" },
@@ -731,7 +609,6 @@
       },
       {
         "VRC_Username": "SpyFolf",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1670545433687,
         "departments": [
           { "ID": 1, "Name": "Electronics" },
@@ -740,7 +617,6 @@
       },
       {
         "VRC_Username": "Brolyuchiha1963",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1676499114657,
         "departments": [
           { "ID": 1, "Name": "Electronics" }
@@ -748,7 +624,6 @@
       },
       {
         "VRC_Username": "Ruby Rose",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1595691876906,
         "departments": [
           { "ID": 0, "Name": "Customer Service" },
@@ -758,7 +633,6 @@
       },
       {
         "VRC_Username": "NylaB0nes",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1700707140000,
         "departments": [
           { "ID": 253, "Name": "MANAGEMENT" },
@@ -767,7 +641,6 @@
       },
       {
         "VRC_Username": "Mr․SpiderKing",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1726036910287,
         "departments": [
           { "ID": 4, "Name": "Sporting Goods" }
@@ -775,7 +648,6 @@
       },
       {
         "VRC_Username": "Kitsune Dusky",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1674866746125,
         "departments": [
           { "ID": 25, "Name": "Claims" }
@@ -783,7 +655,6 @@
       },
       {
         "VRC_Username": "CielFreeman",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718883769842,
         "departments": [
           { "ID": 12, "Name": "Bakery/Deli" },
@@ -792,7 +663,6 @@
       },
       {
         "VRC_Username": "neostarx",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1677496269308,
         "departments": [
           { "ID": 254, "Name": "DEVELOPER" },
@@ -801,7 +671,6 @@
       },
       {
         "VRC_Username": "Cart Narcs",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1688699003673,
         "departments": [
           { "ID": 55, "Name": "Security" },
@@ -811,7 +680,6 @@
       },
       {
         "VRC_Username": "Jarbear",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1636088066338,
         "departments": [
           { "ID": 25, "Name": "Claims" },
@@ -820,7 +688,6 @@
     },
     {
         "VRC_Username": "LukeTheLPSWolf",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718883769842,
         "departments": [
           { "ID": 0, "Name": "Customer Service" },
@@ -829,7 +696,6 @@
     },
     {
         "VRC_Username": "Masked_Majora64",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718883769842,
         "departments": [
           { "ID": 1, "Name": "Electronics" }
@@ -837,7 +703,6 @@
     },
     {
         "VRC_Username": "s0la_c0rvus",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718883769842,
         "departments": [
           { "ID": 20, "Name": "Janitorial" }
@@ -845,7 +710,6 @@
     },
     {
         "VRC_Username": "Razer345",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718883769842,
         "departments": [
           { "ID": 0, "Name": "Customer Service" },
@@ -854,7 +718,6 @@
     },
     {
         "VRC_Username": "Вubblеѕ",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1706012400000,
         "departments": [
           { "ID": 10, "Name": "KCafe" }
@@ -862,7 +725,6 @@
     },
     {
         "VRC_Username": "NightPanda25",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1696375200000,
         "departments": [
           { "ID": 66, "Name": "Security" }
@@ -870,7 +732,6 @@
     },
     {
         "VRC_Username": "Piyes",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1718883769842,
         "departments": [
           { "ID": 10, "Name": "KCafe" }
@@ -878,7 +739,6 @@
     },
     {
         "VRC_Username": "xXLilShrimpyXx",
-        "ShiftCount": 69420,
         "RegistryTimeStamp": 1729234764392,
         "departments": [
           { "ID": 1, "Name": "Electronics" }
