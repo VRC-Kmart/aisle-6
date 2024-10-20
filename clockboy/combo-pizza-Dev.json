@@ -1,6 +1,6 @@
 {
   "header": {
-    "Locations":{
+   "Locations":{
       "superk":{
           "LocationName": "Super Kmart Center",
           "Active": true,
@@ -744,12 +744,5 @@
           { "ID": 1, "Name": "Electronics" }
         ]
     }
-  ],
-  "footer": {
-    "event": {
-      "Name": "Halloween Update",
-      "Description": "Welcome to our Halloween update! Feel free to leave feedback over at discord.gg/kmart",
-      "Notification": "NOTICE: Halloween Update!"
-    }
-  }
+  ]
 }
