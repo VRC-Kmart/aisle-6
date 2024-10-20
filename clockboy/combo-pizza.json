@@ -109,7 +109,7 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1620190608604,
       "departments": [
-        { "ID": 126, "Name": "broke the fucking lighting" },
+        { "ID": 126, "Name": "Girl Kisser" },
         { "ID": 255, "Name": "ADMINISTRATION" },
         { "ID": 254, "Name": "DEVELOPER" }
       ]
@@ -403,6 +403,7 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1626840561229,
         "departments": [
+          { "ID": 255, "Name": "Claims Sleeper" },
           { "ID": 25, "Name": "Claims" },
           { "ID": 120, "Name": "Arbor Day" }
         ]

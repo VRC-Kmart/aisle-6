@@ -31,6 +31,7 @@
           "Active": true,
           "AssociateOnly":false
       }
+  }
   },
   "Associates": [
     {
@@ -318,7 +319,7 @@
         "VRC_Username": "JadeBingus",
         "RegistryTimeStamp": 1626840561229,
         "departments": [
-          { "ID": 254, "Name": "Claims Sleeper" },
+          { "ID": 255, "Name": "Claims Sleeper" },
           { "ID": 25, "Name": "Claims" },
           { "ID": 120, "Name": "Arbor Day" }
         ]
