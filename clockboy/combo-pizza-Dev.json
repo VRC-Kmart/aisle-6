@@ -3,33 +3,33 @@
    "Locations":{
       "superk":{
           "LocationName": "Super Kmart Center",
-          "Active": true,
-          "AssociateOnly":false
+          "ClockInEnabled": true,
+          "AssociateOnly": false
       },
       "mainstore":{
           "LocationName": "Kmart Main Store",
-          "Active": true,
-          "AssociateOnly":false
+          "ClockInEnabled": true,
+          "AssociateOnly": false
       },
       "express":{
           "LocationName": "Kmart Express",
-          "Active": true,
-          "AssociateOnly":false
+          "ClockInEnabled": true,
+          "AssociateOnly": false
       },
       "expresscl":{
           "LocationName": "Kmart Express Classic",
-          "Active": true,
-          "AssociateOnly":false
+          "ClockInEnabled": true,
+          "AssociateOnly": false
       },
       "warehouse":{
           "LocationName": "Distribution Center",
-          "Active": true,
-          "AssociateOnly":false
+          "ClockInEnabled": true,
+          "AssociateOnly": false
       },
       "skevent":{
           "LocationName": "SuperK Event Version",
-          "Active": true,
-          "AssociateOnly":false
+          "ClockInEnabled": true,
+          "AssociateOnly": false
       }
   }
   },
