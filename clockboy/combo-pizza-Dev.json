@@ -38,15 +38,17 @@
       "VRC_Username": "MarcellaVT",
       "RegistryTimeStamp": 1620190608604,
       "Departments": [
-        { "Name": "Girl Kisser" },
+        { "Name": "STORE MANAGER" },
         { "Name": "ADMINISTRATION" },
-        { "Name": "DEVELOPER" }
+        { "Name": "DEVELOPER" },
+        { "Name": "Girl Kisser" }
       ]
     },
     {
       "VRC_Username": "DemonitizedBoi",
       "RegistryTimeStamp": 1700707140000,
       "Departments": [
+        { "Name": "GENERAL MANAGER" },
         { "Name": "ADMINISTRATION" },
         { "Name": "DEVELOPER" },
         { "Name": "MANAGEMENT" }
