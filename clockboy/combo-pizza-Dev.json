@@ -35,714 +35,714 @@
   },
   "Associates": [
     {
-      "VRC_Username": "Tizzy",
-      "RegistryTimeStamp": 1451903199390,
-      "departments": [
-        { "ID": 128, "Name": "system_gremlin" },
-        { "ID": 129, "Name": "Among Us" },
-        { "ID": 130, "Name": "i don't fucking know" }
+      "VRC_Username": "MarcellaVT",
+      "RegistryTimeStamp": 1620190608604,
+      "Departments": [
+        { "Name": "Girl Kisser" },
+        { "Name": "ADMINISTRATION" },
+        { "Name": "DEVELOPER" }
       ]
     },
     {
       "VRC_Username": "DemonitizedBoi",
       "RegistryTimeStamp": 1700707140000,
-      "departments": [
-        { "ID": 255, "Name": "ADMINISTRATION" },
-        { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 253, "Name": "MANAGEMENT" }
-      ]
-    },
-    {
-      "VRC_Username": "MarcellaVT",
-      "RegistryTimeStamp": 1620190608604,
-      "departments": [
-        { "ID": 126, "Name": "Girl Kisser" },
-        { "ID": 255, "Name": "ADMINISTRATION" },
-        { "ID": 254, "Name": "DEVELOPER" }
+      "Departments": [
+        { "Name": "ADMINISTRATION" },
+        { "Name": "DEVELOPER" },
+        { "Name": "MANAGEMENT" }
       ]
     },
     {
       "VRC_Username": "KmartWorlds",
       "RegistryTimeStamp": 1569750679822,
-      "departments": [
-        { "ID": 255, "Name": "ADMINISTRATION" },
-        { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 253, "Name": "MANAGEMENT" }
+      "Departments": [
+        { "Name": "ADMINISTRATION" },
+        { "Name": "DEVELOPER" },
+        { "Name": "MANAGEMENT" }
+      ]
+    },
+    {
+      "VRC_Username": "Tizzy",
+      "RegistryTimeStamp": 1451903199390,
+      "Departments": [
+        {"Name": "system_gremlin" },
+        {"Name": "Among Us" },
+        {"Name": "i don't fucking know" }
       ]
     },
     {
       "VRC_Username": "lowkeykayla",
       "RegistryTimeStamp": 884376000000,
-      "departments": [
-        { "ID": 255, "Name": "ADMINISTRATION" },
-        { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 253, "Name": "MANAGEMENT" }
+      "Departments": [
+        { "Name": "ADMINISTRATION" },
+        { "Name": "DEVELOPER" },
+        { "Name": "MANAGEMENT" }
       ]
     },
     {
       "VRC_Username": "【ᴊᴄ】",
       "RegistryTimeStamp": 1519871728936,
-      "departments": [
-        { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 250, "Name": "MARKETING" }
+      "Departments": [
+        { "Name": "DEVELOPER" },
+        { "Name": "MARKETING" }
       ]
     },
     {
       "VRC_Username": "Chilgt",
       "RegistryTimeStamp": 1520966253178,
-      "departments": [
-        { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 0, "Name": "Customer Service" },
-        { "ID": 3, "Name": "Hardlines" }
+      "Departments": [
+        { "Name": "DEVELOPER" },
+        { "Name": "Customer Service" },
+        { "Name": "Hardlines" }
       ]
     },
     {
       "VRC_Username": "Smirf123",
       "RegistryTimeStamp": 1619096956226,
-      "departments": [
-        { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 128, "Name": "Titty Enjoyer" },
-        { "ID": 0, "Name": "Customer Service" }
+      "Departments": [
+        { "Name": "DEVELOPER" },
+        { "Name": "Titty Enjoyer" },
+        { "Name": "Customer Service" }
       ]
     },
     {
       "VRC_Username": "［Jagga］",
       "RegistryTimeStamp": 1725343270625,
-      "departments": [
-        { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 127, "Name": "Clown" },
-        { "ID": 126, "Name": "broke the fucking lighting" }
+      "Departments": [
+        { "Name": "DEVELOPER" },
+        { "Name": "Clown" },
+        { "Name": "broke the fucking lighting" }
       ]
     },
     {
       "VRC_Username": "Ermina West",
       "RegistryTimeStamp": 1718060054721,
-      "departments": [
-        { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 251, "Name": "HUMAN RESOURCES" },
-        { "ID": 253, "Name": "MANAGEMENT" }
+      "Departments": [
+        { "Name": "DEVELOPER" },
+        { "Name": "HUMAN RESOURCES" },
+        { "Name": "MANAGEMENT" }
       ]
     },
     {
-        "VRC_Username": "Kohai~Senpai",
-        "RegistryTimeStamp": 1595914793216,
-        "departments": [
-          { "ID": 251, "Name": "HUMAN RESOURCES" },
-          { "ID": 253, "Name": "MANAGEMENT" }
-        ]
+		"VRC_Username": "Kohai~Senpai",
+		"RegistryTimeStamp": 1595914793216,
+		"Departments": [
+		  { "Name": "HUMAN RESOURCES" },
+		  { "Name": "MANAGEMENT" }
+		]
     },
     {
-        "VRC_Username": "Friskiiii",
-        "RegistryTimeStamp": 1670216238796,
-        "departments": [
-          { "ID": 254, "Name": "DEVELOPER" },
-          { "ID": 250, "Name": "MARKETING" },
-          { "ID": 253, "Name": "MANAGEMENT" }
-        ]
+		"VRC_Username": "Friskiiii",
+		"RegistryTimeStamp": 1670216238796,
+		"Departments": [
+		  { "Name": "DEVELOPER" },
+		  { "Name": "MARKETING" },
+		  { "Name": "MANAGEMENT" }
+		]
       },
       {
         "VRC_Username": "AmusedBirb",
         "RegistryTimeStamp": 1609576636925,
-        "departments": [
-          { "ID": 250, "Name": "MARKETING" },
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 3, "Name": "Hardlines" }
+        "Departments": [
+		  { "Name": "MARKETING" },
+          { "Name": "MANAGEMENT" },
+          { "Name": "Hardlines" }
         ]
       },
       {
         "VRC_Username": "-_Dio_-",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 4, "Name": "Sporting Goods" }
+        "Departments": [
+          { "Name": "MANAGEMENT" },
+          { "Name": "Sporting Goods" }
         ]
       },
       {
         "VRC_Username": "cressi85",
         "RegistryTimeStamp": 1641492313586,
-        "departments": [
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 4, "Name": "Sporting Goods" }
+        "Departments": [
+          { "Name": "MANAGEMENT" },
+          { "Name": "Sporting Goods" }
         ]
       },
       {
         "VRC_Username": "AgentWanderer",
         "RegistryTimeStamp": 1644435554467,
-        "departments": [
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 0, "Name": "Customer Service" }
+        "Departments": [
+          { "Name": "MANAGEMENT" },
+          { "Name": "Customer Service" }
         ]
       },
       {
         "VRC_Username": "CucumberWator",
         "RegistryTimeStamp": 1675578940693,
-        "departments": [
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 10, "Name": "KCafe" }
+        "Departments": [
+          { "Name": "MANAGEMENT" },
+          { "Name": "KCafe" }
         ]
       },
       {
         "VRC_Username": "Koyaemi",
         "RegistryTimeStamp": 1707682125445,
-        "departments": [
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 20, "Name": "Janitorial" }
+        "Departments": [
+          { "Name": "MANAGEMENT" },
+          { "Name": "Janitorial" }
         ]
       },
       {
         "VRC_Username": "Jammin' Jon",
         "RegistryTimeStamp": 1660574061049,
-        "departments": [
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 14, "Name": "Layaway" }
+        "Departments": [
+          { "Name": "MANAGEMENT" },
+          { "Name": "Layaway" }
         ]
       },
       {
         "VRC_Username": "Marinesargent26",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 9, "Name": "Garden" },
-          { "ID": 25, "Name":"Claims"}
+        "Departments": [
+          { "Name": "MANAGEMENT" },
+          { "Name": "Garden" },
+          { "Name":"Claims"}
         ]
       },
       {
         "VRC_Username": "Mavryn Arex",
         "RegistryTimeStamp": 1673427328419,
-        "departments": [
-          { "ID": 254, "Name": "Cheated in Minecraft" },
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 12, "Name": "Bakery/Deli" }
+        "Departments": [
+          { "Name": "Stinky" },
+          { "Name": "MANAGEMENT" },
+          { "Name": "Bakery/Deli" }
         ]
       },
       {
         "VRC_Username": "N3RV3SSOPSYCH",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 15, "Name": "Home Improvement" }
+        "Departments": [
+          { "Name": "MANAGEMENT" },
+          { "Name": "Home Improvement" }
         ]
       },
       {
         "VRC_Username":"NovaStarPhantom",
         "RegistryTimeStamp":1718060054721,
-        "departments": [
-          { "ID":253, "Name":"MANAGEMENT"},
-            { "ID": 12, "Name":"Bakery/Deli"}
+        "Departments": [
+          { "Name":"MANAGEMENT"},
+          { "Name":"Bakery/Deli"}
         ]
       },
       {
         "VRC_Username": "Panzaa",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 254, "Name": "DEVELOPER" },
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 5, "Name": "Automotive" }
+        "Departments": [
+          { "Name": "DEVELOPER" },
+          { "Name": "MANAGEMENT" },
+          { "Name": "Automotive" }
         ]
       },
       {
         "VRC_Username": "PrincessAmia",
         "RegistryTimeStamp": 1715834990119,
-        "departments": [
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 21, "Name": "Photo Center" }
+        "Departments": [
+          { "Name": "MANAGEMENT" },
+          { "Name": "Photo Center" }
         ]
       },
       {
         "VRC_Username": "RexWolfenVRC1",
         "RegistryTimeStamp": 1677977682853,
-        "departments": [
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 1, "Name": "Electronics" }
+        "Departments": [
+          { "Name": "MANAGEMENT" },
+          { "Name": "Electronics" }
         ]
       },
       {
         "VRC_Username": "Rustthelion",
         "RegistryTimeStamp": 1671152658317,
-        "departments": [
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 42, "Name": "Pharmacy" }
+        "Departments": [
+          { "Name": "MANAGEMENT" },
+          { "Name": "Pharmacy" }
         ]
       },
       {
         "VRC_Username": "sam555",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 255, "Name": "ADMINISTRATION" },
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 55, "Name": "Security" }
+        "Departments": [
+          { "Name": "ADMINISTRATION" },
+          { "Name": "MANAGEMENT" },
+          { "Name": "Security" }
         ]
       },
       {
         "VRC_Username": "Snord",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 150, "Name": "MARKETING" },
-          { "ID": 125, "Name": "Snord" }
+        "Departments": [
+          { "Name": "MARKETING" },
+          { "Name": "Snord" }
         ]
       },
       {
         "VRC_Username": "ShinyZards",
         "RegistryTimeStamp": 1673665295969,
-        "departments": [
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 42, "Name": "Pharmacy" }
+        "Departments": [
+          { "Name": "MANAGEMENT" },
+          { "Name": "Pharmacy" }
         ]
       },
       {
         "VRC_Username": "ThatSystemWho",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 10, "Name": "KCafe" }
+        "Departments": [
+          { "Name": "MANAGEMENT" },
+          { "Name": "KCafe" }
         ]
       },
       {
         "VRC_Username": "Yoshie Hayashi",
         "RegistryTimeStamp": 1699593949761,
-        "departments": [
-          { "ID": 254, "Name": "DEVELOPER" },
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 3, "Name": "Garden" }
+        "Departments": [
+          { "Name": "DEVELOPER" },
+          { "Name": "MANAGEMENT" },
+          { "Name": "Garden" }
         ]
       },
       {
         "VRC_Username": "Zenduko",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 0, "Name": "Customer Service" },
-          { "ID": 4, "Name": "Sporting Goods" }
+        "Departments": [
+          { "Name": "MANAGEMENT" },
+          { "Name": "Customer Service" },
+          { "Name": "Sporting Goods" }
         ]
       },
       {
         "VRC_Username": "JadeBingus",
         "RegistryTimeStamp": 1626840561229,
-        "departments": [
-          { "ID": 255, "Name": "Claims Sleeper" },
-          { "ID": 25, "Name": "Claims" },
-          { "ID": 120, "Name": "Arbor Day" }
+        "Departments": [
+          { "Name": "Claims Sleeper" },
+          { "Name": "Claims" },
+          { "Name": "Arbor Day" }
         ]
       },
       {
           "VRC_Username": "﮴tea",
           "RegistryTimeStamp": 1718060054721,
-          "departments": [
-            { "ID": 66, "Name": "Security" },
-            { "ID": 10, "Name": "KCafe" },
-            { "ID": 0, "Name": "Customer Service" }
+          "Departments": [
+            { "Name": "Security" },
+            { "Name": "KCafe" },
+            { "Name": "Customer Service" }
           ]
       },
       {
           "VRC_Username": "FlyingSeacat",
           "RegistryTimeStamp": 1718060054721,
-          "departments": [
-            { "ID": 66, "Name": "Security" }
+          "Departments": [
+            { "Name": "Security" }
           ]
       },
       {
           "VRC_Username": "HighestInDaRoom",
           "RegistryTimeStamp": 1695964195195,
-          "departments": [
-            { "ID": 66, "Name": "Security" }
+          "Departments": [
+            { "Name": "Security" }
           ]
       },
       {
           "VRC_Username": "jeffthedndgod",
           "RegistryTimeStamp": 1718060054721,
-          "departments": [
-            { "ID": 66, "Name": "Security" }
+          "Departments": [
+            { "Name": "Security" }
           ]
       },
       {
           "VRC_Username": "Legendboy",
           "RegistryTimeStamp": 1718060054721,
-          "departments": [
-            { "ID": 66, "Name": "Security" }
+          "Departments": [
+            { "Name": "Security" }
           ]
       },
       {
           "VRC_Username": "luckydoomknight",
           "RegistryTimeStamp": 1718060054721,
-          "departments": [
-            { "ID": 66, "Name": "Security" }
+          "Departments": [
+            { "Name": "Security" }
           ]
       },
       {
         "VRC_Username": "JCloud",
         "RegistryTimeStamp": 1722304800000,
-        "departments": [
-          { "ID": 66, "Name": "Security" }
+        "Departments": [
+          { "Name": "Security" }
         ]
       },
       {
           "VRC_Username": "Purple_Emma",
           "RegistryTimeStamp": 1718060054721,
-          "departments": [
-            { "ID": 66, "Name": "Security" },
-            { "ID": 0, "Name": "Customer Service" },
-            { "ID": 5, "Name": "Automotive" }
+          "Departments": [
+            { "Name": "Security" },
+            { "Name": "Customer Service" },
+            { "Name": "Automotive" }
           ]
       },
       {
           "VRC_Username": "Smoogley",
           "RegistryTimeStamp": 1718060054721,
-          "departments": [
-            { "ID": 66, "Name": "Security" }
+          "Departments": [
+            { "Name": "Security" }
           ]
       },
       {
           "VRC_Username": "Sonreckoner",
           "RegistryTimeStamp": 1718060054721,
-          "departments": [
-            { "ID": 66, "Name": "Security" },
-            { "ID": 42, "Name": "Pharmacy" }
+          "Departments": [
+            { "Name": "Security" },
+            { "Name": "Pharmacy" }
           ]
       },
       {
           "VRC_Username": "Cpt Caldwell",
           "RegistryTimeStamp": 1672295108444,
-          "departments": [
-            { "ID": 66, "Name": "Security" }
+          "Departments": [
+            { "Name": "Security" }
           ]
       },
       {
           "VRC_Username": "Dᴜʙʙʏ",
           "RegistryTimeStamp": 1718060054721,
-          "departments": [
-            { "ID": 66, "Name": "Security" },
-            { "ID": 1, "Name": "Electronics" },
-            { "ID": 4, "Name": "Sporting Goods" }
+          "Departments": [
+            { "Name": "Security" },
+            { "Name": "Electronics" },
+            { "Name": "Sporting Goods" }
           ]
       },
       {
         "VRC_Username": "Lankev78",
         "RegistryTimeStamp": 1725069785045,
-        "departments": [
-          { "ID": 4, "Name": "Sporting Goods" },
-          { "ID": 5, "Name": "Automotive" }
+        "Departments": [
+          { "Name": "Sporting Goods" },
+          { "Name": "Automotive" }
         ]
       },
       {
         "VRC_Username": "Somniumscape",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 1, "Name": "Electronics" },
-          { "ID": 12, "Name":"Bakery/Deli"},
-          { "ID": 20, "Name": "Janitorial" }
+        "Departments": [
+          { "Name": "Electronics" },
+          { "Name":"Bakery/Deli"},
+          { "Name": "Janitorial" }
         ]
       },
       {
         "VRC_Username": "ButterflyCutie",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 42, "Name": "Pharmacy" }
+        "Departments": [
+          { "Name": "Pharmacy" }
         ]
       },
       {
           "VRC_Username": "Jacob94",
           "RegistryTimeStamp": 1718060054721,
-          "departments": [
-            { "ID": 42, "Name": "Pharmacy" }
+          "Departments": [
+            { "Name": "Pharmacy" }
           ]
         },
       {
         "VRC_Username": "devsgone",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 0, "Name": "Customer Service" },
-          { "ID": 12, "Name":"Bakery/Deli"},
-          { "ID": 42, "Name": "Pharmacy" }
+        "Departments": [
+          { "Name": "Customer Service" },
+          { "Name":"Bakery/Deli"},
+          { "Name": "Pharmacy" }
         ]
       },
       {
         "VRC_Username": "Comicbomb",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 43, "Name": "BIRTHDAY BOY" },
-          { "ID": 42, "Name": "Pharmacy" }
+        "Departments": [
+          { "Name": "BIRTHDAY BOY" },
+          { "Name": "Pharmacy" }
         ]
       },
       {
         "VRC_Username": "nickm",
         "RegistryTimeStamp": 1595979352360,
-        "departments": [
-          { "ID": 5, "Name": "Automotive" }
+        "Departments": [
+          { "Name": "Automotive" }
         ]
       },
       {
         "VRC_Username": "PVTGhostly76",
         "RegistryTimeStamp": 1701284514609,
-        "departments": [
-          { "ID": 5, "Name": "Automotive" }
+        "Departments": [
+          { "Name": "Automotive" }
         ]
       },
       {
         "VRC_Username": "Mogami K․",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 1, "Name": "Electronics" }
+        "Departments": [
+          { "Name": "Electronics" }
         ]
       },
       {
         "VRC_Username": "-spiritwolf-",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 0, "Name": "Customer Service" }
+        "Departments": [
+          { "Name": "Customer Service" }
         ]
       },
       {
         "VRC_Username": "Aliceღ",
         "RegistryTimeStamp": 1671295105405,
-        "departments": [
-          { "ID": 1, "Name": "Electronics" }
+        "Departments": [
+          { "Name": "Electronics" }
         ]
       },
       {
         "VRC_Username": "evaqn123",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 42, "Name": "Pharmacy" }
+        "Departments": [
+          { "Name": "Pharmacy" }
         ]
       },
       {
         "VRC_Username": "Illucio",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 0, "Name": "Customer Service" }
+        "Departments": [
+          { "Name": "Customer Service" }
         ]
       },
       {
         "VRC_Username": "jack14050",
         "RegistryTimeStamp": 1718060054721,
-        "departments": [
-          { "ID": 10, "Name": "KCafe" },
-          { "ID": 1, "Name": "Electronics" }
+        "Departments": [
+          { "Name": "KCafe" },
+          { "Name": "Electronics" }
         ]
       },
       {
         "VRC_Username": "Foran",
         "RegistryTimeStamp": 1699734871437,
-        "departments": [
-          { "ID": 21, "Name": "Photo Center" },
-          { "ID": 3, "Name": "Hardlines" }
+        "Departments": [
+          { "Name": "Photo Center" },
+          { "Name": "Hardlines" }
         ]
       },
       {
         "VRC_Username": "Kattsu-AMR",
         "RegistryTimeStamp": 1725438753932,
-        "departments": [
-          { "ID": 20, "Name": "Janitorial" }
+        "Departments": [
+          { "Name": "Janitorial" }
         ]
       },
       {
         "VRC_Username": "Pickleson69",
         "RegistryTimeStamp": 1723088491688,
-        "departments": [
-          { "ID": 12, "Name": "Bakery/Deli" }
+        "Departments": [
+          { "Name": "Bakery/Deli" }
         ]
       },
       {
         "VRC_Username": "Sweet1019",
         "RegistryTimeStamp": 1723083634754,
-        "departments": [
-          { "ID": 42, "Name": "Pharmacy" }
+        "Departments": [
+          { "Name": "Pharmacy" }
         ]
       },
       {
         "VRC_Username": "Legoman99573",
         "RegistryTimeStamp": 1701055512575,
-        "departments": [
-          { "ID": 20, "Name": "Janitorial" }
+        "Departments": [
+          { "Name": "Janitorial" }
         ]
       },
       {
         "VRC_Username": "Wokipokei",
         "RegistryTimeStamp": 1718099154731,
-        "departments": [
-          { "ID": 1, "Name": "Electronics" }
+        "Departments": [
+          { "Name": "Electronics" }
         ]
       },
       {
         "VRC_Username": "ComboWDash",
         "RegistryTimeStamp": 1723534510492,
-        "departments": [
-          { "ID": 42, "Name": "Pharmacy" }
+        "Departments": [
+          { "Name": "Pharmacy" }
         ]
       },
       {
         "VRC_Username": "Elfatuation",
         "RegistryTimeStamp": 1721510682586,
-        "departments": [
-          { "ID": 42, "Name": "Pharmacy" }
+        "Departments": [
+          { "Name": "Pharmacy" }
         ]
       },
       {
         "VRC_Username": "LukeTheLPSWolf",
         "RegistryTimeStamp": 1700110398070,
-        "departments": [
-          { "ID": 1, "Name": "Electronics" },
-          { "ID": 0, "Name": "Customer Service" }
+        "Departments": [
+          { "Name": "Electronics" },
+          { "Name": "Customer Service" }
         ]
       },
       {
         "VRC_Username": "-~Vegas~-",
         "RegistryTimeStamp": 1695074635163,
-        "departments": [
-          { "ID": 4, "Name": "Sporting Goods" }
+        "Departments": [
+          { "Name": "Sporting Goods" }
         ]
       },
       {
         "VRC_Username": "mattmatt122",
         "RegistryTimeStamp": 1722638830853,
-        "departments": [
-          { "ID": 1, "Name": "Electronics" }
+        "Departments": [
+          { "Name": "Electronics" }
         ]
       },
       {
         "VRC_Username": "CorruptTag",
         "RegistryTimeStamp": 1722638830853,
-        "departments": [
-          { "ID": 1, "Name": "Electronics" },
-          { "ID": 25, "Name": "Claims" },
-          { "ID": 5, "Name": "Automotive" }
+        "Departments": [
+          { "Name": "Electronics" },
+          { "Name": "Claims" },
+          { "Name": "Automotive" }
         ]
       },
       {
         "VRC_Username": "SpyFolf",
         "RegistryTimeStamp": 1670545433687,
-        "departments": [
-          { "ID": 1, "Name": "Electronics" },
-          { "ID": 0, "Name": "Customer Service" }
+        "Departments": [
+          { "Name": "Electronics" },
+          { "Name": "Customer Service" }
         ]
       },
       {
         "VRC_Username": "Brolyuchiha1963",
         "RegistryTimeStamp": 1676499114657,
-        "departments": [
-          { "ID": 1, "Name": "Electronics" }
+        "Departments": [
+          { "Name": "Electronics" }
         ]
       },
       {
         "VRC_Username": "Ruby Rose",
         "RegistryTimeStamp": 1595691876906,
-        "departments": [
-          { "ID": 0, "Name": "Customer Service" },
-          { "ID": 42, "Name": "Pharmacy" },
-          { "ID": 3, "Name": "Hardlines" }
+        "Departments": [
+          { "Name": "Customer Service" },
+          { "Name": "Pharmacy" },
+          { "Name": "Hardlines" }
         ]
       },
       {
         "VRC_Username": "NylaB0nes",
         "RegistryTimeStamp": 1700707140000,
-        "departments": [
-          { "ID": 253, "Name": "MANAGEMENT" },
-          { "ID": 0, "Name": "Customer Service" }
+        "Departments": [
+          { "Name": "MANAGEMENT" },
+          { "Name": "Customer Service" }
         ]
       },
       {
         "VRC_Username": "Mr․SpiderKing",
         "RegistryTimeStamp": 1726036910287,
-        "departments": [
-          { "ID": 4, "Name": "Sporting Goods" }
+        "Departments": [
+          { "Name": "Sporting Goods" }
         ]
       },
       {
         "VRC_Username": "Kitsune Dusky",
         "RegistryTimeStamp": 1674866746125,
-        "departments": [
-          { "ID": 25, "Name": "Claims" }
+        "Departments": [
+          { "Name": "Claims" }
         ]
       },
       {
         "VRC_Username": "CielFreeman",
         "RegistryTimeStamp": 1718883769842,
-        "departments": [
-          { "ID": 12, "Name": "Bakery/Deli" },
-          { "ID": 4, "Name": "Sporting Goods" }
+        "Departments": [
+          { "Name": "Bakery/Deli" },
+          { "Name": "Sporting Goods" }
         ]
       },
       {
         "VRC_Username": "neostarx",
         "RegistryTimeStamp": 1677496269308,
-        "departments": [
-          { "ID": 254, "Name": "DEVELOPER" },
-          { "ID": 0, "Name": "Customer Service" }
+        "Departments": [
+          { "Name": "DEVELOPER" },
+          { "Name": "Customer Service" }
         ]
       },
       {
         "VRC_Username": "Cart Narcs",
         "RegistryTimeStamp": 1688699003673,
-        "departments": [
-          { "ID": 55, "Name": "Security" },
-          { "ID": 3, "Name": "Hardlines" },
-          { "ID": 0, "Name": "Customer Service" }
+        "Departments": [
+          { "Name": "Security" },
+          { "Name": "Hardlines" },
+          { "Name": "Customer Service" }
         ]
       },
       {
         "VRC_Username": "Jarbear",
         "RegistryTimeStamp": 1636088066338,
-        "departments": [
-          { "ID": 25, "Name": "Claims" },
-          { "ID": 1, "Name": "Electronics" }
+        "Departments": [
+          { "Name": "Claims" },
+          { "Name": "Electronics" }
         ]
     },
     {
         "VRC_Username": "LukeTheLPSWolf",
         "RegistryTimeStamp": 1718883769842,
-        "departments": [
-          { "ID": 0, "Name": "Customer Service" },
-          { "ID": 1, "Name": "Electronics" }
+        "Departments": [
+          { "Name": "Customer Service" },
+          { "Name": "Electronics" }
         ]
     },
     {
         "VRC_Username": "Masked_Majora64",
         "RegistryTimeStamp": 1718883769842,
-        "departments": [
-          { "ID": 1, "Name": "Electronics" }
+        "Departments": [
+          { "Name": "Electronics" }
         ]
     },
     {
         "VRC_Username": "s0la_c0rvus",
         "RegistryTimeStamp": 1718883769842,
-        "departments": [
-          { "ID": 20, "Name": "Janitorial" }
+        "Departments": [
+          { "Name": "Janitorial" }
         ]
     },
     {
         "VRC_Username": "Razer345",
         "RegistryTimeStamp": 1718883769842,
-        "departments": [
-          { "ID": 0, "Name": "Customer Service" },
-          { "ID": 10, "Name": "KCafe" }
+        "Departments": [
+          { "Name": "Customer Service" },
+          { "Name": "KCafe" }
         ]
     },
     {
         "VRC_Username": "Вubblеѕ",
         "RegistryTimeStamp": 1706012400000,
-        "departments": [
-          { "ID": 10, "Name": "KCafe" }
+        "Departments": [
+          { "Name": "KCafe" }
         ]
     },
     {
         "VRC_Username": "NightPanda25",
         "RegistryTimeStamp": 1696375200000,
-        "departments": [
-          { "ID": 66, "Name": "Security" }
+        "Departments": [
+          { "Name": "Security" }
         ]
     },
     {
         "VRC_Username": "Piyes",
         "RegistryTimeStamp": 1718883769842,
-        "departments": [
-          { "ID": 10, "Name": "KCafe" }
+        "Departments": [
+          { "Name": "KCafe" }
         ]
     },
     {
         "VRC_Username": "xXLilShrimpyXx",
         "RegistryTimeStamp": 1729234764392,
-        "departments": [
-          { "ID": 1, "Name": "Electronics" }
+        "Departments": [
+          { "Name": "Electronics" }
         ]
     }
   ]
