@@ -746,6 +746,20 @@
         "Departments": [
           { "Name": "Electronics" }
         ]
+    },
+    {
+        "VRC_Username": "VanIsLivid",
+        "RegistryTimeStamp": 1730541876117,
+        "departments": [
+          { "Name": "KCafe" }
+        ]
+    },
+    {
+        "VRC_Username": "Syndx",
+        "RegistryTimeStamp": 1730541707002,
+        "departments": [
+          { "Name": "Electronics" }
+        ]
     }
   ]
 }
