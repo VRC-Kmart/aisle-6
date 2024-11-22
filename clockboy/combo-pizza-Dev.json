@@ -760,6 +760,13 @@
         "departments": [
           { "Name": "Electronics" }
         ]
+    },
+	{
+        "VRC_Username": "AmericanMemes",
+        "RegistryTimeStamp": 1732251991,
+        "departments": [
+          { "Name": "KCafe" }
+        ]
     }
   ]
 }
