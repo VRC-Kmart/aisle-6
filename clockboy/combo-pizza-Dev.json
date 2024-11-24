@@ -763,9 +763,16 @@
     },
 	{
         "VRC_Username": "AmericanMemes",
-        "RegistryTimeStamp": 1732251991,
+        "RegistryTimeStamp": 17322519910000,
         "departments": [
           { "Name": "KCafe" }
+        ]
+    },
+    {
+	"VRC_Username": "AmeliaRoseNZ",
+        "RegistryTimeStamp": 1732291200000,
+        "departments": [
+          { "Name": "Security" }
         ]
     }
   ]
