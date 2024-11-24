@@ -62,10 +62,6 @@
         "Reason":"LPD Member"
       },
       {
-        "VRC_Username":"CastOpex2020",
-        "Reason":"Stage Pin Lookin Head Ass"
-      },
-      {
         "VRC_Username":"SorΒ",
         "Reason":"YandereDev Lookin Head Ass"
       },
@@ -913,6 +909,14 @@
 	      "VRC_Username": "AmeliaRoseNZ",
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1732291200000,
+        "departments": [
+          { "ID": 66, "Name": "Security" }
+        ]
+    },
+    {
+	"VRC_Username": "CastOpex2020",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1732418396542,
         "departments": [
           { "ID": 66, "Name": "Security" }
         ]
