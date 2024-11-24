@@ -774,6 +774,13 @@
         "departments": [
           { "Name": "Security" }
         ]
+    },
+    {
+	"VRC_Username": "CastOpex2020",
+        "RegistryTimeStamp": 1732418396542,
+        "departments": [
+          { "Name": "Security" }
+        ]
     }
   ]
 }
