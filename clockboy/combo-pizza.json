@@ -904,9 +904,17 @@
     {
         "VRC_Username": "AmericanMemes",
         "ShiftCount": 69420,
-        "RegistryTimeStamp": 1732251991,
+        "RegistryTimeStamp": 1732251991000,
         "departments": [
           { "ID": 10, "Name": "KCafe" }
+        ]
+    },
+    {
+	      "VRC_Username": "AmeliaRoseNZ",
+        "ShiftCount": 69420,
+        "RegistryTimeStamp": 1732291200000,
+        "departments": [
+          { "ID": 66, "Name": "Security" }
         ]
     }
   ],
