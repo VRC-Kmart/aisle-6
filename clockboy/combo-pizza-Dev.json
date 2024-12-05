@@ -3,7 +3,7 @@
    "Locations":{
       "superk":{
           "LocationName": "Super Kmart Center",
-          "ClockInEnabled": true,
+          "ClockInEnabled": false,
           "AssociateOnly": false
       },
       "mainstore":{
