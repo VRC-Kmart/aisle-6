@@ -3,7 +3,7 @@
    "Locations":{
       "superk":{
           "LocationName": "Super Kmart Center",
-          "ClockInEnabled": false,
+          "ClockInEnabled": true,
           "AssociateOnly": false
       },
       "mainstore":{
@@ -744,7 +744,8 @@
         "VRC_Username": "xXLilShrimpyXx",
         "RegistryTimeStamp": 1729234764392,
         "Departments": [
-          { "Name": "Electronics" }
+          { "Name": "Electronics" },
+	  { "Name": "Gay" }
         ]
     },
     {
