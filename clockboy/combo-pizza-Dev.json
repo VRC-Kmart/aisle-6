@@ -555,7 +555,8 @@
         "VRC_Username": "Legoman99573",
         "RegistryTimeStamp": 1701055512575,
         "Departments": [
-          { "Name": "Janitorial" }
+          { "Name": "Janitorial" },
+	  { "Name": "Redbox Restocker"}
         ]
       },
       {
