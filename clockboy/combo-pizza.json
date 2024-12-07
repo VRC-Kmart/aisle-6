@@ -664,7 +664,8 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1701055512575,
         "departments": [
-          { "ID": 20, "Name": "Janitorial" }
+          { "ID": 20, "Name": "Janitorial" },
+          { "ID": 128, "Name": "Redbox Restocker" }
         ]
       },
       {
