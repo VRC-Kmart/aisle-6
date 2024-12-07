@@ -58,7 +58,7 @@
       "VRC_Username": "KmartWorlds",
       "RegistryTimeStamp": 1569750679822,
       "Departments": [
-				{ "Name": "LITERALLY GOD"},
+	{ "Name": "LITERALLY GOD"},
         { "Name": "ADMINISTRATION" },
         { "Name": "DEVELOPER" },
         { "Name": "MANAGEMENT" }
@@ -77,7 +77,7 @@
       "VRC_Username": "lowkeykayla",
       "RegistryTimeStamp": 884376000000,
       "Departments": [
-				{ "Name": "GENERAL MANAGER"},
+	{ "Name": "GENERAL MANAGER"},
         { "Name": "ADMINISTRATION" },
         { "Name": "DEVELOPER" },
         { "Name": "MANAGEMENT" }
@@ -116,7 +116,7 @@
         { "Name": "DEVELOPER" },
         { "Name": "Clown" },
         { "Name": "broke the fucking lighting" },
-				{ "Name": "Fucking Canadian"}
+	{ "Name": "Fucking Canadian"}
       ]
     },
     {
@@ -129,31 +129,31 @@
       ]
     },
     {
-			"VRC_Username": "Kohai~Senpai",
-			"RegistryTimeStamp": 1595914793216,
-			"Departments": [
-				{ "Name": "HUMAN RESOURCES" },
-				{ "Name": "MANAGEMENT" },
-				{ "Name": "SECURITY" },
-				{ "Name": "Pissed in the vestibule" }
-			]
+	"VRC_Username": "Kohai~Senpai",
+	"RegistryTimeStamp": 1595914793216,
+	"Departments": [
+		{ "Name": "HUMAN RESOURCES" },
+		{ "Name": "MANAGEMENT" },
+		{ "Name": "SECURITY" },
+		{ "Name": "Pissed in the vestibule" }
+	]
     },
     {
-			"VRC_Username": "Friskiiii",
-			"RegistryTimeStamp": 1670216238796,
-			"Departments": [
-				{ "Name": "DEVELOPER" },
-				{ "Name": "MARKETING" },
-				{ "Name": "Bakery/Deli" }
-			]
+	    "VRC_Username": "Friskiiii",
+	    "RegistryTimeStamp": 1670216238796,
+	    "Departments": [
+		    { "Name": "DEVELOPER" },
+		    { "Name": "MARKETING" },
+		    { "Name": "Bakery/Deli" }
+	    ]
     },
-		{
-			"VRC_Username": "Jade Furry",
-			"RegistryTimeStamp": "",
-			"Departments": [
-				{ "Name": "DEVELOPER" }
-			]
-		}
+    {
+		"VRC_Username": "Jade Furry",
+		"RegistryTimeStamp": "1311536491918397481",
+		"Departments": [
+			{ "Name": "DEVELOPER" }
+		]
+    },
     {
 			"VRC_Username": "AmusedBirb",
 			"RegistryTimeStamp": 1609576636925,
@@ -167,11 +167,11 @@
         "VRC_Username": "cressi85",
         "RegistryTimeStamp": 1641492313586,
         "Departments": [
-					{ "Name": "DEVELOPER"},
-          { "Name": "MANAGEMENT" },
-          { "Name": "Sporting Goods Manager" }
+			{ "Name": "DEVELOPER"},
+			{ "Name": "MANAGEMENT" },
+			{ "Name": "Sporting Goods Manager" }
         ]
-			},
+	  },
       {
         "VRC_Username": "-_Dio_-",
         "RegistryTimeStamp": 1718060054721,
