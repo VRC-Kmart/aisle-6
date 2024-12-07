@@ -381,7 +381,6 @@
           "VRC_Username": "Purple_Emma",
           "RegistryTimeStamp": 1718060054721,
           "Departments": [
-            { "Name": "Security" },
             { "Name": "Customer Service" },
             { "Name": "Automotive" }
           ]
