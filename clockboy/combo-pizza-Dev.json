@@ -106,7 +106,8 @@
       "Departments": [
         { "Name": "DEVELOPER" },
         { "Name": "IT DEPARTMENT" },
-        { "Name": "Customer Service" }
+        { "Name": "Customer Service" },
+	{ "Name": "Having a billing issue" }
       ]
     },
     {
