@@ -695,14 +695,6 @@
           { "Name": "Customer Service" }
         ]
       },
-      {
-        "VRC_Username": "Jarbear",
-        "RegistryTimeStamp": 1636088066338,
-        "Departments": [
-          { "Name": "Claims" },
-          { "Name": "Electronics" }
-        ]
-    	},
     	{
 				"VRC_Username": "LukeTheLPSWolf",
 				"RegistryTimeStamp": 1718883769842,
@@ -788,7 +780,7 @@
 				"VRC_Username": "AmeliaRoseNZ",
 				"RegistryTimeStamp": 1732291200000,
 				"Departments": [
-					{ "Name": "Security" }
+					{ "Name": "Customer Service" }
 				]
     	},
     	{
