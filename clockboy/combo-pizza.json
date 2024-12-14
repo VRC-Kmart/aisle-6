@@ -17,7 +17,7 @@
           "AssociateOnly":false
       },
       "expresscl":{
-          "LocationName": "Kmart Express Classic",
+          "LocationName": "Classic Express",
           "Active": true,
           "AssociateOnly":false
       },
@@ -916,9 +916,9 @@
   ],
   "footer": {
     "event": {
-      "Name": "IT'S TIME",
-      "Description": "It's November. She's defrosted. RUN! Make sure to leave feedback over at discord.gg/kmart",
-      "Notification": "NOTICE: She's Defrosted!"
+      "Name": "Merry Christmas!",
+      "Description": "Merry Christmas from VRC Kmart! Make sure to leave feedback over at discord.gg/kmart",
+      "Notification": "NOTICE: It do be Christmas!"
     }
   }
 }
