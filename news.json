@@ -1,0 +1,16 @@
+{
+  "header": {
+    "event": {
+      "Name": "No Event",
+      "Description": "There is no event get fucked",
+      "Notification": "No Event"
+    },
+    "LatestUpdate": {
+      "superk": {
+        "Title": "Update Title Goes Here",
+        "Short_Desc": "A short description goes here, probably between 32 and 64 characters",
+        "Long_Desc": "A longer description goes here, detailed changes can go here"
+      }
+    }
+  }
+}
