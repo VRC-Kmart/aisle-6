@@ -17,7 +17,7 @@
           "AssociateOnly": false
       },
       "expresscl":{
-          "LocationName": "Kmart Express Classic",
+          "LocationName": "Classic Express",
           "ClockInEnabled": true,
           "AssociateOnly": false
       },
@@ -254,14 +254,6 @@
           { "Name": "fUckin MAV" },
           { "Name": "MANAGEMENT" },
           { "Name": "Bakery/Deli Manager" }
-        ]
-      },
-			{
-        "VRC_Username":"NovaStarPhantom",
-        "RegistryTimeStamp":1718060054721,
-        "Departments": [
-          { "Name":"MANAGEMENT"},
-          { "Name":"Assistant Bakery/Deli Manager"}
         ]
       },
       {
@@ -751,8 +743,8 @@
 				"VRC_Username": "xXLilShrimpyXx",
 				"RegistryTimeStamp": 1729234764392,
 				"Departments": [
-					{ "Name": "Electronics" },
-					{ "Name": "Gay" }
+					{ "Name": "Security"},
+					{ "Name": "Electronics" }
 				]
     	},
     	{
@@ -789,6 +781,14 @@
 				"Departments": [
 					{ "Name": "Security" }
 				]
-    	}
+    	},
+	{
+		"VRC_Username": "Norelock",
+		"ShiftCount": 69420,
+		"RegistryTimestamp": 1734092202971,
+		"Departments": [
+	   		{ "ID": 254, "Name": "DEVELOPER"}
+		]
+    }
   ]
 }
