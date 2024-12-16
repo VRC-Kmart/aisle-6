@@ -292,15 +292,6 @@
         ]
       },
       {
-        "VRC_Username":"NovaStarPhantom",
-        "ShiftCount": 69420,
-        "RegistryTimeStamp":1718060054721,
-        "departments": [
-          { "ID":253, "Name":"MANAGEMENT"},
-            { "ID": 12, "Name":"Bakery/Deli"}
-        ]
-      },
-      {
         "VRC_Username": "Panzaa",
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1718060054721,
@@ -870,6 +861,7 @@
         "ShiftCount": 69420,
         "RegistryTimeStamp": 1729234764392,
         "departments": [
+	  { "ID": 66, "Name": "Security"},
           { "ID": 1, "Name": "Electronics" }
         ]
     },
@@ -912,6 +904,14 @@
         "departments": [
           { "ID": 66, "Name": "Security" }
         ]
+    },
+    {
+	"VRC_Username": "Norelock",
+	"ShiftCount": 69420,
+	"RegistryTimestamp": 1734092202971,
+	"departments": [
+	   { "ID": 254, "Name": "DEVELOPER"}
+	]
     }
   ],
   "footer": {
