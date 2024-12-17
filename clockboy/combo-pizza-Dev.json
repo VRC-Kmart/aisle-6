@@ -784,7 +784,6 @@
     	},
 	{
 		"VRC_Username": "Norelock",
-		"ShiftCount": 69420,
 		"RegistryTimestamp": 1734092202971,
 		"Departments": [
 	   		{ "Name": "DEVELOPER"}
@@ -792,7 +791,6 @@
     },
 	  	{
 		"VRC_Username": "Tired_The_Proto",
-		"ShiftCount": 69420,
 		"RegistryTimestamp": 1591744800000,
 		"Departments": [
 	   		{ "Name": "KCafe"},
