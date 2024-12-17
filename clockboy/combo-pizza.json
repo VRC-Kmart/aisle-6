@@ -912,6 +912,15 @@
 	"departments": [
 	   { "ID": 254, "Name": "DEVELOPER"}
 	]
+    },
+	  	{
+		"VRC_Username": "Tired_The_Proto",
+		"ShiftCount": 69420,
+		"RegistryTimestamp": 1591744800000,
+		"departments": [
+	   		{ "ID": 10, "Name": "KCafe"},
+			{ "ID": 0, "Name": "Customer Service"}
+		]
     }
   ],
   "footer": {
