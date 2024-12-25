@@ -1168,6 +1168,15 @@
                     "Name": "Customer Service"
                 }
             ]
-        }
+        },
+        {
+            "VRC_Username": "ChloeEPrice",
+            "RegistryTimeStamp": 1718060054721,
+            "Departments": [
+                {
+                    "Name": "Electronics"
+                }
+            ]
+        },
     ]
 }
