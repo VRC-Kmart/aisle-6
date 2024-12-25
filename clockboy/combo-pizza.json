@@ -18,7 +18,7 @@
       },
       "expresscl": {
         "LocationName": "Classic Express",
-        "Active": false,
+        "Active": true,
         "AssociateOnly": false
       },
       "warehouse": {
