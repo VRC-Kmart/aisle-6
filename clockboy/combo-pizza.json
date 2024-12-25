@@ -4,26 +4,26 @@
       "superk": {
         "LocationName": "Super Kmart Center",
         "Active": true,
-        "AssociateOnly": false
+        "AssociateOnly": true
       },
       "mainstore": {
         "LocationName": "Kmart Main Store",
-        "Active": true,
+        "Active": false,
         "AssociateOnly": false
       },
       "express": {
         "LocationName": "Kmart Express",
-        "Active": true,
+        "Active": false,
         "AssociateOnly": false
       },
       "expresscl": {
         "LocationName": "Classic Express",
-        "Active": true,
+        "Active": false,
         "AssociateOnly": false
       },
       "warehouse": {
         "LocationName": "Distribution Center",
-        "Active": true,
+        "Active": false,
         "AssociateOnly": false
       },
       "skevent": {
@@ -849,7 +849,7 @@
   "footer": {
     "event": {
       "Name": "Merry Christmas!",
-      "Description": "Merry Christmas from VRC Kmart! Make sure to leave feedback over at discord.gg/kmart",
+      "Description": "We're closed. Get the fuck out!",
       "Notification": "NOTICE: It do be Christmas!"
     }
   }
