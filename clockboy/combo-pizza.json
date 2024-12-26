@@ -4,16 +4,16 @@
       "superk": {
         "LocationName": "Super Kmart Center",
         "Active": true,
-        "AssociateOnly": true
+        "AssociateOnly": false
       },
       "mainstore": {
         "LocationName": "Kmart Main Store",
-        "Active": false,
+        "Active": true,
         "AssociateOnly": false
       },
       "express": {
         "LocationName": "Kmart Express",
-        "Active": false,
+        "Active": true,
         "AssociateOnly": false
       },
       "expresscl": {
@@ -23,7 +23,7 @@
       },
       "warehouse": {
         "LocationName": "Distribution Center",
-        "Active": false,
+        "Active": true,
         "AssociateOnly": false
       },
       "skevent": {
