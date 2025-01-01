@@ -114,10 +114,10 @@
                     "Name": "ADMINISTRATION"
                 },
                 {
-                    "Name": "DEVELOPER"
+                    "Name": "LPD AMBASADOR"
                 },
                 {
-                    "Name": "MANAGEMENT"
+                    "Name": "Old as Fuck"
                 }
             ]
         },
@@ -1178,5 +1178,14 @@
                 }
             ]
         },
+        {
+            "VRC_Username": "Connerdacatboy",
+            "RegistryTimeStamp": 1735757920454,
+            "Departments": [
+                {
+                    "Name": "Kmart Weatherman"
+                }
+            ]
+        }
     ]
 }
