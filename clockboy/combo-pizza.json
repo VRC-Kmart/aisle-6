@@ -126,8 +126,8 @@
       "RegistryTimeStamp": 884376000000,
       "departments": [
         { "ID": 255, "Name": "ADMINISTRATION" },
-        { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 253, "Name": "MANAGEMENT" }
+        { "ID": 254, "Name": "LPD AMBASADOR" },
+        { "ID": 253, "Name": "Very Fucking Old" }
       ]
     },
     {
@@ -843,13 +843,21 @@
         { "ID": 10, "Name": "KCafe" },
         { "ID": 0, "Name": "Customer Service" }
       ]
-    }
+    },
+    {
+      "VRC_Username": "Connerdacatboy",
+      "ShiftCount": 69420,
+      "RegistryTimestamp": 1735757920454,
+      "departments": [
+        { "ID": 128, "Name": "Kmart Weatherman" }
+      ]
+    },
   ],
   "footer": {
     "event": {
-      "Name": "Merry Christmas!",
-      "Description": "We're closed. Get the fuck out!",
-      "Notification": "NOTICE: It do be Christmas!"
+      "Name": "HAPPY NEW YEAR!",
+      "Description": "Happy New Year! I haven't showered since 2023. wait-",
+      "Notification": "NOTICE: It's 2025!"
     }
   }
 }
