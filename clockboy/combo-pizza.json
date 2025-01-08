@@ -852,6 +852,21 @@
         { "ID": 128, "Name": "Kmart Weatherman" }
       ]
     },
+    {
+            "VRC_Username": "Kashikuzi",
+            "RegistryTimeStamp": 1717975200000,
+            "ShiftCount": 69420,
+            "departments": [
+                {
+                    "Name": "Harmacy",
+                    "ID": 42
+                },
+                {
+                    "Name": "LPD",
+                    "ID": 128
+                }
+            ]
+        }
   ],
   "footer": {
     "event": {
