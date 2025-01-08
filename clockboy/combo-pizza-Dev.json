@@ -1186,6 +1186,18 @@
                     "Name": "Kmart Weatherman"
                 }
             ]
+        },
+        {
+            "VRC_Username": "Kashikuzi",
+            "RegistryTimeStamp": 1717975200000,
+            "Departments": [
+                {
+                    "Name": "Harmacy"
+                },
+                {
+                    "Name": "LPD"
+                }
+            ]
         }
     ]
 }
