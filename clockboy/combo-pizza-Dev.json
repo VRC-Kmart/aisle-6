@@ -1198,6 +1198,15 @@
                     "Name": "LPD"
                 }
             ]
+        },
+        {
+            "VRC_Username": "FuzzyLiama",
+            "RegistryTimeStamp": 1736546939017,
+            "Departments": [
+                {
+                    "Name": "DEVELOPER"
+                }
+            ]
         }
     ]
 }
