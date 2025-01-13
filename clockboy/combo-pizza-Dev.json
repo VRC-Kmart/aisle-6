@@ -37,6 +37,8 @@
         {
             "VRC_Username": "MarcellaVT",
             "RegistryTimeStamp": 1620190608604,
+			"Dev": true,
+            "FunnyCallboxes": true,
             "Departments": [
                 {
                     "Name": "STORE MANAGER"
@@ -55,6 +57,8 @@
         {
             "VRC_Username": "DemonitizedBoi",
             "RegistryTimeStamp": 1700707140000,
+			"Dev": true,
+            "FunnyCallboxes": true,
             "Departments": [
                 {
                     "Name": "GENERAL MANAGER"
