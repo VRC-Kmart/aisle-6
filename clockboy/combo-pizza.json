@@ -866,7 +866,41 @@
                     "ID": 128
                 }
             ]
-        }
+      },
+      {
+            "VRC_Username": "FuzzyLiama",
+            "RegistryTimeStamp": 1736546939017,
+            "ShiftCount": 69420,
+            "departments": [
+                {
+                    "Name": "DEVELOPER",
+                    "ID": 255
+                },
+                {
+                    "Name": "KCafe",
+                    "ID": 10
+                }
+            ]
+      },
+      {
+            "VRC_Username": "yeen125",
+            "RegistryTimeStamp": 1650496800000,
+            "ShiftCount": 69420,
+            "departments": [
+                {
+                    "Name": "DEVELOPER",
+                    "ID": 255
+                },
+                {
+                    "Name": "MARKETING",
+                    "ID": 250
+                },
+                {
+                    "Name": "Electronics",
+                    "ID": 1
+                }
+            ]
+      }
   ],
   "footer": {
     "event": {
