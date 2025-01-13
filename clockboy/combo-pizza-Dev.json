@@ -1199,14 +1199,32 @@
                 }
             ]
         },
-        {
+      {
             "VRC_Username": "FuzzyLiama",
             "RegistryTimeStamp": 1736546939017,
             "Departments": [
                 {
                     "Name": "DEVELOPER"
+                },
+                {
+                    "Name": "KCafe"
                 }
             ]
-        }
+      },
+      {
+            "VRC_Username": "yeen125",
+            "RegistryTimeStamp": 1650496800000,
+            "Departments": [
+                {
+                    "Name": "DEVELOPER"
+                },
+                {
+                    "Name": "MARKETING"
+                },
+                {
+                    "Name": "Electronics"
+                }
+            ]
+      }
     ]
 }
