@@ -900,6 +900,17 @@
                     "ID": 1
                 }
             ]
+      },
+    	{
+            "VRC_Username": "ღRini Sakuraღ",
+            "RegistryTimeStamp": 1699819893423,
+            "ShiftCount": 69420,
+            "departments": [
+                {
+                    "Name": "Sporting Goods",
+                    "ID": 4
+                }
+            ]
       }
   ],
   "footer": {
