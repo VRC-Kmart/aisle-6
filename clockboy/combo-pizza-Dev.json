@@ -1238,6 +1238,15 @@
                     "Name": "Sporting Goods"
                 }
             ]
+      },
+	    	{
+            "VRC_Username": "sashlilac34",
+            "RegistryTimeStamp": 1737145834000,
+            "Departments": [
+                {
+                    "Name": "Customer Service"
+                }
+            ]
       }
     ]
 }
