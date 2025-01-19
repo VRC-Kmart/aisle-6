@@ -794,7 +794,7 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1729234764392,
       "departments": [
-        { "ID": 128, "Name": "Boy wife"},
+        { "ID": 128, "Name": "Boy wife" },
         { "ID": 66, "Name": "Security" },
         { "ID": 1, "Name": "Electronics" }
       ]
@@ -848,87 +848,96 @@
       "VRC_Username": "Connerdacatboy",
       "ShiftCount": 69420,
       "RegistryTimestamp": 1735757920454,
+      "departments": [{ "ID": 128, "Name": "Kmart Weatherman" }]
+    },
+    {
+      "VRC_Username": "Kashikuzi",
+      "RegistryTimeStamp": 1717975200000,
+      "ShiftCount": 69420,
       "departments": [
-        { "ID": 128, "Name": "Kmart Weatherman" }
+        {
+          "Name": "Harmacy",
+          "ID": 42
+        },
+        {
+          "Name": "LPD",
+          "ID": 128
+        }
       ]
     },
     {
-            "VRC_Username": "Kashikuzi",
-            "RegistryTimeStamp": 1717975200000,
-            "ShiftCount": 69420,
-            "departments": [
-                {
-                    "Name": "Harmacy",
-                    "ID": 42
-                },
-                {
-                    "Name": "LPD",
-                    "ID": 128
-                }
-            ]
-      },
-      {
-            "VRC_Username": "FuzzyLiama",
-            "RegistryTimeStamp": 1736546939017,
-            "ShiftCount": 69420,
-            "departments": [
-                {
-                    "Name": "DEVELOPER",
-                    "ID": 255
-                },
-                {
-                    "Name": "KCafe",
-                    "ID": 10
-                }
-            ]
-      },
-      {
-            "VRC_Username": "yeen125",
-            "RegistryTimeStamp": 1650496800000,
-            "ShiftCount": 69420,
-            "departments": [
-                {
-                    "Name": "DEVELOPER",
-                    "ID": 255
-                },
-                {
-                    "Name": "MARKETING",
-                    "ID": 250
-                },
-                {
-                    "Name": "Electronics",
-                    "ID": 1
-                }
-            ]
-      },
-    	{
-            "VRC_Username": "ღRini Sakuraღ",
-            "RegistryTimeStamp": 1699819893423,
-            "ShiftCount": 69420,
-            "departments": [
-                {
-                    "Name": "Sporting Goods",
-                    "ID": 4
-                }
-            ]
-      },
-    	    	{
-            "VRC_Username": "sashlilac34",
-            "RegistryTimeStamp": 1737145834000,
-            "ShiftCount": 69420,
-            "departments": [
-                {
-                    "ID": 0,
-                    "Name": "Customer Service"
-                }
-            ]
-      }
+      "VRC_Username": "FuzzyLiama",
+      "RegistryTimeStamp": 1736546939017,
+      "ShiftCount": 69420,
+      "departments": [
+        {
+          "Name": "DEVELOPER",
+          "ID": 255
+        },
+        {
+          "Name": "KCafe",
+          "ID": 10
+        }
+      ]
+    },
+    {
+      "VRC_Username": "yeen125",
+      "RegistryTimeStamp": 1650496800000,
+      "ShiftCount": 69420,
+      "departments": [
+        {
+          "Name": "DEVELOPER",
+          "ID": 255
+        },
+        {
+          "Name": "MARKETING",
+          "ID": 250
+        },
+        {
+          "Name": "Electronics",
+          "ID": 1
+        }
+      ]
+    },
+    {
+      "VRC_Username": "ღRini Sakuraღ",
+      "RegistryTimeStamp": 1699819893423,
+      "ShiftCount": 69420,
+      "departments": [
+        {
+          "Name": "Sporting Goods",
+          "ID": 4
+        }
+      ]
+    },
+    {
+      "VRC_Username": "sashlilac34",
+      "RegistryTimeStamp": 1737145834000,
+      "ShiftCount": 69420,
+      "departments": [
+        {
+          "ID": 0,
+          "Name": "Customer Service"
+        }
+      ]
+    },
+    {
+      "VRC_Username": "sᴇɴᴋᴏ-sᴀɴ キツネ",
+      "RegistryTimeStamp": 1674469200000,
+      "ShiftCount": 69420,
+      "Departments": [
+        {
+          "ID": 0,
+          "Name": "Customer Service"
+        }
+      ]
+    }
   ],
   "footer": {
     "event": {
-      "Name": "HAPPY NEW YEAR!",
-      "Description": "Happy New Year! I haven't showered since 2023. wait-",
-      "Notification": "NOTICE: It's 2025!"
+      "Name": "RIP TikTok",
+      "Description": "TikTok has been banned. This is so sad, Alexa play Despacito.",
+      "Notification": "NOTICE: TikTok has been banned"
     }
   }
 }
