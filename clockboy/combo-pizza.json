@@ -97,7 +97,7 @@
       "departments": [
         { "ID": 255, "Name": "ADMINISTRATION" },
         { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 253, "Name": "MANAGEMENT" }
+        { "ID": 253, "Name": "IT DEPARTMENT" }
       ]
     },
     {
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "VRC_Username": "【ᴊᴄ】",
+      "VRC_Username": "「ᴊᴄ」",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1519871728936,
       "departments": [
@@ -174,9 +174,9 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1718060054721,
       "departments": [
+        { "ID": 254, "Name": "GENERAL MANAGER" },
         { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 251, "Name": "HUMAN RESOURCES" },
-        { "ID": 253, "Name": "MANAGEMENT" }
+        { "ID": 251, "Name": "HUMAN RESOURCES" }
       ]
     },
     {
@@ -206,15 +206,6 @@
         { "ID": 250, "Name": "MARKETING" },
         { "ID": 253, "Name": "MANAGEMENT" },
         { "ID": 3, "Name": "Hardlines" }
-      ]
-    },
-    {
-      "VRC_Username": "-_Dio_-",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1718060054721,
-      "departments": [
-        { "ID": 253, "Name": "MANAGEMENT" },
-        { "ID": 4, "Name": "Sporting Goods" }
       ]
     },
     {
@@ -714,7 +705,7 @@
       "departments": [{ "ID": 25, "Name": "Claims" }]
     },
     {
-      "VRC_Username": "CielFreeman",
+      "VRC_Username": "Ciel Freeman",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1718883769842,
       "departments": [
