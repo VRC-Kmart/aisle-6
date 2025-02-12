@@ -460,7 +460,7 @@
       "RegistryTimeStamp": 1718060054721,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Security" }, { "Name": "Pharmacy" }]
+      "Departments": [{ "Name": "Security" }, { "Name": "Harmacy" }]
     },
     {
       "VRC_Username": "Cpt Caldwell",
