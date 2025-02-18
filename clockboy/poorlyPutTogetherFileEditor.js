@@ -22,7 +22,9 @@ let numEdited = 0;
  *     (this gives them item reset perms)
  * set CALLBOXES to true or false, depending on if they can use the admin callboxes
  */
-addAssociate("USER_NAME", "DEPARTMENT", REGISTER_TIME, DEVELOPER, CALLBOXES);
+// addAssociate("USER_NAME", "DEPARTMENT", REGISTER_TIME, DEVELOPER, CALLBOXES);
+addAssociate("Lumanare", "Electronics", 1739560003763, false, false);
+addAssociate("Fukaziroh", "LPD Enjoyer", -22074000000, true, true);
 
 /* Function to add an associate to the database */
 function addAssociate(vrcName, priDept, regTime = Date.now(), isDev = false, isCBAdmin = false) {

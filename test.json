@@ -52,7 +52,7 @@
       "Dev": true,
       "FunnyCallboxes": true,
       "Departments": [
-        { "Name": "Nerd" },
+        { "Name": "GENERAL MANAGER" },
         { "Name": "DEVELOPER" },
         { "Name": "IT DEPARTMENT" },
         { "Name": "Security" }
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "VRC_Username": "「ᴊᴄ」",
+      "VRC_Username": "【ᴊᴄ】",
       "RegistryTimeStamp": 1519871728936,
       "Dev": true,
       "FunnyCallboxes": true,
@@ -143,7 +143,6 @@
       "Departments": [
         { "Name": "GENERAL MANAGER" },
         { "Name": "HUMAN RESOURCES" },
-        { "Name": "DEVELOPER" },
         { "Name": "MANAGEMENT" }
       ]
     },
@@ -197,6 +196,16 @@
         { "Name": "DEVELOPER" },
         { "Name": "MANAGEMENT" },
         { "Name": "Sporting Goods Manager" }
+      ]
+    },
+    {
+      "VRC_Username": "-_Dio_-",
+      "RegistryTimeStamp": 1718060054721,
+      "Dev": false,
+      "FunnyCallboxes": true,
+      "Departments": [
+        { "Name": "MANAGEMENT" },
+        { "Name": "Assistant Sporting Goods Manager" }
       ]
     },
     {
@@ -421,7 +430,7 @@
       "Departments": [{ "Name": "Security" }]
     },
     {
-      "VRC_Username": "NovakatVT",
+      "VRC_Username": "Legendboy",
       "RegistryTimeStamp": 1718060054721,
       "Dev": false,
       "FunnyCallboxes": false,
@@ -460,7 +469,7 @@
       "RegistryTimeStamp": 1718060054721,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Security" }, { "Name": "Harmacy" }]
+      "Departments": [{ "Name": "Security" }, { "Name": "Pharmacy" }]
     },
     {
       "VRC_Username": "Cpt Caldwell",
@@ -603,7 +612,7 @@
       "Departments": [{ "Name": "Janitorial" }]
     },
     {
-      "VRC_Username": "Pickleson47",
+      "VRC_Username": "Pickleson69",
       "RegistryTimeStamp": 1723088491688,
       "Dev": false,
       "FunnyCallboxes": false,
@@ -709,14 +718,14 @@
       "Departments": [{ "Name": "Sporting Goods" }]
     },
     {
-      "VRC_Username": "Duskyღ",
+      "VRC_Username": "Kitsune Dusky",
       "RegistryTimeStamp": 1674866746125,
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Claims" }]
     },
     {
-      "VRC_Username": "Ciel Freeman",
+      "VRC_Username": "CielFreeman",
       "RegistryTimeStamp": 1718883769842,
       "Dev": false,
       "FunnyCallboxes": false,
@@ -927,5 +936,5 @@
       "FunnyCallboxes": true,
       "Departments": [{ "Name": "LPD Enjoyer" }]
     }
-    ]
+  ]
 }
