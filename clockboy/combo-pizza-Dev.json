@@ -925,7 +925,23 @@
       "RegistryTimeStamp": -22074000000,
       "Dev": true,
       "FunnyCallboxes": true,
-      "Departments": [{ "Name": "LPD Enjoyer" }]
+      "Departments": [
+        { "Name": "LPD Enjoyer" },
+        { "Name": "Stinky Captain" },
+        { "Name": "Is Gay!" }
+      ]
+    },
+    {
+      "VRC_Username": "UrbanArtifact",
+      "RegistryTimeStamp": 1727208904193,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "Thesis Enjoyer" },
+        { "Name": "Stinky" },
+        { "Name": "Nerd" },
+        { "Name": "better fucking get an A" }
+      ]
     }
-    ]
+  ]
 }
