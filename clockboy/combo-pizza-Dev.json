@@ -166,6 +166,7 @@
       "FunnyCallboxes": true,
       "Departments": [
         { "Name": "DEVELOPER" },
+        { "Name": "TRAINER" },
         { "Name": "MARKETING" },
         { "Name": "Bakery/Deli" }
       ]
