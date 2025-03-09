@@ -25,6 +25,7 @@ let numEdited = 0;
 // addAssociate("USER_NAME", "DEPARTMENT", REGISTER_TIME, DEVELOPER, CALLBOXES);
 
 
+
 /* Function to add an associate to the database */
 function addAssociate(vrcName, priDept, regTime = Date.now(), isDev = false, isCBAdmin = false) {
     if (vrcName == undefined) return console.log("\nFailed to add associate!\n\nPlease set a username!\n");
@@ -42,8 +43,8 @@ function addAssociate(vrcName, priDept, regTime = Date.now(), isDev = false, isC
         ]
     }
     tempDB.Associates.push(tempInfo);
-    // await fs.writeFileSync("./combo-pizza-Dev.json", JSON.stringify(tempDB));
-    fs.writeFileSync("./test.json", JSON.stringify(tempDB));
+    fs.writeFileSync("./combo-pizza-Dev.json", JSON.stringify(tempDB));
+    // fs.writeFileSync("./test.json", JSON.stringify(tempDB));
 
     console.log(`\nAdded ${vrcName} to the database!\n
         Initial Department --- ${priDept}
