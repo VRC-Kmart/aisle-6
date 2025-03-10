@@ -125,7 +125,7 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 884376000000,
       "departments": [
-        { "ID": 255, "Name": "ADMINISTRATION" },
+        { "ID": 255, "Name": "MANAGEMENT" },
         { "ID": 254, "Name": "LPD AMBASADOR" },
         { "ID": 253, "Name": "Very Fucking Old" }
       ]
@@ -193,8 +193,8 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1670216238796,
       "departments": [
+        { "ID": 0, "Name": "TRAINER" },
         { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 250, "Name": "MARKETING" },
         { "ID": 253, "Name": "MANAGEMENT" }
       ]
     },
@@ -922,6 +922,128 @@
           "Name": "Customer Service"
         }
       ]
+    },
+    {
+      "VRC_Username": "Lumanare",
+      "RegistryTimeStamp": 1739560003763,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics", "ID": 0}]
+    },
+    {
+      "VRC_Username": "Fukaziroh",
+      "RegistryTimeStamp": -22074000000,
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "Departments": [
+        { "Name": "LPD Enjoyer", "ID": 0},
+        { "Name": "Stinky Captain", "ID": 0 },
+        { "Name": "Is Ruining Everything", "ID": 0 },
+        { "Name": "Is Gay!", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "UrbanArtifact",
+      "RegistryTimeStamp": 1727208904193,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "Thesis Enjoyer", "ID": 0 },
+        { "Name": "Stinky", "ID": 0 },
+        { "Name": "Nerd", "ID": 0 },
+        { "Name": "better fucking get an A", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "BonBonowo",
+      "RegistryTimeStamp": 1741496824934,
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "Departments": [{ "Name": "Store Prostitute", "ID": 0 }, { "Name": "Automotive", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Lyff",
+      "RegistryTimeStamp": 1741496824939,
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "Departments": [{ "Name": "Kmart Advisor", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Misha Lane",
+      "RegistryTimeStamp": 1741496824940,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "KCafe", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Imperfect Chaos",
+      "RegistryTimeStamp": 1741496824942,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "TRAINEE", "ID": 0 },{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Blitz-the-pup",
+      "RegistryTimeStamp": 1741496824944,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Elais_Ains",
+      "RegistryTimeStamp": 1741496824944,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Janitorial", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Lordthomas11",
+      "RegistryTimeStamp": 1741496824945,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Pharmacy", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Koda White Wolf",
+      "RegistryTimeStamp": 1741496824946,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Pharmacy", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "enzopuppydog ea5b",
+      "RegistryTimeStamp": 1741496824949,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "CilCil",
+      "RegistryTimeStamp": 1741496824950,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name":"Jim Cantore Enjoyer", "ID": 0 },{ "Name":"Redbox Restocker", "ID": 0 },{ "Name": "Claims", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Snappers1",
+      "RegistryTimeStamp": 1741496824951,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Jaytheshadow",
+      "RegistryTimeStamp": 1741496824952,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "2ndJakkufear",
+      "RegistryTimeStamp": 1741501008011,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics", "ID": 0 }]
     }
   ],
   "footer": {
