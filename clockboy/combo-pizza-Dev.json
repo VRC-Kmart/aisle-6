@@ -36,18 +36,10 @@
   "Associates": [
     {
       "Departments": [
-        {
-          "Name": "STORE MANAGER"
-        },
-        {
-          "Name": "ADMINISTRATION"
-        },
-        {
-          "Name": "DEVELOPER"
-        },
-        {
-          "Name": "Girl Kisser"
-        }
+        { "Name": "STORE MANAGER" },
+        { "Name": "ADMINISTRATION" },
+        { "Name": "DEVELOPER" },
+        { "Name": "Girl Kisser" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -56,18 +48,10 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Nerd"
-        },
-        {
-          "Name": "DEVELOPER"
-        },
-        {
-          "Name": "IT DEPARTMENT"
-        },
-        {
-          "Name": "Security"
-        }
+        { "Name": "Nerd" },
+        { "Name": "DEVELOPER" },
+        { "Name": "IT DEPARTMENT" },
+        { "Name": "Security" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -76,18 +60,10 @@
     },
     {
       "Departments": [
-        {
-          "Name": "LITERALLY GOD"
-        },
-        {
-          "Name": "ADMINISTRATION"
-        },
-        {
-          "Name": "DEVELOPER"
-        },
-        {
-          "Name": "MANAGEMENT"
-        }
+        { "Name": "LITERALLY GOD" },
+        { "Name": "ADMINISTRATION" },
+        { "Name": "DEVELOPER" },
+        { "Name": "MANAGEMENT" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -96,15 +72,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "system_gremlin"
-        },
-        {
-          "Name": "Among Us"
-        },
-        {
-          "Name": "i don't fucking know"
-        }
+        { "Name": "system_gremlin" },
+        { "Name": "Among Us" },
+        { "Name": "i don't fucking know" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -113,18 +83,10 @@
     },
     {
       "Departments": [
-        {
-          "Name": "HUMAN RESOURCES"
-        },
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "LPD AMBASADOR"
-        },
-        {
-          "Name": "Old as Fuck"
-        }
+        { "Name": "HUMAN RESOURCES" },
+        { "Name": "MANAGEMENT" },
+        { "Name": "LPD AMBASADOR" },
+        { "Name": "Old as Fuck" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -132,28 +94,14 @@
       "VRC_Username": "lowkeykayla"
     },
     {
-      "Departments": [
-        {
-          "Name": "DEVELOPER"
-        },
-        {
-          "Name": "MARKETING"
-        }
-      ],
+      "Departments": [{ "Name": "DEVELOPER" }, { "Name": "MARKETING" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1519871728936,
       "VRC_Username": "「ᴊᴄ」"
     },
     {
-      "Departments": [
-        {
-          "Name": "Customer Service"
-        },
-        {
-          "Name": "Hardlines"
-        }
-      ],
+      "Departments": [{ "Name": "Customer Service" }, { "Name": "Hardlines" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1520966253178,
@@ -161,18 +109,10 @@
     },
     {
       "Departments": [
-        {
-          "Name": "DEVELOPER"
-        },
-        {
-          "Name": "IT DEPARTMENT"
-        },
-        {
-          "Name": "Customer Service"
-        },
-        {
-          "Name": "Having a billing issue"
-        }
+        { "Name": "DEVELOPER" },
+        { "Name": "IT DEPARTMENT" },
+        { "Name": "Customer Service" },
+        { "Name": "Having a billing issue" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -181,18 +121,10 @@
     },
     {
       "Departments": [
-        {
-          "Name": "DEVELOPER"
-        },
-        {
-          "Name": "Clown"
-        },
-        {
-          "Name": "Drill Bucket Enjoyer"
-        },
-        {
-          "Name": "Tea Enjoyer"
-        }
+        { "Name": "DEVELOPER" },
+        { "Name": "Clown" },
+        { "Name": "Drill Bucket Enjoyer" },
+        { "Name": "Tea Enjoyer" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -201,18 +133,10 @@
     },
     {
       "Departments": [
-        {
-          "Name": "GENERAL MANAGER"
-        },
-        {
-          "Name": "HUMAN RESOURCES"
-        },
-        {
-          "Name": "DEVELOPER"
-        },
-        {
-          "Name": "MANAGEMENT"
-        }
+        { "Name": "GENERAL MANAGER" },
+        { "Name": "HUMAN RESOURCES" },
+        { "Name": "DEVELOPER" },
+        { "Name": "MANAGEMENT" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -221,18 +145,10 @@
     },
     {
       "Departments": [
-        {
-          "Name": "HUMAN RESOURCES"
-        },
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "SECURITY"
-        },
-        {
-          "Name": "Pissed in the vestibule"
-        }
+        { "Name": "HUMAN RESOURCES" },
+        { "Name": "MANAGEMENT" },
+        { "Name": "SECURITY" },
+        { "Name": "Pissed in the vestibule" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -241,18 +157,10 @@
     },
     {
       "Departments": [
-        {
-          "Name": "DEVELOPER"
-        },
-        {
-          "Name": "TRAINER"
-        },
-        {
-          "Name": "MARKETING"
-        },
-        {
-          "Name": "Bakery/Deli"
-        }
+        { "Name": "DEVELOPER" },
+        { "Name": "TRAINER" },
+        { "Name": "MARKETING" },
+        { "Name": "Bakery/Deli" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -260,11 +168,7 @@
       "VRC_Username": "Friskiiii"
     },
     {
-      "Departments": [
-        {
-          "Name": "DEVELOPER"
-        }
-      ],
+      "Departments": [{ "Name": "DEVELOPER" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1732765066843,
@@ -272,15 +176,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "MARKETING"
-        },
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Hardlines Manager"
-        }
+        { "Name": "MARKETING" },
+        { "Name": "MANAGEMENT" },
+        { "Name": "Hardlines Manager" }
       ],
       "Dev": false,
       "FunnyCallboxes": true,
@@ -289,15 +187,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "DEVELOPER"
-        },
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Sporting Goods Manager"
-        }
+        { "Name": "DEVELOPER" },
+        { "Name": "MANAGEMENT" },
+        { "Name": "Sporting Goods Manager" }
       ],
       "Dev": false,
       "FunnyCallboxes": true,
@@ -306,12 +198,8 @@
     },
     {
       "Departments": [
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Customer Service Manager"
-        }
+        { "Name": "MANAGEMENT" },
+        { "Name": "Customer Service Manager" }
       ],
       "Dev": false,
       "FunnyCallboxes": true,
@@ -320,12 +208,8 @@
     },
     {
       "Departments": [
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Assistant Customer Service Manager"
-        }
+        { "Name": "MANAGEMENT" },
+        { "Name": "Assistant Customer Service Manager" }
       ],
       "Dev": false,
       "FunnyCallboxes": true,
@@ -333,14 +217,7 @@
       "VRC_Username": "AgentWanderer"
     },
     {
-      "Departments": [
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "KCafe Manager"
-        }
-      ],
+      "Departments": [{ "Name": "MANAGEMENT" }, { "Name": "KCafe Manager" }],
       "Dev": false,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1675578940693,
@@ -348,12 +225,8 @@
     },
     {
       "Departments": [
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Assistant KCafe Manager"
-        }
+        { "Name": "MANAGEMENT" },
+        { "Name": "Assistant KCafe Manager" }
       ],
       "Dev": false,
       "FunnyCallboxes": true,
@@ -362,12 +235,8 @@
     },
     {
       "Departments": [
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Janitorial Manager"
-        }
+        { "Name": "MANAGEMENT" },
+        { "Name": "Janitorial Manager" }
       ],
       "Dev": false,
       "FunnyCallboxes": true,
@@ -375,14 +244,7 @@
       "VRC_Username": "Koyaemi"
     },
     {
-      "Departments": [
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Layaway Manager"
-        }
-      ],
+      "Departments": [{ "Name": "MANAGEMENT" }, { "Name": "Layaway Manager" }],
       "Dev": false,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1660574061049,
@@ -390,15 +252,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "DEVELOPER"
-        },
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Garden Manager"
-        }
+        { "Name": "DEVELOPER" },
+        { "Name": "MANAGEMENT" },
+        { "Name": "Garden Manager" }
       ],
       "Dev": false,
       "FunnyCallboxes": true,
@@ -407,15 +263,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Assistant Garden Manager"
-        },
-        {
-          "Name": "Claims"
-        }
+        { "Name": "MANAGEMENT" },
+        { "Name": "Assistant Garden Manager" },
+        { "Name": "Claims" }
       ],
       "Dev": false,
       "FunnyCallboxes": true,
@@ -424,15 +274,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "fUckin MAV"
-        },
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Bakery/Deli Manager"
-        }
+        { "Name": "fUckin MAV" },
+        { "Name": "MANAGEMENT" },
+        { "Name": "Bakery/Deli Manager" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -441,12 +285,8 @@
     },
     {
       "Departments": [
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Home Improvement Manager"
-        }
+        { "Name": "MANAGEMENT" },
+        { "Name": "Home Improvement Manager" }
       ],
       "Dev": false,
       "FunnyCallboxes": true,
@@ -455,15 +295,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "DEVELOPER"
-        },
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Automotive Manager"
-        }
+        { "Name": "DEVELOPER" },
+        { "Name": "MANAGEMENT" },
+        { "Name": "Automotive Manager" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -472,12 +306,8 @@
     },
     {
       "Departments": [
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Photo Center Manager"
-        }
+        { "Name": "MANAGEMENT" },
+        { "Name": "Photo Center Manager" }
       ],
       "Dev": false,
       "FunnyCallboxes": true,
@@ -486,12 +316,8 @@
     },
     {
       "Departments": [
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Electronics Manager"
-        }
+        { "Name": "MANAGEMENT" },
+        { "Name": "Electronics Manager" }
       ],
       "Dev": false,
       "FunnyCallboxes": true,
@@ -500,15 +326,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Pharmacy Manager"
-        },
-        {
-          "Name": "actively looking for fent!"
-        }
+        { "Name": "MANAGEMENT" },
+        { "Name": "Pharmacy Manager" },
+        { "Name": "actively looking for fent!" }
       ],
       "Dev": false,
       "FunnyCallboxes": true,
@@ -517,12 +337,8 @@
     },
     {
       "Departments": [
-        {
-          "Name": "MANAGEMENT"
-        },
-        {
-          "Name": "Assistant Pharmacy Manager"
-        }
+        { "Name": "MANAGEMENT" },
+        { "Name": "Assistant Pharmacy Manager" }
       ],
       "Dev": false,
       "FunnyCallboxes": true,
@@ -530,14 +346,7 @@
       "VRC_Username": "Rustthelion"
     },
     {
-      "Departments": [
-        {
-          "Name": "Security"
-        },
-        {
-          "Name": "Good Doggo"
-        }
-      ],
+      "Departments": [{ "Name": "Security" }, { "Name": "Good Doggo" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
@@ -545,18 +354,10 @@
     },
     {
       "Departments": [
-        {
-          "Name": "MARKETING"
-        },
-        {
-          "Name": "Snord"
-        },
-        {
-          "Name": "Got a #1 Victory Royale!"
-        },
-        {
-          "Name": "(yeah fortnite we bout to get down)"
-        }
+        { "Name": "MARKETING" },
+        { "Name": "Snord" },
+        { "Name": "Got a #1 Victory Royale!" },
+        { "Name": "(yeah fortnite we bout to get down)" }
       ],
       "Dev": false,
       "FunnyCallboxes": true,
@@ -565,12 +366,8 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Customer Service"
-        },
-        {
-          "Name": "Sporting Goods"
-        }
+        { "Name": "Customer Service" },
+        { "Name": "Sporting Goods" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -579,15 +376,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Claims Sleeper"
-        },
-        {
-          "Name": "Claims"
-        },
-        {
-          "Name": "Arbor Day"
-        }
+        { "Name": "Claims Sleeper" },
+        { "Name": "Claims" },
+        { "Name": "Arbor Day" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -596,15 +387,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Security"
-        },
-        {
-          "Name": "KCafe"
-        },
-        {
-          "Name": "Customer Service"
-        }
+        { "Name": "Security" },
+        { "Name": "KCafe" },
+        { "Name": "Customer Service" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -612,116 +397,70 @@
       "VRC_Username": "﮴tea"
     },
     {
-      "Departments": [
-        {
-          "Name": "Security"
-        }
-      ],
+      "Departments": [{ "Name": "Security" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "FlyingSeacat"
     },
     {
-      "Departments": [
-        {
-          "Name": "Security"
-        }
-      ],
+      "Departments": [{ "Name": "Security" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1695964195195,
       "VRC_Username": "HighestInDaRoom"
     },
     {
-      "Departments": [
-        {
-          "Name": "Security"
-        }
-      ],
+      "Departments": [{ "Name": "Security" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "jeffthedndgod"
     },
     {
-      "Departments": [
-        {
-          "Name": "Security"
-        }
-      ],
+      "Departments": [{ "Name": "Security" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "NovakatVT"
     },
     {
-      "Departments": [
-        {
-          "Name": "Security"
-        }
-      ],
+      "Departments": [{ "Name": "Security" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "luckydoomknight"
     },
     {
-      "Departments": [
-        {
-          "Name": "Security"
-        }
-      ],
+      "Departments": [{ "Name": "Security" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1722304800000,
       "VRC_Username": "JCloud"
     },
     {
-      "Departments": [
-        {
-          "Name": "Customer Service"
-        },
-        {
-          "Name": "Automotive"
-        }
-      ],
+      "Departments": [{ "Name": "Customer Service" }, { "Name": "Automotive" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "Purple_Emma"
     },
     {
-      "Departments": [
-        {
-          "Name": "Security"
-        }
-      ],
+      "Departments": [{ "Name": "Security" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "Smoogley"
     },
     {
-      "Departments": [
-        {
-          "Name": "Security"
-        },
-        {
-          "Name": "Harmacy"
-        }
-      ],
+      "Departments": [{ "Name": "Security" }, { "Name": "Harmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "Sonreckoner"
     },
     {
-      "Departments": [
-        {
-          "Name": "Security"
-        }
-      ],
+      "Departments": [{ "Name": "Security" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1672295108444,
@@ -729,15 +468,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Security"
-        },
-        {
-          "Name": "Electronics"
-        },
-        {
-          "Name": "Sporting Goods"
-        }
+        { "Name": "Security" },
+        { "Name": "Electronics" },
+        { "Name": "Sporting Goods" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -745,14 +478,7 @@
       "VRC_Username": "Dubby˚"
     },
     {
-      "Departments": [
-        {
-          "Name": "Sporting Goods"
-        },
-        {
-          "Name": "Automotive"
-        }
-      ],
+      "Departments": [{ "Name": "Sporting Goods" }, { "Name": "Automotive" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1725069785045,
@@ -760,15 +486,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Electronics"
-        },
-        {
-          "Name": "Bakery/Deli"
-        },
-        {
-          "Name": "Janitorial"
-        }
+        { "Name": "Electronics" },
+        { "Name": "Bakery/Deli" },
+        { "Name": "Janitorial" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -776,36 +496,22 @@
       "VRC_Username": "Somniumscape"
     },
     {
-      "Departments": [
-        {
-          "Name": "Pharmacy"
-        }
-      ],
+      "Departments": [{ "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "ButterflyCutie"
     },
     {
-      "Departments": [
-        {
-          "Name": "Pharmacy"
-        }
-      ],
+      "Departments": [{ "Name": "Pharmacy" }],
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "Jacob94"
     },
     {
       "Departments": [
-        {
-          "Name": "Customer Service"
-        },
-        {
-          "Name": "Bakery/Deli"
-        },
-        {
-          "Name": "Pharmacy"
-        }
+        { "Name": "Customer Service" },
+        { "Name": "Bakery/Deli" },
+        { "Name": "Pharmacy" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -813,102 +519,63 @@
       "VRC_Username": "devsgone"
     },
     {
-      "Departments": [
-        {
-          "Name": "Pharmacy"
-        }
-      ],
+      "Departments": [{ "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "Comicbomb"
     },
     {
-      "Departments": [
-        {
-          "Name": "Automotive"
-        }
-      ],
+      "Departments": [{ "Name": "Automotive" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1595979352360,
       "VRC_Username": "nickm"
     },
     {
-      "Departments": [
-        {
-          "Name": "Automotive"
-        }
-      ],
+      "Departments": [{ "Name": "Automotive" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1701284514609,
       "VRC_Username": "PVTGhostly76"
     },
     {
-      "Departments": [
-        {
-          "Name": "Electronics"
-        }
-      ],
+      "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "Mogami K․"
     },
     {
-      "Departments": [
-        {
-          "Name": "Customer Service"
-        }
-      ],
+      "Departments": [{ "Name": "Customer Service" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "-spiritwolf-"
     },
     {
-      "Departments": [
-        {
-          "Name": "Electronics"
-        }
-      ],
+      "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1671295105405,
       "VRC_Username": "Aliceღ"
     },
     {
-      "Departments": [
-        {
-          "Name": "Pharmacy"
-        }
-      ],
+      "Departments": [{ "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "evaqn123"
     },
     {
-      "Departments": [
-        {
-          "Name": "Customer Service"
-        }
-      ],
+      "Departments": [{ "Name": "Customer Service" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "Illucio"
     },
     {
-      "Departments": [
-        {
-          "Name": "KCafe"
-        },
-        {
-          "Name": "Electronics"
-        }
-      ],
+      "Departments": [{ "Name": "KCafe" }, { "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
@@ -916,15 +583,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Local Ice Fairy"
-        },
-        {
-          "Name": "Photo Center"
-        },
-        {
-          "Name": "Hardlines"
-        }
+        { "Name": "Local Ice Fairy" },
+        { "Name": "Photo Center" },
+        { "Name": "Hardlines" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -932,80 +593,49 @@
       "VRC_Username": "Foran"
     },
     {
-      "Departments": [
-        {
-          "Name": "Janitorial"
-        }
-      ],
+      "Departments": [{ "Name": "Janitorial" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1725438753932,
       "VRC_Username": "Dot Katsu"
     },
     {
-      "Departments": [
-        {
-          "Name": "Bakery/Deli"
-        }
-      ],
+      "Departments": [{ "Name": "Bakery/Deli" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1723088491688,
       "VRC_Username": "Pickleson47"
     },
     {
-      "Departments": [
-        {
-          "Name": "Pharmacy"
-        }
-      ],
+      "Departments": [{ "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1723083634754,
       "VRC_Username": "Sweet1019"
     },
     {
-      "Departments": [
-        {
-          "Name": "Janitorial"
-        },
-        {
-          "Name": "Redbox Restocker"
-        }
-      ],
+      "Departments": [{ "Name": "Janitorial" }, { "Name": "Redbox Restocker" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1701055512575,
       "VRC_Username": "Legoman99573"
     },
     {
-      "Departments": [
-        {
-          "Name": "Electronics"
-        }
-      ],
+      "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718099154731,
       "VRC_Username": "Wokipokei"
     },
     {
-      "Departments": [
-        {
-          "Name": "Pharmacy"
-        }
-      ],
+      "Departments": [{ "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1723534510492,
       "VRC_Username": "ComboWDash"
     },
     {
-      "Departments": [
-        {
-          "Name": "Pharmacy"
-        }
-      ],
+      "Departments": [{ "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1721510682586,
@@ -1013,12 +643,8 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Electronics"
-        },
-        {
-          "Name": "Customer Service"
-        }
+        { "Name": "Electronics" },
+        { "Name": "Customer Service" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1026,22 +652,14 @@
       "VRC_Username": "LukeTheLPSWolf"
     },
     {
-      "Departments": [
-        {
-          "Name": "Sporting Goods"
-        }
-      ],
+      "Departments": [{ "Name": "Sporting Goods" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1695074635163,
       "VRC_Username": "-~Vegas~-"
     },
     {
-      "Departments": [
-        {
-          "Name": "Electronics"
-        }
-      ],
+      "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1722638830853,
@@ -1049,15 +667,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Electronics"
-        },
-        {
-          "Name": "Claims"
-        },
-        {
-          "Name": "Automotive"
-        }
+        { "Name": "Electronics" },
+        { "Name": "Claims" },
+        { "Name": "Automotive" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1066,12 +678,8 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Electronics"
-        },
-        {
-          "Name": "Customer Service"
-        }
+        { "Name": "Electronics" },
+        { "Name": "Customer Service" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1079,11 +687,7 @@
       "VRC_Username": "SpyFolf"
     },
     {
-      "Departments": [
-        {
-          "Name": "Electronics"
-        }
-      ],
+      "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1676499114657,
@@ -1091,15 +695,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Customer Service"
-        },
-        {
-          "Name": "Pharmacy"
-        },
-        {
-          "Name": "Hardlines"
-        }
+        { "Name": "Customer Service" },
+        { "Name": "Pharmacy" },
+        { "Name": "Hardlines" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1107,50 +705,28 @@
       "VRC_Username": "Ruby Rose"
     },
     {
-      "Departments": [
-        {
-          "Name": "Sporting Goods"
-        }
-      ],
+      "Departments": [{ "Name": "Sporting Goods" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1726036910287,
       "VRC_Username": "Mr․SpiderKing"
     },
     {
-      "Departments": [
-        {
-          "Name": "Claims"
-        }
-      ],
+      "Departments": [{ "Name": "Claims" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1674866746125,
       "VRC_Username": "Duskyღ"
     },
     {
-      "Departments": [
-        {
-          "Name": "Bakery/Deli"
-        },
-        {
-          "Name": "Sporting Goods"
-        }
-      ],
+      "Departments": [{ "Name": "Bakery/Deli" }, { "Name": "Sporting Goods" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718883769842,
       "VRC_Username": "Ciel Freeman"
     },
     {
-      "Departments": [
-        {
-          "Name": "DEVELOPER"
-        },
-        {
-          "Name": "Customer Service"
-        }
-      ],
+      "Departments": [{ "Name": "DEVELOPER" }, { "Name": "Customer Service" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1677496269308,
@@ -1158,15 +734,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Security"
-        },
-        {
-          "Name": "Hardlines"
-        },
-        {
-          "Name": "Customer Service"
-        }
+        { "Name": "Security" },
+        { "Name": "Hardlines" },
+        { "Name": "Customer Service" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1175,12 +745,8 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Customer Service"
-        },
-        {
-          "Name": "Electronics"
-        }
+        { "Name": "Customer Service" },
+        { "Name": "Electronics" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1189,12 +755,8 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Mamehinata Enthusiast"
-        },
-        {
-          "Name": "Electronics"
-        }
+        { "Name": "Mamehinata Enthusiast" },
+        { "Name": "Electronics" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1202,58 +764,35 @@
       "VRC_Username": "Masked_Majora64"
     },
     {
-      "Departments": [
-        {
-          "Name": "Janitorial"
-        }
-      ],
+      "Departments": [{ "Name": "Janitorial" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718883769842,
       "VRC_Username": "s0la_c0rvus"
     },
     {
-      "Departments": [
-        {
-          "Name": "Customer Service"
-        },
-        {
-          "Name": "KCafe"
-        }
-      ],
+      "Departments": [{ "Name": "Customer Service" }, { "Name": "KCafe" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718883769842,
       "VRC_Username": "Razer345"
     },
     {
-      "Departments": [
-        {
-          "Name": "KCafe"
-        }
-      ],
+      "Departments": [{ "Name": "KCafe" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1706012400000,
       "VRC_Username": "Вubblеѕ"
     },
     {
-      "Departments": [
-        {
-          "Name": "Security"
-        }
-      ],
+      "Departments": [{ "Name": "Security" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1696375200000,
       "VRC_Username": "NightPanda25"
     },
     {
-      "Departments": [
-        {
-          "Name": "KCafe"
-        }
-      ],
+      "Departments": [{ "Name": "KCafe" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718883769842,
@@ -1261,18 +800,10 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Boy wife"
-        },
-        {
-          "Name": "Security"
-        },
-        {
-          "Name": "Boy kisser"
-        },
-        {
-          "Name": "Electronics"
-        }
+        { "Name": "Boy wife" },
+        { "Name": "Security" },
+        { "Name": "Boy kisser" },
+        { "Name": "Electronics" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1280,130 +811,77 @@
       "VRC_Username": "xXLilShrimpyXx"
     },
     {
-      "Departments": [
-        {
-          "Name": "KCafe"
-        }
-      ],
+      "Departments": [{ "Name": "KCafe" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1730541876117,
       "VRC_Username": "VanIsLivid"
     },
     {
-      "Departments": [
-        {
-          "Name": "Electronics"
-        }
-      ],
+      "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1730541707002,
       "VRC_Username": "Syndx"
     },
     {
-      "Departments": [
-        {
-          "Name": "KCafe"
-        }
-      ],
+      "Departments": [{ "Name": "KCafe" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 17322519910000,
       "VRC_Username": "AmericanMemes"
     },
     {
-      "Departments": [
-        {
-          "Name": "Customer Service"
-        }
-      ],
+      "Departments": [{ "Name": "Customer Service" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1732291200000,
       "VRC_Username": "AmeliaRoseNZ"
     },
     {
-      "Departments": [
-        {
-          "Name": "Security"
-        }
-      ],
+      "Departments": [{ "Name": "Security" }],
       "Dev": false,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1732418396542,
       "VRC_Username": "CastOpex2020"
     },
     {
-      "Departments": [
-        {
-          "Name": "DEVELOPER"
-        }
-      ],
+      "Departments": [{ "Name": "DEVELOPER" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimestamp": 1734092202971,
       "VRC_Username": "Norelock"
     },
     {
-      "Departments": [
-        {
-          "Name": "KCafe"
-        },
-        {
-          "Name": "Customer Service"
-        }
-      ],
+      "Departments": [{ "Name": "KCafe" }, { "Name": "Customer Service" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimestamp": 1591744800000,
       "VRC_Username": "Tired_The_Proto"
     },
     {
-      "Departments": [
-        {
-          "Name": "Electronics"
-        }
-      ],
+      "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "ChloeEPrice"
     },
     {
-      "Departments": [
-        {
-          "Name": "Kmart Weatherman"
-        }
-      ],
+      "Departments": [{ "Name": "Kmart Weatherman" }],
       "Dev": false,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1735757920454,
       "VRC_Username": "Connerdacatboy"
     },
     {
-      "Departments": [
-        {
-          "Name": "Harmacy"
-        },
-        {
-          "Name": "LPD"
-        }
-      ],
+      "Departments": [{ "Name": "Harmacy" }, { "Name": "LPD" }],
       "Dev": false,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1717975200000,
       "VRC_Username": "Kashikuzi"
     },
     {
-      "Departments": [
-        {
-          "Name": "DEVELOPER"
-        },
-        {
-          "Name": "KCafe"
-        }
-      ],
+      "Departments": [{ "Name": "DEVELOPER" }, { "Name": "KCafe" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1736546939017,
@@ -1411,15 +889,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "DEVELOPER"
-        },
-        {
-          "Name": "MARKETING"
-        },
-        {
-          "Name": "Electronics"
-        }
+        { "Name": "DEVELOPER" },
+        { "Name": "MARKETING" },
+        { "Name": "Electronics" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -1427,44 +899,28 @@
       "VRC_Username": "yeen125"
     },
     {
-      "Departments": [
-        {
-          "Name": "Sporting Goods"
-        }
-      ],
+      "Departments": [{ "Name": "Sporting Goods" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1699819893423,
       "VRC_Username": "ღRini Sakuraღ"
     },
     {
-      "Departments": [
-        {
-          "Name": "Customer Service"
-        }
-      ],
+      "Departments": [{ "Name": "Customer Service" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1737145834000,
       "VRC_Username": "sashlilac34"
     },
     {
-      "Departments": [
-        {
-          "Name": "Customer Service"
-        }
-      ],
+      "Departments": [{ "Name": "Customer Service" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1674469200000,
       "VRC_Username": "sᴇɴᴋᴏ-sᴀɴ キツネ"
     },
     {
-      "Departments": [
-        {
-          "Name": "Electronics"
-        }
-      ],
+      "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1739560003763,
@@ -1472,18 +928,10 @@
     },
     {
       "Departments": [
-        {
-          "Name": "LPD Enjoyer"
-        },
-        {
-          "Name": "Stinky Captain"
-        },
-        {
-          "Name": "Is Ruining Everything"
-        },
-        {
-          "Name": "Is Gay!"
-        }
+        { "Name": "LPD Enjoyer" },
+        { "Name": "Stinky Captain" },
+        { "Name": "Is Ruining Everything" },
+        { "Name": "Is Gay!" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -1492,18 +940,10 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Thesis Enjoyer"
-        },
-        {
-          "Name": "Stinky"
-        },
-        {
-          "Name": "Nerd"
-        },
-        {
-          "Name": "better fucking get an A"
-        }
+        { "Name": "Thesis Enjoyer" },
+        { "Name": "Stinky" },
+        { "Name": "Nerd" },
+        { "Name": "better fucking get an A" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1511,105 +951,63 @@
       "VRC_Username": "UrbanArtifact"
     },
     {
-      "Departments": [
-        {
-          "Name": "Store Prostitute"
-        },
-        {
-          "Name": "Automotive"
-        }
-      ],
+      "Departments": [{ "Name": "Store Prostitute" }, { "Name": "Automotive" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1741496824934,
       "VRC_Username": "BonBonowo"
     },
     {
-      "Departments": [
-        {
-          "Name": "Kmart Advisor"
-        }
-      ],
+      "Departments": [{ "Name": "Kmart Advisor" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1741496824939,
       "VRC_Username": "Lyff"
     },
     {
-      "Departments": [
-        {
-          "Name": "KCafe"
-        }
-      ],
+      "Departments": [{ "Name": "KCafe" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824940,
       "VRC_Username": "Misha Lane"
     },
     {
-      "Departments": [
-        {
-          "Name": "TRAINEE"
-        },
-        {
-          "Name": "Customer Service"
-        }
-      ],
+      "Departments": [{ "Name": "TRAINEE" }, { "Name": "Customer Service" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824942,
       "VRC_Username": "Imperfect Chaos"
     },
     {
-      "Departments": [
-        {
-          "Name": "Electronics"
-        }
-      ],
+      "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824944,
       "VRC_Username": "Blitz-the-pup"
     },
     {
-      "Departments": [
-        {
-          "Name": "Janitorial"
-        }
-      ],
+      "Departments": [{ "Name": "Janitorial" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824944,
       "VRC_Username": "Elais_Ains"
     },
     {
-      "Departments": [
-        {
-          "Name": "Pharmacy"
-        }
-      ],
+      "Departments": [{ "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824945,
       "VRC_Username": "Lordthomas11"
     },
     {
-      "Departments": [
-        {
-          "Name": "Pharmacy"
-        }
-      ],
+      "Departments": [{ "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824946,
       "VRC_Username": "Koda White Wolf"
     },
     {
-      "Departments": [
-        {
-          "Name": "Electronics"
-        }
-      ],
+      "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824949,
@@ -1617,15 +1015,9 @@
     },
     {
       "Departments": [
-        {
-          "Name": "Jim Cantore Enjoyer"
-        },
-        {
-          "Name": "Redbox Restocker"
-        },
-        {
-          "Name": "Claims"
-        }
+        { "Name": "Jim Cantore Enjoyer" },
+        { "Name": "Redbox Restocker" },
+        { "Name": "Claims" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1633,92 +1025,74 @@
       "VRC_Username": "CilCil"
     },
     {
-      "Departments": [
-        {
-          "Name": "Electronics"
-        }
-      ],
+      "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824951,
       "VRC_Username": "Snappers1"
     },
     {
-      "Departments": [
-        {
-          "Name": "Electronics"
-        }
-      ],
+      "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824952,
       "VRC_Username": "Jaytheshadow"
     },
     {
-      "Departments": [
-        {
-          "Name": "Electronics"
-        }
-      ],
+      "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741501008011,
       "VRC_Username": "2ndJakkufear"
     },
     {
-      "Departments": [
-        {
-          "Name": "Customer Service"
-        }
-      ],
+      "Departments": [{ "Name": "Customer Service" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741829276213,
       "VRC_Username": "SgtHomura"
     },
     {
-      "Departments": [
-        {
-          "Name": "Janitorial"
-        }
-      ],
+      "Departments": [{ "Name": "Janitorial" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741829276221,
       "VRC_Username": "BushyTwee3"
     },
     {
-      "Departments": [
-        {
-          "Name": "Layaway"
-        }
-      ],
+      "Departments": [{ "Name": "Layaway" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741829276222,
       "VRC_Username": "Sovietdog122l"
     },
     {
-      "Departments": [
-        {
-          "Name": "Janitorial"
-        }
-      ],
+      "Departments": [{ "Name": "Janitorial" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741829276224,
       "VRC_Username": "Neon_Fennix"
     },
     {
-      "Departments": [
-        {
-          "Name": "Customer Service"
-        }
-      ],
+      "Departments": [{ "Name": "Customer Service" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824943,
       "VRC_Username": "KallieCocoa"
+    },
+    {
+      "VRC_Username": "roflgator",
+      "RegistryTimeStamp": 1742360691345,
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "Departments": [{ "Name": "Content Creator" },{ "Name":"SUB WITH PRIME GAMING" },{ "Name":"sussy" }]
+    },
+    {
+      "VRC_Username": "MurderCrumpet",
+      "RegistryTimeStamp": 1742360691351,
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "Departments": [{ "Name": "Content Creator" },{ "Name":"SUB WITH PRIME GAMING" },{ "Name":"sussy" }]
     }
   ]
 }
