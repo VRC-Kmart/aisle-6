@@ -1085,14 +1085,57 @@
       "RegistryTimeStamp": 1742360691345,
       "Dev": true,
       "FunnyCallboxes": true,
-      "Departments": [{ "Name": "Content Creator" },{ "Name":"SUB WITH PRIME GAMING" },{ "Name":"sussy" }]
+      "Departments": [
+        { "Name": "Content Creator" },
+        { "Name": "SUB WITH PRIME GAMING" },
+        { "Name": "sussy" }
+      ]
     },
     {
       "VRC_Username": "MurderCrumpet",
       "RegistryTimeStamp": 1742360691351,
       "Dev": true,
       "FunnyCallboxes": true,
-      "Departments": [{ "Name": "Content Creator" },{ "Name":"SUB WITH PRIME GAMING" },{ "Name":"sussy" }]
+      "Departments": [
+        { "Name": "Content Creator" },
+        { "Name": "SUB WITH PRIME GAMING" },
+        { "Name": "sussy" }
+      ]
+    },
+    {
+      "VRC_Username": "taako_times",
+      "RegistryTimeStamp": 1742524481161,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Bakery/Deli" }]
+    },
+    {
+      "VRC_Username": "XenoSpark",
+      "RegistryTimeStamp": 1742524481166,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Hardlines" }]
+    },
+    {
+      "VRC_Username": "Sugar Fang",
+      "RegistryTimeStamp": 1742524481166,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Portrait Studio" }]
+    },
+    {
+      "VRC_Username": "Imperfect Chaos",
+      "RegistryTimeStamp": 1742524481167,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "nylahquil",
+      "RegistryTimeStamp": 1742524481168,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
     }
   ]
 }
