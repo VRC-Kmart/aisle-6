@@ -20,11 +20,6 @@
           "Name": "The whatever Update",
 		  "Changes": "Bla bla put changes here",
 		  "DateOfUpdate": "00-00-00"
-      },
-      "5thPreviousUpdate":{
-          "Name": "The whatever Update",
-		  "Changes": "Bla bla put changes here",
-		  "DateOfUpdate": "00-00-00"
       }
   }
   }
