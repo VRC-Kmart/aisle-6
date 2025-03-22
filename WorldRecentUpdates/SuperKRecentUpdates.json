@@ -1,6 +1,5 @@
 {
-  "header": {
-   "Last5Updates":{
+  "Last5Updates":{
       "LastUpdate":{
           "Name": "The whatever Update 0",
 		  "Changes": "Bla bla put changes here",
@@ -21,6 +20,5 @@
 		  "Changes": "Bla bla put changes here",
 		  "DateOfUpdate": "00-00-25"
       }
-  }
   }
 }
