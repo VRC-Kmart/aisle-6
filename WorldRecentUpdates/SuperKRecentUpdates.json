@@ -2,7 +2,7 @@
   "Last4Updates":{
       "LastUpdate":{
           "Name": "The whatever Update 0",
-		  "Changes": "This is a test changelog<br>with lots of changes<br>not sure what to put here but i hope this works<br>bowomp",
+		  "Changes": "\u2022This is a test changelog<br>\u2022with lots of changes<br>\u2022not sure what to put here but i hope this works<br>\u2022bowomp",
 		  "DateOfUpdate": "00-00-10"
       },
       "PreviousUpdate":{
