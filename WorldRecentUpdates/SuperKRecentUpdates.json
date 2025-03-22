@@ -2,7 +2,7 @@
   "Last4Updates":{
       "LastUpdate":{
           "Name": "The whatever Update 0",
-		  "Changes": "Bla bla put changes here",
+		  "Changes": "This is a test changelog<br>with lots of changes<br>not sure what to put here but i hope this works<br>bowomp",
 		  "DateOfUpdate": "00-00-10"
       },
       "PreviousUpdate":{
