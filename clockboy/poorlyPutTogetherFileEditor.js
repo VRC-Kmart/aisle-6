@@ -1,7 +1,8 @@
 /* Initial Setup and Housekeeping */
 const fs = require("fs");
 const file = require("./combo-pizza-Dev.json");
-let tempDB;
+const fileLegacy = require("./combo-pizza.json");
+let tempDB, tempDBLegacy;
 let numEdited = 0;
 
 // logInfo();
@@ -22,8 +23,7 @@ let numEdited = 0;
  *     (this gives them item reset perms)
  * set CALLBOXES to true or false, depending on if they can use the admin callboxes
  */
-// addAssociate("USER_NAME", "DEPARTMENT", REGISTER_TIME, DEVELOPER, CALLBOXES);
-
+addAssociate("USER_NAME", "DEPARTMENT", REGISTER_TIME, DEVELOPER, CALLBOXES);
 
 
 /* Function to add an associate to the database */
@@ -31,6 +31,8 @@ function addAssociate(vrcName, priDept, regTime = Date.now(), isDev = false, isC
     if (vrcName == undefined) return console.log("\nFailed to add associate!\n\nPlease set a username!\n");
     if (priDept == undefined) return console.log("\nFailed to add associate!\n\nPlease set a primary department!\n");
     tempDB = file;
+    tempDBLegacy = fileLegacy;
+
     let tempInfo = {
         "VRC_Username": vrcName,
         "RegistryTimeStamp": regTime,
@@ -42,16 +44,40 @@ function addAssociate(vrcName, priDept, regTime = Date.now(), isDev = false, isC
             }
         ]
     }
+
+    let tempInfoLegacy = {
+      "VRC_Username": vrcName,
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": regTime,
+      "departments": [
+          {
+              "Name": priDept,
+              "ID": 0
+          }
+      ]
+    }
     tempDB.Associates.push(tempInfo);
     fs.writeFileSync("./combo-pizza-Dev.json", JSON.stringify(tempDB));
-    // fs.writeFileSync("./test.json", JSON.stringify(tempDB));
 
     console.log(`\nAdded ${vrcName} to the database!\n
         Initial Department --- ${priDept}
         RegistryTimeStamp ---- ${regTime}
         Dev ------------------ ${isDev}
-        FunnyCallboxes ------- ${isCBAdmin}`)
+        FunnyCallboxes ------- ${isCBAdmin}`);
+        
+    tempDBLegacy.Associates.push(tempInfoLegacy);
+    fs.writeFileSync("./combo-pizza.json", JSON.stringify(tempDBLegacy));
+
+    console.log(`\nAdded ${vrcName} to the database!\n
+      Initial Department --- ${priDept}
+      RegistryTimeStamp ---- ${regTime}
+      Dev ------------------ ${isDev}
+      FunnyCallboxes ------- ${isCBAdmin}`);
+
 }
+
+
+
 
 function logInfo() {
   let temp = {
@@ -89,6 +115,8 @@ function logInfo() {
           temp.elec++;
           break;
         case "hardlines":
+        case "hardlines manager":
+        case "assistant hardlines manager":
           temp.hard++;
           break;
         case "kcafe":

@@ -1,24 +1,26 @@
 {
-  "Last4Updates":{
-      "LastUpdate":{
-          "Name": "The whatever Update 0",
-		  "Changes": "\u2022This is a test changelog<br>\u2022with lots of changes<br>\u2022not sure what to put here but i hope this works<br>\u2022bowomp",
-		  "DateOfUpdate": "00-00-10"
-      },
-      "PreviousUpdate":{
-          "Name": "The whatever Update 1",
-		  "Changes": "Bla bla put changes here",
-		  "DateOfUpdate": "00-00-84"
-      },
-      "3rdPreviousUpdate":{
-          "Name": "The whatever Update 2",
-		  "Changes": "Bla bla put changes here",
-		  "DateOfUpdate": "00-00-20"
-      },
-      "4thPreviousUpdate":{
-          "Name": "The whatever Update 3",
-		  "Changes": "Bla bla put changes here",
-		  "DateOfUpdate": "00-00-25"
-      }
+  "SettingsVersion": "1.0.1",
+  "ClockInVersion": "1.0.1",
+  "Last4Updates": {
+    "LastUpdate": {
+      "Name": "The whatever Update 0",
+      "Changes": "\u2022This is a test changelog<br>\u2022with lots of changes<br>\u2022not sure what to put here but i hope this works<br>\u2022bowomp",
+      "DateOfUpdate": "00-00-10"
+    },
+    "PreviousUpdate": {
+      "Name": "The whatever Update 1",
+      "Changes": "Bla bla put changes here",
+      "DateOfUpdate": "00-00-84"
+    },
+    "3rdPreviousUpdate": {
+      "Name": "The whatever Update 2",
+      "Changes": "Bla bla put changes here",
+      "DateOfUpdate": "00-00-20"
+    },
+    "4thPreviousUpdate": {
+      "Name": "The whatever Update 3",
+      "Changes": "Bla bla put changes here",
+      "DateOfUpdate": "00-00-25"
+    }
   }
 }

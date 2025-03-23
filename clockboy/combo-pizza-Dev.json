@@ -1053,13 +1053,6 @@
       "VRC_Username": "SgtHomura"
     },
     {
-      "Departments": [{ "Name": "Janitorial" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1741829276221,
-      "VRC_Username": "BushyTwee3"
-    },
-    {
       "Departments": [{ "Name": "Layaway" }],
       "Dev": false,
       "FunnyCallboxes": false,

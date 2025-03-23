@@ -916,7 +916,7 @@
       "VRC_Username": "sᴇɴᴋᴏ-sᴀɴ キツネ",
       "RegistryTimeStamp": 1674469200000,
       "ShiftCount": 69420,
-      "Departments": [
+      "departments": [
         {
           "ID": 0,
           "Name": "Customer Service"
@@ -928,14 +928,14 @@
       "RegistryTimeStamp": 1739560003763,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Electronics", "ID": 0}]
+      "departments": [{ "Name": "Electronics", "ID": 0}]
     },
     {
       "VRC_Username": "Fukaziroh",
       "RegistryTimeStamp": -22074000000,
       "Dev": true,
       "FunnyCallboxes": true,
-      "Departments": [
+      "departments": [
         { "Name": "LPD Enjoyer", "ID": 0},
         { "Name": "Stinky Captain", "ID": 0 },
         { "Name": "Is Ruining Everything", "ID": 0 },
@@ -947,7 +947,7 @@
       "RegistryTimeStamp": 1727208904193,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [
+      "departments": [
         { "Name": "Thesis Enjoyer", "ID": 0 },
         { "Name": "Stinky", "ID": 0 },
         { "Name": "Nerd", "ID": 0 },
@@ -959,98 +959,161 @@
       "RegistryTimeStamp": 1741496824934,
       "Dev": true,
       "FunnyCallboxes": true,
-      "Departments": [{ "Name": "Store Prostitute", "ID": 0 }, { "Name": "Automotive", "ID": 0 }]
+      "departments": [{ "Name": "Store Prostitute", "ID": 0 }, { "Name": "Automotive", "ID": 0 }]
     },
     {
       "VRC_Username": "Lyff",
       "RegistryTimeStamp": 1741496824939,
       "Dev": true,
       "FunnyCallboxes": true,
-      "Departments": [{ "Name": "Kmart Advisor", "ID": 0 }]
+      "departments": [{ "Name": "Kmart Advisor", "ID": 0 }]
     },
     {
       "VRC_Username": "Misha Lane",
       "RegistryTimeStamp": 1741496824940,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "KCafe", "ID": 0 }]
+      "departments": [{ "Name": "KCafe", "ID": 0 }]
     },
     {
       "VRC_Username": "Imperfect Chaos",
       "RegistryTimeStamp": 1741496824942,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "TRAINEE", "ID": 0 },{ "Name": "Customer Service", "ID": 0 }]
+      "departments": [{ "Name": "TRAINEE", "ID": 0 },{ "Name": "Customer Service", "ID": 0 }]
     },
     {
       "VRC_Username": "Blitz-the-pup",
       "RegistryTimeStamp": 1741496824944,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Electronics", "ID": 0 }]
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
     },
     {
       "VRC_Username": "Elais_Ains",
       "RegistryTimeStamp": 1741496824944,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Janitorial", "ID": 0 }]
+      "departments": [{ "Name": "Janitorial", "ID": 0 }]
     },
     {
       "VRC_Username": "Lordthomas11",
       "RegistryTimeStamp": 1741496824945,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Pharmacy", "ID": 0 }]
+      "departments": [{ "Name": "Pharmacy", "ID": 0 }]
     },
     {
       "VRC_Username": "Koda White Wolf",
       "RegistryTimeStamp": 1741496824946,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Pharmacy", "ID": 0 }]
+      "departments": [{ "Name": "Pharmacy", "ID": 0 }]
     },
     {
       "VRC_Username": "enzopuppydog ea5b",
       "RegistryTimeStamp": 1741496824949,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Electronics", "ID": 0 }]
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
     },
     {
       "VRC_Username": "CilCil",
       "RegistryTimeStamp": 1741496824950,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name":"Jim Cantore Enjoyer", "ID": 0 },{ "Name":"Redbox Restocker", "ID": 0 },{ "Name": "Claims", "ID": 0 }]
+      "departments": [{ "Name":"Jim Cantore Enjoyer", "ID": 0 },{ "Name":"Redbox Restocker", "ID": 0 },{ "Name": "Claims", "ID": 0 }]
     },
     {
       "VRC_Username": "Snappers1",
       "RegistryTimeStamp": 1741496824951,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Electronics", "ID": 0 }]
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
     },
     {
       "VRC_Username": "Jaytheshadow",
       "RegistryTimeStamp": 1741496824952,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Electronics", "ID": 0 }]
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
     },
     {
       "VRC_Username": "2ndJakkufear",
       "RegistryTimeStamp": 1741501008011,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Electronics", "ID": 0 }]
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "SgtHomura",
+      "RegistryTimeStamp": 1741829276213,
+      "Dev": false,      
+      "FunnyCallboxes": false,
+      "departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "Sovietdog122l",
+      "RegistryTimeStamp": 1741829276222,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "departments": [{ "Name": "Layaway" }]
+    },
+    {
+      "VRC_Username": "Neon_Fennix",
+      "RegistryTimeStamp": 1741829276224,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "departments": [{ "Name": "Janitorial" }]
+    },
+    {
+      "VRC_Username": "KallieCocoa",
+      "RegistryTimeStamp": 1741496824943,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "taako_times",
+      "RegistryTimeStamp": 1742524481161,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "departments": [{ "Name": "Bakery/Deli" }]
+    },
+    {
+      "VRC_Username": "XenoSpark",
+      "RegistryTimeStamp": 1742524481166,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "departments": [{ "Name": "Hardlines" }]
+    },
+    {
+      "VRC_Username": "Sugar Fang",
+      "RegistryTimeStamp": 1742524481166,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "departments": [{ "Name": "Portrait Studio" }]
+    },
+    {
+      "VRC_Username": "Imperfect Chaos",
+      "RegistryTimeStamp": 1742524481167,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "nylahquil",
+      "RegistryTimeStamp": 1742524481168,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "departments": [{ "Name": "Electronics" }]
     }
   ],
   "footer": {
     "event": {
-      "Name": "RIP TikTok",
-      "Description": "TikTok has been banned. This is so sad, Alexa play Despacito.",
-      "Notification": "NOTICE: TikTok has been banned"
+      "Name": "Map Archival Notice",
+      "Description": "This world is now archived and will no longer be maintained. Updates will be rare if any do happen.",
+      "Notification": "NOTICE: MAP ARCHIVED"
     }
   }
 }
