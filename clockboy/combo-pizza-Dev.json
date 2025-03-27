@@ -82,12 +82,7 @@
       "VRC_Username": "Tizzy"
     },
     {
-      "Departments": [
-        { "Name": "HUMAN RESOURCES" },
-        { "Name": "MANAGEMENT" },
-        { "Name": "LPD AMBASADOR" },
-        { "Name": "Old as Fuck" }
-      ],
+      "Departments": [{ "Name": "LPD AMBASADOR" }, { "Name": "Old as Fuck" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 884376000000,
@@ -387,9 +382,10 @@
     },
     {
       "Departments": [
-        { "Name": "Security" },
-        { "Name": "KCafe" },
-        { "Name": "Customer Service" }
+        { "Name": "Tea Enjoyer" },
+        { "Name": "MANAGEMENT" },
+        { "Name": "Security Manager" },
+        { "Name": "Security" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -397,7 +393,7 @@
       "VRC_Username": "﮴tea"
     },
     {
-      "Departments": [{ "Name": "Security" }],
+      "Departments": [{ "Name": "Layaway" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
@@ -446,14 +442,14 @@
       "VRC_Username": "Purple_Emma"
     },
     {
-      "Departments": [{ "Name": "Security" }],
+      "Departments": [{ "Name": "Customer Service" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "Smoogley"
     },
     {
-      "Departments": [{ "Name": "Security" }, { "Name": "Harmacy" }],
+      "Departments": [{ "Name": "Electronics" }, { "Name": "Harmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
@@ -733,11 +729,7 @@
       "VRC_Username": "neostarx"
     },
     {
-      "Departments": [
-        { "Name": "Security" },
-        { "Name": "Hardlines" },
-        { "Name": "Customer Service" }
-      ],
+      "Departments": [{ "Name": "Hardlines" }, { "Name": "Customer Service" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1688699003673,
@@ -785,7 +777,7 @@
       "VRC_Username": "Вubblеѕ"
     },
     {
-      "Departments": [{ "Name": "Security" }],
+      "Departments": [{ "Name": "Hardlines" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1696375200000,
@@ -1129,6 +1121,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "GibbytheButler",
+      "RegistryTimeStamp": 1731706256158,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Janitorial" }]
     }
   ]
 }

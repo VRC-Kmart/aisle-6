@@ -23,7 +23,7 @@ let numEdited = 0;
  *     (this gives them item reset perms)
  * set CALLBOXES to true or false, depending on if they can use the admin callboxes
  */
-addAssociate("USER_NAME", "DEPARTMENT", REGISTER_TIME, DEVELOPER, CALLBOXES);
+// addAssociate("USER_NAME", "DEPARTMENT", REGISTER_TIME, DEVELOPER, CALLBOXES);
 
 
 /* Function to add an associate to the database */
@@ -65,7 +65,7 @@ function addAssociate(vrcName, priDept, regTime = Date.now(), isDev = false, isC
         Dev ------------------ ${isDev}
         FunnyCallboxes ------- ${isCBAdmin}`);
         
-    tempDBLegacy.Associates.push(tempInfoLegacy);
+    tempDBLegacy.Clocked_In_Associates.push(tempInfoLegacy);
     fs.writeFileSync("./combo-pizza.json", JSON.stringify(tempDBLegacy));
 
     console.log(`\nAdded ${vrcName} to the database!\n
