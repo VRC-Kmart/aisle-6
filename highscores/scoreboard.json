@@ -1,0 +1,40 @@
+{
+    "superk":{
+        "flappyHat":[
+            {
+                "name_4char":"KALI",
+                "score": 76
+            },
+            {
+                "name_4char":"????",
+                "score":2147483647
+            },
+            {
+                "name_4char":"????",
+                "score":2147483647
+            },
+            {
+                "name_4char":"????",
+                "score":2147483647
+            }
+        ],
+        "pawtris":[
+            {
+                "name_4char":"REXW",
+                "score": 15760
+            },
+            {
+                "name_4char":"ZUKO",
+                "score":12300
+            },
+            {
+                "name_4char":"CHAR",
+                "score":6000
+            },
+            {
+                "name_4char":"SAMI",
+                "score":1500
+            }
+        ]
+    }
+}
