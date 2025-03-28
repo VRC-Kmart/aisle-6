@@ -51,7 +51,7 @@
         { "Name": "Nerd" },
         { "Name": "DEVELOPER" },
         { "Name": "IT DEPARTMENT" },
-        { "Name": "Security" }
+        { "Name": "SECURITY" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -175,7 +175,7 @@
         { "Name": "MANAGEMENT" },
         { "Name": "Hardlines Manager" }
       ],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1609576636925,
       "VRC_Username": "AmusedBirb"
@@ -186,7 +186,7 @@
         { "Name": "MANAGEMENT" },
         { "Name": "Sporting Goods Manager" }
       ],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1641492313586,
       "VRC_Username": "cressi85"
@@ -196,7 +196,7 @@
         { "Name": "MANAGEMENT" },
         { "Name": "Customer Service Manager" }
       ],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1700707140000,
       "VRC_Username": "NylaB0nes"
@@ -206,14 +206,14 @@
         { "Name": "MANAGEMENT" },
         { "Name": "Assistant Customer Service Manager" }
       ],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1644435554467,
       "VRC_Username": "AgentWanderer"
     },
     {
       "Departments": [{ "Name": "MANAGEMENT" }, { "Name": "KCafe Manager" }],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1675578940693,
       "VRC_Username": "CucumberWator"
@@ -223,7 +223,7 @@
         { "Name": "MANAGEMENT" },
         { "Name": "Assistant KCafe Manager" }
       ],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "ThatSystemWho"
@@ -233,14 +233,14 @@
         { "Name": "MANAGEMENT" },
         { "Name": "Janitorial Manager" }
       ],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1707682125445,
       "VRC_Username": "Koyaemi"
     },
     {
       "Departments": [{ "Name": "MANAGEMENT" }, { "Name": "Layaway Manager" }],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1660574061049,
       "VRC_Username": "Jammin' Jon"
@@ -251,7 +251,7 @@
         { "Name": "MANAGEMENT" },
         { "Name": "Garden Manager" }
       ],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1699593949761,
       "VRC_Username": "Yoshie Hayashi"
@@ -262,7 +262,7 @@
         { "Name": "Assistant Garden Manager" },
         { "Name": "Claims" }
       ],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "Marinesargent26"
@@ -283,7 +283,7 @@
         { "Name": "MANAGEMENT" },
         { "Name": "Home Improvement Manager" }
       ],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "N3RV3SSOPSYCH"
@@ -304,7 +304,7 @@
         { "Name": "MANAGEMENT" },
         { "Name": "Photo Center Manager" }
       ],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1715834990119,
       "VRC_Username": "AmiaTwi"
@@ -314,7 +314,7 @@
         { "Name": "MANAGEMENT" },
         { "Name": "Electronics Manager" }
       ],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1677977682853,
       "VRC_Username": "RexWolfenVRC1"
@@ -325,7 +325,7 @@
         { "Name": "Pharmacy Manager" },
         { "Name": "actively looking for fent!" }
       ],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1673665295969,
       "VRC_Username": "ShinyZards"
@@ -335,15 +335,15 @@
         { "Name": "MANAGEMENT" },
         { "Name": "Assistant Pharmacy Manager" }
       ],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1671152658317,
       "VRC_Username": "Rustthelion"
     },
     {
-      "Departments": [{ "Name": "Security" }, { "Name": "Good Doggo" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "SECURITY" }, { "Name": "Good Doggo" }],
+      "Dev": true,
+      "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "sam555"
     },
@@ -354,7 +354,7 @@
         { "Name": "Got a #1 Victory Royale!" },
         { "Name": "(yeah fortnite we bout to get down)" }
       ],
-      "Dev": false,
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "Snord"
@@ -384,11 +384,11 @@
       "Departments": [
         { "Name": "Tea Enjoyer" },
         { "Name": "MANAGEMENT" },
-        { "Name": "Security Manager" },
-        { "Name": "Security" }
+        { "Name": "SECURITY MANAGER" },
+        { "Name": "SECURITY" }
       ],
-      "Dev": false,
-      "FunnyCallboxes": false,
+      "Dev": true,
+      "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "﮴tea"
     },
@@ -400,37 +400,37 @@
       "VRC_Username": "FlyingSeacat"
     },
     {
-      "Departments": [{ "Name": "Security" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "SECURITY" }],
+      "Dev": true,
+      "FunnyCallboxes": true,
       "RegistryTimeStamp": 1695964195195,
       "VRC_Username": "HighestInDaRoom"
     },
     {
-      "Departments": [{ "Name": "Security" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "SECURITY" }],
+      "Dev": true,
+      "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "jeffthedndgod"
     },
     {
-      "Departments": [{ "Name": "Security" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "SECURITY" }],
+      "Dev": true,
+      "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "NovakatVT"
     },
     {
-      "Departments": [{ "Name": "Security" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "SECURITY" }],
+      "Dev": true,
+      "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "luckydoomknight"
     },
     {
-      "Departments": [{ "Name": "Security" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "SECURITY" }],
+      "Dev": true,
+      "FunnyCallboxes": true,
       "RegistryTimeStamp": 1722304800000,
       "VRC_Username": "JCloud"
     },
@@ -456,20 +456,20 @@
       "VRC_Username": "Sonreckoner"
     },
     {
-      "Departments": [{ "Name": "Security" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "SECURITY" }],
+      "Dev": true,
+      "FunnyCallboxes": true,
       "RegistryTimeStamp": 1672295108444,
       "VRC_Username": "Cpt Caldwell"
     },
     {
       "Departments": [
-        { "Name": "Security" },
+        { "Name": "SECURITY" },
         { "Name": "Electronics" },
         { "Name": "Sporting Goods" }
       ],
-      "Dev": false,
-      "FunnyCallboxes": false,
+      "Dev": true,
+      "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "Dubby˚"
     },
@@ -793,12 +793,12 @@
     {
       "Departments": [
         { "Name": "Boy wife" },
-        { "Name": "Security" },
+        { "Name": "SECURITY" },
         { "Name": "Boy kisser" },
         { "Name": "Electronics" }
       ],
-      "Dev": false,
-      "FunnyCallboxes": false,
+      "Dev": true,
+      "FunnyCallboxes": true,
       "RegistryTimeStamp": 1729234764392,
       "VRC_Username": "xXLilShrimpyXx"
     },
@@ -831,8 +831,8 @@
       "VRC_Username": "AmeliaRoseNZ"
     },
     {
-      "Departments": [{ "Name": "Security" }],
-      "Dev": false,
+      "Departments": [{ "Name": "SECURITY" }],
+      "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1732418396542,
       "VRC_Username": "CastOpex2020"
