@@ -1058,6 +1058,24 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1731706256158,
       "departments": [{ "Name": "Janitorial", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Ventile Lorbet",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1743213831397,
+      "departments": [{ "Name": "Janitorial", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Disco Incarnate",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1743213831402,
+      "departments": [{ "Name": "Portrait Studio", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Glowyshard",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1743213831403,
+      "departments": [{ "Name": "Deli/Bakery", "ID": 0 }]
     }
   ],
   "footer": {

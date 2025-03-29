@@ -1128,6 +1128,27 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Janitorial" }]
+    },
+    {
+      "VRC_Username": "Ventile Lorbet",
+      "RegistryTimeStamp": 1743213831397,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Janitorial" }]
+    },
+    {
+      "VRC_Username": "Disco Incarnate",
+      "RegistryTimeStamp": 1743213831402,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Portrait Studio" }]
+    },
+    {
+      "VRC_Username": "Glowyshard",
+      "RegistryTimeStamp": 1743213831403,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Deli/Bakery" }]
     }
   ]
 }
