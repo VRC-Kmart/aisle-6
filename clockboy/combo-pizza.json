@@ -914,16 +914,6 @@
       "departments": [{ "Name": "KCafe", "ID": 0 }]
     },
     {
-      "VRC_Username": "Imperfect Chaos",
-      "RegistryTimeStamp": 1741496824942,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "departments": [
-        { "Name": "TRAINEE", "ID": 0 },
-        { "Name": "Customer Service", "ID": 0 }
-      ]
-    },
-    {
       "VRC_Username": "Blitz-the-pup",
       "RegistryTimeStamp": 1741496824944,
       "Dev": false,
