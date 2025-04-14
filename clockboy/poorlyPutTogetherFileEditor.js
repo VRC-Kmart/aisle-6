@@ -67,15 +67,17 @@ function addAssociate(vrcName, priDept, regTime = Date.now(), isDev = false, isC
         
     tempDBLegacy.Clocked_In_Associates.push(tempInfoLegacy);
     fs.writeFileSync("./combo-pizza.json", JSON.stringify(tempDBLegacy));
-
-    console.log(`\nAdded ${vrcName} to the database!\n
-      Initial Department --- ${priDept}
-      RegistryTimeStamp ---- ${regTime}
-      Dev ------------------ ${isDev}
-      FunnyCallboxes ------- ${isCBAdmin}`);
+    console.log(`\nAdded ${vrcName} to legacy database!\n`);
 
 }
 
+function addDepartment(vrcName, departmentName) {
+  /* WIP. This doesn't do anything yet (obviously) */
+}
+
+function removeDepartment(vrcName, departmentName) {
+  /* WIP. This doesn't do anything yet (obviously) */
+}
 
 
 
