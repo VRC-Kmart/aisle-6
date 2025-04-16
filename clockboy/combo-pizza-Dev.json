@@ -291,7 +291,7 @@
     {
       "Departments": [
         { "Name": "MANAGEMENT" },
-        { "Name": "Photo Center Manager" }
+        { "Name": "Assistant Portrait Studio Manager" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -569,7 +569,7 @@
     {
       "Departments": [
         { "Name": "Local Ice Fairy" },
-        { "Name": "Photo Center" },
+        { "Name": "Portrait Studio" },
         { "Name": "Hardlines" }
       ],
       "Dev": false,
@@ -1123,7 +1123,7 @@
       "RegistryTimeStamp": 1743213831402,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Portrait Studio" }]
+      "Departments": [{"Name":"MANAGEMENT"},{ "Name": "Portrait Studio Manager" },{"Name": "Security" }]
     },
     {
       "VRC_Username": "Glowyshard",

@@ -261,7 +261,7 @@
       "RegistryTimeStamp": 1715834990119,
       "departments": [
         { "ID": 253, "Name": "MANAGEMENT" },
-        { "ID": 21, "Name": "Photo Center" }
+        { "ID": 21, "Name": "Portrait Studio" }
       ]
     },
     {
@@ -541,7 +541,7 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1699734871437,
       "departments": [
-        { "ID": 21, "Name": "Photo Center" },
+        { "ID": 21, "Name": "Portrait Studio" },
         { "ID": 3, "Name": "Hardlines" }
       ]
     },
@@ -1050,7 +1050,7 @@
       "VRC_Username": "Disco Incarnate",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1743213831402,
-      "departments": [{ "Name": "Portrait Studio", "ID": 0 }]
+      "departments": [{"Name":"MANAGEMENT", "ID": 0 },{"Name": "Security", "ID":0},{ "Name": "Portrait Studio", "ID": 0 }]
     },
     {
       "VRC_Username": "Glowyshard",
