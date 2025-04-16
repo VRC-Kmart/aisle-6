@@ -182,17 +182,6 @@
     },
     {
       "Departments": [
-        { "Name": "DEVELOPER" },
-        { "Name": "MANAGEMENT" },
-        { "Name": "Sporting Goods Manager" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1641492313586,
-      "VRC_Username": "cressi85"
-    },
-    {
-      "Departments": [
         { "Name": "MANAGEMENT" },
         { "Name": "Customer Service Manager" }
       ],
