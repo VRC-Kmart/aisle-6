@@ -1108,6 +1108,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1744652551493,
       "departments": [{ "Name": "DEVELOPER", "ID": 0 },{ "Name": "stinky", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "offmass8",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1744801348351,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
     }
   ],
   "footer": {

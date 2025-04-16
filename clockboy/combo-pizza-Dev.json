@@ -1191,6 +1191,14 @@
       "Dev": true,
       "FunnyCallboxes": true,
       "Departments": [{ "Name": "DEVELOPER" },{ "Name": "stinky" }]
+    },
+    {
+      "VRC_Username": "offmass8",
+      "RegistryTimeStamp": 1744801348351,
+      "Dev": false,
+      "FunnyCallboxes": true,
+      "Departments": [{ "Name": "Customer Service" }]
     }
+	
   ]
 }
