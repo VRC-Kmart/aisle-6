@@ -1123,7 +1123,11 @@
       "RegistryTimeStamp": 1743213831402,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{"Name":"MANAGEMENT"},{ "Name": "Portrait Studio Manager" },{"Name": "Security" }]
+      "Departments": [
+        { "Name": "MANAGEMENT" },
+        { "Name": "Portrait Studio Manager" },
+        { "Name": "Security" }
+      ]
     },
     {
       "VRC_Username": "Glowyshard",
@@ -1172,14 +1176,17 @@
       "RegistryTimeStamp": 1626639600000,
       "Dev": true,
       "FunnyCallboxes": true,
-      "Departments": [{ "Name": "DEVELOPER" },{ "Name": "Will recieve a pipebomb in the mail" }]
+      "Departments": [
+        { "Name": "DEVELOPER" },
+        { "Name": "Will recieve a pipebomb in the mail" }
+      ]
     },
     {
       "VRC_Username": "Lt_Shadow",
       "RegistryTimeStamp": 1744652551493,
       "Dev": true,
       "FunnyCallboxes": true,
-      "Departments": [{ "Name": "DEVELOPER" },{ "Name": "stinky" }]
+      "Departments": [{ "Name": "DEVELOPER" }, { "Name": "stinky" }]
     },
     {
       "VRC_Username": "offmass8",
@@ -1187,7 +1194,13 @@
       "Dev": false,
       "FunnyCallboxes": true,
       "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "jneko",
+      "RegistryTimeStamp": 1618960800000,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" },{ "Name": "Hardlines" }]
     }
-	
   ]
 }

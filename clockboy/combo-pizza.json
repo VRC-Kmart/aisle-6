@@ -1050,7 +1050,11 @@
       "VRC_Username": "Disco Incarnate",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1743213831402,
-      "departments": [{"Name":"MANAGEMENT", "ID": 0 },{"Name": "Security", "ID":0},{ "Name": "Portrait Studio", "ID": 0 }]
+      "departments": [
+        { "Name": "MANAGEMENT", "ID": 0 },
+        { "Name": "Security", "ID": 0 },
+        { "Name": "Portrait Studio", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "Glowyshard",
@@ -1092,19 +1096,31 @@
       "VRC_Username": "PortalTardis",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1626639600000,
-      "departments": [{ "Name": "DEVELOPER", "ID": 0 },{ "Name": "Will recieve a pipebomb in the mail", "ID": 0 }]
+      "departments": [
+        { "Name": "DEVELOPER", "ID": 0 },
+        { "Name": "Will recieve a pipebomb in the mail", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "Lt_Shadow",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1744652551493,
-      "departments": [{ "Name": "DEVELOPER", "ID": 0 },{ "Name": "stinky", "ID": 0 }]
+      "departments": [
+        { "Name": "DEVELOPER", "ID": 0 },
+        { "Name": "stinky", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "offmass8",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1744801348351,
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "jneko",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1618960800000,
+      "departments": [{ "Name": "Customer Service", "ID": 0 },{ "Name": "Hardlines", "ID": 0 }]
     }
   ],
   "footer": {
