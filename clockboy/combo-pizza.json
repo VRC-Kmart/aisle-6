@@ -1051,9 +1051,9 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1743213831402,
       "departments": [
+        { "Name": "TRAINER", "ID": 0 },
         { "Name": "MANAGEMENT", "ID": 0 },
-        { "Name": "Security", "ID": 0 },
-        { "Name": "Portrait Studio", "ID": 0 }
+        { "Name": "Security", "ID": 0 }
       ]
     },
     {

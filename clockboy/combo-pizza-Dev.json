@@ -1121,9 +1121,10 @@
     {
       "VRC_Username": "Disco Incarnate",
       "RegistryTimeStamp": 1743213831402,
-      "Dev": false,
-      "FunnyCallboxes": false,
+      "Dev": true,
+      "FunnyCallboxes": true,
       "Departments": [
+        { "Name": "TRAINER" },
         { "Name": "MANAGEMENT" },
         { "Name": "Portrait Studio Manager" },
         { "Name": "Security" }
