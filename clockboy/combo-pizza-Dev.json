@@ -697,7 +697,7 @@
       "VRC_Username": "Mr․SpiderKing"
     },
     {
-      "Departments": [{ "Name": "Claims" }],
+      "Departments": [{ "Name": "Claims" },{ "Name": "Chicken Jockey"},{ "Name": "Flint and Steel"},{ "Name": "La-La-La Lava Chi-Chi-Chi-Chicken"}],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1674866746125,
