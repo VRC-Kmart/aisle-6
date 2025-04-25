@@ -1129,8 +1129,8 @@
       "Dev": true,
       "FunnyCallboxes": true,
       "Departments": [
+        { "Name": "Store Prostitute" },
         { "Name": "TRAINER" },
-        { "Name": "MANAGEMENT" },
         { "Name": "Portrait Studio Manager" },
         { "Name": "Security" }
       ]
