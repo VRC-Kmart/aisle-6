@@ -665,7 +665,10 @@
       "VRC_Username": "Duskyღ",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1674866746125,
-      "departments": [{ "ID": 25, "Name": "Claims" },{ "ID": 0, "Name": "Chicken Jockey"}]
+      "departments": [
+        { "ID": 25, "Name": "Claims" },
+        { "ID": 0, "Name": "Chicken Jockey" }
+      ]
     },
     {
       "VRC_Username": "Ciel Freeman",
@@ -1114,7 +1117,16 @@
       "VRC_Username": "jneko",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1618960800000,
-      "departments": [{ "Name": "Customer Service", "ID": 0 },{ "Name": "Hardlines", "ID": 0 }]
+      "departments": [
+        { "Name": "Customer Service", "ID": 0 },
+        { "Name": "Hardlines", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "AryeWilovins",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1745542269273,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
     }
   ],
   "footer": {

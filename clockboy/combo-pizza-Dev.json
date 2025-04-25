@@ -697,7 +697,12 @@
       "VRC_Username": "Mr․SpiderKing"
     },
     {
-      "Departments": [{ "Name": "Claims" },{ "Name": "Chicken Jockey"},{ "Name": "Flint and Steel"},{ "Name": "La-La-La Lava Chi-Chi-Chi-Chicken"}],
+      "Departments": [
+        { "Name": "Claims" },
+        { "Name": "Chicken Jockey" },
+        { "Name": "Flint and Steel" },
+        { "Name": "La-La-La Lava Chi-Chi-Chi-Chicken" }
+      ],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1674866746125,
@@ -1194,7 +1199,14 @@
       "RegistryTimeStamp": 1618960800000,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Customer Service" },{ "Name": "Hardlines" }]
+      "Departments": [{ "Name": "Customer Service" }, { "Name": "Hardlines" }]
+    },
+    {
+      "VRC_Username": "AryeWilovins",
+      "RegistryTimeStamp": 1745542269273,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
     }
   ]
 }
