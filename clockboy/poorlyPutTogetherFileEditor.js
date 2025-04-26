@@ -25,7 +25,6 @@ let numEdited = 0;
  */
 // addAssociate("USER_NAME", "DEPARTMENT", REGISTER_TIME, DEVELOPER, CALLBOXES);
 
-
 /* Function to add an associate to the database */
 function addAssociate(vrcName, priDept, regTime = Date.now(), isDev = false, isCBAdmin = false) {
     if (vrcName == undefined) return console.log("\nFailed to add associate!\n\nPlease set a username!\n");
@@ -71,8 +70,33 @@ function addAssociate(vrcName, priDept, regTime = Date.now(), isDev = false, isC
 
 }
 
+/* I AM AWARE THIS IS BAD CODE BUT I DO NOT CARE BECAUSE IT FUCKING WORKS */
 function addDepartment(vrcName, departmentName) {
-  /* WIP. This doesn't do anything yet (obviously) */
+  if (vrcName == undefined) return console.log("\nFailed to edit associate!\n\nPlease set a username!\n");
+  if (departmentName == undefined) return console.log("\nFailed to edit associate!\n\nPlease set a primary department!\n");
+
+  tempDB = file;
+  tempDBLegacy = fileLegacy;
+
+  let i, iL;
+  tempDB.Associates.filter((key, index) => {
+    if (key["VRC_Username"] == vrcName) i = index;
+  });
+
+  tempDBLegacy.Clocked_In_Associates.filter((key, index) => {
+    if (key["VRC_Username"] == vrcName) iL = index;
+  });
+
+  file.Associates[i].Departments.push({ "Name": departmentName });
+  fileLegacy.Clocked_In_Associates[i].departments.push({ "Name": departmentName, "ID": 0 });
+
+  fs.writeFileSync("./combo-pizza-Dev.json", JSON.stringify(file));
+  fs.writeFileSync("./combo-pizza.json", JSON.stringify(fileLegacy));
+
+
+  console.log(`\nModified ${vrcName} in the database!\n
+    New Department ------- ${departmentName}`);
+
 }
 
 function removeDepartment(vrcName, departmentName) {
@@ -102,6 +126,7 @@ function logInfo() {
     mng: 0,
     hre: 0,
     itd: 0,
+    trainer: 0,
   };
   file.Associates.forEach((value, index) => {
     value.Departments.forEach((v, i) => {
@@ -190,6 +215,10 @@ function logInfo() {
         case "it department":
           temp.itd++;
           break;
+        case "trainer":
+        case "lead trainer":
+          temp.trainer++;
+          break;
       }
     });
   });
@@ -214,7 +243,8 @@ function logInfo() {
         Marketing ---------- ${temp.mkt}\n
         Management --------- ${temp.mng}\n
         Human Resources ---- ${temp.hre}\n
-        IT Department ------ ${temp.itd}`);
+        IT Department ------ ${temp.itd}\n
+        Trainer ------------ ${temp.trainer}`);
 }
 
 function writeFile(F, D) {
