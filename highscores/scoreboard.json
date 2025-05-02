@@ -2,38 +2,86 @@
     "superk":{
         "flappyHat":[
             {
-                "name_4char":"KALI",
+                "name":"KALI",
                 "score": 76
             },
             {
-                "name_4char":"????",
-                "score":2147483647
+                "name":"????",
+                "score":000000
             },
             {
-                "name_4char":"????",
-                "score":2147483647
+                "name":"????",
+                "score":000000
             },
             {
-                "name_4char":"????",
-                "score":2147483647
+                "name":"????",
+                "score":000000
+            },
+            {
+                "name":"????",
+                "score":000000
+            },
+            {
+                "name":"????",
+                "score":000000
+            },
+            {
+                "name":"????",
+                "score":000000
+            },
+            {
+                "name":"????",
+                "score":000000
+            },
+            {
+                "name":"????",
+                "score":000000
+            },
+            {
+                "name":"????",
+                "score":000000
             }
         ],
         "pawtris":[
             {
-                "name_4char":"REXW",
+                "name":"REXW",
                 "score": 15760
             },
             {
-                "name_4char":"ZUKO",
+                "name":"ZUKO",
                 "score":12300
             },
             {
-                "name_4char":"CHAR",
+                "name":"CHAR",
                 "score":6000
             },
             {
-                "name_4char":"SAMI",
+                "name":"SAMI",
                 "score":1500
+            },
+            {
+                "name":"????",
+                "score":000000
+            },
+            {
+                "name":"????",
+                "score":000000
+            },
+            {
+                "name":"????",
+                "score":000000
+            },
+            {
+                "name":"????",
+                "score":000000
+            },
+            {
+                "name":"????",
+                "score":000000
+            },
+            {
+                "name":"????",
+                "score":000000
             }
         ]
     }
