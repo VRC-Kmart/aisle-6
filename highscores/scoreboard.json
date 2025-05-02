@@ -84,5 +84,91 @@
                 "score": 0
             }
         ]
+    },
+	"mainstore":{
+        "flappyHat":[
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            }
+        ],
+        "pawtris":[
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            },
+            {
+                "name": "????",
+                "score": 0
+            }
+        ]
     }
 }
