@@ -1111,7 +1111,7 @@
       "VRC_Username": "offmass8",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1744801348351,
-      "departments": [{ "Name": "Customer Service", "ID": 0 }]
+      "departments": [{ "Name": "Customer Service", "ID": 0 },{ "Name": "MARKETING", "ID": 0 }]
     },
     {
       "VRC_Username": "jneko",

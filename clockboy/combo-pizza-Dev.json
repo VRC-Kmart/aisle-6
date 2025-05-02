@@ -1192,7 +1192,7 @@
       "RegistryTimeStamp": 1744801348351,
       "Dev": false,
       "FunnyCallboxes": true,
-      "Departments": [{ "Name": "Customer Service" }]
+      "Departments": [{ "Name": "Customer Service" },{ "Name": "MARKETING" }]
     },
     {
       "VRC_Username": "jneko",
