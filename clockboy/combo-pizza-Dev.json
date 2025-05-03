@@ -82,7 +82,7 @@
       "VRC_Username": "Tizzy"
     },
     {
-      "Departments": [{ "Name": "LPD AMBASADOR" }, { "Name": "Old as Fuck" }],
+      "Departments": [{ "Name": "LPD AMBASSADOR" }, { "Name": "Old as Fuck" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 884376000000,
@@ -672,13 +672,6 @@
       "VRC_Username": "SpyFolf"
     },
     {
-      "Departments": [{ "Name": "Electronics" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1676499114657,
-      "VRC_Username": "Brolyuchiha1963"
-    },
-    {
       "Departments": [
         { "Name": "Customer Service" },
         { "Name": "Pharmacy" },
@@ -728,16 +721,6 @@
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1688699003673,
       "VRC_Username": "Cart Narcs"
-    },
-    {
-      "Departments": [
-        { "Name": "Customer Service" },
-        { "Name": "Electronics" }
-      ],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1718883769842,
-      "VRC_Username": "LukeTheLPSWolf"
     },
     {
       "Departments": [
@@ -814,7 +797,7 @@
       "Departments": [{ "Name": "KCafe" }],
       "Dev": false,
       "FunnyCallboxes": false,
-      "RegistryTimeStamp": 17322519910000,
+      "RegistryTimeStamp": 1732251991000,
       "VRC_Username": "AmericanMemes"
     },
     {
@@ -956,13 +939,6 @@
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824940,
       "VRC_Username": "Misha Lane"
-    },
-    {
-      "Departments": [{ "Name": "TRAINEE" }, { "Name": "Customer Service" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1741496824942,
-      "VRC_Username": "Imperfect Chaos"
     },
     {
       "Departments": [{ "Name": "Electronics" }],

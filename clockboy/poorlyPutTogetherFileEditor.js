@@ -5,7 +5,7 @@ const fileLegacy = require("./combo-pizza.json");
 let tempDB, tempDBLegacy;
 let numEdited = 0;
 
-// logInfo();
+logInfo();
 
 
 /* How to add an associate using the tool! 
