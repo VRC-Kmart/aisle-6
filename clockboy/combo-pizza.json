@@ -1117,6 +1117,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1745626138869,
       "departments": [{ "Name": "Pharmacy", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Karet",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1589448000000,
+      "departments": [{ "Name": "LPD Enjoyer", "ID": 0 },{ "Name": "Stinky Chief", "ID": 0 },{ "Name": "Will bully demonitized", "ID": 0 }]
     }
   ],
   "footer": {

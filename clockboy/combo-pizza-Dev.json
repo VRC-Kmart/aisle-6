@@ -1197,6 +1197,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Pharmacy" }]
+    },
+    {
+      "VRC_Username": "Karet",
+      "RegistryTimeStamp": 1589448000000,
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "Departments": [{ "Name": "LPD Enjoyer" },{ "Name": "Stinky Chief" },{ "Name": "Will bully demonitized" }]
     }
   ]
 }
