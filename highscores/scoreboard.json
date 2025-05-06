@@ -1,10 +1,18 @@
 {
     "superk":{
-		"LastUpdated": "5-5-25",
+		"LastUpdated": "5-6-25",
         "flappyHat":[
             {
                 "name": "KallieCocoa",
                 "score": 76
+            },
+            {
+                "name": "FluxxieVerse",
+                "score": 32
+            },
+            {
+                "name": "AAAAstolfo",
+                "score": 18
             },
             {
                 "name": "ButterflyCutie",
@@ -19,20 +27,12 @@
                 "score": 5
             },
             {
+                "name": "Dravendadragon",
+                "score": 4
+            },
+            {
                 "name": "MarcellaVT",
                 "score": 1
-            },
-            {
-                "name": "????",
-                "score": 0
-            },
-            {
-                "name": "????",
-                "score": 0
-            },
-            {
-                "name": "????",
-                "score": 0
             },
             {
                 "name": "????",
