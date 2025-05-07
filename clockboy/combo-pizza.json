@@ -165,9 +165,9 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1670216238796,
       "departments": [
+        { "ID": 0, "Name": "HUMAN RESOURCES" },
         { "ID": 0, "Name": "TRAINER" },
-        { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 253, "Name": "MANAGEMENT" }
+        { "ID": 254, "Name": "DEVELOPER" }
       ]
     },
     {
