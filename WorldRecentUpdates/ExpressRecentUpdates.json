@@ -1,0 +1,26 @@
+{
+  "SettingsVersion": "1.0.1",
+  "ClockInVersion": "1.0.1",
+  "Last4Updates": {
+    "LastUpdate": {
+      "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
+      "Changes": "\u2022Updated Settings Board<br>\u2022Fixed missing signs<br>\u2022Removed Easter Merch<br>\u2022Swapped shaders in world",
+      "DateOfUpdate": "05-06-25"
+    },
+    "PreviousUpdate": {
+      "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
+      "Changes": "\u2022????",
+      "DateOfUpdate": "00-00-00"
+    },
+    "3rdPreviousUpdate": {
+      "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
+      "Changes": "\u2022????",
+      "DateOfUpdate": "00-00-00"
+    },
+    "4thPreviousUpdate": {
+      "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
+      "Changes": "\u2022????",
+      "DateOfUpdate": "00-00-00"
+    }
+  }
+}
