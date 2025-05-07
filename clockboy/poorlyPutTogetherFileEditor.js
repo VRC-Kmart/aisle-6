@@ -5,13 +5,13 @@ const fileLegacy = require("./combo-pizza.json");
 let tempDB, tempDBLegacy;
 let numEdited = 0;
 
-logInfo();
+// logInfo();
 
 
 /* How to add an associate using the tool! 
  *
  * ANYTHING NOT REQUIRED CAN BE REMOVED AND IT'LL BE SET TO DEFAULT
- * 
+* 
  * set USER_NAME to the VRChat username of the associate
  *     (required)
  * set DEPARTMENT to the name of the desired department
@@ -24,6 +24,7 @@ logInfo();
  * set CALLBOXES to true or false, depending on if they can use the admin callboxes
  */
 // addAssociate("USER_NAME", "DEPARTMENT", REGISTER_TIME, DEVELOPER, CALLBOXES);
+
 
 /* Function to add an associate to the database */
 function addAssociate(vrcName, priDept, regTime = Date.now(), isDev = false, isCBAdmin = false) {
