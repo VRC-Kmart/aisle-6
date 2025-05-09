@@ -25,8 +25,6 @@ let numEdited = 0;
  */
 // addAssociate("USER_NAME", "DEPARTMENT", REGISTER_TIME, DEVELOPER, CALLBOXES);
 
-addAssociate("Keevie", "Electronics");
-addAssociate("W̷3̷N̷D̷1̷G̷0̷", "Pharmacy");
 
 /* Function to add an associate to the database */
 function addAssociate(vrcName, priDept, regTime = Date.now(), isDev = false, isCBAdmin = false) {
