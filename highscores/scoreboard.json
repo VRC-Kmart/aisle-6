@@ -1,10 +1,18 @@
 {
     "superk":{
-		"LastUpdated": "5-7-25",
+		"LastUpdated": "5-10-25",
         "flappyHat":[
+            {
+                "name": "K17-C47",
+                "score": 1337
+            },
             {
                 "name": "Friskiiii",
                 "score": 122
+            },
+            {
+                "name": "IkebaVT",
+                "score": 104
             },
             {
                 "name": "FluxxieVerse",
@@ -33,20 +41,16 @@
             {
                 "name": "Illucio",
                 "score": 10
-            },
-            {
-                "name": "RexWolfenVRC1",
-                "score": 5
-            },
-            {
-                "name": "Dravendadragon",
-                "score": 4
             }
         ],
         "pawtris":[
             {
                 "name": "Disco Incarnate",
                 "score": 105100
+            },
+            {
+                "name": "Friskiiii",
+                "score": 27980
             },
             {
                 "name": "RexWolfenVRC1",
@@ -67,10 +71,6 @@
             {
                 "name": "Hypnotist_Sammi",
                 "score": 1500
-            },
-            {
-                "name": "????",
-                "score": 0
             },
             {
                 "name": "????",
