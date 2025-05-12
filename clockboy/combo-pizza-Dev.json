@@ -1031,7 +1031,12 @@
       "VRC_Username": "XenoSpark"
     },
     {
-      "Departments": [{ "Name": "Portrait Studio" }],
+      "Departments": [
+        { "Name": "MANAGER" },
+        { "Name": "MARKETING" },
+        { "Name": "Portrait Studio" },
+		{ "Name": "SECURITY" }
+      ],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1742524481166,
