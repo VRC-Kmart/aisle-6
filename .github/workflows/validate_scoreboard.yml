@@ -12,7 +12,7 @@ jobs:
       - name: Validate scoreboard
         uses: cardinalby/schema-validator-action@v3
         with:
-          file: '/highscores/scoreboard.json'
+          file: 'scoreboard.json'
           schema: '/highscores/scoreboard.schema.json'
 
 
