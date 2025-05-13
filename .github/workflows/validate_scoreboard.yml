@@ -9,12 +9,11 @@ jobs:
   verify-json-validation:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - name: Validate JSON
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: /highscores/schema.json
-          INPUT_JSONS: /highscores/scoreboard.json,
+      - name: Validate package.json against a local schema
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          file: /highscores/scoreboard.json
+          schema: /highscores/scoreboard.schema.json
 
 
           
