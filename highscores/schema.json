@@ -1,0 +1,656 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "superk": {
+      "type": "object",
+      "properties": {
+        "LastUpdated": {
+          "type": "string"
+        },
+        "flappyHat": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            }
+          ]
+        },
+        "pawtris": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "LastUpdated",
+        "flappyHat",
+        "pawtris"
+      ]
+    },
+    "mainstore": {
+      "type": "object",
+      "properties": {
+        "LastUpdated": {
+          "type": "string"
+        },
+        "flappyHat": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            }
+          ]
+        },
+        "pawtris": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "score": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "name",
+                "score"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "LastUpdated",
+        "flappyHat",
+        "pawtris"
+      ]
+    }
+  },
+  "required": [
+    "superk",
+    "mainstore"
+  ]
+}
