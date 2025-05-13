@@ -12,8 +12,8 @@ jobs:
       - name: Validate package.json against a local schema
         uses: cardinalby/schema-validator-action@v3
         with:
-          file: /highscores/scoreboard.json
-          schema: /highscores/scoreboard.schema.json
+          file: 'highscores/scoreboard.json'
+          schema: 'highscores/scoreboard.schema.json'
 
 
           
