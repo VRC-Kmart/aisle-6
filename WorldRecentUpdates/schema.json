@@ -1,0 +1,105 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "object",
+  "properties": {
+    "SettingsVersion": {
+      "type": "string"
+    },
+    "ClockInVersion": {
+      "type": "string"
+    },
+    "Last4Updates": {
+      "type": "object",
+      "properties": {
+        "LastUpdate": {
+          "type": "object",
+          "properties": {
+            "Name": {
+              "type": "string"
+            },
+            "Changes": {
+              "type": "string"
+            },
+            "DateOfUpdate": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Name",
+            "Changes",
+            "DateOfUpdate"
+          ]
+        },
+        "PreviousUpdate": {
+          "type": "object",
+          "properties": {
+            "Name": {
+              "type": "string"
+            },
+            "Changes": {
+              "type": "string"
+            },
+            "DateOfUpdate": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Name",
+            "Changes",
+            "DateOfUpdate"
+          ]
+        },
+        "3rdPreviousUpdate": {
+          "type": "object",
+          "properties": {
+            "Name": {
+              "type": "string"
+            },
+            "Changes": {
+              "type": "string"
+            },
+            "DateOfUpdate": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Name",
+            "Changes",
+            "DateOfUpdate"
+          ]
+        },
+        "4thPreviousUpdate": {
+          "type": "object",
+          "properties": {
+            "Name": {
+              "type": "string"
+            },
+            "Changes": {
+              "type": "string"
+            },
+            "DateOfUpdate": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Name",
+            "Changes",
+            "DateOfUpdate"
+          ]
+        }
+      },
+      "required": [
+        "LastUpdate",
+        "PreviousUpdate",
+        "3rdPreviousUpdate",
+        "4thPreviousUpdate"
+      ]
+    }
+  },
+  "required": [
+    "SettingsVersion",
+    "ClockInVersion",
+    "Last4Updates"
+  ]
+}

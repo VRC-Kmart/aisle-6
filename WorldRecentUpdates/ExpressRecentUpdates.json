@@ -1,4 +1,5 @@
 {
+  "$schema": "./schema.json",
   "SettingsVersion": "1.0.1",
   "ClockInVersion": "1.0.1",
   "Last4Updates": {

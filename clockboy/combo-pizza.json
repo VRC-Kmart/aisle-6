@@ -1,4 +1,5 @@
 {
+  "$schema": "./combo-pizza.schema.json",
   "Clocked_In_Associates": [
     {
       "departments": [
@@ -713,7 +714,7 @@
     },
     {
       "departments": [{ "ID": 254, "Name": "DEVELOPER" }],
-      "RegistryTimestamp": 1734092202971,
+      "RegistryTimeStamp": 1734092202971,
       "ShiftCount": 69420,
       "VRC_Username": "Norelock"
     },
@@ -722,13 +723,13 @@
         { "ID": 10, "Name": "KCafe" },
         { "ID": 0, "Name": "Customer Service" }
       ],
-      "RegistryTimestamp": 1591744800000,
+      "RegistryTimeStamp": 1591744800000,
       "ShiftCount": 69420,
       "VRC_Username": "Tired_The_Proto"
     },
     {
       "departments": [{ "ID": 128, "Name": "Kmart Weatherman" }],
-      "RegistryTimestamp": 1735757920454,
+      "RegistryTimeStamp": 1735757920454,
       "ShiftCount": 69420,
       "VRC_Username": "Connerdacatboy"
     },

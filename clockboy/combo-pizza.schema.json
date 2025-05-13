@@ -1,0 +1,191 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "Clocked_In_Associates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "ShiftCount": {
+            "type": "number"
+          },
+          "VRC_Username": {
+            "type": "string"
+          },
+          "RegistryTimeStamp": {
+            "type": "number"
+          },
+          "Dev": {
+            "type": "boolean"
+          },
+          "FunnyCallboxes": {
+            "type": "boolean"
+          },
+          "departments": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "ID": {
+                  "type": "number"
+                },
+                "Name": {
+                  "type": "string"
+                }
+              },
+              "required": ["Name"]
+            }
+          }
+        },
+        "required": ["departments", "VRC_Username", "RegistryTimeStamp", "ShiftCount"]
+      }
+    },
+    "footer": {
+      "type": "object",
+      "properties": {
+        "event": {
+          "type": "object",
+          "properties": {
+            "Description": {
+              "type": "string"
+            },
+            "Name": {
+              "type": "string"
+            },
+            "Notification": {
+              "type": "string"
+            }
+          },
+          "required": ["Description", "Name", "Notification"]
+        }
+      },
+      "required": ["event"]
+    },
+    "header": {
+      "type": "object",
+      "properties": {
+        "Locations": {
+          "type": "object",
+          "properties": {
+            "express": {
+              "type": "object",
+              "properties": {
+                "Active": {
+                  "type": "boolean"
+                },
+                "AssociateOnly": {
+                  "type": "boolean"
+                },
+                "LocationName": {
+                  "type": "string"
+                }
+              },
+              "required": ["Active", "AssociateOnly", "LocationName"]
+            },
+            "expresscl": {
+              "type": "object",
+              "properties": {
+                "Active": {
+                  "type": "boolean"
+                },
+                "AssociateOnly": {
+                  "type": "boolean"
+                },
+                "LocationName": {
+                  "type": "string"
+                }
+              },
+              "required": ["Active", "AssociateOnly", "LocationName"]
+            },
+            "mainstore": {
+              "type": "object",
+              "properties": {
+                "Active": {
+                  "type": "boolean"
+                },
+                "AssociateOnly": {
+                  "type": "boolean"
+                },
+                "LocationName": {
+                  "type": "string"
+                }
+              },
+              "required": ["Active", "AssociateOnly", "LocationName"]
+            },
+            "skevent": {
+              "type": "object",
+              "properties": {
+                "Active": {
+                  "type": "boolean"
+                },
+                "AssociateOnly": {
+                  "type": "boolean"
+                },
+                "LocationName": {
+                  "type": "string"
+                }
+              },
+              "required": ["Active", "AssociateOnly", "LocationName"]
+            },
+            "superk": {
+              "type": "object",
+              "properties": {
+                "Active": {
+                  "type": "boolean"
+                },
+                "AssociateOnly": {
+                  "type": "boolean"
+                },
+                "LocationName": {
+                  "type": "string"
+                }
+              },
+              "required": ["Active", "AssociateOnly", "LocationName"]
+            },
+            "warehouse": {
+              "type": "object",
+              "properties": {
+                "Active": {
+                  "type": "boolean"
+                },
+                "AssociateOnly": {
+                  "type": "boolean"
+                },
+                "LocationName": {
+                  "type": "string"
+                }
+              },
+              "required": ["Active", "AssociateOnly", "LocationName"]
+            }
+          },
+          "required": [
+            "express",
+            "expresscl",
+            "mainstore",
+            "skevent",
+            "superk",
+            "warehouse"
+          ]
+        },
+        "Pardons": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "Reason": {
+                "type": "string"
+              },
+              "VRC_Username": {
+                "type": "string"
+              }
+            },
+            "required": ["Reason", "VRC_Username"]
+          }
+        }
+      },
+      "required": ["Locations", "Pardons"]
+    }
+  },
+  "required": ["Clocked_In_Associates", "footer", "header"]
+}

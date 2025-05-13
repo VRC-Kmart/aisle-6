@@ -1,4 +1,5 @@
 {
+  "$schema": "./combo-pizza-Dev.schema.json",
   "Associates": [
     {
       "Departments": [
@@ -777,14 +778,14 @@
       "Departments": [{ "Name": "DEVELOPER" }],
       "Dev": true,
       "FunnyCallboxes": true,
-      "RegistryTimestamp": 1734092202971,
+      "RegistryTimeStamp": 1734092202971,
       "VRC_Username": "Norelock"
     },
     {
       "Departments": [{ "Name": "KCafe" }, { "Name": "Customer Service" }],
       "Dev": false,
       "FunnyCallboxes": false,
-      "RegistryTimestamp": 1591744800000,
+      "RegistryTimeStamp": 1591744800000,
       "VRC_Username": "Tired_The_Proto"
     },
     {
@@ -1035,7 +1036,7 @@
         { "Name": "MANAGER" },
         { "Name": "MARKETING" },
         { "Name": "Portrait Studio" },
-		{ "Name": "SECURITY" }
+        { "Name": "SECURITY" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,

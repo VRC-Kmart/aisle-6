@@ -1,0 +1,149 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "Associates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "VRC_Username": {
+            "type": "string"
+          },
+          "RegistryTimeStamp": {
+            "type": "number"
+          },
+          "Dev": {
+            "type": "boolean"
+          },
+          "FunnyCallboxes": {
+            "type": "boolean"
+          },
+          "Departments": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "Name": {
+                  "type": "string"
+                }
+              },
+              "required": ["Name"]
+            }
+          }
+        },
+        "required": ["Departments", "VRC_Username"]
+      }
+    },
+    "header": {
+      "type": "object",
+      "properties": {
+        "Locations": {
+          "type": "object",
+          "properties": {
+            "express": {
+              "type": "object",
+              "properties": {
+                "AssociateOnly": {
+                  "type": "boolean"
+                },
+                "ClockInEnabled": {
+                  "type": "boolean"
+                },
+                "LocationName": {
+                  "type": "string"
+                }
+              },
+              "required": ["AssociateOnly", "ClockInEnabled", "LocationName"]
+            },
+            "expresscl": {
+              "type": "object",
+              "properties": {
+                "AssociateOnly": {
+                  "type": "boolean"
+                },
+                "ClockInEnabled": {
+                  "type": "boolean"
+                },
+                "LocationName": {
+                  "type": "string"
+                }
+              },
+              "required": ["AssociateOnly", "ClockInEnabled", "LocationName"]
+            },
+            "mainstore": {
+              "type": "object",
+              "properties": {
+                "AssociateOnly": {
+                  "type": "boolean"
+                },
+                "ClockInEnabled": {
+                  "type": "boolean"
+                },
+                "LocationName": {
+                  "type": "string"
+                }
+              },
+              "required": ["AssociateOnly", "ClockInEnabled", "LocationName"]
+            },
+            "skevent": {
+              "type": "object",
+              "properties": {
+                "AssociateOnly": {
+                  "type": "boolean"
+                },
+                "ClockInEnabled": {
+                  "type": "boolean"
+                },
+                "LocationName": {
+                  "type": "string"
+                }
+              },
+              "required": ["AssociateOnly", "ClockInEnabled", "LocationName"]
+            },
+            "superk": {
+              "type": "object",
+              "properties": {
+                "AssociateOnly": {
+                  "type": "boolean"
+                },
+                "ClockInEnabled": {
+                  "type": "boolean"
+                },
+                "LocationName": {
+                  "type": "string"
+                }
+              },
+              "required": ["AssociateOnly", "ClockInEnabled", "LocationName"]
+            },
+            "warehouse": {
+              "type": "object",
+              "properties": {
+                "AssociateOnly": {
+                  "type": "boolean"
+                },
+                "ClockInEnabled": {
+                  "type": "boolean"
+                },
+                "LocationName": {
+                  "type": "string"
+                }
+              },
+              "required": ["AssociateOnly", "ClockInEnabled", "LocationName"]
+            }
+          },
+          "required": [
+            "express",
+            "expresscl",
+            "mainstore",
+            "skevent",
+            "superk",
+            "warehouse"
+          ]
+        }
+      },
+      "required": ["Locations"]
+    }
+  },
+  "required": ["Associates", "header"]
+}

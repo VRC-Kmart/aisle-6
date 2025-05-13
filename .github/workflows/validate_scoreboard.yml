@@ -6,15 +6,46 @@ on:
   workflow_dispatch:
 
 jobs:
-  verify-json-validation:
+  verify-scoreboard-validation:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Validate scoreboard
+        id: scoreCheck
         uses: cardinalby/schema-validator-action@v3
         with:
           file: 'highscores/scoreboard.json'
           schema: 'highscores/scoreboard.schema.json'
-
-
           
+  verify-associates-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Validate Associates
+        id: clockboyCheck
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          file: 'clockboy/combo-pizza-Dev.json'
+          schema: 'clockboy/combo-pizza-Dev.schema.json'
+
+  verify-legacy-associates-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Validate Legacy Associates
+        id: legacyClockboyCheck
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          file: 'clockboy/combo-pizza-Dev.json'
+          schema: 'clockboy/combo-pizza-Dev.schema.json'
+          
+  verify-changelog-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Validate Changelog
+        id: changelogCheck
+        uses: cardinalby/schema-validator-action@v3
+        with:
+          file: 'WorldRecentUpdates/SuperKRecentUpdates.json|WorldRecentUpdates/ExpressRecentUpdates.json|WorldRecentUpdates/MainStoreRecentUpdates.json'
+          schema: 'WorldRecentUpdates/schema.json'
