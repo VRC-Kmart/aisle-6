@@ -1096,6 +1096,24 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1746681061548,
       "departments": [{ "Name": "Pharmacy", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Dravendadragon",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1747362741731,
+      "departments": [{ "Name": "Janitorial", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Tsundere Addict 0549",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1747362741740,
+      "departments": [{ "Name": "Deli/Bakery", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "ShibbyDaCheetah",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1747362741741,
+      "departments": [{ "Name": "Hardlines", "ID": 0 }]
     }
   ],
   "footer": {

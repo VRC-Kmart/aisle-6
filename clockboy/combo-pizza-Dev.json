@@ -1201,6 +1201,27 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Pharmacy" }]
+    },
+    {
+      "VRC_Username": "Dravendadragon",
+      "RegistryTimeStamp": 1747362741731,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Janitorial" }]
+    },
+    {
+      "VRC_Username": "Tsundere Addict 0549",
+      "RegistryTimeStamp": 1747362741740,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Deli/Bakery" }]
+    },
+    {
+      "VRC_Username": "ShibbyDaCheetah",
+      "RegistryTimeStamp": 1747362741741,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Hardlines" }]
     }
   ],
   "header": {
