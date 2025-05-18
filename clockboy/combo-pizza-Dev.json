@@ -95,18 +95,6 @@
     },
     {
       "Departments": [
-        { "Name": "GENERAL MANAGER" },
-        { "Name": "HUMAN RESOURCES" },
-        { "Name": "DEVELOPER" },
-        { "Name": "MANAGEMENT" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1718060054721,
-      "VRC_Username": "Ermina West"
-    },
-    {
-      "Departments": [
         { "Name": "HUMAN RESOURCES" },
         { "Name": "MANAGEMENT" },
         { "Name": "SECURITY" },
@@ -314,6 +302,16 @@
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "Snord"
+    },
+    {
+      "Departments": [
+        { "Name": "Electronics" },
+        { "Name": "Deli/Bakery" }
+      ],
+      "Dev": false,
+      "FunnyCallboxes": true,
+      "RegistryTimeStamp": 1718060054721,
+      "VRC_Username": "Ermina West"
     },
     {
       "Departments": [

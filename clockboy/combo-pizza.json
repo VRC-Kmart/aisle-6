@@ -91,9 +91,8 @@
     },
     {
       "departments": [
-        { "ID": 254, "Name": "GENERAL MANAGER" },
-        { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 251, "Name": "HUMAN RESOURCES" }
+        { "ID": 254, "Name": "Electronics" },
+        { "ID": 254, "Name": "Bakery/Deli" }
       ],
       "RegistryTimeStamp": 1718060054721,
       "ShiftCount": 69420,
