@@ -304,10 +304,7 @@
       "VRC_Username": "Snord"
     },
     {
-      "Departments": [
-        { "Name": "Electronics" },
-        { "Name": "Deli/Bakery" }
-      ],
+      "Departments": [{ "Name": "Electronics" }, { "Name": "Deli/Bakery" }],
       "Dev": false,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
@@ -1217,6 +1214,27 @@
     {
       "VRC_Username": "ShibbyDaCheetah",
       "RegistryTimeStamp": 1747362741741,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Hardlines" }]
+    },
+    {
+      "VRC_Username": "Alex_Sharp",
+      "RegistryTimeStamp": 1747756054143,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Kcafe" }]
+    },
+    {
+      "VRC_Username": "Paco_The_Guaco",
+      "RegistryTimeStamp": 1747756054149,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Sporting Goods" }]
+    },
+    {
+      "VRC_Username": "GambitTheDerg",
+      "RegistryTimeStamp": 1747756054150,
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Hardlines" }]

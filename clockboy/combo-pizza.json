@@ -1113,6 +1113,24 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1747362741741,
       "departments": [{ "Name": "Hardlines", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Alex_Sharp",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1747756054143,
+      "departments": [{ "Name": "Kcafe", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Paco_The_Guaco",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1747756054149,
+      "departments": [{ "Name": "Sporting Goods", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "GambitTheDerg",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1747756054150,
+      "departments": [{ "Name": "Hardlines", "ID": 0 }]
     }
   ],
   "footer": {
