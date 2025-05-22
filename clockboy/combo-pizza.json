@@ -675,7 +675,7 @@
       "departments": [
         { "ID": 128, "Name": "Boy wife" },
         { "ID": 66, "Name": "Security" },
-        { "ID": 1, "Name": "Electronics" }
+        { "ID": 0, "Name": "TRAINER" }
       ],
       "RegistryTimeStamp": 1729234764392,
       "ShiftCount": 69420,
