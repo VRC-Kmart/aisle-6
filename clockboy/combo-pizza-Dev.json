@@ -1244,7 +1244,7 @@
       "RegistryTimeStamp": 1747888114874,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Electronics" }]
+      "Departments": [{ "Name": "Electronics" }, { "Name": "Something Sexy" }]
     }
   ],
   "header": {

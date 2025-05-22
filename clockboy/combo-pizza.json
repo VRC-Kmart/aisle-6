@@ -1136,7 +1136,7 @@
       "VRC_Username": "fykon",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1747888114874,
-      "departments": [{ "Name": "Electronics", "ID": 0 }]
+      "departments": [{ "Name": "Electronics", "ID": 0 }, { "Name": "Something Sexy", "ID": 0 }]
     }
   ],
   "footer": {
