@@ -1131,6 +1131,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1747756054150,
       "departments": [{ "Name": "Hardlines", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "fykon",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1747888114874,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
     }
   ],
   "footer": {

@@ -1238,6 +1238,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Hardlines" }]
+    },
+    {
+      "VRC_Username": "fykon",
+      "RegistryTimeStamp": 1747888114874,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
     }
   ],
   "header": {
