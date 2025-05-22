@@ -1,6 +1,6 @@
 {
     "superk":{
-		"LastUpdated": "5-11-25",
+		"LastUpdated": "5-22-25",
         "flappyHat":[
             {
                 "name": "K17-C47",
@@ -27,20 +27,20 @@
                 "score": 69
             },
             {
+                "name": "SlugRobinson",
+                "score": 47
+            },
+            {
                 "name": "Jaytheshadow",
                 "score": 33
             },
             {
+                "name": "Oreo_Nardo",
+                "score": 21
+            },
+            {
                 "name": "AAAAstolfo",
                 "score": 18
-            },
-            {
-                "name": "Kohai~Senpai",
-                "score": 14
-            },
-            {
-                "name": "ButterflyCutie",
-                "score": 11
             }
         ],
         "pawtris":[
@@ -51,6 +51,10 @@
             {
                 "name": "Friskiiii",
                 "score": 27980
+            },
+            {
+                "name": "Oreo_Nardo",
+                "score": 20320
             },
             {
                 "name": "RexWolfenVRC1",
@@ -75,10 +79,6 @@
             {
                 "name": ":3",
                 "score": 69420
-            },
-            {
-                "name": "????",
-                "score": 0
             },
             {
                 "name": "????",
