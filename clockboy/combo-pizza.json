@@ -493,12 +493,6 @@
       "VRC_Username": "Foran"
     },
     {
-      "departments": [{ "ID": 20, "Name": "Janitorial" }],
-      "RegistryTimeStamp": 1725438753932,
-      "ShiftCount": 69420,
-      "VRC_Username": "Dot Katsu"
-    },
-    {
       "departments": [{ "ID": 12, "Name": "Bakery/Deli" }],
       "RegistryTimeStamp": 1723088491688,
       "ShiftCount": 69420,
@@ -1003,12 +997,6 @@
       "VRC_Username": "FluxxieVerse"
     },
     {
-      "departments": [{ "ID": 0, "Name": "KCafe" }],
-      "RegistryTimeStamp": 1744597689457,
-      "ShiftCount": 69420,
-      "VRC_Username": "K11LL3R"
-    },
-    {
       "departments": [
         { "ID": 0, "Name": "DEVELOPER" },
         { "ID": 0, "Name": "Will recieve a pipebomb in the mail" }
@@ -1079,12 +1067,6 @@
       "VRC_Username": "Diatonic_Lemon"
     },
     {
-      "departments": [{ "ID": 0, "Name": "Customer Service" }],
-      "RegistryTimeStamp": 1746655903151,
-      "ShiftCount": 69420,
-      "VRC_Username": "420lilith"
-    },
-    {
       "VRC_Username": "~ ︳MILZIES︳~",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1746681061543,
@@ -1136,7 +1118,22 @@
       "VRC_Username": "fykon",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1747888114874,
-      "departments": [{ "Name": "Electronics", "ID": 0 }, { "Name": "Something Sexy", "ID": 0 }]
+      "departments": [
+        { "Name": "Electronics", "ID": 0 },
+        { "Name": "Something Sexy", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "K17-C47",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1748383797174,
+      "departments": [{ "Name": "Janitorial", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "LokiBat",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1748383797179,
+      "departments": [{ "Name": "KCafe", "ID": 0 }]
     }
   ],
   "footer": {

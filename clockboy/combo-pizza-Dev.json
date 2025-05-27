@@ -540,13 +540,6 @@
       "VRC_Username": "Foran"
     },
     {
-      "Departments": [{ "Name": "Janitorial" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1725438753932,
-      "VRC_Username": "Dot Katsu"
-    },
-    {
       "Departments": [{ "Name": "Bakery/Deli" }],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1100,13 +1093,6 @@
       "VRC_Username": "FluxxieVerse"
     },
     {
-      "Departments": [{ "Name": "KCafe" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1744597689457,
-      "VRC_Username": "K11LL3R"
-    },
-    {
       "Departments": [
         { "Name": "DEVELOPER" },
         { "Name": "Will recieve a pipebomb in the mail" }
@@ -1177,13 +1163,6 @@
       "VRC_Username": "Diatonic_Lemon"
     },
     {
-      "Departments": [{ "Name": "Customer Service" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1746655903151,
-      "VRC_Username": "420lilith"
-    },
-    {
       "VRC_Username": "~ ︳MILZIES︳~",
       "RegistryTimeStamp": 1746681061543,
       "Dev": false,
@@ -1245,6 +1224,20 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Electronics" }, { "Name": "Something Sexy" }]
+    },
+    {
+      "VRC_Username": "K17-C47",
+      "RegistryTimeStamp": 1748383797174,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Janitorial" }]
+    },
+    {
+      "VRC_Username": "LokiBat",
+      "RegistryTimeStamp": 1748383797179,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "KCafe" }]
     }
   ],
   "header": {
