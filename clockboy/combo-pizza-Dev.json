@@ -1238,6 +1238,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "KCafe" }]
+    },
+    {
+      "VRC_Username": "Waffuru_OW",
+      "RegistryTimeStamp": 1748762752474,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Janitorial" }]
     }
   ],
   "header": {

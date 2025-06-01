@@ -1134,6 +1134,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1748383797179,
       "departments": [{ "Name": "KCafe", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Waffuru_OW",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1748762752474,
+      "departments": [{ "Name": "Janitorial", "ID": 0 }]
     }
   ],
   "footer": {

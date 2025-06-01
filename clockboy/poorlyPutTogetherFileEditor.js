@@ -5,7 +5,7 @@ const fileLegacy = require("./combo-pizza.json");
 let tempDB, tempDBLegacy;
 let numEdited = 0;
 
-// logInfo();
+logInfo();
 
 /* Thanks to null. 
  * you know who you are :3 */
@@ -14,7 +14,7 @@ let numEdited = 0;
 /* How to add an associate using the tool! 
  *
  * ANYTHING NOT REQUIRED CAN BE REMOVED AND IT'LL BE SET TO DEFAULT
-* 
+ * 
  * set USER_NAME to the VRChat username of the associate
  *     (required)
  * set DEPARTMENT to the name of the desired department
