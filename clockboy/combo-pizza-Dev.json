@@ -1231,6 +1231,20 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Janitorial" }]
+    },
+    {
+      "VRC_Username": "_spidget",
+      "RegistryTimeStamp": 1748914813033,
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "Departments": [{ "Name": "DEVELOPER" }]
+    },
+    {
+      "VRC_Username": "4liceD",
+      "RegistryTimeStamp": 1748914813036,
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "Departments": [{ "Name": "DEVELOPER" }]
     }
   ],
   "header": {

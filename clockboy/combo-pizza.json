@@ -1128,6 +1128,18 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1748762752474,
       "departments": [{ "Name": "Janitorial", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "_spidget",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1748914813033,
+      "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "4liceD",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1748914813036,
+      "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
     }
   ],
   "footer": {
