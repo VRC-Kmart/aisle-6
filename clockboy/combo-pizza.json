@@ -1140,6 +1140,18 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1748914813036,
       "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Paco_The_Guaco",
+      "RegistryTimeStamp": 1747756054149,
+      "ShiftCount": 69420,
+      "departments": [{ "Name": "Sporting Goods" }]
+    },
+    {
+      "VRC_Username": "GambitTheDerg",
+      "RegistryTimeStamp": 1747756054150,
+      "ShiftCount": 69420,
+      "departments": [{ "Name": "Hardlines" }]
     }
   ],
   "footer": {
