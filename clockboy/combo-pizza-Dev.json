@@ -1086,7 +1086,10 @@
       "VRC_Username": "SaltineCrackers"
     },
     {
-      "Departments": [{ "Name": "Customer Service" }],
+      "Departments": [
+        { "Name": "IT DEPARTMENT" },
+        { "Name": "Customer Service" }
+      ],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1744597689456,
@@ -1212,13 +1215,6 @@
       "Departments": [{ "Name": "Electronics" }, { "Name": "Something Sexy" }]
     },
     {
-      "VRC_Username": "K17-C47",
-      "RegistryTimeStamp": 1748383797174,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Janitorial" }]
-    },
-    {
       "VRC_Username": "LokiBat",
       "RegistryTimeStamp": 1748383797179,
       "Dev": false,
@@ -1246,7 +1242,7 @@
       "FunnyCallboxes": true,
       "Departments": [{ "Name": "DEVELOPER" }]
     },
-        {
+    {
       "VRC_Username": "Paco_The_Guaco",
       "RegistryTimeStamp": 1747756054149,
       "Dev": false,

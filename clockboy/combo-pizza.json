@@ -991,7 +991,10 @@
       "VRC_Username": "SaltineCrackers"
     },
     {
-      "departments": [{ "ID": 0, "Name": "Customer Service" }],
+      "departments": [
+        { "Name": "IT DEPARTMENT", "ID": 0 },
+        { "ID": 0, "Name": "Customer Service" }
+        ],
       "RegistryTimeStamp": 1744597689456,
       "ShiftCount": 69420,
       "VRC_Username": "FluxxieVerse"
@@ -1110,12 +1113,6 @@
         { "Name": "Electronics", "ID": 0 },
         { "Name": "Something Sexy", "ID": 0 }
       ]
-    },
-    {
-      "VRC_Username": "K17-C47",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1748383797174,
-      "departments": [{ "Name": "Janitorial", "ID": 0 }]
     },
     {
       "VRC_Username": "LokiBat",
