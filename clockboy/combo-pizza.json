@@ -175,7 +175,7 @@
     },
     {
       "departments": [
-        { "ID": 254, "Name": "Cheated in Minecraft" },
+        { "ID": 254, "Name": "ASSISTANT MANAGER" },
         { "ID": 253, "Name": "MANAGEMENT" },
         { "ID": 12, "Name": "Bakery/Deli" }
       ],
@@ -213,7 +213,6 @@
     },
     {
       "departments": [
-        { "ID": 253, "Name": "MANAGEMENT" },
         { "ID": 1, "Name": "Electronics" }
       ],
       "RegistryTimeStamp": 1677977682853,

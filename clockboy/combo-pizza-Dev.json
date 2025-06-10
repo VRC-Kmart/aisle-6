@@ -213,6 +213,7 @@
     },
     {
       "Departments": [
+        { "Name": "ADMINISTRATION" },
         { "Name": "fUckin MAV" },
         { "Name": "MANAGEMENT" },
         { "Name": "Bakery/Deli Manager" }
@@ -255,11 +256,10 @@
     },
     {
       "Departments": [
-        { "Name": "MANAGEMENT" },
-        { "Name": "Electronics Manager" }
+        { "Name": "Electronics" }
       ],
-      "Dev": true,
-      "FunnyCallboxes": true,
+      "Dev": false,
+      "FunnyCallboxes": false,
       "RegistryTimeStamp": 1677977682853,
       "VRC_Username": "RexWolfenVRC1"
     },
