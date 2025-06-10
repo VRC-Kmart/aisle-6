@@ -256,15 +256,6 @@
     },
     {
       "Departments": [
-        { "Name": "Electronics" }
-      ],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1677977682853,
-      "VRC_Username": "RexWolfenVRC1"
-    },
-    {
-      "Departments": [
         { "Name": "MANAGEMENT" },
         { "Name": "Pharmacy Manager" },
         { "Name": "actively looking for fent!" }
@@ -1241,20 +1232,6 @@
       "Dev": true,
       "FunnyCallboxes": true,
       "Departments": [{ "Name": "DEVELOPER" }]
-    },
-    {
-      "VRC_Username": "Paco_The_Guaco",
-      "RegistryTimeStamp": 1747756054149,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Sporting Goods" }]
-    },
-    {
-      "VRC_Username": "GambitTheDerg",
-      "RegistryTimeStamp": 1747756054150,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Hardlines" }]
     }
   ],
   "header": {
