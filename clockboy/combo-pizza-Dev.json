@@ -377,7 +377,7 @@
       "VRC_Username": "JCloud"
     },
     {
-      "Departments": [{ "Name": "Customer Service" }, { "Name": "Automotive" }],
+      "Departments": [{ "Name": "SECURITY" },{ "Name": "Customer Service" }, { "Name": "Automotive" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
@@ -940,7 +940,7 @@
       "VRC_Username": "Jaytheshadow"
     },
     {
-      "Departments": [{ "Name": "Electronics" }],
+      "Departments": [{ "Name": "SECURITY" },{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741501008011,
