@@ -1,6 +1,6 @@
 {
     "superk":{
-		"LastUpdated": "6-10-25",
+		"LastUpdated": "6-11-25",
         "flappyHat":[
             {
                 "name": "K17-C47",
@@ -49,6 +49,10 @@
                 "score": 105100
             },
             {
+                "name": "_spidget",
+                "score": 63280
+            },
+            {
                 "name": "Friskiiii",
                 "score": 27980
             },
@@ -79,10 +83,6 @@
             {
                 "name": "charlie-san",
                 "score": 6000
-            },
-            {
-                "name": ":3",
-                "score": 69420
             }
         ]
     },
