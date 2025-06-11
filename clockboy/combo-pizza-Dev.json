@@ -1224,7 +1224,7 @@
       "RegistryTimeStamp": 1748914813033,
       "Dev": true,
       "FunnyCallboxes": true,
-      "Departments": [{ "Name": "DEVELOPER" }]
+      "Departments": [{ "Name": "DEVELOPER" }, { "Name": "Electronics" }]
     },
     {
       "VRC_Username": "4liceD",

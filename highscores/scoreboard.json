@@ -1,6 +1,6 @@
 {
     "superk":{
-		"LastUpdated": "5-27-25",
+		"LastUpdated": "6-10-25",
         "flappyHat":[
             {
                 "name": "K17-C47",
@@ -35,12 +35,12 @@
                 "score": 47
             },
             {
-                "name": "Jaytheshadow",
-                "score": 33
+                "name": "GIO",
+                "score": 44
             },
             {
-                "name": "Oreo_Nardo",
-                "score": 21
+                "name": "Jaytheshadow",
+                "score": 33
             }
         ],
         "pawtris":[
@@ -61,6 +61,10 @@
                 "score": 15760
             },
             {
+                "name": "GQ.inc",
+                "score": 12460
+            },
+            {
                 "name": "Zukovoy91",
                 "score": 12300
             },
@@ -79,10 +83,6 @@
             {
                 "name": ":3",
                 "score": 69420
-            },
-            {
-                "name": "????",
-                "score": 0
             }
         ]
     },
