@@ -48,6 +48,29 @@
       "RegistryTimeStamp": 1451903199390,
       "VRC_Username": "Tizzy"
     },
+        {
+      "Departments": [
+        { "Name": "LPD Enjoyer" },
+        { "Name": "Stinky Captain" },
+        { "Name": "Is Ruining Everything" },
+        { "Name": "Is Gay!" }
+      ],
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "RegistryTimeStamp": -22074000000,
+      "VRC_Username": "Fukaziroh"
+    },
+        {
+      "Departments": [
+        { "Name": "LPD Enjoyer" },
+        { "Name": "Stinky Chief" },
+        { "Name": "Will bully demonitized" }
+      ],
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "RegistryTimeStamp": 1589448000000,
+      "VRC_Username": "Karet"
+    },
     {
       "Departments": [{ "Name": "LPD AMBASSADOR" }, { "Name": "Old as Fuck" }],
       "Dev": true,
@@ -55,45 +78,7 @@
       "RegistryTimeStamp": 884376000000,
       "VRC_Username": "lowkeykayla"
     },
-    {
-      "Departments": [{ "Name": "DEVELOPER" }, { "Name": "MARKETING" }],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1519871728936,
-      "VRC_Username": "「ᴊᴄ」"
-    },
-    {
-      "Departments": [{ "Name": "Customer Service" }, { "Name": "Hardlines" }],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1520966253178,
-      "VRC_Username": "Chilgt"
-    },
-    {
-      "Departments": [
-        { "Name": "DEVELOPER" },
-        { "Name": "IT DEPARTMENT" },
-        { "Name": "Customer Service" },
-        { "Name": "Having a billing issue" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1619096956226,
-      "VRC_Username": "Smirf123"
-    },
-    {
-      "Departments": [
-        { "Name": "DEVELOPER" },
-        { "Name": "Clown" },
-        { "Name": "Drill Bucket Enjoyer" },
-        { "Name": "Tea Enjoyer" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1725343270625,
-      "VRC_Username": "［Jagga］"
-    },
-    {
+        {
       "Departments": [
         { "Name": "HUMAN RESOURCES" },
         { "Name": "MANAGEMENT" },
@@ -116,6 +101,45 @@
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1670216238796,
       "VRC_Username": "Friskiiii"
+    },
+        {
+      "Departments": [
+        { "Name": "DEVELOPER" },
+        { "Name": "IT DEPARTMENT" },
+        { "Name": "Customer Service" },
+        { "Name": "Having a billing issue" }
+      ],
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "RegistryTimeStamp": 1619096956226,
+      "VRC_Username": "Smirf123"
+    },
+    {
+      "Departments": [{ "Name": "DEVELOPER" }, { "Name": "MARKETING" }],
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "RegistryTimeStamp": 1519871728936,
+      "VRC_Username": "「ᴊᴄ」"
+    },
+    {
+      "Departments": [{ "Name": "Customer Service" }, { "Name": "Hardlines" }],
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "RegistryTimeStamp": 1520966253178,
+      "VRC_Username": "Chilgt"
+    },
+
+    {
+      "Departments": [
+        { "Name": "DEVELOPER" },
+        { "Name": "Clown" },
+        { "Name": "Drill Bucket Enjoyer" },
+        { "Name": "Tea Enjoyer" }
+      ],
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "RegistryTimeStamp": 1725343270625,
+      "VRC_Username": "［Jagga］"
     },
     {
       "Departments": [{ "Name": "DEVELOPER" }],
@@ -293,13 +317,6 @@
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "Snord"
-    },
-    {
-      "Departments": [{ "Name": "Electronics" }, { "Name": "Deli/Bakery" }],
-      "Dev": false,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1718060054721,
-      "VRC_Username": "Ermina West"
     },
     {
       "Departments": [
@@ -550,6 +567,17 @@
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1701055512575,
       "VRC_Username": "Legoman99573"
+    },
+            {
+      "Departments": [
+        { "Name": "Jim Cantore Enjoyer" },
+        { "Name": "Redbox Restocker" },
+        { "Name": "Claims" }
+      ],
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "RegistryTimeStamp": 1741496824950,
+      "VRC_Username": "CilCil"
     },
     {
       "Departments": [{ "Name": "Electronics" }],
@@ -836,18 +864,6 @@
     },
     {
       "Departments": [
-        { "Name": "LPD Enjoyer" },
-        { "Name": "Stinky Captain" },
-        { "Name": "Is Ruining Everything" },
-        { "Name": "Is Gay!" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": -22074000000,
-      "VRC_Username": "Fukaziroh"
-    },
-    {
-      "Departments": [
         { "Name": "Thesis Enjoyer" },
         { "Name": "Stinky" },
         { "Name": "Nerd" },
@@ -915,17 +931,6 @@
       "VRC_Username": "enzopuppydog"
     },
     {
-      "Departments": [
-        { "Name": "Jim Cantore Enjoyer" },
-        { "Name": "Redbox Restocker" },
-        { "Name": "Claims" }
-      ],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1741496824950,
-      "VRC_Username": "CilCil"
-    },
-    {
       "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -966,13 +971,6 @@
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741829276224,
       "VRC_Username": "Neon_Fennix"
-    },
-    {
-      "Departments": [{ "Name": "Customer Service" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1741496824943,
-      "VRC_Username": "KallieCocoa"
     },
     {
       "Departments": [
@@ -1130,17 +1128,6 @@
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1745626138869,
       "VRC_Username": "snoweywolfcat"
-    },
-    {
-      "Departments": [
-        { "Name": "LPD Enjoyer" },
-        { "Name": "Stinky Chief" },
-        { "Name": "Will bully demonitized" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1589448000000,
-      "VRC_Username": "Karet"
     },
     {
       "Departments": [{ "Name": "Electronics" }],
