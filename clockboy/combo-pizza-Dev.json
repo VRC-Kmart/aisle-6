@@ -394,7 +394,7 @@
       "VRC_Username": "JCloud"
     },
     {
-      "Departments": [{ "Name": "SECURITY" },{ "Name": "Customer Service" }, { "Name": "Automotive" }],
+      "Departments": [{ "Name": "Customer Service" }, { "Name": "Automotive" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
