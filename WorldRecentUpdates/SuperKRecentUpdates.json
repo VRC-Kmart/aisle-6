@@ -5,23 +5,23 @@
   "Last4Updates": {
     "LastUpdate": {
       "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
+      "Changes": "\u2022A Storm has started to roll in!<br>\u2022Tweaked Lighting<br>\u2022Switched most everything to a new shader<br>\u2022Fixed a bug with outside audio",
+      "DateOfUpdate": "6-24-25"
+    },
+    "PreviousUpdate": {
+      "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
       "Changes": "\u2022The map has been Pride Month-ified!<br>\u2022Radio was updated for June<br>\u2022Updated TV Playlist<br>\u2022Updated ProTV and VRChat SDK",
       "DateOfUpdate": "6-1-25"
     },
-    "PreviousUpdate": {
+    "3rdPreviousUpdate": {
       "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
       "Changes": "\u2022Updated a few more textures<br>\u2022Changed wanted posters to a poster system<br>\u2022Added Associates board in break room<br>\u2022Updated ProTV SDK",
       "DateOfUpdate": "05-22-25"
     },
-    "3rdPreviousUpdate": {
+    "4thPreviousUpdate": {
       "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
       "Changes": "\u2022Updated textures<br>\u2022Fixed missing forklift<br>\u2022Added an easter egg in the bathrooms",
       "DateOfUpdate": "05-21-25"
-    },
-    "4thPreviousUpdate": {
-      "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
-      "Changes": "\u2022The lighting has been changed to be more of summer<br>\u2022Added some new Take it Outside! signage<br>\u2022Fixed a Easter Egg<br>\u2022Some updates to ProTV",
-      "DateOfUpdate": "05-14-25"
     }
   }
 }
