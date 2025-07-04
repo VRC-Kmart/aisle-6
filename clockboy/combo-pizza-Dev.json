@@ -359,9 +359,9 @@
       "VRC_Username": "FlyingSeacat"
     },
     {
-      "Departments": [{ "Name": "SECURITY" }],
-      "Dev": true,
-      "FunnyCallboxes": true,
+      "Departments": [{ "Name": "Hardlines" }],
+      "Dev": false,
+      "FunnyCallboxes": false,
       "RegistryTimeStamp": 1695964195195,
       "VRC_Username": "HighestInDaRoom"
     },
@@ -492,7 +492,7 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1701284514609,
-      "VRC_Username": "GhostlyScratch"
+      "VRC_Username": "PVTGhostly76"
     },
     {
       "Departments": [{ "Name": "Electronics" }],

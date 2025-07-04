@@ -334,7 +334,7 @@
       "VRC_Username": "FlyingSeacat"
     },
     {
-      "departments": [{ "ID": 66, "Name": "Security" }],
+      "departments": [{ "ID": 0, "Name": "Hardlines" }],
       "RegistryTimeStamp": 1695964195195,
       "ShiftCount": 69420,
       "VRC_Username": "HighestInDaRoom"
@@ -463,7 +463,7 @@
       "departments": [{ "ID": 5, "Name": "Automotive" }],
       "RegistryTimeStamp": 1701284514609,
       "ShiftCount": 69420,
-      "VRC_Username": "GhostlyScratch"
+      "VRC_Username": "PVTGhostly76"
     },
     {
       "departments": [{ "ID": 1, "Name": "Electronics" }],
