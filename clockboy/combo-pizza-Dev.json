@@ -48,7 +48,7 @@
       "RegistryTimeStamp": 1451903199390,
       "VRC_Username": "Tizzy"
     },
-        {
+    {
       "Departments": [
         { "Name": "LPD Enjoyer" },
         { "Name": "Stinky Captain" },
@@ -60,7 +60,7 @@
       "RegistryTimeStamp": -22074000000,
       "VRC_Username": "Fukaziroh"
     },
-        {
+    {
       "Departments": [
         { "Name": "LPD Enjoyer" },
         { "Name": "Stinky Chief" },
@@ -78,7 +78,7 @@
       "RegistryTimeStamp": 884376000000,
       "VRC_Username": "lowkeykayla"
     },
-        {
+    {
       "Departments": [
         { "Name": "HUMAN RESOURCES" },
         { "Name": "MANAGEMENT" },
@@ -102,7 +102,7 @@
       "RegistryTimeStamp": 1670216238796,
       "VRC_Username": "Friskiiii"
     },
-        {
+    {
       "Departments": [
         { "Name": "DEVELOPER" },
         { "Name": "IT DEPARTMENT" },
@@ -128,7 +128,6 @@
       "RegistryTimeStamp": 1520966253178,
       "VRC_Username": "Chilgt"
     },
-
     {
       "Departments": [
         { "Name": "DEVELOPER" },
@@ -568,7 +567,7 @@
       "RegistryTimeStamp": 1701055512575,
       "VRC_Username": "Legoman99573"
     },
-            {
+    {
       "Departments": [
         { "Name": "Jim Cantore Enjoyer" },
         { "Name": "Redbox Restocker" },
@@ -945,7 +944,7 @@
       "VRC_Username": "Jaytheshadow"
     },
     {
-      "Departments": [{ "Name": "SECURITY" },{ "Name": "Electronics" }],
+      "Departments": [{ "Name": "SECURITY" }, { "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741501008011,
@@ -1219,6 +1218,27 @@
       "Dev": true,
       "FunnyCallboxes": true,
       "Departments": [{ "Name": "DEVELOPER" }]
+    },
+    {
+      "VRC_Username": "Fire'Okami'Feng",
+      "RegistryTimeStamp": 1752195547513,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "reallyhotcocoa",
+      "RegistryTimeStamp": 1752195547516,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "Misterio7",
+      "RegistryTimeStamp": 1752195547518,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
     }
   ],
   "header": {
