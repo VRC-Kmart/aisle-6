@@ -1239,6 +1239,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "SystematicVibes",
+      "RegistryTimeStamp": 1752195547518,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }, { "Name": "Pharmacy" }]
     }
   ],
   "header": {
