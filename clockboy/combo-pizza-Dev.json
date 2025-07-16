@@ -439,17 +439,6 @@
       "VRC_Username": "Lankev78"
     },
     {
-      "Departments": [
-        { "Name": "Electronics" },
-        { "Name": "Bakery/Deli" },
-        { "Name": "Janitorial" }
-      ],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1718060054721,
-      "VRC_Username": "Somniumscape"
-    },
-    {
       "Departments": [{ "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -513,13 +502,6 @@
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1671295105405,
       "VRC_Username": "Aliceღ"
-    },
-    {
-      "Departments": [{ "Name": "Pharmacy" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1718060054721,
-      "VRC_Username": "evaqn123"
     },
     {
       "Departments": [{ "Name": "Customer Service" }],
@@ -844,13 +826,6 @@
       "Departments": [{ "Name": "Customer Service" }],
       "Dev": false,
       "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1737145834000,
-      "VRC_Username": "sashlilac34"
-    },
-    {
-      "Departments": [{ "Name": "Customer Service" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "RegistryTimeStamp": 1674469200000,
       "VRC_Username": "ѕєηкσ"
     },
@@ -900,13 +875,6 @@
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824944,
       "VRC_Username": "Blitz-the-pup"
-    },
-    {
-      "Departments": [{ "Name": "Janitorial" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1741496824944,
-      "VRC_Username": "Elais-Ainsworth"
     },
     {
       "Departments": [{ "Name": "Pharmacy" }],
@@ -1242,10 +1210,10 @@
     },
     {
       "VRC_Username": "SystematicVibes",
-      "RegistryTimeStamp": 1752195547518,
+      "RegistryTimeStamp": 1752456278290,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Customer Service" }, { "Name": "Pharmacy" }]
+      "Departments": [{"Name":"SECURITY"}]
     }
   ],
   "header": {
