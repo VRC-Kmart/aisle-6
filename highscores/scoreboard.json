@@ -1,6 +1,6 @@
 {
     "superk":{
-		"LastUpdated": "6-19-25",
+		"LastUpdated": "7-16-25",
         "flappyHat":[
             {
                 "name": "K17-C47",
@@ -13,6 +13,10 @@
             {
                 "name": "Friskiiii",
                 "score": 198
+            },
+            {
+                "name": "Misterio7",
+                "score": 132
             },
             {
                 "name": "FluxxieVerse",
@@ -35,12 +39,8 @@
                 "score": 44
             },
             {
-                "name": "Jaytheshadow",
-                "score": 33
-            },
-            {
-                "name": "???",
-                "score": 0
+                "name": "Aregar",
+                "score": 35
             }
         ],
         "pawtris":[
