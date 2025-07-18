@@ -804,7 +804,7 @@
     },
     {
       "departments": [
-        { "ID": 0, "Name": "Store Prostitute" },
+        { "ID": 0, "Name": "Store Bnuuy" },
         { "ID": 0, "Name": "Automotive" }
       ],
       "Dev": true,
@@ -1139,12 +1139,6 @@
         { "Name": "DEVELOPER", "ID": 0 },
         { "Name": "Electronics", "ID": 0 }
       ]
-    },
-    {
-      "VRC_Username": "4liceD",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1748914813036,
-      "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
     },
     {
       "VRC_Username": "Fire'Okami'Feng",

@@ -3,10 +3,10 @@
   "Associates": [
     {
       "Departments": [
+        { "Name": "Girl Kisser" },
         { "Name": "STORE MANAGER" },
         { "Name": "ADMINISTRATION" },
-        { "Name": "DEVELOPER" },
-        { "Name": "Girl Kisser" }
+        { "Name": "DEVELOPER" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -15,7 +15,7 @@
     },
     {
       "Departments": [
-        { "Name": "Nerd" },
+        { "Name": "Actively Breaks SuperK" },
         { "Name": "DEVELOPER" },
         { "Name": "IT DEPARTMENT" },
         { "Name": "SECURITY" }
@@ -62,6 +62,7 @@
     },
     {
       "Departments": [
+        { "Name": "Soup Enthusiast" },
         { "Name": "LPD Enjoyer" },
         { "Name": "Stinky Chief" },
         { "Name": "Will bully demonitized" }
@@ -849,7 +850,7 @@
       "VRC_Username": "UrbanArtifact"
     },
     {
-      "Departments": [{ "Name": "Store Prostitute" }, { "Name": "Automotive" }],
+      "Departments": [{ "Name": "Store Bnuuy" }, { "Name": "Automotive" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1741496824934,
@@ -977,7 +978,7 @@
     },
     {
       "Departments": [
-        { "Name": "MANAGER" },
+        { "Name": "MANAGEMENT" },
         { "Name": "MARKETING" },
         { "Name": "Portrait Studio" },
         { "Name": "SECURITY" }
@@ -1046,8 +1047,8 @@
         { "Name": "IT DEPARTMENT" },
         { "Name": "Customer Service" }
       ],
-      "Dev": false,
-      "FunnyCallboxes": false,
+      "Dev": true,
+      "FunnyCallboxes": true,
       "RegistryTimeStamp": 1744597689456,
       "VRC_Username": "FluxxieVerse"
     },
@@ -1179,13 +1180,6 @@
       "Dev": true,
       "FunnyCallboxes": true,
       "Departments": [{ "Name": "DEVELOPER" }, { "Name": "Electronics" }]
-    },
-    {
-      "VRC_Username": "4liceD",
-      "RegistryTimeStamp": 1748914813036,
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "Departments": [{ "Name": "DEVELOPER" }]
     },
     {
       "VRC_Username": "Fire'Okami'Feng",
