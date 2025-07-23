@@ -530,13 +530,6 @@
       "VRC_Username": "Foran"
     },
     {
-      "Departments": [{ "Name": "Bakery/Deli" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1723088491688,
-      "VRC_Username": "Pickleson47"
-    },
-    {
       "Departments": [{ "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1041,16 +1034,6 @@
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1744597689454,
       "VRC_Username": "SaltineCrackers"
-    },
-    {
-      "Departments": [
-        { "Name": "IT DEPARTMENT" },
-        { "Name": "Customer Service" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1744597689456,
-      "VRC_Username": "FluxxieVerse"
     },
     {
       "Departments": [

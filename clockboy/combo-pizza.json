@@ -497,12 +497,6 @@
       "VRC_Username": "Foran"
     },
     {
-      "departments": [{ "ID": 12, "Name": "Bakery/Deli" }],
-      "RegistryTimeStamp": 1723088491688,
-      "ShiftCount": 69420,
-      "VRC_Username": "Pickleson47"
-    },
-    {
       "departments": [{ "ID": 42, "Name": "Pharmacy" }],
       "RegistryTimeStamp": 1723083634754,
       "ShiftCount": 69420,
@@ -1004,15 +998,6 @@
       "RegistryTimeStamp": 1744597689454,
       "ShiftCount": 69420,
       "VRC_Username": "SaltineCrackers"
-    },
-    {
-      "departments": [
-        { "Name": "IT DEPARTMENT", "ID": 0 },
-        { "ID": 0, "Name": "Customer Service" }
-      ],
-      "RegistryTimeStamp": 1744597689456,
-      "ShiftCount": 69420,
-      "VRC_Username": "FluxxieVerse"
     },
     {
       "departments": [
