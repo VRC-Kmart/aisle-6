@@ -14,7 +14,7 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 jobs:
-  verify-scoreboard-validation:
+  scoreboard-validation:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -25,7 +25,7 @@ jobs:
           file: 'highscores/scoreboard.json'
           schema: 'highscores/scoreboard.schema.json'
           
-  verify-associates-validation:
+  associates-validation:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -36,7 +36,7 @@ jobs:
           file: 'clockboy/combo-pizza-Dev.json'
           schema: 'clockboy/combo-pizza-Dev.schema.json'
 
-  verify-legacy-associates-validation:
+  legacy-associates-validation:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -47,7 +47,7 @@ jobs:
           file: 'clockboy/combo-pizza-Dev.json'
           schema: 'clockboy/combo-pizza-Dev.schema.json'
           
-  verify-changelog-validation:
+  changelog-validation:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

@@ -4,6 +4,7 @@ const file = require("./combo-pizza-Dev.json");
 const fileLegacy = require("./combo-pizza.json");
 let tempDB, tempDBLegacy;
 let numEdited = 0;
+const {Utils} = require("./utils.js");
 
 logInfo();
 
@@ -28,10 +29,11 @@ logInfo();
  */
 // addAssociate("USER_NAME", "DEPARTMENT", REGISTER_TIME, DEVELOPER, CALLBOXES);
 
+
 /* Function to add an associate to the database */
 function addAssociate(vrcName, priDept, regTime = Date.now(), isDev = false, isCBAdmin = false) {
     if (!vrcName || !priDept) {
-        return console.log(`\nFailed to add associate!\n\nPlease set a ${!vrcName ? "username" : "primary department"}!\n`);
+        return Utils.fatal(`Associate Add`,`Failed to add associate! Please set a ${!vrcName ? "username" : "primary department"}!`);
     }
 
     const associate = {
@@ -54,27 +56,25 @@ function addAssociate(vrcName, priDept, regTime = Date.now(), isDev = false, isC
 
     file.Associates.push(associate);
     fs.writeFileSync(dbPath, JSON.stringify(file));
-    console.log(`\nAdded ${vrcName} to the database!\n
-        Initial Department --- ${priDept}
-        RegistryTimeStamp ---- ${regTime}
-        Dev ------------------ ${isDev}
-        FunnyCallboxes ------- ${isCBAdmin}`);
 
     fileLegacy.Clocked_In_Associates.push(legacyAssociate);
     fs.writeFileSync(legacyPath, JSON.stringify(fileLegacy));
-    console.log(`\nAdded ${vrcName} to legacy database!\n`);
-}
+    Utils.log(`Associate Add`, `Added ${vrcName} to the database!\n
+        Initial Department --- ${priDept}
+        RegistryTimeStamp ---- ${regTime}
+        Dev ------------------ ${isDev}
+        FunnyCallboxes ------- ${isCBAdmin}`);}
 
 function addDepartment(vrcName, departmentName) {
     if (!vrcName || !departmentName) {
-        return console.log(`\nFailed to edit associate!\n\nPlease set a ${!vrcName ? "username" : "primary department"}!\n`);
+        return Utils.fatal(`Department Add`, `Failed to edit associate! Please set a ${!vrcName ? "username" : "primary department"}!`);
     }
 
     const associateIndex = file.Associates.findIndex(a => a.VRC_Username === vrcName);
     const legacyIndex = fileLegacy.Clocked_In_Associates.findIndex(a => a.VRC_Username === vrcName);
 
     if (associateIndex === -1 || legacyIndex === -1) {
-        return console.log(`\nFailed to edit associate!\n\nUser "${vrcName}" not found in one or both databases.\n`);
+        return Utils.error(`Department Add`, `Failed to edit associate! User "${vrcName}" not found in one or both databases.`);
     }
 
     file.Associates[associateIndex].Departments.push({ Name: departmentName });
@@ -83,20 +83,19 @@ function addDepartment(vrcName, departmentName) {
     fs.writeFileSync("./combo-pizza-Dev.json", JSON.stringify(file));
     fs.writeFileSync("./combo-pizza.json", JSON.stringify(fileLegacy));
 
-    console.log(`\nModified ${vrcName} in the database!\n
-    New Department ------- ${departmentName}`);
+    Utils.log(`Department Add`, `Modified ${vrcName} in the database!\n New Department ------- ${departmentName}`);
 }
 
 function removeDepartment(vrcName, departmentName) {
     if (!vrcName || !departmentName) {
-        return console.log(`\nFailed to edit associate!\n\nPlease set a ${!vrcName ? "username" : "department to remove"}!\n`);
+        return Utils.fatal(`Department Remove`, `Failed to edit associate! Please set a ${!vrcName ? "username" : "department to remove"}!`);
     }
 
     const associateIndex = file.Associates.findIndex(a => a.VRC_Username === vrcName);
     const legacyIndex = fileLegacy.Clocked_In_Associates.findIndex(a => a.VRC_Username === vrcName);
 
     if (associateIndex === -1 || legacyIndex === -1) {
-        return console.log(`\nFailed to edit associate!\n\nUser "${vrcName}" not found in one or both databases.\n`);
+        return Utils.error(`Department Remove`, `Failed to edit associate! User "${vrcName}" not found in one or both databases.`);
     }
 
     const departments = file.Associates[associateIndex].Departments;
@@ -108,7 +107,29 @@ function removeDepartment(vrcName, departmentName) {
     fs.writeFileSync("./combo-pizza-Dev.json", JSON.stringify(file));
     fs.writeFileSync("./combo-pizza.json", JSON.stringify(fileLegacy));
 
-    console.log(`\nRemoved "${departmentName}" from ${vrcName}'s departments.\n`);
+    Utils.log(`Department Remove`, `Removed "${departmentName}" from ${vrcName}'s departments.`);
+}
+
+
+function removeAssociate(vrcName) {
+    if (!vrcName) {
+        return Utils.fatal(`Associate Remove`, `Failed to remove associate! Please set a username to remove!`);
+    }
+
+    const associateIndex = file.Associates.findIndex(a => a.VRC_Username === vrcName);
+    const legacyIndex = fileLegacy.Clocked_In_Associates.findIndex(a => a.VRC_Username === vrcName);
+
+    if (associateIndex === -1 || legacyIndex === -1) {
+        return Utils.error(`Associate Remove`, `Failed to remove associate! User "${vrcName}" not found in one or both databases.`);
+    }
+
+    file.Associates.splice(associateIndex, 1);
+    fileLegacy.Clocked_In_Associates.splice(legacyIndex, 1);
+
+    fs.writeFileSync("./combo-pizza-Dev.json", JSON.stringify(file));
+    fs.writeFileSync("./combo-pizza.json", JSON.stringify(fileLegacy));
+
+    Utils.log(`Associate Remove`, `Removed "${vrcName}" from the databases.`);
 }
 
 
@@ -189,11 +210,11 @@ function logInfo() {
     });
   });
 
-  console.log(`Fetched ${file.Associates.length} associates!\n`);
-  console.log("Breakdown:\n");
+  Utils.log(`Associate Logger`, `Fetched ${file.Associates.length} associates!`);
+  Utils.log(`Associate Logger`, "Breakdown:");
 
   Object.keys(counters).sort().forEach(key => {
-    console.log(`${key.padEnd(20, ' ')} --- ${counters[key]}`);
+    Utils.info(`Associate Logger`, `${key.padEnd(20, ' ')} --- ${counters[key]}`);
   });
 }
 
