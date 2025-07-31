@@ -68,10 +68,10 @@
                 "name": "CucumberWator",
                 "score": 19540
             },
-			{
-				"name": "NylaB0nes",
-				"score": "15520"
-			},
+	    {
+		"name": "NylaB0nes"
+		"score": "15520"
+	    },
             {
                 "name": "GQ.inc",
                 "score": 14200
@@ -80,7 +80,7 @@
                 "name": "Zukovoy91",
                 "score": 12300
             },
-            {
+             {
                 "name": "Hypnotist_Sammi",
                 "score": 11620
             }
