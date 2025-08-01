@@ -377,13 +377,6 @@
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
-      "VRC_Username": "NovakatVT"
-    },
-    {
-      "Departments": [{ "Name": "SECURITY" }],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "luckydoomknight"
     },
     {
@@ -1190,7 +1183,14 @@
       "RegistryTimeStamp": 1752456278290,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{"Name":"SECURITY"}]
+      "Departments": [{ "Name": "SECURITY" }]
+    },
+    {
+      "VRC_Username": "charlie-san",
+      "RegistryTimeStamp": 1753098470170,
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "Departments": [{ "Name": "IT DEPARTMENT" }]
     }
   ],
   "header": {

@@ -348,12 +348,6 @@
       "departments": [{ "ID": 66, "Name": "Security" }],
       "RegistryTimeStamp": 1718060054721,
       "ShiftCount": 69420,
-      "VRC_Username": "NovakatVT"
-    },
-    {
-      "departments": [{ "ID": 66, "Name": "Security" }],
-      "RegistryTimeStamp": 1718060054721,
-      "ShiftCount": 69420,
       "VRC_Username": "luckydoomknight"
     },
     {
@@ -1147,7 +1141,13 @@
       "VRC_Username": "SystematicVibes",
       "RegistryTimeStamp": 1752195547518,
       "ShiftCount": 69420,
-      "departments": [{"Name":"SECURITY", "ID": 0 }]
+      "departments": [{ "Name": "SECURITY", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "charlie-san",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1753098470170,
+      "departments": [{ "Name": "IT DEPARTMENT", "ID": 0 }]
     }
   ],
   "footer": {

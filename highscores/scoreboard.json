@@ -1,6 +1,6 @@
 {
     "superk":{
-		"LastUpdated": "7-16-25",
+		"LastUpdated": "8-1-25",
         "flappyHat":[
             {
                 "name": "K17-C47",
@@ -53,6 +53,10 @@
                 "score": 63280
             },
             {
+                "name":"「ᴊᴄ」",
+                "score":61500
+            },
+            {
                 "name": "RoaringBear",
                 "score": 55280
             },
@@ -79,10 +83,6 @@
             {
                 "name": "Zukovoy91",
                 "score": 12300
-            },
-            {
-                "name": "Hypnotist_Sammi",
-                "score": 11620
             }
         ]
     },
