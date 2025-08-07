@@ -207,11 +207,11 @@
       "VRC_Username": "Koyaemi"
     },
     {
-      "Departments": [{ "Name": "MANAGEMENT" }, { "Name": "Layaway Manager" }],
+      "Departments": [{ "Name": "MANAGEMENT" }, { "Name": "Layaway Manager" },{"Name": "Allegedly Straight"}],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1660574061049,
-      "VRC_Username": "Jammin' Jon"
+      "VRC_Username": "JamminJon"
     },
     {
       "Departments": [
