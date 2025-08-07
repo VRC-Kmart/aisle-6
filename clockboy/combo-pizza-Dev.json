@@ -1190,7 +1190,7 @@
       "RegistryTimeStamp": 1753098470170,
       "Dev": true,
       "FunnyCallboxes": true,
-      "Departments": [{ "Name": "IT DEPARTMENT" }]
+      "Departments": [{ "Name": "IT DEPARTMENT" }, { "Name": "DEVELOPER" }]
     }
   ],
   "header": {
