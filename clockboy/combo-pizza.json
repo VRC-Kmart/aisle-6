@@ -318,9 +318,7 @@
     },
     {
       "departments": [
-        { "ID": 0, "Name": "Tea Enjoyer" },
-        { "ID": 0, "Name": "Security Manager" },
-        { "ID": 0, "Name": "Security" }
+        { "ID": 0, "Name": "Tea Enjoyer" }
       ],
       "RegistryTimeStamp": 1718060054721,
       "ShiftCount": 69420,

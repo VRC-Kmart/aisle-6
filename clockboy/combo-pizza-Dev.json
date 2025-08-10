@@ -341,10 +341,7 @@
     },
     {
       "Departments": [
-        { "Name": "Tea Enjoyer" },
-        { "Name": "MANAGEMENT" },
-        { "Name": "SECURITY MANAGER" },
-        { "Name": "SECURITY" }
+        { "Name": "Tea Enjoyer" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
