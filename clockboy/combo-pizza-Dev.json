@@ -207,7 +207,11 @@
       "VRC_Username": "Koyaemi"
     },
     {
-      "Departments": [{ "Name": "MANAGEMENT" }, { "Name": "Layaway Manager" },{"Name": "Allegedly Straight"}],
+      "Departments": [
+        { "Name": "MANAGEMENT" },
+        { "Name": "Layaway Manager" },
+        { "Name": "Allegedly Straight" }
+      ],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1660574061049,
@@ -340,9 +344,7 @@
       "VRC_Username": "JadeBingus"
     },
     {
-      "Departments": [
-        { "Name": "Tea Enjoyer" }
-      ],
+      "Departments": [{ "Name": "Tea Enjoyer" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
@@ -1139,13 +1141,6 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "KCafe" }]
-    },
-    {
-      "VRC_Username": "Waffuru_OW",
-      "RegistryTimeStamp": 1748762752474,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Janitorial" }]
     },
     {
       "VRC_Username": "_spidget",
