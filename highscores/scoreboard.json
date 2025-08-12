@@ -1,6 +1,6 @@
 {
     "superk":{
-		"LastUpdated": "8-1-25",
+		"LastUpdated": "8-12-25",
         "flappyHat":[
             {
                 "name": "K17-C47",
@@ -27,6 +27,10 @@
                 "score": 76
             },
             {
+                "name": "Brubly",
+                "score": 73
+            },
+            {
                 "name": "XenoSpark",
                 "score": 69
             },
@@ -35,12 +39,8 @@
                 "score": 47
             },
             {
-                "name": "GIO",
-                "score": 44
-            },
-            {
-                "name": "Aregar",
-                "score": 35
+                "name": "Ocram",
+                "score": 45
             }
         ],
         "pawtris":[
@@ -49,12 +49,12 @@
                 "score": 105100
             },
             {
-                "name": "_spidget",
-                "score": 63280
+                "name": "[JC]",
+                "score": 65720
             },
             {
-                "name":"「ᴊᴄ」",
-                "score":61500
+                "name": "_spidget",
+                "score": 63280
             },
             {
                 "name": "RoaringBear",
@@ -63,6 +63,10 @@
             {
                 "name": "Friskiiii",
                 "score": 27980
+            },
+            {
+                "name": "NylaB0nes",
+                "score": 24180
             },
             {
                 "name": "Oreo_Nardo",
@@ -79,10 +83,6 @@
             {
                 "name": "GQ.inc",
                 "score": 14200
-            },
-            {
-                "name": "Zukovoy91",
-                "score": 12300
             }
         ]
     },
