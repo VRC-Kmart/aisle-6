@@ -5,23 +5,23 @@
   "Last4Updates": {
     "LastUpdate": {
       "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
+      "Changes": "\u2022Tweaked Auth Script<br>\u2022Updated ProTV<br>\u2022Updated VRChat SDK<br>\u2022Tweaked more shaders<br>\u2022Tweaked world moderation tools to be more intuitive",
+      "DateOfUpdate": "8-8-25"
+    },
+    "PreviousUpdate": {
+      "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
       "Changes": "\u2022Tweaked the rain particles<br>\u2022Added toggle for lighting<br>\u2022Added a volume slider for the thunder<br>\u2022Tweaked thunder sounds<br>\u2022Modified world moderation tools (this is still being worked on)",
       "DateOfUpdate": "7-24-25"
     },
-    "PreviousUpdate": {
+    "3rdPreviousUpdate": {
       "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
       "Changes": "\u2022The Storm is now here!<br>\u2022Added portal to Rainbow Library!<br>\u2022Added emission to the Redbox kiosks<br>\u2022Tweaked more audio settings",
       "DateOfUpdate": "7-12-25"
     },
-    "3rdPreviousUpdate": {
+    "4thPreviousUpdate": {
       "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
       "Changes": "\u2022A Storm has started to roll in!<br>\u2022Tweaked Lighting<br>\u2022Switched most everything to a new shader<br>\u2022Fixed a bug with outside audio",
       "DateOfUpdate": "6-24-25"
-    },
-    "4thPreviousUpdate": {
-      "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
-      "Changes": "\u2022The map has been Pride Month-ified!<br>\u2022Radio was updated for June<br>\u2022Updated TV Playlist<br>\u2022Updated ProTV and VRChat SDK",
-      "DateOfUpdate": "6-1-25"
     }
   }
 }
