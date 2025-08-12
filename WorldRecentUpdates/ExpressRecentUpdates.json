@@ -5,13 +5,13 @@
   "Last4Updates": {
     "LastUpdate": {
       "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
-      "Changes": "\u2022Updated Settings Board<br>\u2022Fixed missing signs<br>\u2022Removed Easter Merch<br>\u2022Swapped shaders in world",
-      "DateOfUpdate": "05-06-25"
+      "Changes": "\u2022Added iOS Support<br>\u2022Updated Shaders to new version<br>\u2022Updated flags to LGBT variant<br>\u2022Updated Credits Board",
+      "DateOfUpdate": "08-09-25"
     },
     "PreviousUpdate": {
       "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
-      "Changes": "\u2022????",
-      "DateOfUpdate": "00-00-00"
+      "Changes": "\u2022Updated Settings Board<br>\u2022Fixed missing signs<br>\u2022Removed Easter Merch<br>\u2022Swapped shaders in world",
+      "DateOfUpdate": "05-06-25"
     },
     "3rdPreviousUpdate": {
       "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
