@@ -187,12 +187,9 @@
       "VRC_Username": "CucumberWator"
     },
     {
-      "Departments": [
-        { "Name": "MANAGEMENT" },
-        { "Name": "Assistant KCafe Manager" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
+      "Departments": [{ "Name": "KCafe" }],
+      "Dev": false,
+      "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "ThatSystemWho"
     },
@@ -1183,6 +1180,13 @@
       "Dev": true,
       "FunnyCallboxes": true,
       "Departments": [{ "Name": "IT DEPARTMENT" }, { "Name": "DEVELOPER" }]
+    },
+    {
+      "VRC_Username": "FrazSmith",
+      "RegistryTimeStamp": 1755037075238,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "KCafe" }]
     }
   ],
   "header": {

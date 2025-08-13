@@ -175,10 +175,7 @@
       "VRC_Username": "CucumberWator"
     },
     {
-      "departments": [
-        { "ID": 253, "Name": "MANAGEMENT" },
-        { "ID": 10, "Name": "KCafe" }
-      ],
+      "departments": [{ "ID": 10, "Name": "KCafe" }],
       "RegistryTimeStamp": 1718060054721,
       "ShiftCount": 69420,
       "VRC_Username": "ThatSystemWho"
@@ -1141,6 +1138,12 @@
         { "Name": "IT DEPARTMENT", "ID": 0 },
         { "Name": "DEVELOPER", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "FrazSmith",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1755037075238,
+      "departments": [{ "Name": "KCafe", "ID": 0 }]
     }
   ],
   "footer": {
