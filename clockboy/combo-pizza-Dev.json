@@ -760,7 +760,7 @@
       "VRC_Username": "Tired_The_Proto"
     },
     {
-      "Departments": [{ "Name": "Electronics" }],
+      "Departments": [{ "Name": "Electronics" }, { "Name": "SECURITY" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
@@ -806,7 +806,7 @@
       "VRC_Username": "ღRini Sakuraღ"
     },
     {
-      "Departments": [{ "Name": "Customer Service" }],
+      "Departments": [{ "Name": "Customer Service" }, { "Name": "Automotive" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1674469200000,

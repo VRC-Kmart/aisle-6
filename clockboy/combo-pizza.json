@@ -709,7 +709,10 @@
       "VRC_Username": "Tired_The_Proto"
     },
     {
-      "departments": [{ "ID": 0, "Name": "Electronics" }],
+      "departments": [
+        { "ID": 0, "Name": "Electronics" },
+        { "Name": "SECURITY", "ID": 0 }
+      ],
       "Dev": false,
       "FunnyCallboxes": false,
       "ShiftCount": 69420,
@@ -757,7 +760,10 @@
       "VRC_Username": "ღRini Sakuraღ"
     },
     {
-      "departments": [{ "ID": 0, "Name": "Customer Service" }],
+      "departments": [
+        { "ID": 0, "Name": "Customer Service" },
+        { "Name": "Automotive", "ID": 0 }
+      ],
       "RegistryTimeStamp": 1674469200000,
       "ShiftCount": 69420,
       "VRC_Username": "ѕєηкσ"
