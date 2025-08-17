@@ -50,7 +50,7 @@
     },
     {
       "Departments": [
-        { "Name": "LPD Enjoyer" },
+        { "Name": "VENDOR" },
         { "Name": "Stinky Captain" },
         { "Name": "Is Ruining Everything" },
         { "Name": "Is Gay!" }
@@ -62,8 +62,8 @@
     },
     {
       "Departments": [
+        { "Name": "VENDOR" },
         { "Name": "Soup Enthusiast" },
-        { "Name": "LPD Enjoyer" },
         { "Name": "Stinky Chief" },
         { "Name": "Will bully demonitized" }
       ],
@@ -73,7 +73,11 @@
       "VRC_Username": "Karet"
     },
     {
-      "Departments": [{ "Name": "LPD AMBASSADOR" }, { "Name": "Old as Fuck" }],
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "LPD AMBASSADOR" },
+        { "Name": "Old as Fuck" }
+      ],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 884376000000,
@@ -1056,7 +1060,7 @@
       "VRC_Username": "jneko"
     },
     {
-      "Departments": [{ "Name": "KCafe" }],
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "KCafe" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1745626138864,
@@ -1187,6 +1191,55 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "KCafe" }]
+    },
+    {
+      "VRC_Username": "Akimbo",
+      "RegistryTimeStamp": 1755448631180,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }]
+    },
+    {
+      "VRC_Username": "Asheris",
+      "RegistryTimeStamp": 1755448631182,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }]
+    },
+    {
+      "VRC_Username": "Atomiklan",
+      "RegistryTimeStamp": 1755448631184,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }]
+    },
+    {
+      "VRC_Username": "Chris_Kani",
+      "RegistryTimeStamp": 1755448631185,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }]
+    },
+    {
+      "VRC_Username": "Sketch494",
+      "RegistryTimeStamp": 1755448631186,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }]
+    },
+    {
+      "VRC_Username": "Saltfire",
+      "RegistryTimeStamp": 1755448631188,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }]
+    },
+    {
+      "VRC_Username": "Narumata",
+      "RegistryTimeStamp": 1755448631189,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }]
     }
   ],
   "header": {
