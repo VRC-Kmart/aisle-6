@@ -64,7 +64,7 @@
       "Departments": [
         { "Name": "VENDOR" },
         { "Name": "Soup Enthusiast" },
-        { "Name": "Stinky Chief" },
+        { "Name": "LPD STAFF" },
         { "Name": "Will bully demonitized" }
       ],
       "Dev": true,
@@ -325,16 +325,6 @@
     },
     {
       "Departments": [
-        { "Name": "Customer Service" },
-        { "Name": "Sporting Goods" }
-      ],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1718060054721,
-      "VRC_Username": "Zenduko"
-    },
-    {
-      "Departments": [
         { "Name": "Claims Sleeper" },
         { "Name": "Claims" },
         { "Name": "Arbor Day" }
@@ -530,7 +520,7 @@
       "VRC_Username": "Sweet1019"
     },
     {
-      "Departments": [{ "Name": "Janitorial" }, { "Name": "Redbox Restocker" }],
+      "Departments": [{ "Name": "Janitorial" }, { "Name": "Redbox Restocker" }, {"Name": "VENDOR"}],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1701055512575,
@@ -1197,49 +1187,63 @@
       "RegistryTimeStamp": 1755448631180,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }]
+      "Departments": [{ "Name": "VENDOR" }, {"Name": "RAINBOW LIBRARY STAFF"}]
     },
     {
       "VRC_Username": "Asheris",
       "RegistryTimeStamp": 1755448631182,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }]
+      "Departments": [{ "Name": "VENDOR" }, {"Name": "RAINBOW LIBRARY STAFF"}]
     },
     {
       "VRC_Username": "Atomiklan",
       "RegistryTimeStamp": 1755448631184,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }]
+      "Departments": [{ "Name": "VENDOR" }, {"Name": "VIRTUAL FURENCE STAFF"}]
     },
     {
       "VRC_Username": "Chris_Kani",
       "RegistryTimeStamp": 1755448631185,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }]
+      "Departments": [{ "Name": "VENDOR" }, {"Name": "PJKT STAFF"}]
     },
     {
       "VRC_Username": "Sketch494",
       "RegistryTimeStamp": 1755448631186,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }]
+      "Departments": [{ "Name": "VENDOR" }, {"Name": "VRC LEGENDS STAFF"}]
     },
     {
       "VRC_Username": "Saltfire",
       "RegistryTimeStamp": 1755448631188,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }]
+      "Departments": [{ "Name": "VENDOR" }, {"Name": "LPD STAFF"}]
     },
     {
       "VRC_Username": "Narumata",
       "RegistryTimeStamp": 1755448631189,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }]
+      "Departments": [{ "Name": "VENDOR" }, {"Name": "LPD STAFF"}]
+    },
+    {
+      "VRC_Username": "Charatanuki",
+      "RegistryTimeStamp": 1755533557106,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "LPD EVENT HOST" }]
+    },
+    {
+      "VRC_Username": "Tjmaxmillion",
+      "RegistryTimeStamp": 1755533557110,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "LPD EVENT HOST" }]
     }
   ],
   "header": {

@@ -295,16 +295,6 @@
     },
     {
       "departments": [
-        { "ID": 253, "Name": "MANAGEMENT" },
-        { "ID": 0, "Name": "Customer Service" },
-        { "ID": 4, "Name": "Sporting Goods" }
-      ],
-      "RegistryTimeStamp": 1718060054721,
-      "ShiftCount": 69420,
-      "VRC_Username": "Zenduko"
-    },
-    {
-      "departments": [
         { "ID": 255, "Name": "Claims Sleeper" },
         { "ID": 25, "Name": "Claims" },
         { "ID": 120, "Name": "Arbor Day" }
@@ -1192,6 +1182,24 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1755448631189,
       "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Charatanuki",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1755533557106,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "LPD EVENT HOST", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "Tjmaxmillion",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1755533557110,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "LPD EVENT HOST", "ID": 0 }
+      ]
     }
   ],
   "footer": {
