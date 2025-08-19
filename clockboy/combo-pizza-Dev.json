@@ -184,7 +184,7 @@
       "VRC_Username": "AgentWanderer"
     },
     {
-      "Departments": [{ "Name": "MANAGEMENT" }, { "Name": "KCafe Manager" }],
+      "Departments": [{ "Name": "TRAINER" }, { "Name": "MANAGEMENT" }, { "Name": "KCafe Manager" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1675578940693,
