@@ -184,7 +184,11 @@
       "VRC_Username": "AgentWanderer"
     },
     {
-      "Departments": [{ "Name": "TRAINER" }, { "Name": "MANAGEMENT" }, { "Name": "KCafe Manager" }],
+      "Departments": [
+        { "Name": "TRAINER" },
+        { "Name": "MANAGEMENT" },
+        { "Name": "KCafe Manager" }
+      ],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1675578940693,
@@ -520,7 +524,11 @@
       "VRC_Username": "Sweet1019"
     },
     {
-      "Departments": [{ "Name": "Janitorial" }, { "Name": "Redbox Restocker" }, {"Name": "VENDOR"}],
+      "Departments": [
+        { "Name": "Janitorial" },
+        { "Name": "Redbox Restocker" },
+        { "Name": "VENDOR" }
+      ],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1701055512575,
@@ -754,7 +762,7 @@
       "VRC_Username": "Tired_The_Proto"
     },
     {
-      "Departments": [{ "Name": "Electronics" }, { "Name": "SECURITY" }],
+      "Departments": [{ "Name": "TRAINER" }, { "Name": "SECURITY" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
@@ -1187,49 +1195,49 @@
       "RegistryTimeStamp": 1755448631180,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }, {"Name": "RAINBOW LIBRARY STAFF"}]
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "RAINBOW LIBRARY STAFF" }]
     },
     {
       "VRC_Username": "Asheris",
       "RegistryTimeStamp": 1755448631182,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }, {"Name": "RAINBOW LIBRARY STAFF"}]
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "RAINBOW LIBRARY STAFF" }]
     },
     {
       "VRC_Username": "Atomiklan",
       "RegistryTimeStamp": 1755448631184,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }, {"Name": "VIRTUAL FURENCE STAFF"}]
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "VIRTUAL FURENCE STAFF" }]
     },
     {
       "VRC_Username": "Chris_Kani",
       "RegistryTimeStamp": 1755448631185,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }, {"Name": "PJKT STAFF"}]
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "PJKT STAFF" }]
     },
     {
       "VRC_Username": "Sketch494",
       "RegistryTimeStamp": 1755448631186,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }, {"Name": "VRC LEGENDS STAFF"}]
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "VRC LEGENDS STAFF" }]
     },
     {
       "VRC_Username": "Saltfire",
       "RegistryTimeStamp": 1755448631188,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }, {"Name": "LPD STAFF"}]
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "LPD STAFF" }]
     },
     {
       "VRC_Username": "Narumata",
       "RegistryTimeStamp": 1755448631189,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }, {"Name": "LPD STAFF"}]
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "LPD STAFF" }]
     },
     {
       "VRC_Username": "Charatanuki",
@@ -1244,6 +1252,34 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "VENDOR" }, { "Name": "LPD EVENT HOST" }]
+    },
+    {
+      "VRC_Username": "Eternal Pen",
+      "RegistryTimeStamp": 1756181619564,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Janitorial" }]
+    },
+    {
+      "VRC_Username": "chaiisoftie",
+      "RegistryTimeStamp": 1756181619566,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Home Improvement" }]
+    },
+    {
+      "VRC_Username": "lingeringVA",
+      "RegistryTimeStamp": 1756181619567,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "Gonzo~",
+      "RegistryTimeStamp": 1756181619569,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Sporting Goods" }, { "Name": "MARKETING" }]
     }
   ],
   "header": {

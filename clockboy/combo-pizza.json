@@ -1200,6 +1200,33 @@
         { "Name": "VENDOR", "ID": 0 },
         { "Name": "LPD EVENT HOST", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "Eternal Pen",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1756181619564,
+      "departments": [{ "Name": "Janitorial", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "chaiisoftie",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1756181619566,
+      "departments": [{ "Name": "Home Improvement", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "lingeringVA",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1756181619567,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Gonzo~",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1756181619569,
+      "departments": [
+        { "Name": "Sporting Goods", "ID": 0 },
+        { "Name": "MARKETING", "ID": 0 }
+      ]
     }
   ],
   "footer": {
