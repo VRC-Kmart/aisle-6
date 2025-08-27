@@ -994,18 +994,6 @@
       "VRC_Username": "Ventile Lorbet"
     },
     {
-      "Departments": [
-        { "Name": "Store Prostitute" },
-        { "Name": "TRAINER" },
-        { "Name": "Portrait Studio Manager" },
-        { "Name": "Security" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1743213831402,
-      "VRC_Username": "Disco Incarnate"
-    },
-    {
       "Departments": [{ "Name": "Deli/Bakery" }],
       "Dev": false,
       "FunnyCallboxes": false,

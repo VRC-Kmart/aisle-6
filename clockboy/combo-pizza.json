@@ -955,16 +955,6 @@
       "VRC_Username": "Ventile Lorbet"
     },
     {
-      "departments": [
-        { "ID": 0, "Name": "TRAINER" },
-        { "ID": 0, "Name": "MANAGEMENT" },
-        { "ID": 0, "Name": "Security" }
-      ],
-      "RegistryTimeStamp": 1743213831402,
-      "ShiftCount": 69420,
-      "VRC_Username": "Disco Incarnate"
-    },
-    {
       "departments": [{ "ID": 0, "Name": "Deli/Bakery" }],
       "RegistryTimeStamp": 1743213831403,
       "ShiftCount": 69420,

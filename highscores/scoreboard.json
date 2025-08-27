@@ -1,6 +1,6 @@
 {
     "superk":{
-		"LastUpdated": "8-18-25",
+		"LastUpdated": "8-27-25",
         "flappyHat":[
             {
                 "name": "K17-C47",
@@ -45,8 +45,16 @@
         ],
         "pawtris":[
             {
+                "name": "RoseMemory",
+                "score": 111640
+            },
+            {
                 "name": "Disco Incarnate",
                 "score": 105100
+            },
+            {
+                "name": "RoaringBear",
+                "score": 79280
             },
             {
                 "name": "[JC]",
@@ -55,10 +63,6 @@
             {
                 "name": "_spidget",
                 "score": 63280
-            },
-            {
-                "name": "RoaringBear",
-                "score": 55280
             },
             {
                 "name": "Friskiiii",
@@ -79,10 +83,6 @@
             {
                 "name": "NylaB0nes",
                 "score": 15520
-            },
-            {
-                "name": "GQ.inc",
-                "score": 14200
             }
         ]
     },
