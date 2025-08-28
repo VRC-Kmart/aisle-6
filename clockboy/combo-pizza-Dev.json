@@ -41,7 +41,8 @@
       "Departments": [
         { "Name": "system_gremlin" },
         { "Name": "Among Us" },
-        { "Name": "i don't fucking know" }
+        { "Name": "i don't fucking know" },
+        { "Name": "VENDOR" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
