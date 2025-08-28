@@ -1217,6 +1217,12 @@
         { "Name": "Sporting Goods", "ID": 0 },
         { "Name": "MARKETING", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "Codixer",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1756415804008,
+      "departments": [{ "Name": "IT DEPARTMENT", "ID": 0 }]
     }
   ],
   "footer": {

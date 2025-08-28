@@ -1269,6 +1269,17 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Sporting Goods" }, { "Name": "MARKETING" }]
+    },
+    {
+      "VRC_Username": "Codixer",
+      "RegistryTimeStamp": 1756415804008,
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "Departments": [
+        { "Name": "IT DEPARTMENT" },
+        { "Name": "DEVELOPER" },
+        { "Name": "<color=#ffff00>L E M O N</color>" }
+      ]
     }
   ],
   "header": {
