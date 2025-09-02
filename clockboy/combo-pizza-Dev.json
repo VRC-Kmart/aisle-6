@@ -1280,6 +1280,45 @@
         { "Name": "DEVELOPER" },
         { "Name": "<color=#ffff00>L E M O N</color>" }
       ]
+    },
+    {
+      "VRC_Username": "R1-J5",
+      "RegistryTimeStamp": 1756787524533,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "Customer Service" },
+        { "Name": "Hardlines" },
+        { "Name": "Janitorial" }
+      ]
+    },
+    {
+      "VRC_Username": "RoaringBear",
+      "RegistryTimeStamp": 1756787524543,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "ScarletFortune",
+      "RegistryTimeStamp": 1756787524545,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Janitorial" }]
+    },
+    {
+      "VRC_Username": "Oxreli",
+      "RegistryTimeStamp": 1756787524548,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "MrChosenRosewol",
+      "RegistryTimeStamp": 1756787524550,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
     }
   ],
   "header": {

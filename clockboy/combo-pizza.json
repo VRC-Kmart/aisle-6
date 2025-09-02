@@ -1223,6 +1223,40 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1756415804008,
       "departments": [{ "Name": "IT DEPARTMENT", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "R1-J5",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1756787524533,
+      "departments": [
+        { "Name": "Customer Service", "ID": 0 },
+        { "Name": "Hardlines", "ID": 0 },
+        { "Name": "Janitorial", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "RoaringBear",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1756787524543,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "ScarletFortune",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1756787524545,
+      "departments": [{ "Name": "Janitorial", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Oxreli",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1756787524548,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "MrChosenRosewol",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1756787524550,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
     }
   ],
   "footer": {
