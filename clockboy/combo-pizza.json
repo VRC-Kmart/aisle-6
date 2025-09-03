@@ -183,15 +183,6 @@
     {
       "departments": [
         { "ID": 253, "Name": "MANAGEMENT" },
-        { "ID": 20, "Name": "Janitorial" }
-      ],
-      "RegistryTimeStamp": 1707682125445,
-      "ShiftCount": 69420,
-      "VRC_Username": "Koyaemi"
-    },
-    {
-      "departments": [
-        { "ID": 253, "Name": "MANAGEMENT" },
         { "ID": 14, "Name": "Layaway" }
       ],
       "RegistryTimeStamp": 1660574061049,
@@ -1257,6 +1248,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1756787524550,
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "trolldev",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1756915905590,
+      "departments": [{ "Name": "IT DEPARTMENT", "ID": 0 }]
     }
   ],
   "footer": {

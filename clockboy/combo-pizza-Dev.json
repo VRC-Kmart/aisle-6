@@ -205,16 +205,6 @@
     {
       "Departments": [
         { "Name": "MANAGEMENT" },
-        { "Name": "Janitorial Manager" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1707682125445,
-      "VRC_Username": "Koyaemi"
-    },
-    {
-      "Departments": [
-        { "Name": "MANAGEMENT" },
         { "Name": "Layaway Manager" },
         { "Name": "Allegedly Straight" }
       ],
@@ -1319,6 +1309,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "trolldev",
+      "RegistryTimeStamp": 1756915905590,
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "Departments": [{ "Name": "IT DEPARTMENT" }]
     }
   ],
   "header": {
