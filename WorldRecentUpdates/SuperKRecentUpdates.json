@@ -5,23 +5,23 @@
   "Last4Updates": {
     "LastUpdate": {
       "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
+      "Changes": "\u2022Fall has arrived! The leaves have changed<br>\u2022We're setting up for Halloween!<br>\u2B9ESo far we just have pumpkins and candy, but we expect more products to get delivered soon!<br>\u2022Earth, Wind, and Fire day is happening again!<br>\u2B9EWe're hosting an On-The-Clock Event on September 21st. Check our group's events tab for more info!<br>\u2022Changed the radio to September<br>\u2022Started testing VRC Light Volumes in Garden/Halloween shop<br>\u2B9Elmk what your thoughts are, and if you notice any lag or issues!<br>\u2022Tweaked some outside lights<br>\u2022Tweaked moderation utilities for our staff",
+      "DateOfUpdate": "9-1-25"
+    },
+    "PreviousUpdate": {
+      "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
       "Changes": "\u2022Tweaked ProTV Auth system<br>\u2022Attempt to fix the lights not having bloom<br>\u2B9EI am aware they are stupidly bright I will fix that<br>\u2022Attempt to fix the lighting on quest being brighter than the fucking sun<br>\u2B9EIt didn't work",
       "DateOfUpdate": "8-26-25"
     },
-    "PreviousUpdate": {
+    "3rdPreviousUpdate": {
       "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
       "Changes": "\u2022Fixed microwave in break room being see-through<br>\u2022Fixed pool balls being very dark<br>\u2022Added Employee of the Month poster<br>\u2022Added <b>THE TIGER POSTER</b> in the break room<br>\u2022Updated ProTV<br>\u2022Tweaked Auth System<br>\u2022Lowered respawn height to -50<br>\u2022Attempt to fix framerate issues",
       "DateOfUpdate": "8-21-25"
     },
-    "3rdPreviousUpdate": {
+    "4thPreviousUpdate": {
       "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
       "Changes": "\u2022SWAPPED. <b>EVEN. MORE.</b> SHADERS.<br>\u2022Tweaked Auth Script even more<br>\u2022Updated Credits Board<br>\u2022Added extra logging to help narrow down an issue<br>\u2022Tweaked some colliders",
       "DateOfUpdate": "8-17-25"
-    },
-    "4thPreviousUpdate": {
-      "Name": "Name part is currently unused. Hi to those who are looking here in the json file :)",
-      "Changes": "\u2022Swapped EVEN MORE shaders<br>\u2022Updated ProTV<br>\u2022Removed some garden merch as summer winds down",
-      "DateOfUpdate": "8-15-25"
     }
   }
 }
