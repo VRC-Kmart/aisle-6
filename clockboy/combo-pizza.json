@@ -331,15 +331,6 @@
       "VRC_Username": "JCloud"
     },
     {
-      "departments": [
-        { "ID": 0, "Name": "Customer Service" },
-        { "ID": 5, "Name": "Automotive" }
-      ],
-      "RegistryTimeStamp": 1718060054721,
-      "ShiftCount": 69420,
-      "VRC_Username": "Purple_Emma"
-    },
-    {
       "departments": [{ "ID": 0, "Name": "Customer Service" }],
       "RegistryTimeStamp": 1718060054721,
       "ShiftCount": 69420,
