@@ -678,7 +678,7 @@
       "VRC_Username": "Вubblеѕ"
     },
     {
-      "Departments": [{ "Name": "Hardlines" }],
+      "Departments": [{ "Name": "Hardlines" }, { "Name": "SECURITY" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1696375200000,

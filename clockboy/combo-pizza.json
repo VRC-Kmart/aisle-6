@@ -623,7 +623,10 @@
       "VRC_Username": "Вubblеѕ"
     },
     {
-      "departments": [{ "ID": 0, "Name": "Hardlines" }],
+      "departments": [
+        { "ID": 0, "Name": "Hardlines" },
+        { "Name": "SECURITY", "ID": 0 }
+      ],
       "RegistryTimeStamp": 1696375200000,
       "ShiftCount": 69420,
       "VRC_Username": "NightPanda25"
