@@ -316,12 +316,6 @@
       "departments": [{ "ID": 66, "Name": "Security" }],
       "RegistryTimeStamp": 1718060054721,
       "ShiftCount": 69420,
-      "VRC_Username": "Ϳeff"
-    },
-    {
-      "departments": [{ "ID": 66, "Name": "Security" }],
-      "RegistryTimeStamp": 1718060054721,
-      "ShiftCount": 69420,
       "VRC_Username": "luckydoomknight"
     },
     {
@@ -685,11 +679,9 @@
     },
     {
       "departments": [
-        { "ID": 0, "Name": "Electronics" },
-        { "Name": "SECURITY", "ID": 0 }
+        { "ID": 0, "Name": "Electronics Manager" },
+        { "Name": "MANAGEMENT", "ID": 0 }
       ],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "LowestInDaRoom"
@@ -793,80 +785,60 @@
     },
     {
       "departments": [{ "ID": 0, "Name": "Electronics" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741496824944,
       "VRC_Username": "Blitz-the-pup"
     },
     {
       "departments": [{ "ID": 0, "Name": "Pharmacy" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741496824945,
       "VRC_Username": "Lordthomas11"
     },
     {
       "departments": [{ "ID": 0, "Name": "Pharmacy" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741496824946,
       "VRC_Username": "Koda White Wolf"
     },
     {
       "departments": [{ "ID": 0, "Name": "Electronics" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741496824949,
       "VRC_Username": "enzopuppydog"
     },
     {
       "departments": [{ "ID": 0, "Name": "Electronics" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741496824951,
       "VRC_Username": "Snappers1"
     },
     {
       "departments": [{ "ID": 0, "Name": "Electronics" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741496824952,
       "VRC_Username": "Jaytheshadow"
     },
     {
       "departments": [{ "ID": 0, "Name": "Electronics" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741501008011,
       "VRC_Username": "2ndJakkufear"
     },
     {
       "departments": [{ "Name": "Customer Service" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741829276213,
       "VRC_Username": "SgtHomura"
     },
     {
       "departments": [{ "Name": "Layaway" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741829276222,
       "VRC_Username": "Sovietdog122l"
     },
     {
       "departments": [{ "Name": "Janitorial" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741829276224,
       "VRC_Username": "Neon_Fennix"
@@ -877,8 +849,6 @@
         { "ID": 0, "Name": "SUB WITH PRIME GAMING" },
         { "ID": 0, "Name": "sussy" }
       ],
-      "Dev": true,
-      "FunnyCallboxes": true,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1742360691345,
       "VRC_Username": "roflgator"
@@ -889,40 +859,30 @@
         { "ID": 0, "Name": "SUB WITH PRIME GAMING" },
         { "ID": 0, "Name": "sussy" }
       ],
-      "Dev": true,
-      "FunnyCallboxes": true,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1742360691351,
       "VRC_Username": "MurderCrumpet"
     },
     {
       "departments": [{ "Name": "Bakery/Deli" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1742524481161,
       "VRC_Username": "taako_times"
     },
     {
       "departments": [{ "Name": "Hardlines" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1742524481166,
       "VRC_Username": "XenoSpark"
     },
     {
       "departments": [{ "Name": "Portrait Studio" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1742524481166,
       "VRC_Username": "Sugar Fang"
     },
     {
       "departments": [{ "Name": "Electronics" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1742524481168,
       "VRC_Username": "nylahquil"
@@ -1248,6 +1208,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1756915905590,
       "departments": [{ "Name": "IT DEPARTMENT", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Jayie",
+      "RegistryTimeStamp": 1758166234963,
+      "ShiftCount": 69420,
+      "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
     }
   ],
   "footer": {

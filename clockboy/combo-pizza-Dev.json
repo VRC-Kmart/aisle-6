@@ -355,13 +355,6 @@
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1718060054721,
-      "VRC_Username": "Ϳeff"
-    },
-    {
-      "Departments": [{ "Name": "SECURITY" }],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "luckydoomknight"
     },
     {
@@ -746,7 +739,7 @@
       "VRC_Username": "Tired_The_Proto"
     },
     {
-      "Departments": [{ "Name": "TRAINER" }, { "Name": "SECURITY" }],
+      "Departments": [{ "Name": "TRAINER" },  { "Name": "Electronics Manager" }, { "Name": "MANAGEMENT" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
@@ -1309,6 +1302,13 @@
       "Dev": true,
       "FunnyCallboxes": true,
       "Departments": [{ "Name": "IT DEPARTMENT" }]
+    },
+    {
+      "VRC_Username": "Jayie",
+      "RegistryTimeStamp": 1758166234963,
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "Departments": [{ "Name": "DEVELOPER" }]
     }
   ],
   "header": {
