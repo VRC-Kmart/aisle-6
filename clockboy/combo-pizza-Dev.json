@@ -259,12 +259,10 @@
     },
     {
       "Departments": [
-        { "Name": "DEVELOPER" },
-        { "Name": "MANAGEMENT" },
-        { "Name": "Automotive Manager" }
+        { "Name": "Automotive" }
       ],
-      "Dev": true,
-      "FunnyCallboxes": true,
+      "Dev": false,
+      "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
       "VRC_Username": "Panzaa"
     },
@@ -876,13 +874,6 @@
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824952,
       "VRC_Username": "Jaytheshadow"
-    },
-    {
-      "Departments": [{ "Name": "SECURITY" }, { "Name": "Electronics" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1741501008011,
-      "VRC_Username": "2ndJakkufear"
     },
     {
       "Departments": [{ "Name": "Customer Service" }],

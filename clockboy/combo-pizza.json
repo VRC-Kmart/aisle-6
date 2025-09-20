@@ -48,8 +48,6 @@
         { "ID": 0, "Name": "Is Ruining Everything" },
         { "ID": 0, "Name": "Is Gay!" }
       ],
-      "Dev": true,
-      "FunnyCallboxes": true,
       "ShiftCount": 69420,
       "RegistryTimeStamp": -22074000000,
       "VRC_Username": "Fukaziroh"
@@ -230,8 +228,6 @@
     },
     {
       "departments": [
-        { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 253, "Name": "MANAGEMENT" },
         { "ID": 5, "Name": "Automotive" }
       ],
       "RegistryTimeStamp": 1718060054721,
@@ -267,8 +263,6 @@
     },
     {
       "departments": [
-        { "ID": 255, "Name": "ADMINISTRATION" },
-        { "ID": 253, "Name": "MANAGEMENT" },
         { "ID": 55, "Name": "Security" }
       ],
       "RegistryTimeStamp": 1718060054721,
@@ -470,8 +464,6 @@
         { "ID": 0, "Name": "Redbox Restocker" },
         { "ID": 0, "Name": "Claims" }
       ],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741496824950,
       "VRC_Username": "CilCil"
@@ -737,8 +729,6 @@
     },
     {
       "departments": [{ "ID": 0, "Name": "Electronics" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1739560003763,
       "VRC_Username": "Lumanare"
@@ -750,8 +740,6 @@
         { "ID": 0, "Name": "Nerd" },
         { "ID": 0, "Name": "better fucking get an A" }
       ],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1727208904193,
       "VRC_Username": "UrbanArtifact"
@@ -761,24 +749,18 @@
         { "ID": 0, "Name": "Store Bnuuy" },
         { "ID": 0, "Name": "Automotive" }
       ],
-      "Dev": true,
-      "FunnyCallboxes": true,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741496824934,
       "VRC_Username": "BonBonowo"
     },
     {
       "departments": [{ "ID": 0, "Name": "Kmart Advisor" }],
-      "Dev": true,
-      "FunnyCallboxes": true,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741496824939,
       "VRC_Username": "Lyff"
     },
     {
       "departments": [{ "ID": 0, "Name": "KCafe" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741496824940,
       "VRC_Username": "Misha Lane"
@@ -818,12 +800,6 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741496824952,
       "VRC_Username": "Jaytheshadow"
-    },
-    {
-      "departments": [{ "ID": 0, "Name": "Electronics" }],
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1741501008011,
-      "VRC_Username": "2ndJakkufear"
     },
     {
       "departments": [{ "Name": "Customer Service" }],
