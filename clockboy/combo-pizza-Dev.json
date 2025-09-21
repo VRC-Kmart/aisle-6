@@ -155,9 +155,9 @@
     },
     {
       "Departments": [
+        { "Name": "Based Department Manager" },
         { "Name": "MARKETING" },
-        { "Name": "MANAGEMENT" },
-        { "Name": "Hardlines Manager" }
+        { "Name": "MANAGEMENT" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -258,9 +258,7 @@
       "VRC_Username": "N3RV3SSOPSYCH"
     },
     {
-      "Departments": [
-        { "Name": "Automotive" }
-      ],
+      "Departments": [{ "Name": "Automotive" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
@@ -791,7 +789,7 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1674469200000,
-      "VRC_Username": "ѕєηкσ"
+      "VRC_Username": "ιтz_вяєєzуу"
     },
     {
       "Departments": [{ "Name": "Electronics" }],
@@ -1134,7 +1132,11 @@
       "RegistryTimeStamp": 1752456278290,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "SECURITY" }]
+      "Departments": [
+        { "Name": "Bakery Manager" },
+        { "Name": "MANAGEMENT" },
+        { "Name": "SECURITY" }
+      ]
     },
     {
       "VRC_Username": "charlie-san",
@@ -1304,6 +1306,20 @@
       "Dev": true,
       "FunnyCallboxes": true,
       "Departments": [{ "Name": "DEVELOPER" }]
+    },
+    {
+      "VRC_Username": "rEactor2002",
+      "RegistryTimeStamp": 1758427871638,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "mangokento",
+      "RegistryTimeStamp": 1758427871639,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "KCafe" }]
     }
   ],
   "header": {

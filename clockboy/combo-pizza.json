@@ -227,9 +227,7 @@
       "VRC_Username": "N3RV3SSOPSYCH"
     },
     {
-      "departments": [
-        { "ID": 5, "Name": "Automotive" }
-      ],
+      "departments": [{ "ID": 5, "Name": "Automotive" }],
       "RegistryTimeStamp": 1718060054721,
       "ShiftCount": 69420,
       "VRC_Username": "Panzaa"
@@ -262,9 +260,7 @@
       "VRC_Username": "Rustthelion"
     },
     {
-      "departments": [
-        { "ID": 55, "Name": "Security" }
-      ],
+      "departments": [{ "ID": 55, "Name": "Security" }],
       "RegistryTimeStamp": 1718060054721,
       "ShiftCount": 69420,
       "VRC_Username": "sam555"
@@ -725,7 +721,7 @@
       ],
       "RegistryTimeStamp": 1674469200000,
       "ShiftCount": 69420,
-      "VRC_Username": "ѕєηкσ"
+      "VRC_Username": "ιтz_вяєєzуу"
     },
     {
       "departments": [{ "ID": 0, "Name": "Electronics" }],
@@ -1193,6 +1189,18 @@
       "RegistryTimeStamp": 1758166234963,
       "ShiftCount": 69420,
       "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "rEactor2002",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1758427871638,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "mangokento",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1758427871639,
+      "departments": [{ "Name": "KCafe", "ID": 0 }]
     }
   ],
   "footer": {
