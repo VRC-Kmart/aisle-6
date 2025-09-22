@@ -1320,6 +1320,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "KCafe" }]
+    },
+    {
+      "VRC_Username": "SorΒ",
+      "RegistryTimeStamp": 1758517398278,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "LPD Sergeant" }, { "Name": "is an orb" }, { "Name": "<color=#fcba03>PISS YELLOW</color>" }]
     }
   ],
   "header": {
