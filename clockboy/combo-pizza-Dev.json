@@ -215,7 +215,6 @@
     },
     {
       "Departments": [
-        { "Name": "DEVELOPER" },
         { "Name": "MANAGEMENT" },
         { "Name": "Garden Manager" }
       ],
@@ -950,7 +949,7 @@
       "VRC_Username": "nylahquil"
     },
     {
-      "Departments": [{ "Name": "Janitorial" }],
+      "Departments": [{ "Name": "MANAGEMENT" },{ "Name": "Janitorial Manager" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1731706256158,
