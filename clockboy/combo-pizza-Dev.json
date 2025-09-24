@@ -436,7 +436,7 @@
       "VRC_Username": "nickm"
     },
     {
-      "Departments": [{ "Name": "Automotive" }],
+      "Departments": [{ "Name": "MANAGEMENT" },{ "Name": "Automotive Manager" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1701284514609,
