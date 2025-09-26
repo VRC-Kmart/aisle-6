@@ -214,10 +214,7 @@
       "VRC_Username": "JamminJon"
     },
     {
-      "Departments": [
-        { "Name": "MANAGEMENT" },
-        { "Name": "Garden Manager" }
-      ],
+      "Departments": [{ "Name": "MANAGEMENT" }, { "Name": "Garden Manager" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1699593949761,
@@ -436,7 +433,10 @@
       "VRC_Username": "nickm"
     },
     {
-      "Departments": [{ "Name": "MANAGEMENT" },{ "Name": "Automotive Manager" }],
+      "Departments": [
+        { "Name": "MANAGEMENT" },
+        { "Name": "Automotive Manager" }
+      ],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1701284514609,
@@ -942,7 +942,10 @@
       "VRC_Username": "nylahquil"
     },
     {
-      "Departments": [{ "Name": "MANAGEMENT" },{ "Name": "Janitorial Manager" }],
+      "Departments": [
+        { "Name": "MANAGEMENT" },
+        { "Name": "Janitorial Manager" }
+      ],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1731706256158,
@@ -1318,7 +1321,19 @@
       "RegistryTimeStamp": 1758517398278,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }, { "Name": "LPD Sergeant" }, { "Name": "is an orb" }, { "Name": "<color=#fcba03>PISS YELLOW</color>" }]
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "LPD Sergeant" },
+        { "Name": "is an orb" },
+        { "Name": "<color=#fcba03>PISS YELLOW</color>" }
+      ]
+    },
+    {
+      "VRC_Username": "LoganWalker",
+      "RegistryTimeStamp": 1758916243439,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" },{ "Name": "has furry avi" },{ "Name": "will erp on top of the cars" },{ "Name": "Discount New Zealand" }]
     }
   ],
   "header": {
