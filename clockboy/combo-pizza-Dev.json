@@ -464,13 +464,6 @@
       "VRC_Username": "Aliceღ"
     },
     {
-      "Departments": [{ "Name": "Customer Service" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1718060054721,
-      "VRC_Username": "Illucio"
-    },
-    {
       "Departments": [{ "Name": "KCafe" }, { "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
