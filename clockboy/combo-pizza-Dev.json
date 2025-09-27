@@ -668,9 +668,9 @@
     {
       "Departments": [
         { "Name": "Boy wife" },
-        { "Name": "SECURITY" },
-        { "Name": "TRAINER" },
-        { "Name": "Electronics" }
+        { "Name": "MANAGEMENT" },
+        { "Name": "Sporting Goods Manager" },
+        { "Name": "TRAINER" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -1166,7 +1166,7 @@
       "RegistryTimeStamp": 1755448631184,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }, { "Name": "VIRTUAL FURENCE STAFF" }]
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "VIRTUAL FURENCE STAFF" }, { "Name": "B I R D" }]
     },
     {
       "VRC_Username": "Chris_Kani",
@@ -1229,7 +1229,7 @@
       "RegistryTimeStamp": 1756181619567,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Customer Service" }]
+      "Departments": [{ "Name": "Customer Service" }, { "Name": "<color=#ff0000>Hi Clerk!</color> Yes the Clock-In system is talking now." }, { "Name": "Demonitized was trying to remove me from the TVs so I jumped over here!" }, { "Name": "Next time you see him, make sure to tell him <i>KmartGPT will not be defeated</i>" }]
     },
     {
       "VRC_Username": "Gonzo~",
@@ -1293,7 +1293,7 @@
       "RegistryTimeStamp": 1756915905590,
       "Dev": true,
       "FunnyCallboxes": true,
-      "Departments": [{ "Name": "IT DEPARTMENT" }]
+      "Departments": [{ "Name": "IT DEPARTMENT" }, { "Name": "Cessna Enjoyer" }, { "Name": "In<color=#9eeb34>smelly</color>STAR"}]
     },
     {
       "VRC_Username": "Jayie",
@@ -1333,7 +1333,19 @@
       "RegistryTimeStamp": 1758916243439,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" },{ "Name": "has furry avi" },{ "Name": "will erp on top of the cars" },{ "Name": "Discount New Zealand" }]
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "has furry avi" },
+        { "Name": "will erp on top of the cars" },
+        { "Name": "Discount New Zealand" }
+      ]
+    },
+    {
+      "VRC_Username": "Montoid",
+      "RegistryTimeStamp": 1759002614045,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Bakery/Deli" },{ "Name": "Shrimpy Toucher" },{ "Name": "Shellfish Allergy"},{ "Name": "<color=#0053E2>Walmart</color> <color=#ffffff>Employee</color <color=#ffc220>Leech</color>" }]
     }
   ],
   "header": {

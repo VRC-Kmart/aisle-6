@@ -607,7 +607,7 @@
     {
       "departments": [
         { "ID": 128, "Name": "Boy wife" },
-        { "ID": 66, "Name": "Security" },
+        { "ID": 66, "Name": "MANAGEMENT" },
         { "ID": 0, "Name": "TRAINER" }
       ],
       "RegistryTimeStamp": 1729234764392,
@@ -1207,6 +1207,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1758916243439,
       "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Montoid",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1759002614045,
+      "departments": [{ "Name": "Bakery/Deli", "ID": 0 }]
     }
   ],
   "footer": {
