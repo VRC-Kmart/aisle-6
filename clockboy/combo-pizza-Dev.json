@@ -1032,7 +1032,7 @@
       "VRC_Username": "Ryu-Kazuki"
     },
     {
-      "Departments": [{ "Name": "Pharmacy" }],
+      "Departments": [{ "Name": "Pharmacy" }, { "Name": "JUDY"}],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1746655903150,
