@@ -155,13 +155,14 @@
     },
     {
       "Departments": [
+        { "Name": "wont stop bitching about their join date being wrong" },
         { "Name": "Based Department Manager" },
         { "Name": "MARKETING" },
         { "Name": "MANAGEMENT" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1609576636925,
+      "RegistryTimeStamp": 1571181600000,
       "VRC_Username": "AmusedBirb"
     },
     {
