@@ -1347,6 +1347,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Bakery/Deli" },{ "Name": "Shrimpy Toucher" },{ "Name": "Shellfish Allergy"},{ "Name": "<color=#0053E2>Walmart</color> <color=#ffffff>Employee</color <color=#ffc220>Leech</color>" }]
+    },
+    {
+      "VRC_Username": "Air In",
+      "RegistryTimeStamp": 1759108340000,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Lizard" },{ "Name": "VENDOR" }]
     }
   ],
   "header": {
