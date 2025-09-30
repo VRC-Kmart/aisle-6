@@ -1019,7 +1019,10 @@
       "VRC_Username": "Misterio7",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1752195547518,
-      "departments": [{ "Name": "SECURITY", "ID": 0 },{ "Name": "Electronics", "ID": 0 }]
+      "departments": [
+        { "Name": "SECURITY", "ID": 0 },
+        { "Name": "Electronics", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "SystematicVibes",
@@ -1213,6 +1216,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1759002614045,
       "departments": [{ "Name": "Bakery/Deli", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Aura Natsumi",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1759202161703,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
     }
   ],
   "footer": {
