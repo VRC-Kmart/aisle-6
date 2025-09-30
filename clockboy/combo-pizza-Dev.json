@@ -1121,7 +1121,7 @@
       "RegistryTimeStamp": 1752195547518,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Electronics" }]
+      "Departments": [{ "Name": "SECURITY" },{ "Name": "Electronics" }]
     },
     {
       "VRC_Username": "SystematicVibes",
