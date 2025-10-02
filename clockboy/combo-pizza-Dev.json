@@ -1386,7 +1386,20 @@
       "RegistryTimeStamp": 1759202161703,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Electronics" }, { "Name": "Resigned" }, { "Name": "Came Crawling Back" }, { "Name": "Store Prostitute"}, { "Name": "W O M A N"}]
+      "Departments": [
+        { "Name": "Electronics" },
+        { "Name": "Resigned" },
+        { "Name": "Came Crawling Back" },
+        { "Name": "Store Prostitute" },
+        { "Name": "W O M A N" }
+      ]
+    },
+    {
+      "VRC_Username": "Ghost Becky",
+      "RegistryTimeStamp": 1759364917847,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" },{ "Name": "LPD" },{ "Name": "is real ghost" },{ "Name": "cannot properly load a fucking gun" },{ "Name": "<color=#ff0000>Mayumi hater</color>" },{ "Name": "LBI Agent (very secret don't tell anyone)" }]
     }
   ],
   "header": {
