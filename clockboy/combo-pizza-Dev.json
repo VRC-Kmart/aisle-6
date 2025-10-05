@@ -1266,17 +1266,6 @@
       ]
     },
     {
-      "VRC_Username": "R1-J5",
-      "RegistryTimeStamp": 1756787524533,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "Customer Service" },
-        { "Name": "Hardlines" },
-        { "Name": "Janitorial" }
-      ]
-    },
-    {
       "VRC_Username": "RoaringBear",
       "RegistryTimeStamp": 1756787524543,
       "Dev": false,

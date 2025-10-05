@@ -1139,16 +1139,6 @@
       "departments": [{ "Name": "IT DEPARTMENT", "ID": 0 }]
     },
     {
-      "VRC_Username": "R1-J5",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1756787524533,
-      "departments": [
-        { "Name": "Customer Service", "ID": 0 },
-        { "Name": "Hardlines", "ID": 0 },
-        { "Name": "Janitorial", "ID": 0 }
-      ]
-    },
-    {
       "VRC_Username": "RoaringBear",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1756787524543,
