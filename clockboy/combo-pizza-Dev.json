@@ -1117,17 +1117,6 @@
       "Departments": [{ "Name": "SECURITY" }, { "Name": "Electronics" }]
     },
     {
-      "VRC_Username": "SystematicVibes",
-      "RegistryTimeStamp": 1752456278290,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "Bakery Manager" },
-        { "Name": "MANAGEMENT" },
-        { "Name": "SECURITY" }
-      ]
-    },
-    {
       "VRC_Username": "charlie-san",
       "RegistryTimeStamp": 1753098470170,
       "Dev": true,
