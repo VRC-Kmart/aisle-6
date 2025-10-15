@@ -1328,6 +1328,14 @@
           "ID": 0
         }
       ]
+    },
+        {
+      "VRC_Username": "MUDDKING",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1760566405000,
+      "departments": [
+        { "Name": "VENDOR", "ID":0 }
+      ]
     }
   ],
   "footer": {
