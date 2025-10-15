@@ -1379,7 +1379,7 @@
       "FunnyCallboxes": false,
       "Departments": [
         { "Name": "VENDOR" },
-        { "Name": "SHIELD Deputy Chief" },
+        { "Name": "SHIELD Deputy Sheriff" },
         { "Name": "Needs To Touch <color=#00ff00>Grass</color>" },
         { "Name": "Goku is not your husband" },
         { "Name": "I swear if we have to put you back in fucking therapy" }
@@ -1392,7 +1392,8 @@
       "FunnyCallboxes": false,
       "Departments": [
         { "Name": "VENDOR" },
-        { "Name": "SHIELD Chief" },
+        { "Name": "SHIELD Sheriff" },
+        { "Name": "discount Karet" },
         { "Name": "needs to take a mother fucking decontamination shower" },
         { "Name": "will never roll a nat 20" }
       ]
@@ -1404,7 +1405,7 @@
       "FunnyCallboxes": false,
       "Departments": [
         { "Name": "VENDOR" },
-        { "Name": "SHIELD Deputy Chief" },
+        { "Name": "SHIELD Deputy Sheriff" },
         { "Name": "Discount Captain Janeway" },
         {
           "Name": "Will Boldly Go Where No Man Has Gone Before (Gentleman's mother's house)"
