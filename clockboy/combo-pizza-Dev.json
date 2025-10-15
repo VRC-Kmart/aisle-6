@@ -2293,6 +2293,61 @@
           "Name": "VENDOR"
         }
       ]
+    },
+    {
+      "VRC_Username": "MaxxNchez8910",
+      "RegistryTimeStamp": 1760554946958,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        {
+          "Name": "VENDOR"
+        }
+      ]
+    },
+    {
+      "VRC_Username": "Crusader_Pug",
+      "RegistryTimeStamp": 1760554946958,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        {
+          "Name": "VENDOR"
+        }
+      ]
+    },
+    {
+      "VRC_Username": "Roger_FireFox",
+      "RegistryTimeStamp": 1760554946960,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        {
+          "Name": "VENDOR"
+        }
+      ]
+    },
+    {
+      "VRC_Username": "LaserPointer",
+      "RegistryTimeStamp": 1760554946961,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        {
+          "Name": "VENDOR"
+        }
+      ]
+    },
+    {
+      "VRC_Username": "polarsaucer",
+      "RegistryTimeStamp": 1760554946962,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        {
+          "Name": "VENDOR"
+        }
+      ]
     }
   ],
   "header": {
