@@ -55,10 +55,10 @@ function addAssociate(vrcName, priDept, regTime = Date.now(), isDev = false, isC
     const legacyPath = "./combo-pizza.json";
 
     file.Associates.push(associate);
-    fs.writeFileSync(dbPath, JSON.stringify(file));
+    fs.writeFileSync(dbPath, JSON.stringify(file, null, 2));
 
     fileLegacy.Clocked_In_Associates.push(legacyAssociate);
-    fs.writeFileSync(legacyPath, JSON.stringify(fileLegacy));
+    fs.writeFileSync(legacyPath, JSON.stringify(fileLegacy, null, 2));
     Utils.log(`Associate Add`, `Added ${vrcName} to the database!\n
         Initial Department --- ${priDept}
         RegistryTimeStamp ---- ${regTime}
@@ -80,8 +80,8 @@ function addDepartment(vrcName, departmentName) {
     file.Associates[associateIndex].Departments.push({ Name: departmentName });
     fileLegacy.Clocked_In_Associates[legacyIndex].departments.push({ Name: departmentName, ID: 0 });
 
-    fs.writeFileSync("./combo-pizza-Dev.json", JSON.stringify(file));
-    fs.writeFileSync("./combo-pizza.json", JSON.stringify(fileLegacy));
+    fs.writeFileSync("./combo-pizza-Dev.json", JSON.stringify(file, null, 2));
+    fs.writeFileSync("./combo-pizza.json", JSON.stringify(fileLegacy, null, 2));
 
     Utils.log(`Department Add`, `Modified ${vrcName} in the database!\n New Department ------- ${departmentName}`);
 }
@@ -104,8 +104,8 @@ function removeDepartment(vrcName, departmentName) {
     file.Associates[associateIndex].Departments = departments.filter(d => d.Name !== departmentName);
     fileLegacy.Clocked_In_Associates[legacyIndex].departments = legacyDepartments.filter(d => d.Name !== departmentName);
 
-    fs.writeFileSync("./combo-pizza-Dev.json", JSON.stringify(file));
-    fs.writeFileSync("./combo-pizza.json", JSON.stringify(fileLegacy));
+    fs.writeFileSync("./combo-pizza-Dev.json", JSON.stringify(file, null, 2));
+    fs.writeFileSync("./combo-pizza.json", JSON.stringify(fileLegacy, null, 2));
 
     Utils.log(`Department Remove`, `Removed "${departmentName}" from ${vrcName}'s departments.`);
 }
@@ -126,8 +126,8 @@ function removeAssociate(vrcName) {
     file.Associates.splice(associateIndex, 1);
     fileLegacy.Clocked_In_Associates.splice(legacyIndex, 1);
 
-    fs.writeFileSync("./combo-pizza-Dev.json", JSON.stringify(file));
-    fs.writeFileSync("./combo-pizza.json", JSON.stringify(fileLegacy));
+    fs.writeFileSync("./combo-pizza-Dev.json", JSON.stringify(file, null, 2));
+    fs.writeFileSync("./combo-pizza.json", JSON.stringify(fileLegacy, null, 2));
 
     Utils.log(`Associate Remove`, `Removed "${vrcName}" from the databases.`);
 }
