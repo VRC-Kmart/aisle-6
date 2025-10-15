@@ -429,7 +429,10 @@
     {
       "Departments": [
         { "Name": "MANAGEMENT" },
-        { "Name": "Automotive Manager" }
+        { "Name": "Automotive Manager" },
+        { "Name": "New York Hater" },
+        { "Name": "wants to make out with Gentleman" },
+        { "Name": "w o m a n" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1237,7 +1240,10 @@
       "Departments": [
         { "Name": "IT DEPARTMENT" },
         { "Name": "DEVELOPER" },
-        { "Name": "<color=#ffff00>L E M O N</color>" }
+        { "Name": "<color=#ffff00>L E M O N</color>" },
+        { "Name": "doesn't know Assembly" },
+        { "Name": "fake developer" },
+        { "Name": "L+Ratio" }
       ]
     },
     {
@@ -1484,7 +1490,7 @@
         { "Name": "SHIELD Founder" },
         { "Name": "bad teeth" },
         { "Name": "HATSUNE MIKU DOES NOT TALK TO BRITISH PEOPLE" },
-        { "Name": "has had <b>SEVERAL</b> bricks thrown at them"}
+        { "Name": "has had <b>SEVERAL</b> bricks thrown at them" }
       ]
     },
     {
@@ -1532,6 +1538,19 @@
         { "Name": "SHIELD Event Host" },
         { "Name": "gets special treatment because they're the sheriff's kid" },
         { "Name": "woman (derogatory)" }
+      ]
+    },
+    {
+      "VRC_Username": "MUDDKING",
+      "RegistryTimeStamp": 1760555546407,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "SHIELD Lieutenant" },
+        { "Name": "Enjoys watching people crash their F1 cars" },
+        { "Name": "likes shoes and TOTALLY not feet" },
+        { "Name": "buys Only Fans in Kmart (fans are located in Housewares)" }
       ]
     }
   ],
