@@ -1219,123 +1219,77 @@
       "RegistryTimeStamp": 1760553755874,
       "departments": [{ "Name": "VENDOR", "ID": 0 }]
     },
-     {
+    {
       "VRC_Username": "MaxxNchez8910",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1760554946958,
-      "departments": [
-        {
-          "Name": "VENDOR",
-          "ID": 0
-        }
-      ]
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
     },
     {
       "VRC_Username": "Crusader_Pug",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1760554946958,
-      "departments": [
-        {
-          "Name": "VENDOR",
-          "ID": 0
-        }
-      ]
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
     },
     {
       "VRC_Username": "Roger_FireFox",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1760554946960,
-      "departments": [
-        {
-          "Name": "VENDOR",
-          "ID": 0
-        }
-      ]
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
     },
     {
       "VRC_Username": "LaserPointer",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1760554946961,
-      "departments": [
-        {
-          "Name": "VENDOR",
-          "ID": 0
-        }
-      ]
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
     },
     {
       "VRC_Username": "polarsaucer",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1760554946962,
-      "departments": [
-        {
-          "Name": "VENDOR",
-          "ID": 0
-        }
-      ]
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
     },
     {
       "VRC_Username": "TheGamingExite",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1760555047148,
-      "departments": [
-        {
-          "Name": "VENDOR",
-          "ID": 0
-        }
-      ]
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
     },
     {
       "VRC_Username": "Amaya_VR",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1760555546404,
-      "departments": [
-        {
-          "Name": "VENDOR",
-          "ID": 0
-        }
-      ]
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
     },
     {
       "VRC_Username": "ReleaseOfTheID",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1760555546405,
-      "departments": [
-        {
-          "Name": "VENDOR",
-          "ID": 0
-        }
-      ]
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
     },
     {
       "VRC_Username": "WhiskeryThrone5",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1760555546406,
-      "departments": [
-        {
-          "Name": "VENDOR",
-          "ID": 0
-        }
-      ]
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
     },
     {
       "VRC_Username": "Mooshrooum",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1760555546407,
-      "departments": [
-        {
-          "Name": "VENDOR",
-          "ID": 0
-        }
-      ]
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
     },
-        {
+    {
       "VRC_Username": "MUDDKING",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1760566405000,
-      "departments": [
-        { "Name": "VENDOR", "ID":0 }
-      ]
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "DaEpicZach",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1760639226888,
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
     }
   ],
   "footer": {

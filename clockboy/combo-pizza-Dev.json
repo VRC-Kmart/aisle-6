@@ -1414,7 +1414,9 @@
         { "Name": "VENDOR" },
         { "Name": "SHIELD Deputy \"Sheriff\"" },
         { "Name": "Discount Captain Janeway" },
-        { "Name": "has a big ship that is <b>DEFINITELY</b> not compensating for something" },
+        {
+          "Name": "has a big ship that is <b>DEFINITELY</b> not compensating for something"
+        },
         {
           "Name": "Will Boldly Go Where No Man Has Gone Before (Gentleman's mother's house)"
         }
@@ -1428,10 +1430,12 @@
       "Departments": [
         { "Name": "VENDOR" },
         { "Name": "SHIELD Captain" },
-        { "Name": "Media Lead- wait you're not making porn in Kmart again right?" },
+        {
+          "Name": "Media Lead- wait you're not making porn in Kmart again right?"
+        },
         { "Name": "made poor life choices and made Gacha characters" },
         { "Name": "enjoys getting Philled up ( ͡° ͜ʖ ͡°)" }
-        ]
+      ]
     },
     {
       "VRC_Username": "Crusader_Pug",
@@ -1478,7 +1482,9 @@
       "Departments": [
         { "Name": "VENDOR" },
         { "Name": "SHIELD Sergeant" },
-        { "Name": "the clocks in this store are NOT SCP-4252-A1 please fucking stop smashing them open" },
+        {
+          "Name": "the clocks in this store are NOT SCP-4252-A1 please fucking stop smashing them open"
+        },
         { "Name": "is the reason this store doesn't sell peanuts" },
         { "Name": "wanker" },
         { "Name": "discount british" }
@@ -1558,6 +1564,13 @@
         { "Name": "likes shoes and TOTALLY not feet" },
         { "Name": "buys Only Fans in Kmart (fans are located in Housewares)" }
       ]
+    },
+    {
+      "VRC_Username": "DaEpicZach",
+      "RegistryTimeStamp": 1760639226888,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" },{ "Name": "LPD Sergeant" }]
     }
   ],
   "header": {
