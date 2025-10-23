@@ -1041,7 +1041,7 @@
       "RegistryTimeStamp": 1746681061543,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "DEVELOPER" },{ "Name": "Electronics" }]
+      "Departments": [{ "Name": "DEVELOPER" }, { "Name": "Electronics" }]
     },
     {
       "VRC_Username": "W̷3̷N̷D̷1̷G̷0̷",
@@ -1573,7 +1573,18 @@
       "RegistryTimeStamp": 1760639226888,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" },{ "Name": "LPD Sergeant" }]
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "LPD Sergeant" }]
+    },
+    {
+      "VRC_Username": "drforrester87",
+      "RegistryTimeStamp": 1761188215279,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "Local Pest Department" },
+        { "Name": "please stop going through our trash" }
+      ]
     }
   ],
   "header": {

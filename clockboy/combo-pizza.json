@@ -1290,6 +1290,16 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1760639226888,
       "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "drforrester87",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1761188215279,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "Local Pest Department", "ID": 0 },
+        { "Name": "please stop going through our trash", "ID": 0 }
+      ]
     }
   ],
   "footer": {
