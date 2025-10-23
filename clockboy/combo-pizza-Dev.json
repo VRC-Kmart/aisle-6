@@ -90,7 +90,8 @@
         { "Name": "HUMAN RESOURCES" },
         { "Name": "MANAGEMENT" },
         { "Name": "SECURITY" },
-        { "Name": "Pissed in the vestibule" }
+        { "Name": "Pissed in the vestibule" },
+        { "Name": "old car" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -102,7 +103,9 @@
         { "Name": "HUMAN RESOURCES" },
         { "Name": "DEVELOPER" },
         { "Name": "TRAINER" },
-        { "Name": "Bakery/Deli" }
+        { "Name": "Bakery/Deli" },
+        { "Name": "<color=#ff0000>T R A C T O R</color>" },
+        { "Name": "woman" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -169,7 +172,10 @@
     {
       "Departments": [
         { "Name": "MANAGEMENT" },
-        { "Name": "Customer Service Manager" }
+        { "Name": "Customer Service Manager" },
+        { "Name": "boner brigade- wait no" },
+        { "Name": "smelly" },
+        { "Name": "likes to complain about the slushie machine" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -1111,7 +1117,7 @@
       "RegistryTimeStamp": 1752195547518,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "SECURITY" }, { "Name": "Electronics" }]
+      "Departments": [{ "Name": "SECURITY" }, { "Name": "Electronics" },{ "Name": "owns a shitty bar" },{ "Name": "enjoys audio at 2k sample rate" }]
     },
     {
       "VRC_Username": "charlie-san",
