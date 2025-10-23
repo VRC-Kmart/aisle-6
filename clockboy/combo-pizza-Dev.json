@@ -1585,6 +1585,18 @@
         { "Name": "Local Pest Department" },
         { "Name": "please stop going through our trash" }
       ]
+    },
+    {
+      "VRC_Username": "KoreFuze",
+      "RegistryTimeStamp": 1761245197811,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "\"sTaR wArS iS bEtTeR\" no the fuck is isn't stfu" },
+        { "Name": "why is the ultramarine kinda..." },
+        { "Name": "should make content quest compatible" }
+      ]
     }
   ],
   "header": {

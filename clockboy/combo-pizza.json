@@ -1300,6 +1300,20 @@
         { "Name": "Local Pest Department", "ID": 0 },
         { "Name": "please stop going through our trash", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "KoreFuze",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1761245197811,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        {
+          "Name": "\"sTaR wArS iS bEtTeR\" no the fuck is isn't stfu",
+          "ID": 0
+        },
+        { "Name": "why is the ultramarine kinda...", "ID": 0 },
+        { "Name": "should make content quest compatible", "ID": 0 }
+      ]
     }
   ],
   "footer": {
