@@ -1117,7 +1117,12 @@
       "RegistryTimeStamp": 1752195547518,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "SECURITY" }, { "Name": "Electronics" },{ "Name": "owns a shitty bar" },{ "Name": "enjoys audio at 2k sample rate" }]
+      "Departments": [
+        { "Name": "SECURITY" },
+        { "Name": "Electronics" },
+        { "Name": "owns a shitty bar" },
+        { "Name": "enjoys audio at 2k sample rate" }
+      ]
     },
     {
       "VRC_Username": "charlie-san",
@@ -1603,6 +1608,27 @@
         { "Name": "why is the ultramarine kinda..." },
         { "Name": "should make content quest compatible" }
       ]
+    },
+    {
+      "VRC_Username": "NiikoTransMtf",
+      "RegistryTimeStamp": 1761267528635,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "Airez1x",
+      "RegistryTimeStamp": 1761267528636,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Bakery/Deli" }]
+    },
+    {
+      "VRC_Username": "cadence․୨୧",
+      "RegistryTimeStamp": 1761267528638,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
     }
   ],
   "header": {
