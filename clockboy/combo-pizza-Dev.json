@@ -171,10 +171,10 @@
     },
     {
       "Departments": [
-        { "Name": "MANAGEMENT" },
+        { "Name": "ADMINISTRATION" },
+        { "Name": "Public Relations Manager" },
         { "Name": "Customer Service Manager" },
         { "Name": "boner brigade- wait no" },
-        { "Name": "smelly" },
         { "Name": "likes to complain about the slushie machine" }
       ],
       "Dev": true,
