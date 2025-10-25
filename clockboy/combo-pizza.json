@@ -182,6 +182,7 @@
     {
       "departments": [
         { "ID": 253, "Name": "MANAGEMENT" },
+        { "ID": 0, "Name": "Public Relations" },
         { "ID": 14, "Name": "Layaway" }
       ],
       "RegistryTimeStamp": 1660574061049,
@@ -713,7 +714,7 @@
       "VRC_Username": "ιтz_вяєєzуу"
     },
     {
-      "departments": [{ "ID": 0, "Name": "Electronics" }],
+      "departments": [{ "ID": 0, "Name": "SECURITY" }],
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1739560003763,
       "VRC_Username": "Lumanare"

@@ -213,6 +213,7 @@
     {
       "Departments": [
         { "Name": "MANAGEMENT" },
+        { "Name": "Public Relations" },
         { "Name": "Layaway Manager" },
         { "Name": "Allegedly Straight" }
       ],
@@ -788,9 +789,9 @@
       "VRC_Username": "ιтz_вяєєzуу"
     },
     {
-      "Departments": [{ "Name": "Electronics" }],
+      "Departments": [{ "Name": "SECURITY" }],
       "Dev": false,
-      "FunnyCallboxes": false,
+      "FunnyCallboxes": true,
       "RegistryTimeStamp": 1739560003763,
       "VRC_Username": "Lumanare"
     },
