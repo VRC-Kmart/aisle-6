@@ -1334,6 +1334,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1761267528638,
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "N-e-kolita",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1761455638606,
+      "departments": [{ "Name": "Janitorial", "ID": 0 }]
     }
   ],
   "footer": {
