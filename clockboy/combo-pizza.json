@@ -1352,6 +1352,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1761526210425,
       "departments": [{ "Name": "Home Improvement", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "TheLastUnknown",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1761533662163,
+      "departments": [{ "Name": "Home Improvement", "ID": 0 }]
     }
   ],
   "footer": {

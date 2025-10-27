@@ -7,8 +7,7 @@ let numEdited = 0;
 const {Utils} = require("./utils.js");
 
 logInfo();
-addAssociate("chickenstrips1", "KCafe");
-addAssociate("乃丨尺D", "Home Improvement");
+addAssociate("TheLastUnknown", "Home Improvement");
 /* Thanks to null. 
  * you know who you are :3 */
 
