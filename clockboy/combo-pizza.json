@@ -1340,6 +1340,18 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1761455638606,
       "departments": [{ "Name": "Janitorial", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "chickenstrips1",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1761526210424,
+      "departments": [{ "Name": "KCafe", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "乃丨尺D",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1761526210425,
+      "departments": [{ "Name": "Home Improvement", "ID": 0 }]
     }
   ],
   "footer": {

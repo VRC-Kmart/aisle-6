@@ -7,9 +7,8 @@ let numEdited = 0;
 const {Utils} = require("./utils.js");
 
 logInfo();
-addAssociate("NiikoTransMtf", "Customer Service");
-addAssociate("Airez1x", "Bakery/Deli");
-addAssociate("cadence․୨୧", "Customer Service")
+addAssociate("chickenstrips1", "KCafe");
+addAssociate("乃丨尺D", "Home Improvement");
 /* Thanks to null. 
  * you know who you are :3 */
 

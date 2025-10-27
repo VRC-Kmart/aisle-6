@@ -1633,10 +1633,24 @@
     },
     {
       "VRC_Username": "N-e-kolita",
-      "RegistryTimeStamp":  ,
+      "RegistryTimeStamp": 1761455638606,
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Janitorial" }]
+    },
+    {
+      "VRC_Username": "chickenstrips1",
+      "RegistryTimeStamp": 1761526210424,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "KCafe" }]
+    },
+    {
+      "VRC_Username": "乃丨尺D",
+      "RegistryTimeStamp": 1761526210425,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Home Improvement" }]
     }
   ],
   "header": {
