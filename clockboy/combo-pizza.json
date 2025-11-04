@@ -1358,6 +1358,24 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1761533662163,
       "departments": [{ "Name": "Home Improvement", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "RexWolfenVRC1",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1762233883909,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "2ndJakkufear",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1762233883910,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "sashlilac34",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1762233883912,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
     }
   ],
   "footer": {

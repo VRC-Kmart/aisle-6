@@ -1658,6 +1658,27 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Home Improvement" }]
+    },
+    {
+      "VRC_Username": "RexWolfenVRC1",
+      "RegistryTimeStamp": 1762233883909,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "2ndJakkufear",
+      "RegistryTimeStamp": 1762233883910,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "sashlilac34",
+      "RegistryTimeStamp": 1762233883912,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
     }
   ],
   "header": {
