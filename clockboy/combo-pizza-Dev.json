@@ -1140,13 +1140,6 @@
       "Departments": [{ "Name": "KCafe" }]
     },
     {
-      "VRC_Username": "Akimbo",
-      "RegistryTimeStamp": 1755448631180,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }, { "Name": "RAINBOW LIBRARY STAFF" }]
-    },
-    {
       "VRC_Username": "Asheris",
       "RegistryTimeStamp": 1755448631182,
       "Dev": false,

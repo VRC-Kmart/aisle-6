@@ -1030,12 +1030,6 @@
       "departments": [{ "Name": "KCafe", "ID": 0 }]
     },
     {
-      "VRC_Username": "Akimbo",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1755448631180,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
-    },
-    {
       "VRC_Username": "Asheris",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1755448631182,
