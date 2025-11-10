@@ -1370,6 +1370,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1762233883912,
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "F0XYSTAR",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1762813705359,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
     }
   ],
   "footer": {

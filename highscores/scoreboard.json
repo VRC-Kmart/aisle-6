@@ -1,6 +1,6 @@
 {
     "superk":{
-		"LastUpdated": "9-23-25",
+		"LastUpdated": "11-10-25",
         "flappyHat":[
             {
                 "name": "K17-C47",
@@ -69,20 +69,20 @@
                 "score": 63280
             },
             {
+                "name": "Lorelel",
+                "score": 39420
+            },
+            {
+                "name": "NylaB0nes",
+                "score": 32560
+            },
+            {
                 "name": "Friskiiii",
                 "score": 27980
             },
             {
-                "name": "NylaB0nes",
-                "score": 24180
-            },
-            {
-                "name": "Oreo_Nardo",
-                "score": 20320
-            },
-            {
-                "name": "CucumberWator",
-                "score": 19540
+                "name": "Eternal Pen",
+                "score": 12180
             }
         ]
     },

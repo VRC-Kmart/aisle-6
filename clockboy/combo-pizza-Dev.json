@@ -1672,6 +1672,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "F0XYSTAR",
+      "RegistryTimeStamp": 1762813705359,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
     }
   ],
   "header": {
