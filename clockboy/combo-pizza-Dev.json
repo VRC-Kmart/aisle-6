@@ -657,13 +657,6 @@
       "VRC_Username": "Вubblеѕ"
     },
     {
-      "Departments": [{ "Name": "Hardlines" }, { "Name": "SECURITY" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1696375200000,
-      "VRC_Username": "NightPanda25"
-    },
-    {
       "Departments": [{ "Name": "KCafe" }],
       "Dev": false,
       "FunnyCallboxes": false,
