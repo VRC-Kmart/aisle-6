@@ -1672,6 +1672,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "TheNuggetLord",
+      "RegistryTimeStamp": 1763019266289,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Disservice" }]
     }
   ],
   "header": {

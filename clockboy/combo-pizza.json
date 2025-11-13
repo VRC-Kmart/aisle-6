@@ -1367,6 +1367,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1762813705359,
       "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "TheNuggetLord",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1763019266289,
+      "departments": [{ "Name": "Customer Disservice", "ID": 0 }]
     }
   ],
   "footer": {
