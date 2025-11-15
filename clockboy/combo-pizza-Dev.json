@@ -1615,7 +1615,11 @@
       "RegistryTimeStamp": 1761455638606,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Janitorial" }]
+      "Departments": [
+        { "Name": "Janitorial" },
+        { "Name": "VENDOR" },
+        { "Name": "Rainbow Library Moderator" }
+      ]
     },
     {
       "VRC_Username": "chickenstrips1",
@@ -1672,6 +1676,56 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Customer Disservice" }]
+    },
+    {
+      "VRC_Username": "Matty Matt",
+      "RegistryTimeStamp": 1763221520341,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "Rainbow Library Moderator" }
+      ]
+    },
+    {
+      "VRC_Username": "BitiTiger",
+      "RegistryTimeStamp": 1763221520347,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "Rainbow Library Moderator" }
+      ]
+    },
+    {
+      "VRC_Username": "Diffidence",
+      "RegistryTimeStamp": 1763221520349,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "Rainbow Library Moderator" }
+      ]
+    },
+    {
+      "VRC_Username": "Aiya Sarah",
+      "RegistryTimeStamp": 1763222164115,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "Rainbow Library Moderator" }
+      ]
+    },
+    {
+      "VRC_Username": "LaurenFantastic",
+      "RegistryTimeStamp": 1763222164125,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "Rainbow Library Moderator" }
+      ]
     }
   ],
   "header": {
