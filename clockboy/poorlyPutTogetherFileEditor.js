@@ -6,6 +6,9 @@ let tempDB, tempDBLegacy;
 let numEdited = 0;
 const {Utils} = require("./utils.js");
 
+addAssociate("Wild Wanderer", "VENDOR")
+addDepartment("Wild Wanderer", "Rainbow Library Moderator")
+
 logInfo();
 
 /* Thanks to null. 

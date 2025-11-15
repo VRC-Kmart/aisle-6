@@ -1726,6 +1726,16 @@
         { "Name": "VENDOR" },
         { "Name": "Rainbow Library Moderator" }
       ]
+    },
+    {
+      "VRC_Username": "Wild Wanderer",
+      "RegistryTimeStamp": 1763223826423,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "Rainbow Library Moderator" }
+      ]
     }
   ],
   "header": {

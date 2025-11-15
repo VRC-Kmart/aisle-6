@@ -1412,6 +1412,15 @@
         { "Name": "VENDOR", "ID": 0 },
         { "Name": "Rainbow Library Moderator", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "Wild Wanderer",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1763223826423,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "Rainbow Library Moderator", "ID": 0 }
+      ]
     }
   ],
   "footer": {
