@@ -1736,6 +1736,26 @@
         { "Name": "VENDOR" },
         { "Name": "Rainbow Library Moderator" }
       ]
+    },
+    {
+      "VRC_Username": "lexi is cute",
+      "RegistryTimeStamp": 1763320010218,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "Rainbow Library Moderator" }
+      ]
+    },
+    {
+      "VRC_Username": "DesignedDino",
+      "RegistryTimeStamp": 1763320010228,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "Rainbow Library Moderator" }
+      ]
     }
   ],
   "header": {

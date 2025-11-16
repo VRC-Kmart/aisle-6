@@ -1421,6 +1421,24 @@
         { "Name": "VENDOR", "ID": 0 },
         { "Name": "Rainbow Library Moderator", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "lexi is cute",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1763320010218,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "Rainbow Library Moderator", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "DesignedDino",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1763320010228,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "Rainbow Library Moderator", "ID": 0 }
+      ]
     }
   ],
   "footer": {
