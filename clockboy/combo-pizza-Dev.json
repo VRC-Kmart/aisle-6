@@ -1137,7 +1137,10 @@
       "RegistryTimeStamp": 1755448631182,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }, { "Name": "RAINBOW LIBRARY STAFF" }]
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "Rainbow Library Moderator", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "Atomiklan",
@@ -1750,6 +1753,36 @@
     {
       "VRC_Username": "DesignedDino",
       "RegistryTimeStamp": 1763320010228,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "Rainbow Library Moderator" }
+      ]
+    },
+    {
+      "VRC_Username": "PyrusRainbowCat",
+      "RegistryTimeStamp": 1763326604577,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "Rainbow Library Moderator" }
+      ]
+    },
+    {
+      "VRC_Username": "TronTheKitten",
+      "RegistryTimeStamp": 1763326604593,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "Rainbow Library Moderator" }
+      ]
+    },
+    {
+      "VRC_Username": "Prismatic Snow",
+      "RegistryTimeStamp": 1763326604597,
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [

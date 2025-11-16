@@ -1024,7 +1024,10 @@
       "VRC_Username": "Asheris",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1755448631182,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "Rainbow Library Moderator", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "Atomiklan",
@@ -1435,6 +1438,33 @@
       "VRC_Username": "DesignedDino",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1763320010228,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "Rainbow Library Moderator", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "PyrusRainbowCat",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1763326604577,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "Rainbow Library Moderator", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "TronTheKitten",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1763326604593,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "Rainbow Library Moderator", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "Prismatic Snow",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1763326604597,
       "departments": [
         { "Name": "VENDOR", "ID": 0 },
         { "Name": "Rainbow Library Moderator", "ID": 0 }

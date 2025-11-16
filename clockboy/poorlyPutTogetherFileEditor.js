@@ -6,11 +6,12 @@ let tempDB, tempDBLegacy;
 let numEdited = 0;
 const {Utils} = require("./utils.js");
 
-addAssociate("lexi is cute", "VENDOR")
-addDepartment("lexi is cute", "Rainbow Library Moderator")
-addAssociate("DesignedDino", "VENDOR")
-addDepartment("DesignedDino", "Rainbow Library Moderator")
-
+addAssociate("PyrusRainbowCat", "VENDOR")
+addDepartment("PyrusRainbowCat", "Rainbow Library Moderator")
+addAssociate("TronTheKitten", "VENDOR")
+addDepartment("TronTheKitten", "Rainbow Library Moderator")
+addAssociate("Prismatic Snow", "VENDOR")
+addDepartment("Prismatic Snow", "Rainbow Library Moderator")
 logInfo();
 
 /* Thanks to null. 
