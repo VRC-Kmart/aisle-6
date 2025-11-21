@@ -1217,13 +1217,7 @@
       "Departments": [
         { "Name": "Customer Service" },
         {
-          "Name": "<color=#ff0000>Hi Clerk!</color> Yes the Clock-In system is talking now."
-        },
-        {
-          "Name": "Demonitized was trying to remove me from the TVs so I jumped over here!"
-        },
-        {
-          "Name": "Next time you see him, make sure to tell him <i>KmartGPT will not be defeated</i>"
+          "Name": "C L A R K"
         }
       ]
     },
@@ -1634,13 +1628,6 @@
     {
       "VRC_Username": "乃丨尺D",
       "RegistryTimeStamp": 1761526210425,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Home Improvement" }]
-    },
-    {
-      "VRC_Username": "TheLastUnknown",
-      "RegistryTimeStamp": 1761533662163,
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Home Improvement" }]
