@@ -1107,18 +1107,6 @@
       "Departments": [{ "Name": "Electronics" }]
     },
     {
-      "VRC_Username": "Misterio7",
-      "RegistryTimeStamp": 1752195547518,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "SECURITY" },
-        { "Name": "Electronics" },
-        { "Name": "owns a shitty bar" },
-        { "Name": "enjoys audio at 2k sample rate" }
-      ]
-    },
-    {
       "VRC_Username": "charlie-san",
       "RegistryTimeStamp": 1753098470170,
       "Dev": true,

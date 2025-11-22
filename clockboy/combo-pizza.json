@@ -997,15 +997,6 @@
       "departments": [{ "Name": "Electronics", "ID": 0 }]
     },
     {
-      "VRC_Username": "Misterio7",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1752195547518,
-      "departments": [
-        { "Name": "SECURITY", "ID": 0 },
-        { "Name": "Electronics", "ID": 0 }
-      ]
-    },
-    {
       "VRC_Username": "charlie-san",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1753098470170,
