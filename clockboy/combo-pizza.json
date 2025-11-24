@@ -1454,6 +1454,12 @@
         { "Name": "VENDOR", "ID": 0 },
         { "Name": "Rainbow Library Moderator", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "DreadHalo",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1763952620324,
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
     }
   ],
   "footer": {

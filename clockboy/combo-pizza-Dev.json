@@ -1202,12 +1202,7 @@
       "RegistryTimeStamp": 1756181619567,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "Customer Service" },
-        {
-          "Name": "C L A R K"
-        }
-      ]
+      "Departments": [{ "Name": "Customer Service" }, { "Name": "C L A R K" }]
     },
     {
       "VRC_Username": "Gonzo~",
@@ -1632,7 +1627,7 @@
       "RegistryTimeStamp": 1762233883910,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Electronics" },{ "Name": "Is fucking Kohai" }]
+      "Departments": [{ "Name": "Electronics" }, { "Name": "Is fucking Kohai" }]
     },
     {
       "VRC_Username": "sashlilac34",
@@ -1764,6 +1759,13 @@
         { "Name": "VENDOR" },
         { "Name": "Rainbow Library Moderator" }
       ]
+    },
+    {
+      "VRC_Username": "DreadHalo",
+      "RegistryTimeStamp": 1763952620324,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" },{ "Name": "has free healthcare" },{ "Name": "OH CAAAAAAAAAAAAAAANADAAAAAAAAAAAAAA" },{ "Name": "gay" }]
     }
   ],
   "header": {
