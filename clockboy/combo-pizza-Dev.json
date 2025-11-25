@@ -1765,7 +1765,19 @@
       "RegistryTimeStamp": 1763952620324,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" },{ "Name": "has free healthcare" },{ "Name": "OH CAAAAAAAAAAAAAAANADAAAAAAAAAAAAAA" },{ "Name": "gay" }]
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "has free healthcare" },
+        { "Name": "OH CAAAAAAAAAAAAAAANADAAAAAAAAAAAAAA" },
+        { "Name": "gay" }
+      ]
+    },
+    {
+      "VRC_Username": "breadcat OG",
+      "RegistryTimeStamp": 1764059769373,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
     }
   ],
   "header": {

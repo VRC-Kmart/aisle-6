@@ -1460,6 +1460,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1763952620324,
       "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "breadcat OG",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1764059769373,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
     }
   ],
   "footer": {

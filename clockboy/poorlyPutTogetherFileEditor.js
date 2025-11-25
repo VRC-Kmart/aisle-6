@@ -6,7 +6,7 @@ let tempDB, tempDBLegacy;
 let numEdited = 0;
 const {Utils} = require("./utils.js");
 
-addAssociate("DreadHalo", "VENDOR")
+addAssociate("breadcat OG", "Electronics")
 logInfo();
 
 /* Thanks to null. 
