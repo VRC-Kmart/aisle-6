@@ -1596,8 +1596,10 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [
-        { "Name": "Janitorial" },
+        { "Name": "SECURITY" },
         { "Name": "VENDOR" },
+        { "Name": "Enjoys Japan" },
+        { "Name": "cannot make good avatars" },
         { "Name": "Rainbow Library Moderator" }
       ]
     },
