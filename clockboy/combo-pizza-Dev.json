@@ -1659,7 +1659,8 @@
       "FunnyCallboxes": false,
       "Departments": [
         { "Name": "VENDOR" },
-        { "Name": "Rainbow Library Moderator" }
+        { "Name": "Rainbow Library Moderator" },
+        { "Name": "Electronics" }
       ]
     },
     {
@@ -1780,6 +1781,34 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "ᴘᴇɴᴛᴀ",
+      "RegistryTimeStamp": 1764630561561,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Harmacy" }]
+    },
+    {
+      "VRC_Username": "ִAbel°SonOfAdam",
+      "RegistryTimeStamp": 1764630561566,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Portrait Studio" }]
+    },
+    {
+      "VRC_Username": "ִ420lilith",
+      "RegistryTimeStamp": 1764630561567,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "D0-GR 4401",
+      "RegistryTimeStamp": 1764630561568,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Janitorial" }]
     }
   ],
   "header": {

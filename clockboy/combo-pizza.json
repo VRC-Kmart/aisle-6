@@ -1362,7 +1362,8 @@
       "RegistryTimeStamp": 1763221520341,
       "departments": [
         { "Name": "VENDOR", "ID": 0 },
-        { "Name": "Rainbow Library Moderator", "ID": 0 }
+        { "Name": "Rainbow Library Moderator", "ID": 0 },
+        { "Name": "Electronics", "ID": 0 }
       ]
     },
     {
@@ -1466,6 +1467,30 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1764059769373,
       "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "ᴘᴇɴᴛᴀ",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1764630561561,
+      "departments": [{ "Name": "Harmacy", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "ִAbel°SonOfAdam",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1764630561566,
+      "departments": [{ "Name": "Portrait Studio", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "ִ420lilith",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1764630561567,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "D0-GR 4401",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1764630561568,
+      "departments": [{ "Name": "Janitorial", "ID": 0 }]
     }
   ],
   "footer": {
