@@ -125,7 +125,7 @@
       "VRC_Username": "Smirf123"
     },
     {
-      "Departments": [{ "Name": "DEVELOPER" }, { "Name": "MARKETING" }],
+      "Departments": [{ "Name": "MARKETING" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1519871728936,
@@ -149,13 +149,6 @@
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1725343270625,
       "VRC_Username": "［Jagga］"
-    },
-    {
-      "Departments": [{ "Name": "DEVELOPER" }],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1732765066843,
-      "VRC_Username": "Jade Furry"
     },
     {
       "Departments": [
@@ -619,7 +612,7 @@
       "VRC_Username": "Ciel Freeman"
     },
     {
-      "Departments": [{ "Name": "DEVELOPER" }, { "Name": "Customer Service" }],
+      "Departments": [{ "Name": "Customer Service" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1677496269308,
@@ -709,13 +702,6 @@
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1732418396542,
       "VRC_Username": "CastOpex2020"
-    },
-    {
-      "Departments": [{ "Name": "DEVELOPER" }],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1734092202971,
-      "VRC_Username": "Norelock"
     },
     {
       "Departments": [{ "Name": "KCafe" }, { "Name": "Customer Service" }],
@@ -988,7 +974,7 @@
       "VRC_Username": "PortalTardis"
     },
     {
-      "Departments": [{ "Name": "DEVELOPER" }, { "Name": "stinky" }],
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "stinky" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1744652551493,
@@ -1111,7 +1097,7 @@
       "RegistryTimeStamp": 1753098470170,
       "Dev": true,
       "FunnyCallboxes": true,
-      "Departments": [{ "Name": "IT DEPARTMENT" }, { "Name": "DEVELOPER" }]
+      "Departments": [{ "Name": "Home Improvement" }]
     },
     {
       "VRC_Username": "FrazSmith",
@@ -1797,7 +1783,7 @@
       "Departments": [{ "Name": "Portrait Studio" }]
     },
     {
-      "VRC_Username": "ִ420lilith",
+      "VRC_Username": "reallylilith",
       "RegistryTimeStamp": 1764630561567,
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1809,6 +1795,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Janitorial" }]
+    },
+    {
+      "VRC_Username": "Dоg Dog",
+      "RegistryTimeStamp": 1765175770920,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "DEVELOPER" }]
     }
   ],
   "header": {

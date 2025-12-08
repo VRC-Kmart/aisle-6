@@ -111,7 +111,6 @@
     },
     {
       "departments": [
-        { "ID": 254, "Name": "DEVELOPER" },
         { "ID": 0, "Name": "Customer Service" },
         { "ID": 3, "Name": "Hardlines" }
       ],
@@ -128,12 +127,6 @@
       "RegistryTimeStamp": 1725343270625,
       "ShiftCount": 69420,
       "VRC_Username": "［Jagga］"
-    },
-    {
-      "departments": [{ "ID": 254, "Name": "DEVELOPER" }],
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1732765066843,
-      "VRC_Username": "Jade Furry"
     },
     {
       "departments": [
@@ -548,7 +541,6 @@
     },
     {
       "departments": [
-        { "ID": 254, "Name": "DEVELOPER" },
         { "ID": 0, "Name": "Customer Service" }
       ],
       "RegistryTimeStamp": 1677496269308,
@@ -630,12 +622,6 @@
       "RegistryTimeStamp": 1732418396542,
       "ShiftCount": 69420,
       "VRC_Username": "CastOpex2020"
-    },
-    {
-      "departments": [{ "ID": 254, "Name": "DEVELOPER" }],
-      "RegistryTimeStamp": 1734092202971,
-      "ShiftCount": 69420,
-      "VRC_Username": "Norelock"
     },
     {
       "departments": [
@@ -881,7 +867,7 @@
     },
     {
       "departments": [
-        { "ID": 0, "Name": "DEVELOPER" },
+        { "ID": 0, "Name": "VENDOR" },
         { "ID": 0, "Name": "stinky" }
       ],
       "RegistryTimeStamp": 1744652551493,
@@ -1001,8 +987,7 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1753098470170,
       "departments": [
-        { "Name": "IT DEPARTMENT", "ID": 0 },
-        { "Name": "DEVELOPER", "ID": 0 }
+        { "Name": "Home Improvement", "ID": 0 }
       ]
     },
     {
@@ -1481,7 +1466,7 @@
       "departments": [{ "Name": "Portrait Studio", "ID": 0 }]
     },
     {
-      "VRC_Username": "ִ420lilith",
+      "VRC_Username": "reallylilith",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1764630561567,
       "departments": [{ "Name": "Electronics", "ID": 0 }]
@@ -1491,6 +1476,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1764630561568,
       "departments": [{ "Name": "Janitorial", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Dоg Dog",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1765175770920,
+      "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
     }
   ],
   "footer": {
