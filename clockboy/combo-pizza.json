@@ -1392,6 +1392,7 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1763223826423,
       "departments": [
+        { "Name": "IT DEPARTMENT", "ID": 0 },
         { "Name": "VENDOR", "ID": 0 },
         { "Name": "Rainbow Library Moderator", "ID": 0 }
       ]
