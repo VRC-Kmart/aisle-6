@@ -540,9 +540,7 @@
       "VRC_Username": "Ciel Freeman"
     },
     {
-      "departments": [
-        { "ID": 0, "Name": "Customer Service" }
-      ],
+      "departments": [{ "ID": 0, "Name": "Customer Service" }],
       "RegistryTimeStamp": 1677496269308,
       "ShiftCount": 69420,
       "VRC_Username": "neostarx"
@@ -986,9 +984,7 @@
       "VRC_Username": "charlie-san",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1753098470170,
-      "departments": [
-        { "Name": "Home Improvement", "ID": 0 }
-      ]
+      "departments": [{ "Name": "Home Improvement", "ID": 0 }]
     },
     {
       "VRC_Username": "FrazSmith",
@@ -1483,6 +1479,18 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1765175770920,
       "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Galloop",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1765852189618,
+      "departments": [{ "Name": "Claims", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Bloooomy",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1765852189624,
+      "departments": [{ "Name": "KCafe", "ID": 0 }]
     }
   ],
   "footer": {

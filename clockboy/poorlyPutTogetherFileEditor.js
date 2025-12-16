@@ -6,11 +6,8 @@ let tempDB, tempDBLegacy;
 let numEdited = 0;
 const {Utils} = require("./utils.js");
 
-addAssociate("ᴘᴇɴᴛᴀ", "Harmacy");
-addAssociate("ִAbel°SonOfAdam", "Portrait Studio");
-addAssociate("ִ420lilith", "Electronics");
-addAssociate("D0-GR 4401", "Janitorial");
-addDepartment("Matty Matt", "Electronics");
+addAssociate("Galloop", "Claims");
+addAssociate("Bloooomy", "KCafe");
 logInfo();
 
 /* Thanks to null. 
