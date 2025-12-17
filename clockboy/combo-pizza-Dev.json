@@ -864,7 +864,7 @@
       "VRC_Username": "Sovietdog122l"
     },
     {
-      "Departments": [{ "Name": "Janitorial" }],
+      "Departments": [{ "Name": "Janitorial" },{ "Name": "VENDOR" },{ "Name": "furry" },{ "Name": "is gay as hell" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741829276224,
