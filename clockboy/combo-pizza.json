@@ -1200,6 +1200,12 @@
       "departments": [{ "Name": "VENDOR", "ID": 0 }]
     },
     {
+      "VRC_Username": "trueysmir996",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1766582420,
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
       "VRC_Username": "LaserPointer",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1760554946961,
