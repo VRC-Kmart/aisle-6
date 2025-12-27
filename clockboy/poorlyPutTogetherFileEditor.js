@@ -6,8 +6,7 @@ let tempDB, tempDBLegacy;
 let numEdited = 0;
 const {Utils} = require("./utils.js");
 
-addAssociate("Galloop", "Claims");
-addAssociate("Bloooomy", "KCafe");
+addAssociate("MiiaFoxx", "Customer Service");
 logInfo();
 
 /* Thanks to null. 

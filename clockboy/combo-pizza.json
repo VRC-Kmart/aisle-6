@@ -1497,6 +1497,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1765852189624,
       "departments": [{ "Name": "KCafe", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "MiiaFoxx",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1766864448731,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
     }
   ],
   "footer": {
