@@ -391,7 +391,7 @@
       "VRC_Username": "Lankev78"
     },
     {
-      "Departments": [{ "Name": "Pharmacy" }, { "Name": "DEVELOPER" }],
+      "Departments": [{ "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1718060054721,
