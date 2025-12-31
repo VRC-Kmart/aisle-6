@@ -1638,7 +1638,11 @@
       "RegistryTimeStamp": 1762233883912,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Customer Service" }]
+      "Departments": [
+        { "Name": "Customer Service" },
+        { "Name": "Electronics" },
+        { "Name": "VENDOR" }
+      ]
     },
     {
       "VRC_Username": "F0XYSTAR",
@@ -1839,6 +1843,13 @@
     {
       "VRC_Username": "MiiaFoxx",
       "RegistryTimeStamp": 1766864448731,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "MiiaFoxx",
+      "RegistryTimeStamp": 1767142031834,
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Customer Service" }]

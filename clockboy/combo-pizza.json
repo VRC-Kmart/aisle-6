@@ -1329,7 +1329,11 @@
       "VRC_Username": "sashlilac34",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1762233883912,
-      "departments": [{ "Name": "Customer Service", "ID": 0 }]
+      "departments": [
+        { "Name": "Customer Service", "ID": 0 },
+        { "Name": "Electronics", "ID": 0 },
+        { "Name": "VENDOR", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "F0XYSTAR",
@@ -1503,6 +1507,18 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1766864448731,
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "MiiaFoxx",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1767141960708,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "MiiaFoxx",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1767142031834,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
     }
   ],
   "footer": {
@@ -1566,3 +1582,4 @@
     ]
   }
 }
+ 
