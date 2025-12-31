@@ -1847,6 +1847,18 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "~Sinny~",
+      "RegistryTimeStamp": 1767220405010,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "LPD Sergeant" },
+        { "Name": "is dating Sorb" },
+        { "Name": "<color=#fcba03>PISS YELLOW</color>" }
+      ]
     }
   ],
   "header": {
