@@ -1641,7 +1641,8 @@
       "Departments": [
         { "Name": "Customer Service" },
         { "Name": "Electronics" },
-        { "Name": "VENDOR" }
+        { "Name": "VENDOR" },
+        { "Name": "Harmacy" }
       ]
     },
     {
@@ -1843,13 +1844,6 @@
     {
       "VRC_Username": "MiiaFoxx",
       "RegistryTimeStamp": 1766864448731,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Customer Service" }]
-    },
-    {
-      "VRC_Username": "MiiaFoxx",
-      "RegistryTimeStamp": 1767142031834,
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Customer Service" }]
