@@ -1870,6 +1870,17 @@
         { "Name": "LPD Sergeant" },
         { "Name": "<color=#ff54ee>PEPTO PINK</color>" }
       ]
+    },
+    {
+      "VRC_Username": "MysticRic",
+      "RegistryTimeStamp": 1767583917975,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "Home Improvement" },
+        { "Name": "is fighting Aura" },
+        { "Name": "Discount Tim \"The Toolman\" Taylor" }
+      ]
     }
   ],
   "header": {

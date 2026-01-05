@@ -6,9 +6,9 @@ let tempDB, tempDBLegacy;
 let numEdited = 0;
 const { Utils } = require("./utils.js");
 
-addAssociate("Kaptize", "VENDOR");
-addDepartment("Kaptize", "LPD Sergeant");
-addDepartment("Kaptize", "<color=#ff54ee>PEPTO PINK</color>");
+addAssociate("MysticRic", "Home Improvement");
+addDepartment("MysticRic", "is fighting Aura");
+addDepartment("MysticRic", "Discount Tim \"The Toolman\" Taylor");
 logInfo();
 
 /* Thanks to null.
