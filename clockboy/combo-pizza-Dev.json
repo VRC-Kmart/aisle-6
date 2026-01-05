@@ -1859,6 +1859,17 @@
         { "Name": "is dating Sorb" },
         { "Name": "<color=#fcba03>PISS YELLOW</color>" }
       ]
+    },
+    {
+      "VRC_Username": "Kaptize",
+      "RegistryTimeStamp": 1767580148277,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "LPD Sergeant" },
+        { "Name": "<color=#ff54ee>PEPTO PINK</color>" }
+      ]
     }
   ],
   "header": {
