@@ -6,9 +6,7 @@ let tempDB, tempDBLegacy;
 let numEdited = 0;
 const { Utils } = require("./utils.js");
 
-addAssociate("MysticRic", "Home Improvement");
-addDepartment("MysticRic", "is fighting Aura");
-addDepartment("MysticRic", "Discount Tim \"The Toolman\" Taylor");
+addAssociate("Sersarina punny", "Claims");
 logInfo();
 
 /* Thanks to null.

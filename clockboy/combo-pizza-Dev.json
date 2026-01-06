@@ -1881,6 +1881,13 @@
         { "Name": "is fighting Aura" },
         { "Name": "Discount Tim \"The Toolman\" Taylor" }
       ]
+    },
+    {
+      "VRC_Username": "Sersarina punny",
+      "RegistryTimeStamp": 1767663062846,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Claims" }]
     }
   ],
   "header": {

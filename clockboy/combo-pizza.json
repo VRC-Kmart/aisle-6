@@ -1538,6 +1538,12 @@
         { "Name": "is fighting Aura", "ID": 0 },
         { "Name": "Discount Tim \"The Toolman\" Taylor", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "Sersarina punny",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1767663062846,
+      "departments": [{ "Name": "Claims", "ID": 0 }]
     }
   ],
   "footer": {
