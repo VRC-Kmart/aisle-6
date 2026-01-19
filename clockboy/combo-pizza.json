@@ -1155,7 +1155,7 @@
       "VRC_Username": "Aura Natsumi",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1759202161703,
-      "departments": [{ "Name": "Electronics", "ID": 0 }]
+      "departments": [{ "Name": "MANAGEMENT", "ID": 0 },{ "Name": "Electronics", "ID": 0 }]
     },
     {
       "VRC_Username": "Ghost Becky",
@@ -1320,12 +1320,6 @@
       "departments": [{ "Name": "Electronics", "ID": 0 }]
     },
     {
-      "VRC_Username": "2ndJakkufear",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1762233883910,
-      "departments": [{ "Name": "Electronics", "ID": 0 }]
-    },
-    {
       "VRC_Username": "sashlilac34",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1762233883912,
@@ -1348,102 +1342,11 @@
       "departments": [{ "Name": "Customer Disservice", "ID": 0 }]
     },
     {
-      "VRC_Username": "Matty Matt",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1763221520341,
-      "departments": [
-        { "Name": "VENDOR", "ID": 0 },
-        { "Name": "Rainbow Library Moderator", "ID": 0 },
-        { "Name": "Electronics", "ID": 0 }
-      ]
-    },
-    {
-      "VRC_Username": "BitiTiger",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1763221520347,
-      "departments": [
-        { "Name": "VENDOR", "ID": 0 },
-        { "Name": "Rainbow Library Moderator", "ID": 0 }
-      ]
-    },
-    {
-      "VRC_Username": "Diffidence",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1763221520349,
-      "departments": [
-        { "Name": "VENDOR", "ID": 0 },
-        { "Name": "Rainbow Library Moderator", "ID": 0 }
-      ]
-    },
-    {
-      "VRC_Username": "Aiya Sarah",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1763222164115,
-      "departments": [
-        { "Name": "VENDOR", "ID": 0 },
-        { "Name": "Rainbow Library Moderator", "ID": 0 }
-      ]
-    },
-    {
-      "VRC_Username": "LaurenFantastic",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1763222164125,
-      "departments": [
-        { "Name": "VENDOR", "ID": 0 },
-        { "Name": "Rainbow Library Moderator", "ID": 0 }
-      ]
-    },
-    {
       "VRC_Username": "Wild Wanderer",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1763223826423,
       "departments": [
         { "Name": "IT DEPARTMENT", "ID": 0 },
-        { "Name": "VENDOR", "ID": 0 },
-        { "Name": "Rainbow Library Moderator", "ID": 0 }
-      ]
-    },
-    {
-      "VRC_Username": "lexi is cute",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1763320010218,
-      "departments": [
-        { "Name": "VENDOR", "ID": 0 },
-        { "Name": "Rainbow Library Moderator", "ID": 0 }
-      ]
-    },
-    {
-      "VRC_Username": "DesignedDino",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1763320010228,
-      "departments": [
-        { "Name": "VENDOR", "ID": 0 },
-        { "Name": "Rainbow Library Moderator", "ID": 0 }
-      ]
-    },
-    {
-      "VRC_Username": "PyrusRainbowCat",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1763326604577,
-      "departments": [
-        { "Name": "VENDOR", "ID": 0 },
-        { "Name": "Rainbow Library Moderator", "ID": 0 }
-      ]
-    },
-    {
-      "VRC_Username": "TronTheKitten",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1763326604593,
-      "departments": [
-        { "Name": "VENDOR", "ID": 0 },
-        { "Name": "Rainbow Library Moderator", "ID": 0 }
-      ]
-    },
-    {
-      "VRC_Username": "Prismatic Snow",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1763326604597,
-      "departments": [
         { "Name": "VENDOR", "ID": 0 },
         { "Name": "Rainbow Library Moderator", "ID": 0 }
       ]

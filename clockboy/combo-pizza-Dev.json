@@ -1324,15 +1324,15 @@
     {
       "VRC_Username": "Aura Natsumi",
       "RegistryTimeStamp": 1759202161703,
-      "Dev": false,
-      "FunnyCallboxes": false,
+      "Dev": true,
+      "FunnyCallboxes": true,
       "Departments": [
-        { "Name": "Electronics" },
+        { "Name": "MANAGEMENT" },
+        { "Name": "Electronics Manager" },
         { "Name": "Resigned" },
         { "Name": "Came Crawling Back" },
-        { "Name": "Store Prostitute" },
-        { "Name": "W O M A N" }
-      ]
+        { "Name": "Store Prostitute" }
+        ]
     },
     {
       "VRC_Username": "Ghost Becky",
@@ -1627,13 +1627,6 @@
       "Departments": [{ "Name": "Electronics" }]
     },
     {
-      "VRC_Username": "2ndJakkufear",
-      "RegistryTimeStamp": 1762233883910,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Electronics" }, { "Name": "Is fucking Kohai" }]
-    },
-    {
       "VRC_Username": "sashlilac34",
       "RegistryTimeStamp": 1762233883912,
       "Dev": false,
@@ -1660,57 +1653,6 @@
       "Departments": [{ "Name": "Customer Disservice" }]
     },
     {
-      "VRC_Username": "Matty Matt",
-      "RegistryTimeStamp": 1763221520341,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "VENDOR" },
-        { "Name": "Rainbow Library Moderator" },
-        { "Name": "Electronics" }
-      ]
-    },
-    {
-      "VRC_Username": "BitiTiger",
-      "RegistryTimeStamp": 1763221520347,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "VENDOR" },
-        { "Name": "Rainbow Library Moderator" }
-      ]
-    },
-    {
-      "VRC_Username": "Diffidence",
-      "RegistryTimeStamp": 1763221520349,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "VENDOR" },
-        { "Name": "Rainbow Library Moderator" }
-      ]
-    },
-    {
-      "VRC_Username": "Aiya Sarah",
-      "RegistryTimeStamp": 1763222164115,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "VENDOR" },
-        { "Name": "Rainbow Library Moderator" }
-      ]
-    },
-    {
-      "VRC_Username": "LaurenFantastic",
-      "RegistryTimeStamp": 1763222164125,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "VENDOR" },
-        { "Name": "Rainbow Library Moderator" }
-      ]
-    },
-    {
       "VRC_Username": "Wild Wanderer",
       "RegistryTimeStamp": 1763223826423,
       "Dev": true,
@@ -1719,56 +1661,6 @@
         { "Name": "Bribes His Way Onto Teams" },
         { "Name": "Support Worse Than A Bra" },
         { "Name": "IT DEPARTMENT" },
-        { "Name": "VENDOR" },
-        { "Name": "Rainbow Library Moderator" }
-      ]
-    },
-    {
-      "VRC_Username": "lexi is cute",
-      "RegistryTimeStamp": 1763320010218,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "VENDOR" },
-        { "Name": "Rainbow Library Moderator" }
-      ]
-    },
-    {
-      "VRC_Username": "DesignedDino",
-      "RegistryTimeStamp": 1763320010228,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "VENDOR" },
-        { "Name": "Rainbow Library Moderator" }
-      ]
-    },
-    {
-      "VRC_Username": "PyrusRainbowCat",
-      "RegistryTimeStamp": 1763326604577,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "VENDOR" },
-        { "Name": "Rainbow Library Moderator" }
-      ]
-    },
-    {
-      "VRC_Username": "TronTheKitten",
-      "RegistryTimeStamp": 1763326604593,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "VENDOR" },
-        { "Name": "Rainbow Library Moderator" }
-      ]
-    },
-    {
-      "VRC_Username": "Prismatic Snow",
-      "RegistryTimeStamp": 1763326604597,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
         { "Name": "VENDOR" },
         { "Name": "Rainbow Library Moderator" }
       ]
