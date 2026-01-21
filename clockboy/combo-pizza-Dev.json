@@ -1769,7 +1769,8 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [
-        { "Name": "Home Improvement" },
+        { "Name": "MANAGEMENT" },
+        { "Name": "Home Improvement Manager" },
         { "Name": "is fighting Aura" },
         { "Name": "Discount Tim \"The Toolman\" Taylor" }
       ]

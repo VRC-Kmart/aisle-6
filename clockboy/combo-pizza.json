@@ -1437,8 +1437,8 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1767583917975,
       "departments": [
-        { "Name": "Home Improvement", "ID": 0 },
-        { "Name": "is fighting Aura", "ID": 0 },
+        { "Name": "MANAGEMENT", "ID": 0 },
+        { "Name": "Home Improvement Manager", "ID": 0 },
         { "Name": "Discount Tim \"The Toolman\" Taylor", "ID": 0 }
       ]
     },
