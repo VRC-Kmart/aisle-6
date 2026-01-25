@@ -822,7 +822,7 @@
       "VRC_Username": "Lordthomas11"
     },
     {
-      "Departments": [{ "Name": "Pharmacy" }],
+      "Departments": [{ "Name": "TRAINER" },{ "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824946,
