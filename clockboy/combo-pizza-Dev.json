@@ -815,7 +815,7 @@
       "VRC_Username": "Blitz-the-pup"
     },
     {
-      "Departments": [{ "Name": "Pharmacy" }],
+      "Departments": [{ "Name": "TRAINER" },{ "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824945,
@@ -1096,13 +1096,6 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Electronics" }]
-    },
-    {
-      "VRC_Username": "charlie-san",
-      "RegistryTimeStamp": 1753098470170,
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "Departments": [{ "Name": "Home Improvement" }]
     },
     {
       "VRC_Username": "FrazSmith",
@@ -1689,7 +1682,7 @@
       "RegistryTimeStamp": 1764630561561,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Harmacy" }]
+      "Departments": [{ "Name": "TRAINER" },{ "Name": "Harmacy" }]
     },
     {
       "VRC_Username": "ִAbel°SonOfAdam",

@@ -981,12 +981,6 @@
       "departments": [{ "Name": "Electronics", "ID": 0 }]
     },
     {
-      "VRC_Username": "charlie-san",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1753098470170,
-      "departments": [{ "Name": "Home Improvement", "ID": 0 }]
-    },
-    {
       "VRC_Username": "FrazSmith",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1755037075238,
