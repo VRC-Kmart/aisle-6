@@ -815,14 +815,14 @@
       "VRC_Username": "Blitz-the-pup"
     },
     {
-      "Departments": [{ "Name": "TRAINER" },{ "Name": "Pharmacy" }],
+      "Departments": [{ "Name": "TRAINER" }, { "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824945,
       "VRC_Username": "Lordthomas11"
     },
     {
-      "Departments": [{ "Name": "TRAINER" },{ "Name": "Pharmacy" }],
+      "Departments": [{ "Name": "TRAINER" }, { "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824946,
@@ -1325,7 +1325,7 @@
         { "Name": "Resigned" },
         { "Name": "Came Crawling Back" },
         { "Name": "Store Prostitute" }
-        ]
+      ]
     },
     {
       "VRC_Username": "Ghost Becky",
@@ -1682,7 +1682,7 @@
       "RegistryTimeStamp": 1764630561561,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "TRAINER" },{ "Name": "Harmacy" }]
+      "Departments": [{ "Name": "TRAINER" }, { "Name": "Harmacy" }]
     },
     {
       "VRC_Username": "ִAbel°SonOfAdam",
@@ -1774,6 +1774,44 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Claims" }]
+    },
+    {
+      "VRC_Username": "Charlie_Swe",
+      "RegistryTimeStamp": 1769372808419,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "redjesusmane",
+      "RegistryTimeStamp": 1769372808425,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "Home Improvement" },
+        { "Name": "Ric's Fucktoy" }
+      ]
+    },
+    {
+      "VRC_Username": "Sanoj-63",
+      "RegistryTimeStamp": 1769372808428,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Automotive" }]
+    },
+    {
+      "VRC_Username": "Xeeorio",
+      "RegistryTimeStamp": 1769372808430,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "RoyalTheWicker",
+      "RegistryTimeStamp": 1769372808431,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Sporting Goods" }]
     }
   ],
   "header": {

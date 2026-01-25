@@ -1149,7 +1149,10 @@
       "VRC_Username": "Aura Natsumi",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1759202161703,
-      "departments": [{ "Name": "MANAGEMENT", "ID": 0 },{ "Name": "Electronics", "ID": 0 }]
+      "departments": [
+        { "Name": "MANAGEMENT", "ID": 0 },
+        { "Name": "Electronics", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "Ghost Becky",
@@ -1441,6 +1444,39 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1767663062846,
       "departments": [{ "Name": "Claims", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Charlie_Swe",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1769372808419,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "redjesusmane",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1769372808425,
+      "departments": [
+        { "Name": "Home Improvement", "ID": 0 },
+        { "Name": "Ric's Fucktoy", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "Sanoj-63",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1769372808428,
+      "departments": [{ "Name": "Automotive", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Xeeorio",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1769372808430,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "RoyalTheWicker",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1769372808431,
+      "departments": [{ "Name": "Sporting Goods", "ID": 0 }]
     }
   ],
   "footer": {
