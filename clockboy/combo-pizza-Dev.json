@@ -1039,7 +1039,7 @@
       "RegistryTimeStamp": 1746681061548,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Pharmacy" }]
+      "Departments": [{ "Name": "Pharmacy" }, { "Name": "VENDOR" }]
     },
     {
       "VRC_Username": "Tsundere Addict 0549",
@@ -1812,6 +1812,71 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Sporting Goods" }]
+    },
+    {
+      "VRC_Username": "Dani makes",
+      "RegistryTimeStamp": 1769456562201,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }]
+    },
+    {
+      "VRC_Username": "~Nerdy~",
+      "RegistryTimeStamp": 1769456562205,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "Dipper Enjoyer" },
+        { "Name": "old" }
+      ]
+    },
+    {
+      "VRC_Username": "SachiraVT",
+      "RegistryTimeStamp": 1769456562210,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "GAY" },
+        { "Name": "stinky" },
+        { "Name": "is woman!" }
+      ]
+    },
+    {
+      "VRC_Username": "Queen_RedFox",
+      "RegistryTimeStamp": 1769456562213,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }]
+    },
+    {
+      "VRC_Username": "DesignedDino",
+      "RegistryTimeStamp": 1769456562214,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }]
+    },
+    {
+      "VRC_Username": "MakerKath",
+      "RegistryTimeStamp": 1769456562215,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }]
+    },
+    {
+      "VRC_Username": "Iᴢᴢу",
+      "RegistryTimeStamp": 1769456562215,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }]
+    },
+    {
+      "VRC_Username": "shiefisch",
+      "RegistryTimeStamp": 1769456562221,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }]
     }
   ],
   "header": {

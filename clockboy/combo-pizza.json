@@ -924,7 +924,10 @@
       "VRC_Username": "W̷3̷N̷D̷1̷G̷0̷",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1746681061548,
-      "departments": [{ "Name": "Pharmacy", "ID": 0 }]
+      "departments": [
+        { "Name": "Pharmacy", "ID": 0 },
+        { "Name": "VENDOR", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "Tsundere Addict 0549",
@@ -1477,6 +1480,63 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1769372808431,
       "departments": [{ "Name": "Sporting Goods", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Dani makes",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1769456562201,
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "~Nerdy~",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1769456562205,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "Dipper Enjoyer", "ID": 0 },
+        { "Name": "old", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "SachiraVT",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1769456562210,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "GAY", "ID": 0 },
+        { "Name": "stinky", "ID": 0 },
+        { "Name": "is woman!", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "Queen_RedFox",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1769456562213,
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "DesignedDino",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1769456562214,
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "MakerKath",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1769456562215,
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Iᴢᴢу",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1769456562215,
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "shiefisch",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1769456562221,
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
     }
   ],
   "footer": {
