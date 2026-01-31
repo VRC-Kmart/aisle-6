@@ -469,17 +469,6 @@
       "VRC_Username": "jack14050"
     },
     {
-      "Departments": [
-        { "Name": "Local Ice Fairy" },
-        { "Name": "Portrait Studio" },
-        { "Name": "Hardlines" }
-      ],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1699734871437,
-      "VRC_Username": "Foran"
-    },
-    {
       "Departments": [{ "Name": "Pharmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1231,13 +1220,6 @@
       "Departments": [{ "Name": "Electronics" }, { "Name": "SECURITY" }]
     },
     {
-      "VRC_Username": "MrChosenRosewol",
-      "RegistryTimeStamp": 1756787524550,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Customer Service" }]
-    },
-    {
       "VRC_Username": "trolldev",
       "RegistryTimeStamp": 1756915905590,
       "Dev": true,
@@ -1618,18 +1600,6 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Electronics" }]
-    },
-    {
-      "VRC_Username": "sashlilac34",
-      "RegistryTimeStamp": 1762233883912,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "Customer Service" },
-        { "Name": "Electronics" },
-        { "Name": "VENDOR" },
-        { "Name": "Harmacy" }
-      ]
     },
     {
       "VRC_Username": "F0XYSTAR",

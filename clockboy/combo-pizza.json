@@ -414,15 +414,6 @@
       "VRC_Username": "jack14050"
     },
     {
-      "departments": [
-        { "ID": 21, "Name": "Portrait Studio" },
-        { "ID": 3, "Name": "Hardlines" }
-      ],
-      "RegistryTimeStamp": 1699734871437,
-      "ShiftCount": 69420,
-      "VRC_Username": "Foran"
-    },
-    {
       "departments": [{ "ID": 42, "Name": "Pharmacy" }],
       "RegistryTimeStamp": 1723083634754,
       "ShiftCount": 69420,
@@ -1101,12 +1092,6 @@
       ]
     },
     {
-      "VRC_Username": "MrChosenRosewol",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1756787524550,
-      "departments": [{ "Name": "Customer Service", "ID": 0 }]
-    },
-    {
       "VRC_Username": "trolldev",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1756915905590,
@@ -1318,16 +1303,6 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1762233883909,
       "departments": [{ "Name": "Electronics", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "sashlilac34",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1762233883912,
-      "departments": [
-        { "Name": "Electronics", "ID": 0 },
-        { "Name": "VENDOR", "ID": 0 },
-        { "Name": "Harmacy", "ID": 0 }
-      ]
     },
     {
       "VRC_Username": "F0XYSTAR",
