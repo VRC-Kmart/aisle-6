@@ -981,15 +981,6 @@
       "departments": [{ "Name": "KCafe", "ID": 0 }]
     },
     {
-      "VRC_Username": "Asheris",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1755448631182,
-      "departments": [
-        { "Name": "VENDOR", "ID": 0 },
-        { "Name": "Rainbow Library Moderator", "ID": 0 }
-      ]
-    },
-    {
       "VRC_Username": "Atomiklan",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1755448631184,
@@ -1322,8 +1313,7 @@
       "RegistryTimeStamp": 1763223826423,
       "departments": [
         { "Name": "IT DEPARTMENT", "ID": 0 },
-        { "Name": "VENDOR", "ID": 0 },
-        { "Name": "Rainbow Library Moderator", "ID": 0 }
+        { "Name": "VENDOR", "ID": 0 }
       ]
     },
     {

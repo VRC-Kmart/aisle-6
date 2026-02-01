@@ -1094,16 +1094,6 @@
       "Departments": [{ "Name": "KCafe" }]
     },
     {
-      "VRC_Username": "Asheris",
-      "RegistryTimeStamp": 1755448631182,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "VENDOR" },
-        { "Name": "Rainbow Library Moderator", "ID": 0 }
-      ]
-    },
-    {
       "VRC_Username": "Atomiklan",
       "RegistryTimeStamp": 1755448631184,
       "Dev": false,
@@ -1576,9 +1566,8 @@
         { "Name": "SECURITY" },
         { "Name": "VENDOR" },
         { "Name": "Enjoys Japan" },
-        { "Name": "cannot make good avatars" },
-        { "Name": "Rainbow Library Moderator" }
-      ]
+        { "Name": "cannot make good avatars" }
+        ]
     },
     {
       "VRC_Username": "chickenstrips1",
@@ -1624,8 +1613,7 @@
         { "Name": "Bribes His Way Onto Teams" },
         { "Name": "Support Worse Than A Bra" },
         { "Name": "IT DEPARTMENT" },
-        { "Name": "VENDOR" },
-        { "Name": "Rainbow Library Moderator" }
+        { "Name": "VENDOR" }
       ]
     },
     {
