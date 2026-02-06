@@ -274,22 +274,20 @@
     },
     {
       "Departments": [
-        { "Name": "MANAGEMENT" },
-        { "Name": "Pharmacy Manager" },
+        { "Name": "Harmacy" },
         { "Name": "actively looking for fent!" }
       ],
-      "Dev": true,
-      "FunnyCallboxes": true,
+      "Dev": false,
+      "FunnyCallboxes": false,
       "RegistryTimeStamp": 1673665295969,
       "VRC_Username": "ShinyZards"
     },
     {
       "Departments": [
-        { "Name": "MANAGEMENT" },
-        { "Name": "Assistant Pharmacy Manager" }
+        { "Name": "Harmacy" }
       ],
-      "Dev": true,
-      "FunnyCallboxes": true,
+      "Dev": false,
+      "FunnyCallboxes": false,
       "RegistryTimeStamp": 1671152658317,
       "VRC_Username": "Rustthelion"
     },
@@ -700,17 +698,6 @@
       "VRC_Username": "Tired_The_Proto"
     },
     {
-      "Departments": [
-        { "Name": "TRAINER" },
-        { "Name": "Electronics Manager" },
-        { "Name": "MANAGEMENT" }
-      ],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1718060054721,
-      "VRC_Username": "ChloeEPrice"
-    },
-    {
       "Departments": [{ "Name": "Kmart Weatherman" }],
       "Dev": false,
       "FunnyCallboxes": true,
@@ -1010,7 +997,7 @@
       "VRC_Username": "Ryu-Kazuki"
     },
     {
-      "Departments": [{ "Name": "Pharmacy" }, { "Name": "JUDY" }],
+      "Departments": [{"Name": "MANAGEMENT" },{ "Name": "useless fucking AI" },{ "Name": "Pharmacy Manager" },{ "Name": "JUDY" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1746655903150,
