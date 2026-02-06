@@ -184,8 +184,6 @@
     },
     {
       "departments": [
-        { "ID": 254, "Name": "DEVELOPER" },
-        { "ID": 253, "Name": "MANAGEMENT" },
         { "ID": 3, "Name": "Garden" }
       ],
       "RegistryTimeStamp": 1699593949761,

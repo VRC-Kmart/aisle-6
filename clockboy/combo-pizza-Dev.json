@@ -216,9 +216,9 @@
       "VRC_Username": "JamminJon"
     },
     {
-      "Departments": [{ "Name": "MANAGEMENT" }, { "Name": "Garden Manager" }],
-      "Dev": true,
-      "FunnyCallboxes": true,
+      "Departments": [{ "Name": "Garden" }],
+      "Dev": false,
+      "FunnyCallboxes": false,
       "RegistryTimeStamp": 1699593949761,
       "VRC_Username": "Yoshie Hayashi"
     },
