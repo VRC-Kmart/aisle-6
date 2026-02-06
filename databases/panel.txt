@@ -27,7 +27,7 @@ Lumanare
 N-e-kolita
 Wild Wanderer
 Aura Natsumi
-TrollDev
+trolldev
 PortalTardis
 MysticRic
 《Demonic》
