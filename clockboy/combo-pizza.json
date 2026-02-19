@@ -183,9 +183,7 @@
       "VRC_Username": "JamminJon"
     },
     {
-      "departments": [
-        { "ID": 3, "Name": "Garden" }
-      ],
+      "departments": [{ "ID": 3, "Name": "Garden" }],
       "RegistryTimeStamp": 1699593949761,
       "ShiftCount": 69420,
       "VRC_Username": "Yoshie Hayashi"
@@ -235,17 +233,13 @@
       "VRC_Username": "AmiaTwi"
     },
     {
-      "departments": [
-        { "ID": 42, "Name": "Harmacy" }
-      ],
+      "departments": [{ "ID": 42, "Name": "Harmacy" }],
       "RegistryTimeStamp": 1673665295969,
       "ShiftCount": 69420,
       "VRC_Username": "ShinyZards"
     },
     {
-      "departments": [
-        { "ID": 42, "Name": "Harmacy" }
-      ],
+      "departments": [{ "ID": 42, "Name": "Harmacy" }],
       "RegistryTimeStamp": 1671152658317,
       "ShiftCount": 69420,
       "VRC_Username": "Rustthelion"
@@ -887,7 +881,10 @@
       "VRC_Username": "Ryu-Kazuki"
     },
     {
-      "departments": [{ "ID": 0, "Name": "MANAGER" },{ "ID": 0, "Name": "Pharmacy Manager" }],
+      "departments": [
+        { "ID": 0, "Name": "MANAGER" },
+        { "ID": 0, "Name": "Pharmacy Manager" }
+      ],
       "RegistryTimeStamp": 1746655903150,
       "ShiftCount": 69420,
       "VRC_Username": "《Demonic》"
@@ -1483,6 +1480,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1769456562221,
       "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Sethtaros",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1771481013953,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
     }
   ],
   "footer": {

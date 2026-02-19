@@ -283,9 +283,7 @@
       "VRC_Username": "ShinyZards"
     },
     {
-      "Departments": [
-        { "Name": "Harmacy" }
-      ],
+      "Departments": [{ "Name": "Harmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1671152658317,
@@ -997,7 +995,12 @@
       "VRC_Username": "Ryu-Kazuki"
     },
     {
-      "Departments": [{"Name": "MANAGEMENT" },{ "Name": "useless fucking AI" },{ "Name": "Pharmacy Manager" },{ "Name": "JUDY" }],
+      "Departments": [
+        { "Name": "MANAGEMENT" },
+        { "Name": "useless fucking AI" },
+        { "Name": "Pharmacy Manager" },
+        { "Name": "JUDY" }
+      ],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1746655903150,
@@ -1541,7 +1544,7 @@
         { "Name": "VENDOR" },
         { "Name": "Enjoys Japan" },
         { "Name": "cannot make good avatars" }
-        ]
+      ]
     },
     {
       "VRC_Username": "chickenstrips1",
@@ -1809,6 +1812,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "VENDOR" }]
+    },
+    {
+      "VRC_Username": "Sethtaros",
+      "RegistryTimeStamp": 1771481013953,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
     }
   ],
   "header": {

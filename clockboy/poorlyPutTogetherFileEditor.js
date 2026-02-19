@@ -6,7 +6,6 @@ let tempDB, tempDBLegacy;
 let numEdited = 0;
 const { Utils } = require("./utils.js");
 
-
 logInfo();
 
 /* Thanks to null.
