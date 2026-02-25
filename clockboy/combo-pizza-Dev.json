@@ -235,6 +235,7 @@
     },
     {
       "Departments": [
+        { "Name": "the \"enjoyed\" fox" },
         { "Name": "ADMINISTRATION" },
         { "Name": "fUckin MAV" },
         { "Name": "MANAGEMENT" },
@@ -1819,6 +1820,20 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "BarrelBoi",
+      "RegistryTimeStamp": 1771982451027,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "D3athcatRS",
+      "RegistryTimeStamp": 1771982451029,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Homo Improvement" }, { "Name": "fox enjoyer" }]
     }
   ],
   "header": {

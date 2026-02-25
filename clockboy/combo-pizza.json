@@ -1486,6 +1486,21 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1771481013953,
       "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "BarrelBoi",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1771982451027,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "D3athcatRS",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1771982451029,
+      "departments": [
+        { "Name": "Homo Improvement", "ID": 0 },
+        { "Name": "fox enjoyer", "ID": 0 }
+      ]
     }
   ],
   "footer": {
