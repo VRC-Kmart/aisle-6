@@ -1743,7 +1743,7 @@
       "Departments": [{ "Name": "Customer Service" }]
     },
     {
-      "VRC_Username": "RoyalTheWicker",
+      "VRC_Username": "King Royal I",
       "RegistryTimeStamp": 1769372808431,
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1834,6 +1834,16 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Homo Improvement" }, { "Name": "fox enjoyer" }]
+    },
+    {
+      "VRC_Username": "Misterio7",
+      "RegistryTimeStamp": 1772918752243,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "Electronics" },
+        { "Name": "enjoys lossy formats" }
+      ]
     }
   ],
   "header": {

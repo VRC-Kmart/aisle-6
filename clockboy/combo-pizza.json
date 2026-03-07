@@ -1419,7 +1419,7 @@
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
     },
     {
-      "VRC_Username": "RoyalTheWicker",
+      "VRC_Username": "King Royal I",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1769372808431,
       "departments": [{ "Name": "Sporting Goods", "ID": 0 }]
@@ -1500,6 +1500,15 @@
       "departments": [
         { "Name": "Homo Improvement", "ID": 0 },
         { "Name": "fox enjoyer", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "Misterio7",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1772918752243,
+      "departments": [
+        { "Name": "Electronics", "ID": 0 },
+        { "Name": "enjoys lossy formats", "ID": 0 }
       ]
     }
   ],
