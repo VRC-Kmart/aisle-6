@@ -7,8 +7,8 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("Misterio7", "Electronics");
-addDepartment("Misterio7", "enjoys lossy formats");
+addAssociate("ViperBlade", "Customer Service");
+addAssociate("B0ngog4m1ng", "Automotive");
 
 
 /* Thanks to null.

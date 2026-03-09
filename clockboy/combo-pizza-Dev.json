@@ -1844,6 +1844,20 @@
         { "Name": "Electronics" },
         { "Name": "enjoys lossy formats" }
       ]
+    },
+    {
+      "VRC_Username": "ViperBlade",
+      "RegistryTimeStamp": 1773017226661,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "B0ngog4m1ng",
+      "RegistryTimeStamp": 1773017226662,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Automotive" }]
     }
   ],
   "header": {

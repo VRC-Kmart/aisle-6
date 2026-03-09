@@ -1510,6 +1510,18 @@
         { "Name": "Electronics", "ID": 0 },
         { "Name": "enjoys lossy formats", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "ViperBlade",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1773017226661,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "B0ngog4m1ng",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1773017226662,
+      "departments": [{ "Name": "Automotive", "ID": 0 }]
     }
   ],
   "footer": {
