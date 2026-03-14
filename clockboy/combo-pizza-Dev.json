@@ -1815,13 +1815,6 @@
       "Departments": [{ "Name": "VENDOR" }]
     },
     {
-      "VRC_Username": "Sethtaros",
-      "RegistryTimeStamp": 1771481013953,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Electronics" }]
-    },
-    {
       "VRC_Username": "BarrelBoi",
       "RegistryTimeStamp": 1771982451027,
       "Dev": false,
@@ -1858,6 +1851,27 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Automotive" }]
+    },
+    {
+      "VRC_Username": "_SHAPES_",
+      "RegistryTimeStamp": 1773448813170,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "KCafe" }]
+    },
+    {
+      "VRC_Username": "Yukai-Kitsune",
+      "RegistryTimeStamp": 1773448813171,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Portrait Studio" }]
+    },
+    {
+      "VRC_Username": "AGTLuCas7",
+      "RegistryTimeStamp": 1773448813172,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
     }
   ],
   "header": {

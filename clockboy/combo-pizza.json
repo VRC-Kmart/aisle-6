@@ -1482,12 +1482,6 @@
       "departments": [{ "Name": "VENDOR", "ID": 0 }]
     },
     {
-      "VRC_Username": "Sethtaros",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1771481013953,
-      "departments": [{ "Name": "Electronics", "ID": 0 }]
-    },
-    {
       "VRC_Username": "BarrelBoi",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1771982451027,
@@ -1522,6 +1516,24 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1773017226662,
       "departments": [{ "Name": "Automotive", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "_SHAPES_",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1773448813170,
+      "departments": [{ "Name": "KCafe", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Yukai-Kitsune",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1773448813171,
+      "departments": [{ "Name": "Portrait Studio", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "AGTLuCas7",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1773448813172,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
     }
   ],
   "footer": {
