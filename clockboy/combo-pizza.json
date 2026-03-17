@@ -1531,7 +1531,7 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1773715634117,
       "departments": [
-        { "Name": "MANGEMENT", "ID": 0 },
+        { "Name": "MANAGEMENT", "ID": 0 },
         { "Name": "Customer Service", "ID": 0 },
         { "Name": "Grooming Time!", "ID": 0 }
       ]

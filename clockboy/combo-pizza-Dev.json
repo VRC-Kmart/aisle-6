@@ -1868,7 +1868,7 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [
-        { "Name": "MANGEMENT" },
+        { "Name": "MANAGEMENT" },
         { "Name": "Customer Service" },
         { "Name": "Grooming Time!" }
       ]
