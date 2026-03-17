@@ -411,15 +411,6 @@
     },
     {
       "departments": [
-        { "ID": 20, "Name": "Janitorial" },
-        { "ID": 128, "Name": "Redbox Restocker" }
-      ],
-      "RegistryTimeStamp": 1701055512575,
-      "ShiftCount": 69420,
-      "VRC_Username": "Legoman99573"
-    },
-    {
-      "departments": [
         { "ID": 0, "Name": "Jim Cantore Enjoyer" },
         { "ID": 0, "Name": "Redbox Restocker" },
         { "ID": 0, "Name": "Claims" }
@@ -1534,6 +1525,16 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1773448813172,
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Foxy_Foxy",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1773715634117,
+      "departments": [
+        { "Name": "MANAGER", "ID": 0 },
+        { "Name": "Customer Service", "ID": 0 },
+        { "Name": "Grooming Time!", "ID": 0 }
+      ]
     }
   ],
   "footer": {

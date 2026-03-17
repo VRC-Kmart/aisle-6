@@ -7,9 +7,9 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("_SHAPES_", "KCafe");
-addAssociate("Yukai-Kitsune", "Portrait Studio");
-addAssociate("AGTLuCas7", "Customer Service")
+addAssociate("Foxy_Foxy", "MANAGER");
+addDepartment("Foxy_Foxy", "Customer Service");
+addDepartment("Foxy_Foxy", "Grooming Time!");
 
 
 /* Thanks to null.

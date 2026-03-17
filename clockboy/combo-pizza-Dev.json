@@ -474,17 +474,6 @@
     },
     {
       "Departments": [
-        { "Name": "Janitorial" },
-        { "Name": "Redbox Restocker" },
-        { "Name": "VENDOR" }
-      ],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1701055512575,
-      "VRC_Username": "Legoman99573"
-    },
-    {
-      "Departments": [
         { "Name": "Jim Cantore Enjoyer" },
         { "Name": "Redbox Restocker" },
         { "Name": "Claims" }
@@ -1872,6 +1861,17 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "Foxy_Foxy",
+      "RegistryTimeStamp": 1773715634117,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "MANAGER" },
+        { "Name": "Customer Service" },
+        { "Name": "Grooming Time!" }
+      ]
     }
   ],
   "header": {
