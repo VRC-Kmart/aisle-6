@@ -140,16 +140,6 @@
     },
     {
       "departments": [
-        { "ID": 255, "Name": "ADMINISTRATION" },
-        { "ID": 0, "Name": "Public Relations" },
-        { "ID": 0, "Name": "Customer Service" }
-      ],
-      "RegistryTimeStamp": 1700707140000,
-      "ShiftCount": 69420,
-      "VRC_Username": "NylaB0nes"
-    },
-    {
-      "departments": [
         { "ID": 253, "Name": "MANAGEMENT" },
         { "ID": 0, "Name": "Customer Service" }
       ],

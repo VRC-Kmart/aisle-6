@@ -164,19 +164,6 @@
     },
     {
       "Departments": [
-        { "Name": "ADMINISTRATION" },
-        { "Name": "Pubic Relations Manager" },
-        { "Name": "Customer Service Manager" },
-        { "Name": "enjoys pawtris too much" },
-        { "Name": "is dating a nerd" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1700707140000,
-      "VRC_Username": "NylaB0nes"
-    },
-    {
-      "Departments": [
         { "Name": "MANAGEMENT" },
         { "Name": "Assistant Customer Service Manager" }
       ],
