@@ -1849,6 +1849,28 @@
         { "Name": "Customer Service" },
         { "Name": "Grooming Time!" }
       ]
+    },
+    {
+      "VRC_Username": "Kemi_bun",
+      "RegistryTimeStamp": 1774849344658,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "IT DEPARTMENT" },
+        { "Name": "STAR Team" },
+        { "Name": "Viz Hater" }
+      ]
+    },
+    {
+      "VRC_Username": "pingfox",
+      "RegistryTimeStamp": 1774849344661,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "IT DEPARTMENT" },
+        { "Name": "STAR Team" },
+        { "Name": "Pipeline Hater" }
+      ]
     }
   ],
   "header": {

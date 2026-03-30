@@ -1516,6 +1516,26 @@
         { "Name": "Customer Service", "ID": 0 },
         { "Name": "Grooming Time!", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "Kemi_bun",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1774849344658,
+      "departments": [
+        { "Name": "IT DEPARTMENT", "ID": 0 },
+        { "Name": "STAR Team", "ID": 0 },
+        { "Name": "Viz Hater", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "pingfox",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1774849344661,
+      "departments": [
+        { "Name": "IT DEPARTMENT", "ID": 0 },
+        { "Name": "STAR Team", "ID": 0 },
+        { "Name": "Pipeline Hater", "ID": 0 }
+      ]
     }
   ],
   "footer": {
