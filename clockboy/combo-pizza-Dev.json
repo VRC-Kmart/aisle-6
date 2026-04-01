@@ -1871,6 +1871,16 @@
         { "Name": "STAR Team" },
         { "Name": "Pipeline Hater" }
       ]
+    },
+    {
+      "VRC_Username": "Matty Matt",
+      "RegistryTimeStamp": 1763221520341,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "Electronics" },
+        { "Name": "UHaul Kmart Enjoyer" }
+      ]
     }
   ],
   "header": {

@@ -1536,6 +1536,15 @@
         { "Name": "STAR Team", "ID": 0 },
         { "Name": "Pipeline Hater", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "Matty Matt",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1763221520341,
+      "departments": [
+        { "Name": "Electronics", "ID": 0 },
+        { "Name": "UHaul Kmart Enjoyer", "ID": 0 }
+      ]
     }
   ],
   "footer": {
