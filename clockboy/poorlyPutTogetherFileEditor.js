@@ -7,13 +7,10 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("Kemi_bun", "IT DEPARTMENT");
-addDepartment("Kemi_bun", "STAR Team")
-addDepartment("Kemi_bun", "Viz Hater")
+addAssociate("NovaStarbrite", "Layaway");
+addDepartment("NovaStarbrite", "\"Good\" Content Creator")
+addAssociate("Hyurbert", "Harmacy");
 
-addAssociate("pingfox", "IT DEPARTMENT");
-addDepartment("pingfox", "STAR Team")
-addDepartment("pingfox", "Pipeline Hater")
 
 /* Thanks to null.
  * you know who you are :3 */

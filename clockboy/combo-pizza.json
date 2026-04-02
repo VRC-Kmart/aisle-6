@@ -1545,6 +1545,21 @@
         { "Name": "Electronics", "ID": 0 },
         { "Name": "UHaul Kmart Enjoyer", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "NovaStarbrite",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1775094740005,
+      "departments": [
+        { "Name": "Layaway", "ID": 0 },
+        { "Name": "\"Good\" Content Creator", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "Hyurbert",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1775094740007,
+      "departments": [{ "Name": "Harmacy", "ID": 0 }]
     }
   ],
   "footer": {

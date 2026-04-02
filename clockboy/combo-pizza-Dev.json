@@ -1881,6 +1881,23 @@
         { "Name": "Electronics" },
         { "Name": "UHaul Kmart Enjoyer" }
       ]
+    },
+    {
+      "VRC_Username": "NovaStarbrite",
+      "RegistryTimeStamp": 1775094740005,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "Layaway" },
+        { "Name": "\"Good\" Content Creator" }
+      ]
+    },
+    {
+      "VRC_Username": "Hyurbert",
+      "RegistryTimeStamp": 1775094740007,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Harmacy" }]
     }
   ],
   "header": {
