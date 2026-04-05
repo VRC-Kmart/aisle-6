@@ -100,7 +100,7 @@
     },
     {
       "Departments": [
-        { "Name": "HUMAN RESOURCES" },
+        { "Name": "Assistant Manager" },
         { "Name": "DEVELOPER" },
         { "Name": "TRAINER" },
         { "Name": "Bakery/Deli" },
@@ -223,7 +223,6 @@
     {
       "Departments": [
         { "Name": "the \"enjoyed\" fox" },
-        { "Name": "ADMINISTRATION" },
         { "Name": "fUckin MAV" },
         { "Name": "MANAGEMENT" },
         { "Name": "Bakery/Deli Manager" }
