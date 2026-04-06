@@ -190,7 +190,6 @@
     },
     {
       "departments": [
-        { "ID": 253, "Name": "MANAGEMENT" },
         { "ID": 12, "Name": "Bakery/Deli" }
       ],
       "RegistryTimeStamp": 1673427328419,

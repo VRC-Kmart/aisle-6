@@ -100,10 +100,10 @@
     },
     {
       "Departments": [
-        { "Name": "Assistant Manager" },
+        { "Name": "ADMINISTRATION" },
+        { "Name": "ASSISTANT MANAGER" },
         { "Name": "DEVELOPER" },
         { "Name": "TRAINER" },
-        { "Name": "Bakery/Deli" },
         { "Name": "<color=#ff0000>T R A C T O R</color>" },
         { "Name": "woman" }
       ],
@@ -174,6 +174,7 @@
     },
     {
       "Departments": [
+        { "Name": "HUMAN RESOURCES" },
         { "Name": "TRAINER" },
         { "Name": "MANAGEMENT" },
         { "Name": "KCafe Manager" }
@@ -192,8 +193,8 @@
     },
     {
       "Departments": [
+        { "Name": "HUMAN RESOURCES" },
         { "Name": "MANAGEMENT" },
-        { "Name": "Public Relations" },
         { "Name": "Layaway Manager" },
         { "Name": "Allegedly Straight" }
       ],
@@ -224,8 +225,7 @@
       "Departments": [
         { "Name": "the \"enjoyed\" fox" },
         { "Name": "fUckin MAV" },
-        { "Name": "MANAGEMENT" },
-        { "Name": "Bakery/Deli Manager" }
+        { "Name": "Bakery/Deli" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -1258,11 +1258,11 @@
       "Dev": true,
       "FunnyCallboxes": true,
       "Departments": [
+        { "Name": "HUMAN RESOURCES" },
         { "Name": "MANAGEMENT" },
         { "Name": "Electronics Manager" },
         { "Name": "Resigned" },
-        { "Name": "Came Crawling Back" },
-        { "Name": "Store Prostitute" }
+        { "Name": "Came Crawling Back" }
       ]
     },
     {
@@ -1673,6 +1673,7 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [
+        { "Name": "HUMAN RESOURCES" },
         { "Name": "MANAGEMENT" },
         { "Name": "Home Improvement Manager" },
         { "Name": "is fighting Aura" },
