@@ -688,12 +688,6 @@
       "VRC_Username": "Lordthomas11"
     },
     {
-      "departments": [{ "ID": 0, "Name": "Pharmacy" }],
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1741496824946,
-      "VRC_Username": "Koda White Wolf"
-    },
-    {
       "departments": [{ "ID": 0, "Name": "Electronics" }],
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741496824949,
