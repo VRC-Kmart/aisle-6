@@ -189,9 +189,7 @@
       "VRC_Username": "LyraPiranhaVA"
     },
     {
-      "departments": [
-        { "ID": 12, "Name": "Bakery/Deli" }
-      ],
+      "departments": [{ "ID": 12, "Name": "Bakery/Deli" }],
       "RegistryTimeStamp": 1673427328419,
       "ShiftCount": 69420,
       "VRC_Username": "Mavryn Arex"
@@ -1558,6 +1556,15 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1775094740007,
       "departments": [{ "Name": "Harmacy", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "ChloeJPark",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1775441876842,
+      "departments": [
+        { "Name": "Deli/Bakery", "ID": 0 },
+        { "Name": "MARKETING", "ID": 0 }
+      ]
     }
   ],
   "footer": {
