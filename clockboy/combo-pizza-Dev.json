@@ -177,7 +177,7 @@
         { "Name": "HUMAN RESOURCES" },
         { "Name": "TRAINER" },
         { "Name": "MANAGEMENT" },
-        { "Name": "KCafe Manager" }
+        { "Name": "KCafe" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -195,7 +195,7 @@
       "Departments": [
         { "Name": "HUMAN RESOURCES" },
         { "Name": "MANAGEMENT" },
-        { "Name": "Layaway Manager" },
+        { "Name": "Layaway" },
         { "Name": "Allegedly Straight" }
       ],
       "Dev": true,
@@ -1253,7 +1253,7 @@
       "Departments": [
         { "Name": "HUMAN RESOURCES" },
         { "Name": "MANAGEMENT" },
-        { "Name": "Electronics Manager" },
+        { "Name": "is woman" },
         { "Name": "Resigned" },
         { "Name": "Came Crawling Back" }
       ]
@@ -1635,7 +1635,7 @@
       "RegistryTimeStamp": 1766864448731,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Customer Service" }]
+      "Departments": [{ "Name": "MANAGEMENT" },{ "Name": "Customer Service Manager" },{ "Name": "red haired bitch" }]
     },
     {
       "VRC_Username": "~Sinny~",
@@ -1668,7 +1668,7 @@
       "Departments": [
         { "Name": "HUMAN RESOURCES" },
         { "Name": "MANAGEMENT" },
-        { "Name": "Home Improvement Manager" },
+        { "Name": "Homo Improvement" },
         { "Name": "is fighting Aura" },
         { "Name": "Discount Tim \"The Toolman\" Taylor" }
       ]
@@ -1678,7 +1678,7 @@
       "RegistryTimeStamp": 1767663062846,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Claims" }]
+      "Departments": [{ "Name": "MANAGEMENT" },{ "Name": "Assistant Claims Manager" },{ "Name": "smol bean" }]
     },
     {
       "VRC_Username": "Charlie_Swe",
@@ -1816,7 +1816,7 @@
       "RegistryTimeStamp": 1773448813170,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "KCafe" }]
+      "Departments": [{ "Name": "MANAGEMENT" },{ "Name": "KCafe Manager" },{ "Name": "that bird that i hate" },{ "Name": "who. who! who? Doctor Who." }]
     },
     {
       "VRC_Username": "Yukai-Kitsune",
