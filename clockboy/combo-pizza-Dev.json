@@ -786,7 +786,7 @@
       "VRC_Username": "Snappers1"
     },
     {
-      "Departments": [{ "Name": "Electronics" }],
+      "Departments": [{ "Name":"MANAGEMENT" }, { "Name":"Deli/Bakery Manager"},{ "Name": "Electronics" },{ "Name":"stupid fucking bear"}],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824952,
