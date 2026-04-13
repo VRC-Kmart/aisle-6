@@ -1553,6 +1553,12 @@
         { "Name": "Deli/Bakery", "ID": 0 },
         { "Name": "MARKETING", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "Dragonozu",
+      "RegistryTimeStamp": 1776105336078,
+      "ShiftCount": 69420,
+      "departments": [{ "Name": "Deli/Bakery", "ID": 0 }]
     }
   ],
   "footer": {
