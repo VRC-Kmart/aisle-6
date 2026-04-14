@@ -786,7 +786,12 @@
       "VRC_Username": "Snappers1"
     },
     {
-      "Departments": [{ "Name":"MANAGEMENT" }, { "Name":"Deli/Bakery Manager"},{ "Name": "Electronics" },{ "Name":"stupid fucking bear"}],
+      "Departments": [
+        { "Name": "MANAGEMENT" },
+        { "Name": "Deli/Bakery Manager" },
+        { "Name": "Electronics" },
+        { "Name": "stupid fucking bear" }
+      ],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1741496824952,
@@ -1628,7 +1633,11 @@
       "RegistryTimeStamp": 1766864448731,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "MANAGEMENT" },{ "Name": "Customer Service Manager" },{ "Name": "red haired bitch" }]
+      "Departments": [
+        { "Name": "MANAGEMENT" },
+        { "Name": "Customer Service Manager" },
+        { "Name": "red haired bitch" }
+      ]
     },
     {
       "VRC_Username": "~Sinny~",
@@ -1671,7 +1680,11 @@
       "RegistryTimeStamp": 1767663062846,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "MANAGEMENT" },{ "Name": "Assistant Claims Manager" },{ "Name": "smol bean" }]
+      "Departments": [
+        { "Name": "MANAGEMENT" },
+        { "Name": "Assistant Claims Manager" },
+        { "Name": "smol bean" }
+      ]
     },
     {
       "VRC_Username": "Charlie_Swe",
@@ -1809,7 +1822,13 @@
       "RegistryTimeStamp": 1773448813170,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "DEVELOPER" },{ "Name": "MANAGEMENT" },{ "Name": "KCafe Manager" },{ "Name": "that bird that i hate" },{ "Name": "who. who! who? Doctor Who." }]
+      "Departments": [
+        { "Name": "DEVELOPER" },
+        { "Name": "MANAGEMENT" },
+        { "Name": "KCafe Manager" },
+        { "Name": "that bird that i hate" },
+        { "Name": "who. who! who? Doctor Who." }
+      ]
     },
     {
       "VRC_Username": "Yukai-Kitsune",
@@ -1898,6 +1917,34 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Deli/Bakery" }]
+    },
+    {
+      "VRC_Username": "JamarFromAfar",
+      "RegistryTimeStamp": 1776133281671,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Sporting Goods" }]
+    },
+    {
+      "VRC_Username": "Muffin of time",
+      "RegistryTimeStamp": 1776133281673,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }, { "Name": "Cast Enjoyer" }]
+    },
+    {
+      "VRC_Username": "snackiedoodle",
+      "RegistryTimeStamp": 1776133281675,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "KCafe" }]
+    },
+    {
+      "VRC_Username": "Bakêd",
+      "RegistryTimeStamp": 1776133281677,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
     }
   ],
   "header": {

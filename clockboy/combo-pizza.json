@@ -1317,7 +1317,10 @@
       "VRC_Username": "MiiaFoxx",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1766864448731,
-      "departments": [{ "Name": "MANAGEMENT", "ID": 0 },{ "Name": "Customer Service", "ID": 0 }]
+      "departments": [
+        { "Name": "MANAGEMENT", "ID": 0 },
+        { "Name": "Customer Service", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "~Sinny~",
@@ -1354,7 +1357,10 @@
       "VRC_Username": "Sersarina punny",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1767663062846,
-      "departments": [{ "Name": "MANAGEMENT", "ID": 0 },{ "Name": "Claims", "ID": 0 }]
+      "departments": [
+        { "Name": "MANAGEMENT", "ID": 0 },
+        { "Name": "Claims", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "Charlie_Swe",
@@ -1477,7 +1483,11 @@
       "VRC_Username": "_SHAPES_",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1773448813170,
-      "departments": [{ "Name": "DEVELOPER", "ID": 0 },{ "Name": "MANAGEMENT", "ID": 0 },{ "Name": "KCafe", "ID": 0 }]
+      "departments": [
+        { "Name": "DEVELOPER", "ID": 0 },
+        { "Name": "MANAGEMENT", "ID": 0 },
+        { "Name": "KCafe", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "Yukai-Kitsune",
@@ -1559,6 +1569,33 @@
       "RegistryTimeStamp": 1776105336078,
       "ShiftCount": 69420,
       "departments": [{ "Name": "Deli/Bakery", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "JamarFromAfar",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1776133281671,
+      "departments": [{ "Name": "Sporting Goods", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Muffin of time",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1776133281673,
+      "departments": [
+        { "Name": "Electronics", "ID": 0 },
+        { "Name": "Cast Enjoyer", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "snackiedoodle",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1776133281675,
+      "departments": [{ "Name": "KCafe", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Bakêd",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1776133281677,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
     }
   ],
   "footer": {
