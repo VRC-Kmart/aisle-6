@@ -1933,7 +1933,7 @@
       "Departments": [{ "Name": "Electronics" }, { "Name": "Cast Enjoyer" }]
     },
     {
-      "VRC_Username": "snackiedoodle",
+      "VRC_Username": "littlebiscuitt",
       "RegistryTimeStamp": 1776133281675,
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1945,6 +1945,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "Traz",
+      "RegistryTimeStamp": 1776381281794,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "a fucking nightmare" }]
     }
   ],
   "header": {

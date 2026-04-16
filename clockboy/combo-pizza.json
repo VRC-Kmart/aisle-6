@@ -1586,7 +1586,7 @@
       ]
     },
     {
-      "VRC_Username": "snackiedoodle",
+      "VRC_Username": "littlebiscuitt",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1776133281675,
       "departments": [{ "Name": "KCafe", "ID": 0 }]
@@ -1596,6 +1596,15 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1776133281677,
       "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Traz",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1776381281794,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "a fucking nightmare", "ID": 0 }
+      ]
     }
   ],
   "footer": {
