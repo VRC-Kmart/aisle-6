@@ -397,8 +397,8 @@
     },
     {
       "departments": [
+        { "ID": 0, "Name": "SECURITY" },
         { "ID": 0, "Name": "Jim Cantore Enjoyer" },
-        { "ID": 0, "Name": "Redbox Restocker" },
         { "ID": 0, "Name": "Claims" }
       ],
       "ShiftCount": 69420,
