@@ -1605,6 +1605,18 @@
         { "Name": "VENDOR", "ID": 0 },
         { "Name": "a fucking nightmare", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "ChloeEPrice",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1776990580244,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Vlad Draculas",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1776990580246,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
     }
   ],
   "footer": {

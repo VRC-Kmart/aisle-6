@@ -1585,7 +1585,11 @@
       "RegistryTimeStamp": 1764630561561,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "SECURITY" },{ "Name": "TRAINER" }, { "Name": "Harmacy" }]
+      "Departments": [
+        { "Name": "SECURITY" },
+        { "Name": "TRAINER" },
+        { "Name": "Harmacy" }
+      ]
     },
     {
       "VRC_Username": "ִAbel°SonOfAdam",
@@ -1953,6 +1957,20 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "VENDOR" }, { "Name": "a fucking nightmare" }]
+    },
+    {
+      "VRC_Username": "ChloeEPrice",
+      "RegistryTimeStamp": 1776990580244,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "Vlad Draculas",
+      "RegistryTimeStamp": 1776990580246,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
     }
   ],
   "header": {
