@@ -433,22 +433,22 @@
       "VRC_Username": "LukeTheADKWolf"
     },
     {
-      "departments": [{ "ID": 4, "Name": "Sporting Goods" }],
+      "departments": [{ "ID": 0, "Name": "Sporting Goods" }],
       "RegistryTimeStamp": 1695074635163,
       "ShiftCount": 69420,
       "VRC_Username": "-~Vegas~-"
     },
     {
-      "departments": [{ "ID": 1, "Name": "Electronics" }],
+      "departments": [{ "ID": 0, "Name": "Electronics" }],
       "RegistryTimeStamp": 1722638830853,
       "ShiftCount": 69420,
       "VRC_Username": "mattmatt122"
     },
     {
       "departments": [
-        { "ID": 1, "Name": "Electronics" },
-        { "ID": 25, "Name": "Claims" },
-        { "ID": 5, "Name": "Automotive" }
+        { "ID": 0, "Name": "Electronics" },
+        { "ID": 0, "Name": "Claims" },
+        { "ID": 0, "Name": "Automotive" }
       ],
       "RegistryTimeStamp": 1722638830853,
       "ShiftCount": 69420,
@@ -456,7 +456,7 @@
     },
     {
       "departments": [
-        { "ID": 1, "Name": "Electronics" },
+        { "ID": 0, "Name": "Electronics" },
         { "ID": 0, "Name": "Customer Service" }
       ],
       "RegistryTimeStamp": 1670545433687,
@@ -466,22 +466,22 @@
     {
       "departments": [
         { "ID": 0, "Name": "Customer Service" },
-        { "ID": 42, "Name": "Pharmacy" },
-        { "ID": 3, "Name": "Hardlines" }
+        { "ID": 0, "Name": "Pharmacy" },
+        { "ID": 0, "Name": "Hardlines" }
       ],
       "RegistryTimeStamp": 1595691876906,
       "ShiftCount": 69420,
       "VRC_Username": "Ruby Rose"
     },
     {
-      "departments": [{ "ID": 4, "Name": "Sporting Goods" }],
+      "departments": [{ "ID": 0, "Name": "Sporting Goods" }],
       "RegistryTimeStamp": 1726036910287,
       "ShiftCount": 69420,
       "VRC_Username": "Mr․SpiderKing"
     },
     {
       "departments": [
-        { "ID": 25, "Name": "Claims" },
+        { "ID": 0, "Name": "Claims" },
         { "ID": 0, "Name": "Chicken Jockey" }
       ],
       "RegistryTimeStamp": 1674866746125,
@@ -490,8 +490,7 @@
     },
     {
       "departments": [
-        { "ID": 12, "Name": "Bakery/Deli" },
-        { "ID": 4, "Name": "Sporting Goods" }
+        { "ID": 0, "Name": "SECURITY" }
       ],
       "RegistryTimeStamp": 1718883769842,
       "ShiftCount": 69420,
@@ -505,7 +504,7 @@
     },
     {
       "departments": [
-        { "ID": 3, "Name": "Hardlines" },
+        { "ID": 0, "Name": "Hardlines" },
         { "ID": 0, "Name": "Customer Service" }
       ],
       "RegistryTimeStamp": 1688699003673,
@@ -513,7 +512,7 @@
       "VRC_Username": "Cart Narcs"
     },
     {
-      "departments": [{ "ID": 1, "Name": "Electronics" }],
+      "departments": [{ "ID": 0, "Name": "Electronics" }],
       "RegistryTimeStamp": 1718883769842,
       "ShiftCount": 69420,
       "VRC_Username": "Masked_Majora64"
@@ -521,14 +520,14 @@
     {
       "departments": [
         { "ID": 0, "Name": "Customer Service" },
-        { "ID": 10, "Name": "KCafe" }
+        { "ID": 0, "Name": "KCafe" }
       ],
       "RegistryTimeStamp": 1718883769842,
       "ShiftCount": 69420,
       "VRC_Username": "Razer345"
     },
     {
-      "departments": [{ "ID": 10, "Name": "KCafe" }],
+      "departments": [{ "ID": 0, "Name": "KCafe" }],
       "RegistryTimeStamp": 1706012400000,
       "ShiftCount": 69420,
       "VRC_Username": "Вubblеѕ"
