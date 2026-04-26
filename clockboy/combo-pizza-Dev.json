@@ -1985,6 +1985,7 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [
+        { "Name": "DEVELOPER" },
         { "Name": "Customer Service" },
         { "Name": "wasted money on a degree" }
       ]

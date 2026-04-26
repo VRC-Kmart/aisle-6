@@ -1626,6 +1626,7 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1777177874811,
       "departments": [
+        { "Name": "DEVELOPER", "ID": 0 },
         { "Name": "Customer Service", "ID": 0 },
         { "Name": "wasted money on a degree", "ID": 0 }
       ]
