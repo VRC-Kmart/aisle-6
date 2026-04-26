@@ -1971,6 +1971,30 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "ɴᴇᴀʀʙʏᴏᴀᴋ",
+      "RegistryTimeStamp": 1777177874810,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Harmacy" }]
+    },
+    {
+      "VRC_Username": "Inkly",
+      "RegistryTimeStamp": 1777177874811,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "Customer Service" },
+        { "Name": "wasted money on a degree" }
+      ]
+    },
+    {
+      "VRC_Username": "Dalamud",
+      "RegistryTimeStamp": 1777177874813,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Janitorial" }]
     }
   ],
   "header": {

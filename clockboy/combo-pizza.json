@@ -489,9 +489,7 @@
       "VRC_Username": "Duskyღ"
     },
     {
-      "departments": [
-        { "ID": 0, "Name": "SECURITY" }
-      ],
+      "departments": [{ "ID": 0, "Name": "SECURITY" }],
       "RegistryTimeStamp": 1718883769842,
       "ShiftCount": 69420,
       "VRC_Username": "Ciel Freeman"
@@ -1616,6 +1614,27 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1776990580246,
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "ɴᴇᴀʀʙʏᴏᴀᴋ",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1777177874810,
+      "departments": [{ "Name": "Harmacy", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Inkly",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1777177874811,
+      "departments": [
+        { "Name": "Customer Service", "ID": 0 },
+        { "Name": "wasted money on a degree", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "Dalamud",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1777177874813,
+      "departments": [{ "Name": "Janitorial", "ID": 0 }]
     }
   ],
   "footer": {
