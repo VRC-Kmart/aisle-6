@@ -1636,6 +1636,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1777177874813,
       "departments": [{ "Name": "Janitorial", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Toasti_Lore",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1777427258824,
+      "departments": [{ "Name": "Deli/Bakery", "ID": 0 }]
     }
   ],
   "footer": {

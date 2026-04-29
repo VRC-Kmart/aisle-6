@@ -1996,6 +1996,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Janitorial" }]
+    },
+    {
+      "VRC_Username": "Toasti_Lore",
+      "RegistryTimeStamp": 1777427258824,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Deli/Bakery" }]
     }
   ],
   "header": {
