@@ -2003,18 +2003,6 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Deli/Bakery" }]
-    },
-    {
-      "VRC_Username": "RoguexGuardian",
-      "RegistryTimeStamp": 1615764000000,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "Harmacy" },
-        { "Name": "really shitty security manager" },
-        { "Name": "uses BetterHelp" },
-        { "Name": "gay ass bitch" }
-      ]
     }
   ],
   "header": {
