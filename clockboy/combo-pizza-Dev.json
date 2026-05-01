@@ -223,17 +223,6 @@
     },
     {
       "Departments": [
-        { "Name": "the \"enjoyed\" fox" },
-        { "Name": "fUckin MAV" },
-        { "Name": "Bakery/Deli" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1673427328419,
-      "VRC_Username": "Mavryn Arex"
-    },
-    {
-      "Departments": [
         { "Name": "MANAGEMENT" },
         { "Name": "Home Improvement Manager" }
       ],

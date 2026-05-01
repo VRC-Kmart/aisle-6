@@ -189,12 +189,6 @@
       "VRC_Username": "LyraPiranhaVA"
     },
     {
-      "departments": [{ "ID": 12, "Name": "Bakery/Deli" }],
-      "RegistryTimeStamp": 1673427328419,
-      "ShiftCount": 69420,
-      "VRC_Username": "Mavryn Arex"
-    },
-    {
       "departments": [
         { "ID": 253, "Name": "MANAGEMENT" },
         { "ID": 15, "Name": "Home Improvement" }
