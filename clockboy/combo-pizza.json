@@ -4,7 +4,7 @@
     {
       "departments": [
         { "ID": 0, "Name": "Girl Kisser" },
-        { "ID": 0, "Name": "ADMINISTRATION" },
+        { "ID": 0, "Name": "SECURITY" },
         { "ID": 0, "Name": "DEVELOPER" }
       ],
       "RegistryTimeStamp": 1620190608604,
@@ -82,13 +82,13 @@
     },
     {
       "departments": [
-        { "ID": 0, "Name": "ASSISTANT MANAGER" },
+        { "ID": 0, "Name": "STORE MANAGER" },
         { "ID": 0, "Name": "TRAINER" },
         { "ID": 0, "Name": "DEVELOPER" }
       ],
       "RegistryTimeStamp": 1670216238796,
       "ShiftCount": 69420,
-      "VRC_Username": "Friskiiii"
+      "VRC_Username": "Frimsy"
     },
     {
       "departments": [
