@@ -4,8 +4,7 @@
     {
       "Departments": [
         { "Name": "Girl Kisser" },
-        { "Name": "STORE MANAGER" },
-        { "Name": "ADMINISTRATION" },
+        { "Name": "SECURITY" },
         { "Name": "DEVELOPER" }
       ],
       "Dev": true,
@@ -101,7 +100,7 @@
     {
       "Departments": [
         { "Name": "ADMINISTRATION" },
-        { "Name": "ASSISTANT MANAGER" },
+        { "Name": "STORE MANAGER" },
         { "Name": "DEVELOPER" },
         { "Name": "TRAINER" },
         { "Name": "<color=#ff0000>T R A C T O R</color>" },
