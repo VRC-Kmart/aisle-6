@@ -336,9 +336,7 @@
       "VRC_Username": "devsgone"
     },
     {
-      "departments": [
-        { "ID": 0, "Name": "Pharmacy" }
-      ],
+      "departments": [{ "ID": 0, "Name": "Pharmacy" }],
       "RegistryTimeStamp": 1718060054721,
       "ShiftCount": 69420,
       "VRC_Username": "Comicbomb"
@@ -1347,12 +1345,6 @@
       ]
     },
     {
-      "VRC_Username": "Charlie_Swe",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1769372808419,
-      "departments": [{ "Name": "Customer Service", "ID": 0 }]
-    },
-    {
       "VRC_Username": "redjesusmane",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1769372808425,
@@ -1441,15 +1433,6 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1771982451027,
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "D3athcatRS",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1771982451029,
-      "departments": [
-        { "Name": "Homo Improvement", "ID": 0 },
-        { "Name": "fox enjoyer", "ID": 0 }
-      ]
     },
     {
       "VRC_Username": "ViperBlade",
@@ -1629,6 +1612,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1777427258824,
       "departments": [{ "Name": "Deli/Bakery", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "The Wiz",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1778262069542,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
     }
   ],
   "footer": {

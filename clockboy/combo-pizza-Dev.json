@@ -14,8 +14,8 @@
     },
     {
       "Departments": [
-        { "Name": "Bullies Xeravax" },
         { "Name": "Actively Breaks SuperK" },
+        { "Name": "ADMINISTRATION" },
         { "Name": "DEVELOPER" },
         { "Name": "IT DEPARTMENT" },
         { "Name": "SECURITY" }
@@ -1673,13 +1673,6 @@
       ]
     },
     {
-      "VRC_Username": "Charlie_Swe",
-      "RegistryTimeStamp": 1769372808419,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Customer Service" }]
-    },
-    {
       "VRC_Username": "redjesusmane",
       "RegistryTimeStamp": 1769372808425,
       "Dev": false,
@@ -1781,13 +1774,6 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Customer Service" }]
-    },
-    {
-      "VRC_Username": "D3athcatRS",
-      "RegistryTimeStamp": 1771982451029,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Homo Improvement" }, { "Name": "fox enjoyer" }]
     },
     {
       "VRC_Username": "ViperBlade",
@@ -1985,6 +1971,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Deli/Bakery" }]
+    },
+    {
+      "VRC_Username": "The Wiz",
+      "RegistryTimeStamp": 1778262069542,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
     }
   ],
   "header": {

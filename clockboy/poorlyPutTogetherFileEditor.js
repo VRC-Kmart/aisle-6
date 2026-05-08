@@ -7,10 +7,7 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("RoguexGuardian", "Harmacy");
-addDepartment("RoguexGuardian", "really shitty security manager");
-addDepartment("RoguexGuardian", "uses BetterHelp");
-addDepartment("RoguexGuardian", "gay ass bitch");
+addAssociate("The Wiz", "Customer Service");
 
 
 /* Thanks to null.
