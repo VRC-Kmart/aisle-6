@@ -668,9 +668,9 @@
       "VRC_Username": "Kashikuzi"
     },
     {
-      "Departments": [{ "Name": "DEVELOPER" }, { "Name": "KCafe" }],
-      "Dev": true,
-      "FunnyCallboxes": true,
+      "Departments": [{ "Name": "KCafe" }],
+      "Dev": false,
+      "FunnyCallboxes": false,
       "RegistryTimeStamp": 1736546939017,
       "VRC_Username": "FuzzyLiama"
     },
