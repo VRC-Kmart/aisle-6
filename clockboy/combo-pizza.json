@@ -800,15 +800,6 @@
     {
       "departments": [
         { "ID": 0, "Name": "Customer Service" },
-        { "ID": 0, "Name": "MARKETING" }
-      ],
-      "RegistryTimeStamp": 1744801348351,
-      "ShiftCount": 69420,
-      "VRC_Username": "offmass8"
-    },
-    {
-      "departments": [
-        { "ID": 0, "Name": "Customer Service" },
         { "ID": 0, "Name": "Hardlines" }
       ],
       "RegistryTimeStamp": 1618960800000,

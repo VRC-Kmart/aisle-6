@@ -916,13 +916,6 @@
       "VRC_Username": "Lt_Shadow"
     },
     {
-      "Departments": [{ "Name": "Customer Service" }, { "Name": "MARKETING" }],
-      "Dev": false,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1744801348351,
-      "VRC_Username": "offmass8"
-    },
-    {
       "Departments": [{ "Name": "Customer Service" }, { "Name": "Hardlines" }],
       "Dev": false,
       "FunnyCallboxes": false,
