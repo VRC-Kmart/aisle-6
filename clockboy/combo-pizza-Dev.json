@@ -945,6 +945,7 @@
     },
     {
       "Departments": [
+        { "Name": "DEVELOPER" },
         { "Name": "MANAGEMENT" },
         { "Name": "useless fucking AI" },
         { "Name": "Pharmacy Manager" },
@@ -1125,7 +1126,7 @@
       "RegistryTimeStamp": 1756787524543,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Customer Service" }]
+      "Departments": [{ "Name": "MARKETING" },{ "Name": "Customer Service" }]
     },
     {
       "VRC_Username": "ScarletFortune",
@@ -1256,20 +1257,6 @@
         { "Name": "Needs To Touch <color=#00ff00>Grass</color>" },
         { "Name": "Goku is not your husband" },
         { "Name": "I swear if we have to put you back in fucking therapy" }
-      ]
-    },
-    {
-      "VRC_Username": "The~Gentleman",
-      "RegistryTimeStamp": 1760553755872,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "VENDOR" },
-        { "Name": "SHIELD \"Sheriff\"" },
-        { "Name": "discount Karet" },
-        { "Name": "complains a lot >:(" },
-        { "Name": "needs to take a mother fucking decontamination shower" },
-        { "Name": "keeps yapping about italians" }
       ]
     },
     {
