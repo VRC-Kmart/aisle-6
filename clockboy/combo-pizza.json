@@ -864,7 +864,7 @@
       "VRC_Username": "Alex_Sharp",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1747756054143,
-      "departments": [{ "Name": "Kcafe", "ID": 0 }]
+      "departments": [{ "Name": "TRAINER", "ID": 0 },{ "Name": "Kcafe", "ID": 0 }]
     },
     {
       "VRC_Username": "fykon",
@@ -1185,7 +1185,7 @@
       "VRC_Username": "N-e-kolita",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1761455638606,
-      "departments": [{ "Name": "Security", "ID": 0 }]
+      "departments": [{ "Name": "TRAINER", "ID": 0 },{ "Name": "Security", "ID": 0 }]
     },
     {
       "VRC_Username": "chickenstrips1",
@@ -1547,7 +1547,7 @@
       "VRC_Username": "Bakêd",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1776133281677,
-      "departments": [{ "Name": "Electronics", "ID": 0 }]
+      "departments": [{ "Name": "TRAINER", "ID": 0 },{ "Name": "Electronics", "ID": 0 }]
     },
     {
       "VRC_Username": "Traz",
@@ -1562,7 +1562,7 @@
       "VRC_Username": "ChloeEPrice",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1776990580244,
-      "departments": [{ "Name": "Electronics", "ID": 0 }]
+      "departments": [{ "Name": "TRAINER", "ID": 0 },{ "Name": "Electronics", "ID": 0 }]
     },
     {
       "VRC_Username": "Vlad Draculas",

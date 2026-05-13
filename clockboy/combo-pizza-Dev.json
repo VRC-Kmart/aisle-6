@@ -989,7 +989,7 @@
       "RegistryTimeStamp": 1747756054143,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Kcafe" }]
+      "Departments": [{ "Name": "TRAINER" },{ "Name": "Kcafe" }]
     },
     {
       "VRC_Username": "fykon",
@@ -1469,6 +1469,7 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [
+        { "Name": "TRAINER" },
         { "Name": "SECURITY" },
         { "Name": "VENDOR" },
         { "Name": "Enjoys Japan" },
@@ -1897,7 +1898,7 @@
       "RegistryTimeStamp": 1776133281677,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Electronics" }]
+      "Departments": [{ "Name": "TRAINER" },{ "Name": "Electronics" }]
     },
     {
       "VRC_Username": "Traz",
@@ -1911,7 +1912,7 @@
       "RegistryTimeStamp": 1776990580244,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Electronics" }]
+      "Departments": [{ "Name": "TRAINER" },{ "Name": "Electronics" }]
     },
     {
       "VRC_Username": "Vlad Draculas",
