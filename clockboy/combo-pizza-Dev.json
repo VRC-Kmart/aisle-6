@@ -302,7 +302,7 @@
       "VRC_Username": "FlyingSeacat"
     },
     {
-      "Departments": [{ "Name": "Hardlines" }],
+      "Departments": [{ "Name": "TRAINER" },{ "Name": "Hardlines" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1695964195195,

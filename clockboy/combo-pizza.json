@@ -256,7 +256,7 @@
       "VRC_Username": "FlyingSeacat"
     },
     {
-      "departments": [{ "ID": 0, "Name": "Hardlines" }],
+      "departments": [{ "ID": 0, "Name": "TRAINER" },{ "ID": 0, "Name": "Hardlines" }],
       "RegistryTimeStamp": 1695964195195,
       "ShiftCount": 69420,
       "VRC_Username": "HighestInDaRoom"
