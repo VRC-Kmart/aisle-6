@@ -7,8 +7,9 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("The Wiz", "Customer Service");
-
+addAssociate("Rïn~", "DEVELOPER");
+addDepartment("Rïn~", "<color=#ff0000>classic main store hater >:(</color>")
+addDepartment("Rïn~", "Assistant Whore Manager")
 
 /* Thanks to null.
  * you know who you are :3 */

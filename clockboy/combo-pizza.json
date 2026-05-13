@@ -256,7 +256,10 @@
       "VRC_Username": "FlyingSeacat"
     },
     {
-      "departments": [{ "ID": 0, "Name": "TRAINER" },{ "ID": 0, "Name": "Hardlines" }],
+      "departments": [
+        { "ID": 0, "Name": "TRAINER" },
+        { "ID": 0, "Name": "Hardlines" }
+      ],
       "RegistryTimeStamp": 1695964195195,
       "ShiftCount": 69420,
       "VRC_Username": "HighestInDaRoom"
@@ -586,9 +589,7 @@
       "VRC_Username": "Kashikuzi"
     },
     {
-      "departments": [
-        { "ID": 0, "Name": "KCafe" }
-      ],
+      "departments": [{ "ID": 0, "Name": "KCafe" }],
       "RegistryTimeStamp": 1736546939017,
       "ShiftCount": 69420,
       "VRC_Username": "FuzzyLiama"
@@ -864,7 +865,10 @@
       "VRC_Username": "Alex_Sharp",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1747756054143,
-      "departments": [{ "Name": "TRAINER", "ID": 0 },{ "Name": "Kcafe", "ID": 0 }]
+      "departments": [
+        { "Name": "TRAINER", "ID": 0 },
+        { "Name": "Kcafe", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "fykon",
@@ -1185,7 +1189,10 @@
       "VRC_Username": "N-e-kolita",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1761455638606,
-      "departments": [{ "Name": "TRAINER", "ID": 0 },{ "Name": "Security", "ID": 0 }]
+      "departments": [
+        { "Name": "TRAINER", "ID": 0 },
+        { "Name": "Security", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "chickenstrips1",
@@ -1547,7 +1554,10 @@
       "VRC_Username": "Bakêd",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1776133281677,
-      "departments": [{ "Name": "TRAINER", "ID": 0 },{ "Name": "Electronics", "ID": 0 }]
+      "departments": [
+        { "Name": "TRAINER", "ID": 0 },
+        { "Name": "Electronics", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "Traz",
@@ -1562,7 +1572,10 @@
       "VRC_Username": "ChloeEPrice",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1776990580244,
-      "departments": [{ "Name": "TRAINER", "ID": 0 },{ "Name": "Electronics", "ID": 0 }]
+      "departments": [
+        { "Name": "TRAINER", "ID": 0 },
+        { "Name": "Electronics", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "Vlad Draculas",
@@ -1603,6 +1616,19 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1778262069542,
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Rïn~",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1778708159526,
+      "departments": [
+        { "Name": "DEVELOPER", "ID": 0 },
+        {
+          "Name": "<color=#ff0000>classic main store hater >:(</color>",
+          "ID": 0
+        },
+        { "Name": "Assistant Whore Manager", "ID": 0 }
+      ]
     }
   ],
   "footer": {

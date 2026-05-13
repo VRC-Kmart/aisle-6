@@ -302,7 +302,7 @@
       "VRC_Username": "FlyingSeacat"
     },
     {
-      "Departments": [{ "Name": "TRAINER" },{ "Name": "Hardlines" }],
+      "Departments": [{ "Name": "TRAINER" }, { "Name": "Hardlines" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1695964195195,
@@ -989,7 +989,7 @@
       "RegistryTimeStamp": 1747756054143,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "TRAINER" },{ "Name": "Kcafe" }]
+      "Departments": [{ "Name": "TRAINER" }, { "Name": "Kcafe" }]
     },
     {
       "VRC_Username": "fykon",
@@ -1126,7 +1126,7 @@
       "RegistryTimeStamp": 1756787524543,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "MARKETING" },{ "Name": "Customer Service" }]
+      "Departments": [{ "Name": "MARKETING" }, { "Name": "Customer Service" }]
     },
     {
       "VRC_Username": "ScarletFortune",
@@ -1898,7 +1898,7 @@
       "RegistryTimeStamp": 1776133281677,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "TRAINER" },{ "Name": "Electronics" }]
+      "Departments": [{ "Name": "TRAINER" }, { "Name": "Electronics" }]
     },
     {
       "VRC_Username": "Traz",
@@ -1912,7 +1912,7 @@
       "RegistryTimeStamp": 1776990580244,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "TRAINER" },{ "Name": "Electronics" }]
+      "Departments": [{ "Name": "TRAINER" }, { "Name": "Electronics" }]
     },
     {
       "VRC_Username": "Vlad Draculas",
@@ -1959,6 +1959,17 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "Rïn~",
+      "RegistryTimeStamp": 1778708159526,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "<color=#ff0000>classic main store hater >:(</color>" },
+        { "Name": "DEVELOPER" },
+        { "Name": "Assistant Whore Manager" }
+      ]
     }
   ],
   "header": {
