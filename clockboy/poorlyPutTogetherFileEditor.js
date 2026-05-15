@@ -7,9 +7,8 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("Rïn~", "DEVELOPER");
-addDepartment("Rïn~", "<color=#ff0000>classic main store hater >:(</color>")
-addDepartment("Rïn~", "Assistant Whore Manager")
+addAssociate("히카루 하루", "Home Improvement");
+addAssociate("ForegonZ", "Electronics");
 
 /* Thanks to null.
  * you know who you are :3 */
