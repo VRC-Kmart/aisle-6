@@ -1984,6 +1984,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "socalledleo",
+      "RegistryTimeStamp": 1779070421766,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "DEVELOPER" }]
     }
   ],
   "header": {
