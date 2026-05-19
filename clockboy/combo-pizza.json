@@ -1650,6 +1650,16 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1779158829516,
       "departments": [{ "Name": "KCafe", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Uranic_",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1779183889696,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "LPD \"Sergeant\"", "ID": 0 },
+        { "Name": "hoe ass bitch", "ID": 0 }
+      ]
     }
   ],
   "footer": {

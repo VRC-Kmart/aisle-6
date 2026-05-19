@@ -1998,6 +1998,17 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "KCafe" }]
+    },
+    {
+      "VRC_Username": "Uranic_",
+      "RegistryTimeStamp": 1779183889696,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "LPD \"Sergeant\"" },
+        { "Name": "hoe ass bitch" }
+      ]
     }
   ],
   "header": {
