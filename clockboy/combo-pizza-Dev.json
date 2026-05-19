@@ -1991,6 +1991,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "DEVELOPER" }]
+    },
+    {
+      "VRC_Username": "awilddoggo",
+      "RegistryTimeStamp": 1779158829516,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "KCafe" }]
     }
   ],
   "header": {
