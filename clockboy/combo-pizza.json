@@ -1660,6 +1660,12 @@
         { "Name": "LPD \"Sergeant\"", "ID": 0 },
         { "Name": "hoe ass bitch", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "Neissenau",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1779397317449,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
     }
   ],
   "footer": {

@@ -2009,6 +2009,13 @@
         { "Name": "LPD \"Sergeant\"" },
         { "Name": "hoe ass bitch" }
       ]
+    },
+    {
+      "VRC_Username": "Neissenau",
+      "RegistryTimeStamp": 1779397317449,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
     }
   ],
   "header": {
