@@ -1948,6 +1948,7 @@
       "FunnyCallboxes": false,
       "Departments": [
         { "Name": "DEVELOPER" },
+        { "Name": "SECURITY" },
         { "Name": "Customer Service" },
         { "Name": "wasted money on a degree" }
       ]
