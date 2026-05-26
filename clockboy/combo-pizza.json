@@ -1076,84 +1076,6 @@
       "departments": [{ "Name": "VENDOR", "ID": 0 }]
     },
     {
-      "VRC_Username": "Izuna-chan",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1760553755871,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "NexyQueen_",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1760553755874,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "MaxxNchez8910",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1760554946958,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "Crusader_Pug",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1760554946958,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "Roger_FireFox",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1760554946960,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "trueysmir996",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1766582420,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "LaserPointer",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1760554946961,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "polarsaucer",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1760554946962,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "TheGamingExite",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1760555047148,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "Amaya_VR",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1760555546404,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "ReleaseOfTheID",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1760555546405,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "Mooshrooum",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1760555546407,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "MUDDKING",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1760566405000,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
-    },
-    {
       "VRC_Username": "DaEpicZach",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1760639226888,
@@ -1659,7 +1581,10 @@
       "VRC_Username": "awilddoggo",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1779158829516,
-      "departments": [{ "Name": "KCafe", "ID": 0 }]
+      "departments": [
+        { "Name": "KCafe", "ID": 0 },
+        { "Name": "VENDOR", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "Uranic_",
@@ -1676,6 +1601,45 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1779397317449,
       "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Slone Fallion",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1779831152729,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "cat", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "SilverCherry",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1779831761595,
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "WholesomeAmu",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1779831761597,
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Mystle",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1779831761598,
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "legitgamr131",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1779831761600,
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "_NikoTheMessiah",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1779831761602,
+      "departments": [{ "Name": "VENDOR", "ID": 0 }]
     }
   ],
   "footer": {

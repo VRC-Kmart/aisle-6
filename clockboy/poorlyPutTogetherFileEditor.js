@@ -7,7 +7,11 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("Neissenau", "Electronics");
+addAssociate("SilverCherry", "VENDOR");
+addAssociate("WholesomeAmu", "VENDOR");
+addAssociate("Mystle", "VENDOR");
+addAssociate("legitgamr131", "VENDOR");
+addAssociate("_NikoTheMessiah", "VENDOR");
 
 /* Thanks to null.
  * you know who you are :3 */
