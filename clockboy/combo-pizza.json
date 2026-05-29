@@ -3,16 +3,6 @@
   "Clocked_In_Associates": [
     {
       "departments": [
-        { "ID": 0, "Name": "Girl Kisser" },
-        { "ID": 0, "Name": "SECURITY" },
-        { "ID": 0, "Name": "DEVELOPER" }
-      ],
-      "RegistryTimeStamp": 1620190608604,
-      "ShiftCount": 69420,
-      "VRC_Username": "MarcellaVT"
-    },
-    {
-      "departments": [
         { "ID": 0, "Name": "ADMINISTRATION" },
         { "ID": 0, "Name": "DEVELOPER" },
         { "ID": 0, "Name": "IT DEPARTMENT" }
@@ -1640,6 +1630,18 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1779831761602,
       "departments": [{ "Name": "VENDOR", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "crdhdr",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1780018964602,
+      "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "ReflectiveTape",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1780018964604,
+      "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
     }
   ],
   "footer": {

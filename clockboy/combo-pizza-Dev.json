@@ -3,17 +3,6 @@
   "Associates": [
     {
       "Departments": [
-        { "Name": "Girl Kisser" },
-        { "Name": "SECURITY" },
-        { "Name": "DEVELOPER" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1620190608604,
-      "VRC_Username": "MarcellaVT"
-    },
-    {
-      "Departments": [
         { "Name": "Actively Breaks SuperK" },
         { "Name": "ADMINISTRATION" },
         { "Name": "DEVELOPER" },
@@ -1907,6 +1896,20 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "VENDOR" }]
+    },
+    {
+      "VRC_Username": "crdhdr",
+      "RegistryTimeStamp": 1780018964602,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "DEVELOPER" }]
+    },
+    {
+      "VRC_Username": "ReflectiveTape",
+      "RegistryTimeStamp": 1780018964604,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "DEVELOPER" }]
     }
   ],
   "header": {
