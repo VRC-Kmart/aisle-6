@@ -1910,6 +1910,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "DEVELOPER" }]
+    },
+    {
+      "VRC_Username": "_Xerxes",
+      "RegistryTimeStamp": 1780204766713,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "DEVELOPER" }]
     }
   ],
   "header": {

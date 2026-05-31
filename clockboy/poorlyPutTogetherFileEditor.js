@@ -7,8 +7,7 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("crdhdr", "DEVELOPER");
-addAssociate("ReflectiveTape", "DEVELOPER");
+addAssociate("_Xerxes", "DEVELOPER");
 
 /* Thanks to null.
  * you know who you are :3 */
