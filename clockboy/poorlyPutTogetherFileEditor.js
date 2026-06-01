@@ -7,7 +7,8 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("_Xerxes", "DEVELOPER");
+addAssociate("void_png", "DEVELOPER");
+addDepartment("void_png", "MARKETING");
 
 /* Thanks to null.
  * you know who you are :3 */

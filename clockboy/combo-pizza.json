@@ -1648,6 +1648,15 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1780204766713,
       "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "void_png",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1780355574260,
+      "departments": [
+        { "Name": "DEVELOPER", "ID": 0 },
+        { "Name": "MARKETING", "ID": 0 }
+      ]
     }
   ],
   "footer": {
