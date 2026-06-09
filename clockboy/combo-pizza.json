@@ -1525,12 +1525,6 @@
       "departments": [{ "Name": "Deli/Bakery", "ID": 0 }]
     },
     {
-      "VRC_Username": "The Wiz",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1778262069542,
-      "departments": [{ "Name": "Customer Service", "ID": 0 }]
-    },
-    {
       "VRC_Username": "Rïn~",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1778708159526,
