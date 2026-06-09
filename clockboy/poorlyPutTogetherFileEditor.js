@@ -7,8 +7,7 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("void_png", "DEVELOPER");
-addDepartment("void_png", "MARKETING");
+addDepartment("KoreFuze", "Harmacy");
 
 /* Thanks to null.
  * you know who you are :3 */
