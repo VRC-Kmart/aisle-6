@@ -1896,7 +1896,7 @@
       "RegistryTimeStamp": 1780018964604,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "DEVELOPER" }]
+      "Departments": [{ "Name": "DEVELOPER" }, { "Name": "Automotive" }]
     },
     {
       "VRC_Username": "_Xerxes",

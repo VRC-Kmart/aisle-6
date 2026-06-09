@@ -7,7 +7,7 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addDepartment("KoreFuze", "Harmacy");
+addDepartment("ReflectiveTape", "Automotive");
 
 /* Thanks to null.
  * you know who you are :3 */

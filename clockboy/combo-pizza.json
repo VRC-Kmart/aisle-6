@@ -1630,7 +1630,10 @@
       "VRC_Username": "ReflectiveTape",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1780018964604,
-      "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
+      "departments": [
+        { "Name": "DEVELOPER", "ID": 0 },
+        { "Name": "Automotive", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "_Xerxes",
