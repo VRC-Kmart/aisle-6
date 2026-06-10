@@ -1911,6 +1911,18 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "DEVELOPER" }, { "Name": "MARKETING" }]
+    },
+    {
+      "VRC_Username": "-Parpar-",
+      "RegistryTimeStamp": 1781126643964,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "enjoys getting railed" },
+        { "Name": "wait not like that" },
+        { "Name": "PUT YOUR CLOTHES ON" }
+      ]
     }
   ],
   "header": {

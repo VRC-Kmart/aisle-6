@@ -1649,6 +1649,17 @@
         { "Name": "DEVELOPER", "ID": 0 },
         { "Name": "MARKETING", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "-Parpar-",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1781126643964,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "enjoys getting railed", "ID": 0 },
+        { "Name": "wait not like that", "ID": 0 },
+        { "Name": "PUT YOUR CLOTHES ON", "ID": 0 }
+      ]
     }
   ],
   "footer": {
