@@ -1660,6 +1660,33 @@
         { "Name": "wait not like that", "ID": 0 },
         { "Name": "PUT YOUR CLOTHES ON", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "Min3craftiscool",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1781556223057,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "ArgusVRC", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "Argо",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1781556223060,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "ArgusVRC", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "Savvy Chap",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1781556223061,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "ArgusVRC", "ID": 0 }
+      ]
     }
   ],
   "footer": {
