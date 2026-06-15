@@ -1660,6 +1660,30 @@
         { "Name": "wait not like that", "ID": 0 },
         { "Name": "PUT YOUR CLOTHES ON", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "Naomi's Dragons",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1781537095419,
+      "departments": [{ "Name": "Portrait Studio", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Ugly_God df77",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1781537095421,
+      "departments": [{ "Name": "KCafe", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Jinx420_",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1781537095422,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "The Wiz",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1781537095425,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
     }
   ],
   "footer": {

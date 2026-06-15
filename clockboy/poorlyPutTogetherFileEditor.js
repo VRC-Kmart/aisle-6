@@ -7,10 +7,11 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("-Parpar-", "VENDOR");
-addDepartment("-Parpar-", "enjoys getting railed")
-addDepartment("-Parpar-", "wait not like that")
-addDepartment("-Parpar-", "PUT YOUR CLOTHES ON")
+addAssociate("Naomi's Dragons", "Portrait Studio");
+addAssociate("Ugly_God df77", "KCafe");
+addAssociate("Jinx420_", "Electronics");
+addAssociate("The Wiz", "Customer Service");
+
 
 /* Thanks to null.
  * you know who you are :3 */
