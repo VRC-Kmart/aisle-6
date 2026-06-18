@@ -1846,7 +1846,8 @@
       "Departments": [
         { "Name": "VENDOR" },
         { "Name": "cat" },
-        { "Name": "DROP ALL TABLES" }
+        { "Name": "DROP ALL TABLES" },
+        { "Name": "bullies his own staff" }
       ]
     },
     {
@@ -1861,7 +1862,7 @@
       "RegistryTimeStamp": 1779831761597,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }]
+      "Departments": [{ "Name": "VENDOR" },{ "Name": "Socure" }]
     },
     {
       "VRC_Username": "Mystle",
