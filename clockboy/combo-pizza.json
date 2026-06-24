@@ -1711,6 +1711,12 @@
         { "Name": "VENDOR", "ID": 0 },
         { "Name": "ArgusVRC", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "Spооky",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1782260870085,
+      "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
     }
   ],
   "footer": {

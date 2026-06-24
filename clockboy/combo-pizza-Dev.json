@@ -1862,7 +1862,7 @@
       "RegistryTimeStamp": 1779831761597,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" },{ "Name": "Socure" }]
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "Socure" }]
     },
     {
       "VRC_Username": "Mystle",
@@ -1974,6 +1974,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "VENDOR" }, { "Name": "ArgusVRC" }]
+    },
+    {
+      "VRC_Username": "Spооky",
+      "RegistryTimeStamp": 1782260870085,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "DEVELOPER" }]
     }
   ],
   "header": {
