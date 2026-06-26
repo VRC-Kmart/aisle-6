@@ -1941,6 +1941,13 @@
       "Departments": [{ "Name": "Electronics" }]
     },
     {
+      "VRC_Username": "The Wiz",
+      "RegistryTimeStamp": 1781537095425,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
       "VRC_Username": "Min3craftiscool",
       "RegistryTimeStamp": 1781556223057,
       "Dev": false,
