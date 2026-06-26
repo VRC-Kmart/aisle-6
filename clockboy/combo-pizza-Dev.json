@@ -1611,7 +1611,7 @@
       "RegistryTimeStamp": 1773448813171,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Portrait Studio" }]
+      "Departments": [{ "Name": "Public Relations" },{ "Name": "Portrait Studio" },{ "Name": "MANAGEMENT" }]
     },
     {
       "VRC_Username": "AGTLuCas7",
@@ -1939,13 +1939,6 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Electronics" }]
-    },
-    {
-      "VRC_Username": "The Wiz",
-      "RegistryTimeStamp": 1781537095425,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Customer Service" }]
     },
     {
       "VRC_Username": "Min3craftiscool",
