@@ -750,7 +750,7 @@
       "VRC_Username": "nylahquil"
     },
     {
-      "departments": [{ "ID": 0, "Name": "Janitorial" }],
+      "departments": [{ "ID": 0, "Name": "Human Resources" }],
       "RegistryTimeStamp": 1731706256158,
       "ShiftCount": 69420,
       "VRC_Username": "GibbytheButler"
@@ -1238,16 +1238,6 @@
         { "Name": "VENDOR", "ID": 0 },
         { "Name": "LPD Sergeant", "ID": 0 },
         { "Name": "<color=#ff54ee>PEPTO PINK</color>", "ID": 0 }
-      ]
-    },
-    {
-      "VRC_Username": "MysticRic",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1767583917975,
-      "departments": [
-        { "Name": "MANAGEMENT", "ID": 0 },
-        { "Name": "Home Improvement Manager", "ID": 0 },
-        { "Name": "Discount Tim \"The Toolman\" Taylor", "ID": 0 }
       ]
     },
     {
