@@ -1734,7 +1734,7 @@
       },
       "superk": {
         "Active": true,
-        "AssociateOnly": false,
+        "AssociateOnly": true,
         "LocationName": "Super Kmart Center"
       },
       "warehouse": {
