@@ -1883,7 +1883,7 @@
       "RegistryTimeStamp": 1780018964602,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "DEVELOPER" }]
+      "Departments": [{ "Name": "DEVELOPER" },{ "Name": "Automotive" }]
     },
     {
       "VRC_Username": "ReflectiveTape",

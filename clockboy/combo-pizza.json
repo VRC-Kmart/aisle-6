@@ -1618,7 +1618,7 @@
       "VRC_Username": "crdhdr",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1780018964602,
-      "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
+      "departments": [{ "Name": "DEVELOPER", "ID": 0 },{ "Name": "Automotive", "ID": 0 }]
     },
     {
       "VRC_Username": "ReflectiveTape",
