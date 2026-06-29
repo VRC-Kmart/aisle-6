@@ -559,12 +559,6 @@
       "VRC_Username": "AmericanMemes"
     },
     {
-      "departments": [{ "ID": 0, "Name": "Customer Service" }],
-      "RegistryTimeStamp": 1732291200000,
-      "ShiftCount": 69420,
-      "VRC_Username": "AmeliaRoseNZ"
-    },
-    {
       "departments": [{ "ID": 0, "Name": "Security" }],
       "RegistryTimeStamp": 1732418396542,
       "ShiftCount": 69420,
@@ -644,12 +638,6 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1741496824934,
       "VRC_Username": "BonBonowo"
-    },
-    {
-      "departments": [{ "ID": 0, "Name": "Kmart Advisor" }],
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1741496824939,
-      "VRC_Username": "Lyff"
     },
     {
       "departments": [{ "ID": 0, "Name": "KCafe" }],
@@ -1130,12 +1118,6 @@
       "departments": [{ "Name": "Home Improvement", "ID": 0 }]
     },
     {
-      "VRC_Username": "RexWolfenVRC1",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1762233883909,
-      "departments": [{ "Name": "Electronics", "ID": 0 }]
-    },
-    {
       "VRC_Username": "F0XYSTAR",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1762813705359,
@@ -1293,7 +1275,7 @@
       ]
     },
     {
-      "VRC_Username": "SachiraVT",
+      "VRC_Username": "SachiraDev",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1769456562210,
       "departments": [
@@ -1325,12 +1307,6 @@
       "VRC_Username": "Iᴢᴢу",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1769456562215,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "shiefisch",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1769456562221,
       "departments": [{ "Name": "VENDOR", "ID": 0 }]
     },
     {

@@ -642,13 +642,6 @@
       "VRC_Username": "AmericanMemes"
     },
     {
-      "Departments": [{ "Name": "Customer Service" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1732291200000,
-      "VRC_Username": "AmeliaRoseNZ"
-    },
-    {
       "Departments": [{ "Name": "SECURITY" }],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -726,13 +719,6 @@
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1741496824934,
       "VRC_Username": "BonBonowo"
-    },
-    {
-      "Departments": [{ "Name": "Kmart Advisor" }],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1741496824939,
-      "VRC_Username": "Lyff"
     },
     {
       "Departments": [{ "Name": "KCafe" }],
@@ -1321,13 +1307,6 @@
       "Departments": [{ "Name": "Home Improvement" }]
     },
     {
-      "VRC_Username": "RexWolfenVRC1",
-      "RegistryTimeStamp": 1762233883909,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Electronics" }]
-    },
-    {
       "VRC_Username": "F0XYSTAR",
       "RegistryTimeStamp": 1762813705359,
       "Dev": false,
@@ -1460,19 +1439,6 @@
       ]
     },
     {
-      "VRC_Username": "MysticRic",
-      "RegistryTimeStamp": 1767583917975,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "HUMAN RESOURCES" },
-        { "Name": "MANAGEMENT" },
-        { "Name": "Homo Improvement" },
-        { "Name": "is fighting Aura" },
-        { "Name": "Discount Tim \"The Toolman\" Taylor" }
-      ]
-    },
-    {
       "VRC_Username": "Sersarina punny",
       "RegistryTimeStamp": 1767663062846,
       "Dev": false,
@@ -1533,7 +1499,7 @@
       ]
     },
     {
-      "VRC_Username": "SachiraVT",
+      "VRC_Username": "SachiraDev",
       "RegistryTimeStamp": 1769456562210,
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1568,13 +1534,6 @@
     {
       "VRC_Username": "Iᴢᴢу",
       "RegistryTimeStamp": 1769456562215,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "VENDOR" }]
-    },
-    {
-      "VRC_Username": "shiefisch",
-      "RegistryTimeStamp": 1769456562221,
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "VENDOR" }]
