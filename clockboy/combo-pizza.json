@@ -1335,7 +1335,10 @@
       "VRC_Username": "Yukai-Kitsune",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1773448813171,
-      "departments": [{ "Name": "Public Relations", "ID": 0 },{ "Name": "Portrait Studio", "ID": 0 }]
+      "departments": [
+        { "Name": "Public Relations", "ID": 0 },
+        { "Name": "SECURITY", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "AGTLuCas7",
@@ -1439,6 +1442,7 @@
       "RegistryTimeStamp": 1776133281677,
       "departments": [
         { "Name": "TRAINER", "ID": 0 },
+        { "Name": "MANAGEMENT", "ID": 0 },
         { "Name": "SECURITY", "ID": 0 }
       ]
     },
@@ -1584,7 +1588,10 @@
       "VRC_Username": "crdhdr",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1780018964602,
-      "departments": [{ "Name": "DEVELOPER", "ID": 0 },{ "Name": "Automotive", "ID": 0 }]
+      "departments": [
+        { "Name": "DEVELOPER", "ID": 0 },
+        { "Name": "Automotive", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "ReflectiveTape",
@@ -1677,6 +1684,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1782260870085,
       "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Sammybullshark",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1782999639726,
+      "departments": [{ "Name": "Layaway", "ID": 0 }]
     }
   ],
   "footer": {
@@ -1710,7 +1723,7 @@
       },
       "superk": {
         "Active": true,
-        "AssociateOnly": true,
+        "AssociateOnly": false,
         "LocationName": "Super Kmart Center"
       },
       "warehouse": {

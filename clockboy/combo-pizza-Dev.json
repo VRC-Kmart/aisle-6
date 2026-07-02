@@ -78,7 +78,7 @@
         { "Name": "HUMAN RESOURCES" },
         { "Name": "MANAGEMENT" },
         { "Name": "SECURITY" },
-        { "Name": "is gay" },
+        { "Name": "sucks at driving" },
         { "Name": "docking enjoyer" }
       ],
       "Dev": true,
@@ -850,8 +850,7 @@
     },
     {
       "Departments": [
-        { "Name": "MANAGEMENT" },
-        { "Name": "Janitorial Manager" }
+        { "Name": "HUMAN RESOURCES" }
       ],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1570,7 +1569,13 @@
       "RegistryTimeStamp": 1773448813171,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Public Relations" },{ "Name": "Portrait Studio" },{ "Name": "Layaway" },{ "Name": "KCafe" },{ "Name": "gay ass bitch" },{ "Name": "MARKETING" }]
+      "Departments": [
+        { "Name": "Public Relations" },
+        { "Name": "gay ass bitch" },
+        { "Name": "MARKETING" },
+        { "Name": "TRAINER" },
+        { "Name": "SECURITY" }
+      ]
     },
     {
       "VRC_Username": "AGTLuCas7",
@@ -1680,7 +1685,7 @@
       "RegistryTimeStamp": 1776133281677,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "TRAINER" }, { "Name": "SECURITY" }]
+      "Departments": [{ "Name": "TRAINER" }, { "Name": "MANAGEMENT" }, { "Name": "Home Improvement Manager" }]
     },
     {
       "VRC_Username": "Traz",
@@ -1842,7 +1847,7 @@
       "RegistryTimeStamp": 1780018964602,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "DEVELOPER" },{ "Name": "Automotive" }]
+      "Departments": [{ "Name": "DEVELOPER" }, { "Name": "Automotive" }]
     },
     {
       "VRC_Username": "ReflectiveTape",
@@ -1933,6 +1938,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "DEVELOPER" }]
+    },
+    {
+      "VRC_Username": "Sammybullshark",
+      "RegistryTimeStamp": 1782999639726,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Layaway" }]
     }
   ],
   "header": {
@@ -1958,7 +1970,7 @@
         "LocationName": "SuperK Event Version"
       },
       "superk": {
-        "AssociateOnly": true,
+        "AssociateOnly": false,
         "ClockInEnabled": true,
         "LocationName": "Super Kmart Center"
       },
