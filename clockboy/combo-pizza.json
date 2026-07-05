@@ -110,16 +110,6 @@
     },
     {
       "departments": [
-        { "ID": 0, "Name": "DEVELOPER" },
-        { "ID": 0, "Name": "Clown" },
-        { "ID": 0, "Name": "broke the fucking lighting" }
-      ],
-      "RegistryTimeStamp": 1725343270625,
-      "ShiftCount": 69420,
-      "VRC_Username": "［Jagga］"
-    },
-    {
-      "departments": [
         { "ID": 0, "Name": "MARKETING" },
         { "ID": 0, "Name": "MANAGEMENT" },
         { "ID": 0, "Name": "Hardlines" }

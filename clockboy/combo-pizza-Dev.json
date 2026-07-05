@@ -128,18 +128,6 @@
     },
     {
       "Departments": [
-        { "Name": "DEVELOPER" },
-        { "Name": "Clown" },
-        { "Name": "Drill Bucket Enjoyer" },
-        { "Name": "Tea Enjoyer" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1725343270625,
-      "VRC_Username": "［Jagga］"
-    },
-    {
-      "Departments": [
         { "Name": "wont stop bitching about their join date being wrong" },
         { "Name": "Based Department Manager" },
         { "Name": "MARKETING" },
