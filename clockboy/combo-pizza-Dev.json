@@ -1426,6 +1426,19 @@
       ]
     },
     {
+      "VRC_Username": "MysticRic",
+      "RegistryTimeStamp": 1767583917975,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "HUMAN RESOURCES" },
+        { "Name": "MANAGEMENT" },
+        { "Name": "Homo Improvement" },
+        { "Name": "is fighting Aura" },
+        { "Name": "Discount Tim \"The Toolman\" Taylor" }
+      ]
+    },
+    {
       "VRC_Username": "Sersarina punny",
       "RegistryTimeStamp": 1767663062846,
       "Dev": false,
@@ -1617,7 +1630,7 @@
       ]
     },
     {
-      "VRC_Username": "NovaStarbrite",
+      "VRC_Username": "Nova Starbrite",
       "RegistryTimeStamp": 1775094740005,
       "Dev": false,
       "FunnyCallboxes": false,
