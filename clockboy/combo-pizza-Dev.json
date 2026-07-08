@@ -75,9 +75,9 @@
     },
     {
       "Departments": [
-        { "Name": "HUMAN RESOURCES" },
-        { "Name": "MANAGEMENT" },
-        { "Name": "SECURITY" },
+        { "Name": "ADMINISTRATION" },
+        { "Name": "only cooks with ashes" },
+        { "Name": "uses 20 sticks of butter for pancakes" },
         { "Name": "sucks at driving" },
         { "Name": "docking enjoyer" }
       ],
@@ -88,12 +88,14 @@
     },
     {
       "Departments": [
+        { "Name": "Yummy Human Remains" },
+        { "Name": "such good seasoning" },
+        { "Name": "yum yum in my tum tum" },
+        { "Name": "<color=#ff0000>T R A C T O R</color>" },
+        { "Name": "woman" },
         { "Name": "ADMINISTRATION" },
         { "Name": "STORE MANAGER" },
-        { "Name": "DEVELOPER" },
-        { "Name": "TRAINER" },
-        { "Name": "<color=#ff0000>T R A C T O R</color>" },
-        { "Name": "woman" }
+        { "Name": "DEVELOPER" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
@@ -1431,10 +1433,10 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [
+        { "Name": "Came crawling back TWO TIMES" },
         { "Name": "HUMAN RESOURCES" },
         { "Name": "MANAGEMENT" },
         { "Name": "Homo Improvement" },
-        { "Name": "is fighting Aura" },
         { "Name": "Discount Tim \"The Toolman\" Taylor" }
       ]
     },
