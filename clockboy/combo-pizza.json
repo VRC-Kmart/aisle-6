@@ -195,7 +195,8 @@
     },
     {
       "departments": [
-        { "ID": 0, "Name": "MANAGEMENT" },
+        { "ID": 0, "Name": "HUMAN RESOURCES" },
+        { "ID": 0, "Name": "ADMINISTRATION" },
         { "ID": 0, "Name": "Portrait Studio" }
       ],
       "RegistryTimeStamp": 1715834990119,

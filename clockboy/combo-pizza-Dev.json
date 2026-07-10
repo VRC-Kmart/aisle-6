@@ -231,8 +231,8 @@
     },
     {
       "Departments": [
-        { "Name": "MANAGEMENT" },
-        { "Name": "Portrait Studio Manager" },
+        { "Name": "ADMINISTRATION" },
+        { "Name": "HUMAN RESOURCES" },
         { "Name": "complains like a bitch" }
       ],
       "Dev": true,
