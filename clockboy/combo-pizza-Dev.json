@@ -1991,6 +1991,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "VENDOR" }, { "Name": "PrideVR" }]
+    },
+    {
+      "VRC_Username": "Schmeeb",
+      "RegistryTimeStamp": 1783743723931,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "Crab Gang" }]
     }
   ],
   "header": {
