@@ -1296,7 +1296,10 @@
       "VRC_Username": "DesignedDino",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1769456562214,
-      "departments": [{ "Name": "VENDOR", "ID": 0 }]
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "PrideVR", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "MakerKath",
@@ -1709,6 +1712,24 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1783615810918,
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Verconn",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1783743723928,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "PrideVR", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "Ò~Miss_Lilith~Ó",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1783743723931,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "PrideVR", "ID": 0 }
+      ]
     }
   ],
   "footer": {
@@ -1763,11 +1784,6 @@
       },
       { "Reason": "LPD Member", "VRC_Username": "BeanBoi50404" },
       { "Reason": "YandereDev Lookin Head Ass", "VRC_Username": "SorΒ" },
-      { "Reason": "LRF Admin", "VRC_Username": "SarahSmith" },
-      {
-        "Reason": "Highest Flappy Hat Score",
-        "VRC_Username": "WavyNationSquxd"
-      },
       { "Reason": "Fuckin nerd", "VRC_Username": "iDreamTheater" }
     ]
   }
