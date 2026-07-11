@@ -2016,7 +2016,7 @@
         "LocationName": "SuperK Event Version"
       },
       "superk": {
-        "AssociateOnly": true,
+        "AssociateOnly": false,
         "ClockInEnabled": true,
         "LocationName": "Super Kmart Center"
       },

@@ -1763,7 +1763,7 @@
       },
       "superk": {
         "Active": true,
-        "AssociateOnly": true,
+        "AssociateOnly": false,
         "LocationName": "Super Kmart Center"
       },
       "warehouse": {
