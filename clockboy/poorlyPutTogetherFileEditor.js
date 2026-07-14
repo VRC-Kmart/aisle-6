@@ -7,10 +7,10 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("Verconn", "VENDOR");
-addDepartment("Verconn", "PrideVR");
-addAssociate("Ò~Miss_Lilith~Ó", "VENDOR");
-addDepartment("Ò~Miss_Lilith~Ó", "PrideVR");
+addAssociate("FrozenFireElias", "VENDOR");
+addDepartment("FrozenFireElias", "Blue Star");
+addDepartment("FrozenFireElias", "is actually melting ice");
+
 
 /* Thanks to null.
  * you know who you are :3 */

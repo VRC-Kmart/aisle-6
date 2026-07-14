@@ -1926,6 +1926,17 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "VENDOR" }, { "Name": "Crab Gang" }]
+    },
+    {
+      "VRC_Username": "FrozenFireElias",
+      "RegistryTimeStamp": 1784054441809,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "Blue Star" },
+        { "Name": "is actually melting ice" }
+      ]
     }
   ],
   "header": {

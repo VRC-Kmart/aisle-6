@@ -1658,6 +1658,16 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1783615810918,
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "FrozenFireElias",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1784054441809,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "Blue Star", "ID": 0 },
+        { "Name": "is actually melting ice", "ID": 0 }
+      ]
     }
   ],
   "footer": {
