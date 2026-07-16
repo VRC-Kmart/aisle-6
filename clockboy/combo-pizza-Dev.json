@@ -412,13 +412,6 @@
       "VRC_Username": "Mogami K․"
     },
     {
-      "Departments": [{ "Name": "Customer Service" }],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1718060054721,
-      "VRC_Username": "-spiritwolf-"
-    },
-    {
       "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,
@@ -1676,13 +1669,6 @@
       "Departments": [{ "Name": "SECURITY" }]
     },
     {
-      "VRC_Username": "Toastł",
-      "RegistryTimeStamp": 1777427258824,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Deli/Bakery" }]
-    },
-    {
       "VRC_Username": "Rïn~",
       "RegistryTimeStamp": 1778708159526,
       "Dev": false,
@@ -1937,6 +1923,13 @@
         { "Name": "Blue Star" },
         { "Name": "is actually melting ice" }
       ]
+    },
+    {
+      "VRC_Username": "Koda White Wolf",
+      "RegistryTimeStamp": 1783777414626,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Harmacy" }]
     }
   ],
   "header": {

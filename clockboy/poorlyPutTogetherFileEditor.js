@@ -7,9 +7,7 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("FrozenFireElias", "VENDOR");
-addDepartment("FrozenFireElias", "Blue Star");
-addDepartment("FrozenFireElias", "is actually melting ice");
+addAssociate("Koda White Wolf", "Harmacy", 1783777414626);
 
 
 /* Thanks to null.
