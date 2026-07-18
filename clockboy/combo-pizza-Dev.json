@@ -392,19 +392,6 @@
       "VRC_Username": "nickm"
     },
     {
-      "Departments": [
-        { "Name": "MANAGEMENT" },
-        { "Name": "Automotive Manager" },
-        { "Name": "New York Hater" },
-        { "Name": "wants to make out with Gentleman" },
-        { "Name": "w o m a n" }
-      ],
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "RegistryTimeStamp": 1701284514609,
-      "VRC_Username": "PVTGhostly76"
-    },
-    {
       "Departments": [{ "Name": "Electronics" }],
       "Dev": false,
       "FunnyCallboxes": false,

@@ -342,12 +342,6 @@
       "VRC_Username": "nickm"
     },
     {
-      "departments": [{ "ID": 0, "Name": "Automotive" }],
-      "RegistryTimeStamp": 1701284514609,
-      "ShiftCount": 69420,
-      "VRC_Username": "PVTGhostly76"
-    },
-    {
       "departments": [{ "ID": 0, "Name": "Electronics" }],
       "RegistryTimeStamp": 1718060054721,
       "ShiftCount": 69420,
