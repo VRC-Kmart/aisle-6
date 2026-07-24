@@ -7,8 +7,8 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("Koda White Wolf", "Harmacy", 1783777414626);
-
+addAssociate("RedleyRepp", "KCafe", 1718997945326);
+addDepartment("RedleyRepp", "Sporting Goods")
 
 /* Thanks to null.
  * you know who you are :3 */

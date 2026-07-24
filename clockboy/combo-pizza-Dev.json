@@ -1917,6 +1917,16 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Harmacy" }]
+    },
+    {
+      "VRC_Username": "RedleyRepp",
+      "RegistryTimeStamp": 1718997945326,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "KCafe" },
+        { "Name": "Sporting Goods" }
+        ]
     }
   ],
   "header": {
