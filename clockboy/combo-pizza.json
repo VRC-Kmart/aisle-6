@@ -1360,15 +1360,6 @@
       "departments": [{ "Name": "Sporting Goods", "ID": 0 }]
     },
     {
-      "VRC_Username": "Muffin of time",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1776133281673,
-      "departments": [
-        { "Name": "Electronics", "ID": 0 },
-        { "Name": "Cast Enjoyer", "ID": 0 }
-      ]
-    },
-    {
       "VRC_Username": "littlebiscuitt",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1776133281675,
