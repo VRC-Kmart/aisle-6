@@ -1,0 +1,4 @@
+/.github/CODEOWNERS @M1XZG @demonitize @Kohaisenpaii
+/.github/scripts/ @M1XZG @demonitize @Kohaisenpaii
+/.github/workflows/ @M1XZG @demonitize @Kohaisenpaii
+/.github/validation-requirements.txt @M1XZG @demonitize @Kohaisenpaii

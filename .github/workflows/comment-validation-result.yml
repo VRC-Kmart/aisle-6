@@ -1,0 +1,191 @@
+name: Comment JSON validation results
+
+on:
+  workflow_run:
+    workflows:
+      - Validate JSON and deploy Pages
+    types:
+      - completed
+
+permissions:
+  actions: read
+  checks: read
+  contents: read
+  issues: write
+  pull-requests: write
+
+jobs:
+  comment-result:
+    name: Comment validation result
+    if: github.event.workflow_run.event == 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Create or update pull request comment
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
+        with:
+          script: |
+            const marker = "<!-- json-validation-result -->";
+            const run = context.payload.workflow_run;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+
+            let pullRequests = run.pull_requests || [];
+            if (pullRequests.length === 0) {
+              const associated = await github.rest.repos.listPullRequestsAssociatedWithCommit({
+                owner,
+                repo,
+                commit_sha: run.head_sha,
+              });
+              pullRequests = associated.data;
+            }
+
+            if (pullRequests.length === 0) {
+              const openPullRequests = await github.paginate(github.rest.pulls.list, {
+                owner,
+                repo,
+                state: "open",
+                per_page: 100,
+              });
+              pullRequests = openPullRequests.filter(
+                (pullRequest) => pullRequest.head.sha === run.head_sha,
+              );
+            }
+
+            if (pullRequests.length === 0) {
+              core.warning(`No pull request found for workflow run ${run.id}.`);
+              return;
+            }
+
+            const pullNumber = pullRequests[0].number;
+            const pullResponse = await github.rest.pulls.get({
+              owner,
+              repo,
+              pull_number: pullNumber,
+            });
+
+            if (pullResponse.data.head.sha !== run.head_sha) {
+              core.info(`Ignoring stale workflow run ${run.id} for PR #${pullNumber}.`);
+              return;
+            }
+
+            const comments = await github.paginate(github.rest.issues.listComments, {
+              owner,
+              repo,
+              issue_number: pullNumber,
+              per_page: 100,
+            });
+            const existingComment = comments.find(
+              (comment) => comment.user?.type === "Bot" && comment.body?.includes(marker),
+            );
+
+            async function publish(body) {
+              if (existingComment) {
+                await github.rest.issues.updateComment({
+                  owner,
+                  repo,
+                  comment_id: existingComment.id,
+                  body,
+                });
+                return;
+              }
+
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number: pullNumber,
+                body,
+              });
+            }
+
+            if (run.conclusion === "success") {
+              if (existingComment) {
+                await publish(
+                  `${marker}\n## JSON validation passed\n\n` +
+                  `The JSON errors from the previous run have been fixed.\n\n` +
+                  `[Open the successful validation run](${run.html_url})`,
+                );
+              }
+              return;
+            }
+
+            if (!["failure", "timed_out"].includes(run.conclusion)) {
+              core.info(`Ignoring workflow conclusion: ${run.conclusion}`);
+              return;
+            }
+
+            const jobs = await github.paginate(github.rest.actions.listJobsForWorkflowRun, {
+              owner,
+              repo,
+              run_id: run.id,
+              per_page: 100,
+            });
+            const validationJob = jobs.find((job) => job.name === "JSON validation");
+
+            let errors = [];
+            if (validationJob) {
+              const annotations = await github.paginate(github.rest.checks.listAnnotations, {
+                owner,
+                repo,
+                check_run_id: validationJob.id,
+                per_page: 100,
+              });
+              errors = annotations.filter(
+                (annotation) =>
+                  annotation.annotation_level === "failure" &&
+                  annotation.title &&
+                  annotation.path !== ".github",
+              );
+            }
+
+            function plain(value) {
+              return String(value)
+                .replaceAll("&", "&amp;")
+                .replaceAll("<", "&lt;")
+                .replaceAll(">", "&gt;")
+                .replaceAll("@", "@\u200b")
+                .replaceAll("`", "&#96;");
+            }
+
+            function formatError(error) {
+              const coordinates = [];
+              if (error.start_line) {
+                coordinates.push(`line ${error.start_line}`);
+              }
+              if (error.start_column) {
+                coordinates.push(`column ${error.start_column}`);
+              }
+
+              const location = coordinates.length
+                ? ` (${coordinates.join(", ")})`
+                : "";
+              const message = plain(error.message).replaceAll("\n", "<br>");
+
+              return (
+                `- \`${plain(error.path || "unknown file")}\`${location}: ` +
+                `**${plain(error.title)}** - ${message}`
+              );
+            }
+
+            let details;
+            if (errors.length) {
+              const displayedErrors = errors.slice(0, 20).map(formatError);
+              if (errors.length > displayedErrors.length) {
+                displayedErrors.push(
+                  `- ${errors.length - displayedErrors.length} additional error(s) omitted`,
+                );
+              }
+              details = displayedErrors.join("\n");
+            } else {
+              details =
+                "The validator failed without a file-level annotation. " +
+                "Open the failed run for its complete log.";
+            }
+
+            await publish(
+              `${marker}\n## JSON validation failed\n\n` +
+              `This pull request is blocked until the following error(s) are fixed:\n\n` +
+              `${details}\n\n` +
+              `Push corrections to this pull request and validation will run again automatically.\n\n` +
+              `[Open the failed validation run](${run.html_url})`,
+            );
