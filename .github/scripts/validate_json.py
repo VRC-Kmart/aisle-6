@@ -5,7 +5,7 @@ import os
 import sys
 from pathlib import Path
 
-from jsonschema import SchemaError, validators
+from jsonschema import Draft4Validator, Draft7Validator, SchemaError, validators
 
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -26,6 +26,10 @@ DECLARED_SCHEMA_REFERENCES = {
 }
 IGNORED_DIRECTORIES = {".git", "_site", "node_modules"}
 MAX_ERRORS_PER_FILE = 50
+LEGACY_SCHEMA_VALIDATORS = {
+    "https://json-schema.org/draft-04/schema#": Draft4Validator,
+    "https://json-schema.org/draft-07/schema#": Draft7Validator,
+}
 
 
 def workflow_escape(value):
@@ -73,6 +77,14 @@ def write_summary(json_count, schema_count, errors):
 
     with open(summary_path, "a", encoding="utf-8") as summary:
         summary.write(body)
+
+
+def validator_for_schema(schema):
+    if isinstance(schema, dict):
+        legacy_validator = LEGACY_SCHEMA_VALIDATORS.get(schema.get("$schema"))
+        if legacy_validator is not None:
+            return legacy_validator
+    return validators.validator_for(schema)
 
 
 def main():
@@ -137,7 +149,7 @@ def main():
 
         schema = documents[schema_path]
         try:
-            validator_class = validators.validator_for(schema)
+            validator_class = validator_for_schema(schema)
             validator_class.check_schema(schema)
         except SchemaError as error:
             report_error(schema_path, error.message, title="Invalid JSON schema")
@@ -178,7 +190,7 @@ def main():
         if schema_path in checked_schemas:
             continue
         try:
-            validator_class = validators.validator_for(documents[schema_path])
+            validator_class = validator_for_schema(documents[schema_path])
             validator_class.check_schema(documents[schema_path])
         except SchemaError as error:
             report_error(schema_path, error.message, title="Invalid JSON schema")
