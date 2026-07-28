@@ -9,3 +9,5 @@ If validation fails, a bot comment gives the exact file, location, and error. Pu
 Pull requests that only modify existing data JSON files are merged automatically after both checks pass. Additions, deletions, renames, and changes to schemas, workflows, dependencies, or documentation require manual review.
 
 After an automatic merge, `main` is validated again and GitHub Pages is deployed.
+
+<!-- Temporary live rollout verification; this change will not be merged. -->
