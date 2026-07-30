@@ -7,8 +7,17 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("RedleyRepp", "KCafe", 1718997945326);
-addDepartment("RedleyRepp", "Sporting Goods")
+addAssociate("IBETA7", "VENDOR");
+addDepartment("IBETA7", "Blue Star")
+
+addAssociate("Nep Nep Senpai", "VENDOR");
+addDepartment("Nep Nep Senpai", "Blue Star")
+
+addAssociate("_stry", "VENDOR");
+addDepartment("_stry", "Blue Star")
+
+addAssociate("Shigemori", "VENDOR");
+addDepartment("Shigemori", "Blue Star")
 
 /* Thanks to null.
  * you know who you are :3 */

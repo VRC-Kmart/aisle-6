@@ -1916,10 +1916,35 @@
       "RegistryTimeStamp": 1718997945326,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "KCafe" },
-        { "Name": "Sporting Goods" }
-        ]
+      "Departments": [{ "Name": "KCafe" }, { "Name": "Sporting Goods" }]
+    },
+    {
+      "VRC_Username": "IBETA7",
+      "RegistryTimeStamp": 1785373981194,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "Blue Star" }]
+    },
+    {
+      "VRC_Username": "Nep Nep Senpai",
+      "RegistryTimeStamp": 1785373981197,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "Blue Star" }]
+    },
+    {
+      "VRC_Username": "_stry",
+      "RegistryTimeStamp": 1785373981199,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "Blue Star" }]
+    },
+    {
+      "VRC_Username": "Shigemori",
+      "RegistryTimeStamp": 1785373981202,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "VENDOR" }, { "Name": "Blue Star" }]
     }
   ],
   "header": {
