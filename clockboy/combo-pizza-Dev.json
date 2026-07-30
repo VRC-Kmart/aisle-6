@@ -1945,6 +1945,19 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "VENDOR" }, { "Name": "Blue Star" }]
+    },
+    {
+      "VRC_Username": "1000Vultures",
+      "RegistryTimeStamp": 1785374790329,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "RMPMC" },
+        { "Name": "RMERP" },
+        { "Name": "RM -RF /" },
+        { "Name": "too many birds" }
+      ]
     }
   ],
   "header": {

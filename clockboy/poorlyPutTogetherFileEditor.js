@@ -7,17 +7,12 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("IBETA7", "VENDOR");
-addDepartment("IBETA7", "Blue Star")
+addAssociate("1000Vultures", "VENDOR");
+addDepartment("1000Vultures", "RMPMC")
+addDepartment("1000Vultures", "RMERP")
+addDepartment("1000Vultures", "RM -RF /")
+addDepartment("1000Vultures", "too many birds")
 
-addAssociate("Nep Nep Senpai", "VENDOR");
-addDepartment("Nep Nep Senpai", "Blue Star")
-
-addAssociate("_stry", "VENDOR");
-addDepartment("_stry", "Blue Star")
-
-addAssociate("Shigemori", "VENDOR");
-addDepartment("Shigemori", "Blue Star")
 
 /* Thanks to null.
  * you know who you are :3 */
