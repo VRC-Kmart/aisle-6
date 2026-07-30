@@ -1656,6 +1656,42 @@
         { "Name": "KCafe", "ID": 0 },
         { "Name": "Sporting Goods", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "IBETA7",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1785373981194,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "Blue Star", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "Nep Nep Senpai",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1785373981197,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "Blue Star", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "_stry",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1785373981199,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "Blue Star", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "Shigemori",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1785373981202,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "Blue Star", "ID": 0 }
+      ]
     }
   ],
   "footer": {
