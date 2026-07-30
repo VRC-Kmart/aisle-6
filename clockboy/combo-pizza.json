@@ -1692,6 +1692,18 @@
         { "Name": "VENDOR", "ID": 0 },
         { "Name": "Blue Star", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "1000Vultures",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1785374790329,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "RMPMC", "ID": 0 },
+        { "Name": "RMERP", "ID": 0 },
+        { "Name": "RM -RF /", "ID": 0 },
+        { "Name": "too many birds", "ID": 0 }
+      ]
     }
   ],
   "footer": {
