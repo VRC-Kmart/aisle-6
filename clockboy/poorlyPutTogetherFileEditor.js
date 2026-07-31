@@ -7,11 +7,9 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("1000Vultures", "VENDOR");
-addDepartment("1000Vultures", "RMPMC")
-addDepartment("1000Vultures", "RMERP")
-addDepartment("1000Vultures", "RM -RF /")
-addDepartment("1000Vultures", "too many birds")
+addAssociate("SuppleDruid30", "VENDOR");
+addDepartment("SuppleDruid30", "LPD Sergeant")
+addDepartment("SuppleDruid30", "gay")
 
 
 /* Thanks to null.
