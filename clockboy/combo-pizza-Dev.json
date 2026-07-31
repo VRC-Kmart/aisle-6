@@ -1958,6 +1958,17 @@
         { "Name": "RM -RF /" },
         { "Name": "too many birds" }
       ]
+    },
+    {
+      "VRC_Username": "SuppleDruid30",
+      "RegistryTimeStamp": 1785465549879,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "LPD Sergeant" },
+        { "Name": "gay" }
+      ]
     }
   ],
   "header": {
