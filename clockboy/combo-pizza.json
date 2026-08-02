@@ -994,12 +994,6 @@
       "departments": [{ "Name": "Electronics", "ID": 0 }]
     },
     {
-      "VRC_Username": "mangokento",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1758427871639,
-      "departments": [{ "Name": "KCafe", "ID": 0 }]
-    },
-    {
       "VRC_Username": "SorΒ",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1758517398278,
@@ -1714,6 +1708,18 @@
         { "Name": "LPD Sergeant", "ID": 0 },
         { "Name": "gay", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "JustDot",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1785637177115,
+      "departments": [{ "Name": "KCafe", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "R4D10 M1KU",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1785637177117,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
     }
   ],
   "footer": {
