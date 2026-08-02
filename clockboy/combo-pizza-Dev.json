@@ -1124,13 +1124,6 @@
       "Departments": [{ "Name": "Electronics" }]
     },
     {
-      "VRC_Username": "mangokento",
-      "RegistryTimeStamp": 1758427871639,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "KCafe" }]
-    },
-    {
       "VRC_Username": "SorΒ",
       "RegistryTimeStamp": 1758517398278,
       "Dev": false,
@@ -1969,6 +1962,20 @@
         { "Name": "LPD Sergeant" },
         { "Name": "gay" }
       ]
+    },
+    {
+      "VRC_Username": "JustDot",
+      "RegistryTimeStamp": 1785637177115,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "KCafe" }]
+    },
+    {
+      "VRC_Username": "R4D10 M1KU",
+      "RegistryTimeStamp": 1785637177117,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
     }
   ],
   "header": {
