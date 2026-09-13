@@ -75,32 +75,17 @@
     },
     {
       "Departments": [
-        { "Name": "ADMINISTRATION" },
+        { "Name": "STORE MANAGER" },
         { "Name": "only cooks with ashes" },
         { "Name": "uses 20 sticks of butter for pancakes" },
         { "Name": "sucks at driving" },
-        { "Name": "docking enjoyer" }
+        { "Name": "docking enjoyer" },
+        { "Name": "ADMINISTRATION" }
       ],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1595914793216,
       "VRC_Username": "Kohai~Senpai"
-    },
-    {
-      "Departments": [
-        { "Name": "Yummy Human Remains" },
-        { "Name": "such good seasoning" },
-        { "Name": "yum yum in my tum tum" },
-        { "Name": "<color=#ff0000>T R A C T O R</color>" },
-        { "Name": "woman" },
-        { "Name": "ADMINISTRATION" },
-        { "Name": "STORE MANAGER" },
-        { "Name": "DEVELOPER" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1670216238796,
-      "VRC_Username": "Frimsy"
     },
     {
       "Departments": [
@@ -1430,19 +1415,6 @@
         { "Name": "KCafe Manager" },
         { "Name": "that bird that i hate" },
         { "Name": "who. who! who? Doctor Who." }
-      ]
-    },
-    {
-      "VRC_Username": "Yukai-Kitsune",
-      "RegistryTimeStamp": 1773448813171,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "Public Relations" },
-        { "Name": "gay ass bitch" },
-        { "Name": "MARKETING" },
-        { "Name": "TRAINER" },
-        { "Name": "SECURITY" }
       ]
     },
     {
