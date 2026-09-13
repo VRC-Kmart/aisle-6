@@ -843,16 +843,6 @@
       "VRC_Username": "SaltineCrackers"
     },
     {
-      "Departments": [
-        { "Name": "DEVELOPER" },
-        { "Name": "Will recieve a pipebomb in the mail" }
-      ],
-      "Dev": true,
-      "FunnyCallboxes": true,
-      "RegistryTimeStamp": 1626639600000,
-      "VRC_Username": "PortalTardis"
-    },
-    {
       "Departments": [{ "Name": "VENDOR" }, { "Name": "stinky" }],
       "Dev": true,
       "FunnyCallboxes": true,

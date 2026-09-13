@@ -742,15 +742,6 @@
     },
     {
       "departments": [
-        { "ID": 0, "Name": "DEVELOPER" },
-        { "ID": 0, "Name": "Will recieve a pipebomb in the mail" }
-      ],
-      "RegistryTimeStamp": 1626639600000,
-      "ShiftCount": 69420,
-      "VRC_Username": "PortalTardis"
-    },
-    {
-      "departments": [
         { "ID": 0, "Name": "VENDOR" },
         { "ID": 0, "Name": "stinky" }
       ],
