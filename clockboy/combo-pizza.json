@@ -63,22 +63,12 @@
     },
     {
       "departments": [
-        { "ID": 0, "Name": "HUMAN RESOURCES" },
-        { "ID": 0, "Name": "MANAGEMENT" }
+        { "ID": 0, "Name": "STORE MANAGER" },
+        { "ID": 0, "Name": "DEVELOPER" }
       ],
       "RegistryTimeStamp": 1595914793216,
       "ShiftCount": 69420,
       "VRC_Username": "Kohai~Senpai"
-    },
-    {
-      "departments": [
-        { "ID": 0, "Name": "STORE MANAGER" },
-        { "ID": 0, "Name": "TRAINER" },
-        { "ID": 0, "Name": "DEVELOPER" }
-      ],
-      "RegistryTimeStamp": 1670216238796,
-      "ShiftCount": 69420,
-      "VRC_Username": "Frimsy"
     },
     {
       "departments": [
@@ -1218,15 +1208,6 @@
         { "Name": "DEVELOPER", "ID": 0 },
         { "Name": "MANAGEMENT", "ID": 0 },
         { "Name": "KCafe", "ID": 0 }
-      ]
-    },
-    {
-      "VRC_Username": "Yukai-Kitsune",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1773448813171,
-      "departments": [
-        { "Name": "Public Relations", "ID": 0 },
-        { "Name": "SECURITY", "ID": 0 }
       ]
     },
     {
