@@ -1302,13 +1302,6 @@
       "Departments": [{ "Name": "DEVELOPER" }]
     },
     {
-      "VRC_Username": "Galloop",
-      "RegistryTimeStamp": 1765852189618,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Claims" }]
-    },
-    {
       "VRC_Username": "Bloooomy",
       "RegistryTimeStamp": 1765852189624,
       "Dev": false,

@@ -1120,12 +1120,6 @@
       "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
     },
     {
-      "VRC_Username": "Galloop",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1765852189618,
-      "departments": [{ "Name": "Claims", "ID": 0 }]
-    },
-    {
       "VRC_Username": "Bloooomy",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1765852189624,
