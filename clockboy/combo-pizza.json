@@ -912,7 +912,7 @@
       "VRC_Username": "lingeringVA",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1756181619567,
-      "departments": [{ "Name": "Customer Service", "ID": 0 }]
+      "departments": [{ "Name": "HUMAN RESOURCES", "ID": 0 },{ "Name": "Customer Service", "ID": 0 }]
     },
     {
       "VRC_Username": "Gonzo~",
@@ -1118,12 +1118,6 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1765175770920,
       "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "Galloop",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1765852189618,
-      "departments": [{ "Name": "Claims", "ID": 0 }]
     },
     {
       "VRC_Username": "Bloooomy",
