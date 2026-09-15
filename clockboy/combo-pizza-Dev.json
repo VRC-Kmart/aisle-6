@@ -116,8 +116,9 @@
     {
       "Departments": [
         { "Name": "wont stop bitching about their join date being wrong" },
+        { "Name": "ADMINISTRATION" },
+        { "Name": "HUMAN RESOURCES" },
         { "Name": "Based Department Manager" },
-        { "Name": "MARKETING" },
         { "Name": "MANAGEMENT" }
       ],
       "Dev": true,
@@ -598,7 +599,7 @@
       "VRC_Username": "AmericanMemes"
     },
     {
-      "Departments": [{ "Name": "SECURITY" }],
+      "Departments": [{ "Name": "ADMINISTRATION" },{ "Name": "HUMAN RESOURCES" },{ "Name": "SECURITY" }],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1732418396542,
