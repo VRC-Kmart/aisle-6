@@ -353,7 +353,7 @@
       "VRC_Username": "jack14050"
     },
     {
-      "departments": [{ "ID": 0, "Name": "Pharmacy" }],
+      "departments": [{ "ID": 0, "Name": "SECURITY" },{ "ID": 0, "Name": "Pharmacy" }],
       "RegistryTimeStamp": 1723083634754,
       "ShiftCount": 69420,
       "VRC_Username": "Sweet1019"
