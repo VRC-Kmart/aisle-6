@@ -353,7 +353,10 @@
       "VRC_Username": "jack14050"
     },
     {
-      "departments": [{ "ID": 0, "Name": "SECURITY" },{ "ID": 0, "Name": "Pharmacy" }],
+      "departments": [
+        { "ID": 0, "Name": "SECURITY" },
+        { "ID": 0, "Name": "Pharmacy" }
+      ],
       "RegistryTimeStamp": 1723083634754,
       "ShiftCount": 69420,
       "VRC_Username": "Sweet1019"
@@ -528,7 +531,10 @@
       "VRC_Username": "AmericanMemes"
     },
     {
-      "departments": [{ "ID": 0, "Name": "HUMAN RESOURCES" },{ "ID": 0, "Name": "Security" }],
+      "departments": [
+        { "ID": 0, "Name": "HUMAN RESOURCES" },
+        { "ID": 0, "Name": "Security" }
+      ],
       "RegistryTimeStamp": 1732418396542,
       "ShiftCount": 69420,
       "VRC_Username": "CastOpex2020"
@@ -912,7 +918,10 @@
       "VRC_Username": "lingeringVA",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1756181619567,
-      "departments": [{ "Name": "HUMAN RESOURCES", "ID": 0 },{ "Name": "Customer Service", "ID": 0 }]
+      "departments": [
+        { "Name": "HUMAN RESOURCES", "ID": 0 },
+        { "Name": "Customer Service", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "Gonzo~",
@@ -1667,6 +1676,18 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1788642510781,
       "departments": [{ "Name": "LPD STAFF", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "NDIY",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1789611268242,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "diego09781",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1789611268244,
+      "departments": [{ "Name": "Janitorial", "ID": 0 }]
     }
   ],
   "footer": {

@@ -399,7 +399,7 @@
       "VRC_Username": "jack14050"
     },
     {
-      "Departments": [{ "Name": "SECURITY" },{ "Name": "Harmacy" }],
+      "Departments": [{ "Name": "SECURITY" }, { "Name": "Harmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1723083634754,
@@ -599,7 +599,11 @@
       "VRC_Username": "AmericanMemes"
     },
     {
-      "Departments": [{ "Name": "ADMINISTRATION" },{ "Name": "HUMAN RESOURCES" },{ "Name": "SECURITY" }],
+      "Departments": [
+        { "Name": "ADMINISTRATION" },
+        { "Name": "HUMAN RESOURCES" },
+        { "Name": "SECURITY" }
+      ],
       "Dev": true,
       "FunnyCallboxes": true,
       "RegistryTimeStamp": 1732418396542,
@@ -1018,7 +1022,13 @@
       "RegistryTimeStamp": 1756181619567,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "scared of responsibility" },{ "Name": "HUMAN RESOURCES" },{ "Name": "ADMINISTRATION" },{ "Name": "Customer Service" }, { "Name": "C L A R K" }]
+      "Departments": [
+        { "Name": "scared of responsibility" },
+        { "Name": "HUMAN RESOURCES" },
+        { "Name": "ADMINISTRATION" },
+        { "Name": "Customer Service" },
+        { "Name": "C L A R K" }
+      ]
     },
     {
       "VRC_Username": "Gonzo~",
@@ -1892,6 +1902,20 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "LPD STAFF" }]
+    },
+    {
+      "VRC_Username": "NDIY",
+      "RegistryTimeStamp": 1789611268242,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "diego09781",
+      "RegistryTimeStamp": 1789611268244,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Janitorial" }]
     }
   ],
   "header": {
