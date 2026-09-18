@@ -1700,15 +1700,6 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1789703966921,
       "departments": [{ "Name": "Harmacy", "ID": 0 }]
-    },
-    {
-      "VRC_Username": "CoverdInMustard",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1789703966922,
-      "departments": [
-        { "Name": "Harmacy", "ID": 0 },
-        { "Name": "is covered in ketchup", "ID": 0 }
-      ]
     }
   ],
   "footer": {
