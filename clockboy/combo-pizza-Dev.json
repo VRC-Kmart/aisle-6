@@ -151,6 +151,7 @@
     },
     {
       "Departments": [
+        { "Name": "cunt" },
         { "Name": "HUMAN RESOURCES" },
         { "Name": "TRAINER" },
         { "Name": "MANAGEMENT" },
@@ -1922,24 +1923,14 @@
       "RegistryTimeStamp": 1789703966920,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Customer Service" }]
+      "Departments": [{ "Name": "Customer Service" },{ "Name": "Insane Asylum" }]
     },
     {
       "VRC_Username": "cinnamoŋ",
       "RegistryTimeStamp": 1789703966921,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Harmacy" }]
-    },
-    {
-      "VRC_Username": "CoverdInMustard",
-      "RegistryTimeStamp": 1789703966922,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "Harmacy" },
-        { "Name": "is covered in ketchup" }
-      ]
+      "Departments": [{ "Name": "Harmacy" },{ "Name": "Master 67" }]
     }
   ],
   "header": {
