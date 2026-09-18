@@ -1688,6 +1688,27 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1789611268244,
       "departments": [{ "Name": "Janitorial", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "PsychoCrazy",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1789703966920,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "cinnamoŋ",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1789703966921,
+      "departments": [{ "Name": "Harmacy", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "CoverdInMustard",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1789703966922,
+      "departments": [
+        { "Name": "Harmacy", "ID": 0 },
+        { "Name": "is covered in ketchup", "ID": 0 }
+      ]
     }
   ],
   "footer": {
