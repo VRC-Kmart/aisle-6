@@ -1923,14 +1923,38 @@
       "RegistryTimeStamp": 1789703966920,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Customer Service" },{ "Name": "Insane Asylum" }]
+      "Departments": [
+        { "Name": "Customer Service" },
+        { "Name": "Insane Asylum" }
+      ]
     },
     {
       "VRC_Username": "cinnamoŋ",
       "RegistryTimeStamp": 1789703966921,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Harmacy" },{ "Name": "Master 67" }]
+      "Departments": [{ "Name": "Harmacy" }, { "Name": "Master 67" }]
+    },
+    {
+      "VRC_Username": "Hol_",
+      "RegistryTimeStamp": 1789800615033,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "LPD STAFF" }, { "Name": "psycho cow" }]
+    },
+    {
+      "VRC_Username": "SnivyFC",
+      "RegistryTimeStamp": 1789800615036,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "LPD STAFF" }, { "Name": "psycho cow" }]
+    },
+    {
+      "VRC_Username": "Emiko-Z",
+      "RegistryTimeStamp": 1789800615038,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "LPD STAFF" }, { "Name": "psycho cow" }]
     }
   ],
   "header": {

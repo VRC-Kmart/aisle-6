@@ -1700,6 +1700,33 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1789703966921,
       "departments": [{ "Name": "Harmacy", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Hol_",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1789800615033,
+      "departments": [
+        { "Name": "LPD STAFF", "ID": 0 },
+        { "Name": "psycho cow", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "SnivyFC",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1789800615036,
+      "departments": [
+        { "Name": "LPD STAFF", "ID": 0 },
+        { "Name": "psycho cow", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "Emiko-Z",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1789800615038,
+      "departments": [
+        { "Name": "LPD STAFF", "ID": 0 },
+        { "Name": "psycho cow", "ID": 0 }
+      ]
     }
   ],
   "footer": {
