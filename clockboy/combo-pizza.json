@@ -23,6 +23,14 @@
     },
     {
       "departments": [
+        { "ID": 0, "Name": "DEVELOPER" }
+      ],
+      "RegistryTimeStamp": 1569750679822,
+      "ShiftCount": 69420,
+      "VRC_Username": "Frimsy"
+    },
+    {
+      "departments": [
         { "ID": 0, "Name": "system_gremlin" },
         { "ID": 0, "Name": "Among Us" },
         { "ID": 0, "Name": "i don't fucking know" }
