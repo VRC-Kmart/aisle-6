@@ -89,6 +89,20 @@
     },
     {
       "Departments": [
+        { "Name": "Yummy Human Remains" },
+        { "Name": "such good seasoning" },
+        { "Name": "yum yum in my tum tum" },
+        { "Name": "<color=#ff0000>T R A C T O R</color>" },
+        { "Name": "woman" },
+        { "Name": "DEVELOPER" }
+      ],
+      "Dev": true,
+      "FunnyCallboxes": true,
+      "RegistryTimeStamp": 1670216238796,
+      "VRC_Username": "Frimsy"
+    },
+    {
+      "Departments": [
         { "Name": "DEVELOPER" },
         { "Name": "IT DEPARTMENT" },
         { "Name": "Customer Service" },
