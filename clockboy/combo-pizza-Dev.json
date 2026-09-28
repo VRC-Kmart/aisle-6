@@ -1923,7 +1923,7 @@
       "RegistryTimeStamp": 1789611268242,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Customer Service" }]
+      "Departments": [{ "Name": "Customer Service" },{ "Name": "Electronics" },{ "Name": "Automotive" }]
     },
     {
       "VRC_Username": "diego09781",
