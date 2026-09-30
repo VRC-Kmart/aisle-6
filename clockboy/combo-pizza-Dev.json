@@ -1923,7 +1923,11 @@
       "RegistryTimeStamp": 1789611268242,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Customer Service" },{ "Name": "Electronics" },{ "Name": "Automotive" }]
+      "Departments": [
+        { "Name": "Customer Service" },
+        { "Name": "Electronics" },
+        { "Name": "Automotive" }
+      ]
     },
     {
       "VRC_Username": "diego09781",
@@ -1969,6 +1973,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "LPD STAFF" }, { "Name": "psycho cow" }]
+    },
+    {
+      "VRC_Username": "King Melodyne",
+      "RegistryTimeStamp": 1718191200000,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Service" }]
     }
   ],
   "header": {

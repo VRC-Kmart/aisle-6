@@ -22,9 +22,7 @@
       "VRC_Username": "KmartWorlds"
     },
     {
-      "departments": [
-        { "ID": 0, "Name": "DEVELOPER" }
-      ],
+      "departments": [{ "ID": 0, "Name": "DEVELOPER" }],
       "RegistryTimeStamp": 1569750679822,
       "ShiftCount": 69420,
       "VRC_Username": "Frimsy"
@@ -1688,7 +1686,11 @@
       "VRC_Username": "NDIY",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1789611268242,
-      "departments": [{ "Name": "Customer Service", "ID": 0 },{ "Name": "Electronics", "ID": 0 },{ "Name": "Automotive", "ID": 0 }]
+      "departments": [
+        { "Name": "Customer Service", "ID": 0 },
+        { "Name": "Electronics", "ID": 0 },
+        { "Name": "Automotive", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "diego09781",
@@ -1734,6 +1736,12 @@
         { "Name": "LPD STAFF", "ID": 0 },
         { "Name": "psycho cow", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "King Melodyne",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1718191200000,
+      "departments": [{ "Name": "Customer Service", "ID": 0 }]
     }
   ],
   "footer": {
