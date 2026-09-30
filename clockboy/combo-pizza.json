@@ -1742,6 +1742,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1718191200000,
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "S3WSH1",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1790798683623,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
     }
   ],
   "footer": {

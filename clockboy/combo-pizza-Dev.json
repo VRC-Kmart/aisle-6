@@ -1980,6 +1980,13 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Customer Service" }]
+    },
+    {
+      "VRC_Username": "S3WSH1",
+      "RegistryTimeStamp": 1790798683623,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
     }
   ],
   "header": {
