@@ -7,7 +7,11 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("S3WSH1", "Electronics");
+addAssociate("Yilnel", "Mame Enemies Cafe");
+addDepartment("Yilnel", "Slugma Balls");
+addDepartment("Yilnel", "speaks in lowercase");
+addDepartment("Yilnel", "s n a i l");
+addDepartment("Yilnel", "VENDOR");
 
 
 /* Thanks to null.

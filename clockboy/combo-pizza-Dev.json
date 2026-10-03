@@ -1987,6 +1987,19 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "Yilnel",
+      "RegistryTimeStamp": 1790993358147,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "Mame Enemies Cafe" },
+        { "Name": "Slugma Balls" },
+        { "Name": "speaks in lowercase" },
+        { "Name": "s n a i l" },
+        { "Name": "VENDOR" }
+      ]
     }
   ],
   "header": {

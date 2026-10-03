@@ -1748,6 +1748,18 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1790798683623,
       "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Yilnel",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1790993358147,
+      "departments": [
+        { "Name": "Mame Enemies Cafe", "ID": 0 },
+        { "Name": "Slugma Balls", "ID": 0 },
+        { "Name": "speaks in lowercase", "ID": 0 },
+        { "Name": "s n a i l", "ID": 0 },
+        { "Name": "VENDOR", "ID": 0 }
+      ]
     }
   ],
   "footer": {
