@@ -1754,6 +1754,12 @@
         { "Name": "s n a i l", "ID": 0 },
         { "Name": "VENDOR", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "LidoBnuy",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1791088246749,
+      "departments": [{ "Name": "DEVELOPER", "ID": 0 }]
     }
   ],
   "footer": {

@@ -1993,6 +1993,13 @@
         { "Name": "s n a i l" },
         { "Name": "VENDOR" }
       ]
+    },
+    {
+      "VRC_Username": "LidoBnuy",
+      "RegistryTimeStamp": 1791088246749,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "DEVELOPER" }]
     }
   ],
   "header": {
