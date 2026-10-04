@@ -579,12 +579,6 @@
       "VRC_Username": "yeen125"
     },
     {
-      "departments": [{ "ID": 0, "Name": "Sporting Goods" }],
-      "RegistryTimeStamp": 1699819893423,
-      "ShiftCount": 69420,
-      "VRC_Username": "ღRini Sakuraღ"
-    },
-    {
       "departments": [
         { "ID": 0, "Name": "Customer Service" },
         { "Name": "Automotive", "ID": 0 }
