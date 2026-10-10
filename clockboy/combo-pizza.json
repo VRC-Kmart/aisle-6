@@ -1754,6 +1754,12 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1791589341685,
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Signtra2k",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1791608548867,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
     }
   ],
   "footer": {
