@@ -1052,7 +1052,7 @@
       "RegistryTimeStamp": 1756787524543,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "MARKETING" }, { "Name": "Customer Service" }]
+      "Departments": [{ "Name": "MANAGEMENT" }, { "Name": "MARKETING" }, { "Name": "Customer Service" }]
     },
     {
       "VRC_Username": "ScarletFortune",
