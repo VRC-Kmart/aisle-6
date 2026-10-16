@@ -303,18 +303,6 @@
       "VRC_Username": "Lankev78"
     },
     {
-      "departments": [{ "ID": 0, "Name": "Pharmacy" }],
-      "RegistryTimeStamp": 1718060054721,
-      "ShiftCount": 69420,
-      "VRC_Username": "ButterflyCutie"
-    },
-    {
-      "departments": [{ "ID": 0, "Name": "Pharmacy" }],
-      "RegistryTimeStamp": 1718060054721,
-      "ShiftCount": 69420,
-      "VRC_Username": "Jacob94"
-    },
-    {
       "departments": [
         { "ID": 0, "Name": "Customer Service" },
         { "ID": 0, "Name": "Bakery/Deli" },
