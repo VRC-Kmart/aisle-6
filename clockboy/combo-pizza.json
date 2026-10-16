@@ -923,7 +923,10 @@
       "VRC_Username": "RoaringBear",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1756787524543,
-      "departments": [{ "Name": "MANAGEMENT", "ID": 0 },{ "Name": "Customer Service", "ID": 0 }]
+      "departments": [
+        { "Name": "MANAGEMENT", "ID": 0 },
+        { "Name": "Customer Service", "ID": 0 }
+      ]
     },
     {
       "VRC_Username": "ScarletFortune",
@@ -1742,6 +1745,25 @@
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1791608548867,
       "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Sugar_Lillie",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1792187977732,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "\"British\" Armed Forces", "ID": 0 }
+      ]
+    },
+    {
+      "VRC_Username": "ArtoxWolf",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1792187977735,
+      "departments": [
+        { "Name": "VENDOR", "ID": 0 },
+        { "Name": "\"British\" Armed Forces", "ID": 0 },
+        { "Name": "isn't actually british", "ID": 0 }
+      ]
     }
   ],
   "footer": {
