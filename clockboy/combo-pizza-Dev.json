@@ -1040,7 +1040,11 @@
       "RegistryTimeStamp": 1756787524543,
       "Dev": false,
       "FunnyCallboxes": false,
-      "Departments": [{ "Name": "MANAGEMENT" }, { "Name": "MARKETING" }, { "Name": "Customer Service" }]
+      "Departments": [
+        { "Name": "MANAGEMENT" },
+        { "Name": "MARKETING" },
+        { "Name": "Customer Service" }
+      ]
     },
     {
       "VRC_Username": "ScarletFortune",
@@ -1976,6 +1980,27 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "Sugar_Lillie",
+      "RegistryTimeStamp": 1792187977732,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "\"British\" Armed Forces" }
+      ]
+    },
+    {
+      "VRC_Username": "ArtoxWolf",
+      "RegistryTimeStamp": 1792187977735,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "VENDOR" },
+        { "Name": "\"British\" Armed Forces" },
+        { "Name": "isn't actually british" }
+      ]
     }
   ],
   "header": {
