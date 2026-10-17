@@ -55,6 +55,7 @@ LidoBnuy
 RoaringBear
 ArtoxWolf
 Sugar_Lillie
+NotPixi
 --LIST_1_END--
 IHaveToPutSomethingHereSoHereIsAUsernameThatCannotExistBecauseItIsFarTooLongForVRChatToFuckingHandle
 --LIST_2_END--
