@@ -1747,15 +1747,6 @@
       "departments": [{ "Name": "Electronics", "ID": 0 }]
     },
     {
-      "VRC_Username": "Sugar_Lillie",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1792187977732,
-      "departments": [
-        { "Name": "VENDOR", "ID": 0 },
-        { "Name": "\"British\" Armed Forces", "ID": 0 }
-      ]
-    },
-    {
       "VRC_Username": "ArtoxWolf",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1792187977735,
@@ -1774,6 +1765,42 @@
         { "Name": "\"British\" Armed Forces", "ID": 0 },
         { "Name": "is unfortunately actually british", "ID": 0 }
       ]
+    },
+    {
+      "VRC_Username": "Squeebie",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1793929518392,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Mufflez",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1793929518394,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Skellatonbox",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1793929518395,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Alfredo12044",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1793929518397,
+      "departments": [{ "Name": "Electronics", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Auri_Flori",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1793929518398,
+      "departments": [{ "Name": "KCafe", "ID": 0 }]
+    },
+    {
+      "VRC_Username": "Oopsies02",
+      "ShiftCount": 69420,
+      "RegistryTimeStamp": 1793929518400,
+      "departments": [{ "Name": "KCafe", "ID": 0 }]
     }
   ],
   "footer": {
