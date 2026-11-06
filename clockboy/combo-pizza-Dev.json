@@ -1982,16 +1982,6 @@
       "Departments": [{ "Name": "Electronics" }]
     },
     {
-      "VRC_Username": "Sugar_Lillie",
-      "RegistryTimeStamp": 1792187977732,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [
-        { "Name": "VENDOR" },
-        { "Name": "\"British\" Armed Forces" }
-      ]
-    },
-    {
       "VRC_Username": "ArtoxWolf",
       "RegistryTimeStamp": 1792187977735,
       "Dev": false,
@@ -2012,6 +2002,48 @@
         { "Name": "\"British\" Armed Forces" },
         { "Name": "is unfortunately actually british" }
       ]
+    },
+    {
+      "VRC_Username": "Squeebie",
+      "RegistryTimeStamp": 1793929518392,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "Mufflez",
+      "RegistryTimeStamp": 1793929518394,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "Skellatonbox",
+      "RegistryTimeStamp": 1793929518395,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "Alfredo12044",
+      "RegistryTimeStamp": 1793929518397,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "Auri_Flori",
+      "RegistryTimeStamp": 1793929518398,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "KCafe" }]
+    },
+    {
+      "VRC_Username": "Oopsies02",
+      "RegistryTimeStamp": 1793929518400,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "KCafe" }]
     }
   ],
   "header": {
