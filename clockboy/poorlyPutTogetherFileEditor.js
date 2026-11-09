@@ -7,7 +7,7 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("Aurora_angelSad", "Harmacy");
+addAssociate("ButterflyCutie", "Harmacy");
 
 
 
