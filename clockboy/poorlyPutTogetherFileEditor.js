@@ -7,12 +7,7 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("Squeebie", "Electronics");
-addAssociate("Mufflez", "Electronics");
-addAssociate("Skellatonbox", "Electronics");
-addAssociate("Alfredo12044", "Electronics");
-addAssociate("Auri_Flori", "KCafe");
-addAssociate("Oopsies02", "KCafe");
+addAssociate("ButterflyCutie", "Harmacy");
 
 
 
