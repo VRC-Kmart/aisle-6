@@ -347,7 +347,6 @@
     },
     {
       "departments": [
-        { "ID": 0, "Name": "SECURITY" },
         { "ID": 0, "Name": "Pharmacy" }
       ],
       "RegistryTimeStamp": 1723083634754,
