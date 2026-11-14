@@ -402,7 +402,7 @@
       "VRC_Username": "jack14050"
     },
     {
-      "Departments": [{ "Name": "SECURITY" }, { "Name": "Harmacy" }],
+      "Departments": [{ "Name": "Harmacy" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1723083634754,
