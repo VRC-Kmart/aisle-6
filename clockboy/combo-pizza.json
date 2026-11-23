@@ -347,7 +347,9 @@
     },
     {
       "departments": [
-        { "ID": 0, "Name": "Pharmacy" }
+        { "ID": 0, "Name": "Public Relations" },
+        { "ID": 0, "Name": "MANAGEMENT" },
+        { "ID": 0, "Name": "SECURITY" }
       ],
       "RegistryTimeStamp": 1723083634754,
       "ShiftCount": 69420,
@@ -1181,12 +1183,6 @@
       "departments": [{ "Name": "Customer Service", "ID": 0 }]
     },
     {
-      "VRC_Username": "B0ngog4m1ng",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1773017226662,
-      "departments": [{ "Name": "Automotive", "ID": 0 }]
-    },
-    {
       "VRC_Username": "AGTLuCas7",
       "ShiftCount": 69420,
       "RegistryTimeStamp": 1773448813172,
@@ -1307,12 +1303,6 @@
         { "Name": "SECURITY", "ID": 0 },
         { "Name": "Customer Service", "ID": 0 }
       ]
-    },
-    {
-      "VRC_Username": "VoxelRayven",
-      "ShiftCount": 69420,
-      "RegistryTimeStamp": 1777177874813,
-      "departments": [{ "Name": "SECURITY", "ID": 0 }]
     },
     {
       "VRC_Username": "Rïn~",

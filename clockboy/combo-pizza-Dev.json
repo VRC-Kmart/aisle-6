@@ -402,7 +402,7 @@
       "VRC_Username": "jack14050"
     },
     {
-      "Departments": [{ "Name": "Harmacy" }],
+      "Departments": [{"Name": "Public Relations" },{ "Name": "MANAGEMENT" },{"Name": "SECURITY" }],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1723083634754,
@@ -1380,13 +1380,6 @@
       "Departments": [{ "Name": "Customer Service" }]
     },
     {
-      "VRC_Username": "B0ngog4m1ng",
-      "RegistryTimeStamp": 1773017226662,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "Automotive" }]
-    },
-    {
       "VRC_Username": "AGTLuCas7",
       "RegistryTimeStamp": 1773448813172,
       "Dev": false,
@@ -1518,13 +1511,6 @@
         { "Name": "Customer Service" },
         { "Name": "wasted money on a degree" }
       ]
-    },
-    {
-      "VRC_Username": "VoxelRayven",
-      "RegistryTimeStamp": 1777177874813,
-      "Dev": false,
-      "FunnyCallboxes": false,
-      "Departments": [{ "Name": "SECURITY" }]
     },
     {
       "VRC_Username": "Rïn~",
