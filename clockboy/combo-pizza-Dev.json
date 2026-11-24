@@ -402,7 +402,11 @@
       "VRC_Username": "jack14050"
     },
     {
-      "Departments": [{"Name": "Public Relations" },{ "Name": "MANAGEMENT" },{"Name": "SECURITY" }],
+      "Departments": [
+        { "Name": "Public Relations" },
+        { "Name": "MANAGEMENT" },
+        { "Name": "SECURITY" }
+      ],
       "Dev": false,
       "FunnyCallboxes": false,
       "RegistryTimeStamp": 1723083634754,
@@ -2024,6 +2028,27 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Harmacy" }]
+    },
+    {
+      "VRC_Username": "gevs",
+      "RegistryTimeStamp": 1795500253655,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Automotive" }]
+    },
+    {
+      "VRC_Username": "IamJust1n",
+      "RegistryTimeStamp": 1795500353670,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Customer Disservice" }]
+    },
+    {
+      "VRC_Username": "Myo~",
+      "RegistryTimeStamp": 1795500378560,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Portrait Studio" }]
     }
   ],
   "header": {
