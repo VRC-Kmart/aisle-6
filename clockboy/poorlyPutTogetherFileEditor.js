@@ -7,9 +7,11 @@ let numEdited = 0;
 const { Utils } = require("./utils.js");
 
 logInfo();
-addAssociate("gevs", "Automotive", 1795500253655);
-addAssociate("IamJust1n", "Customer Disservice", 1795500353670);
-addAssociate("Myo~", "Portrait Studio", 1795500378560);
+addAssociate("hiiampikachuu", "Electronics");
+addAssociate("Foran", "Portrait Studio", 1694275860000);
+addDepartment("Foran", "DEVELOPER");
+addDepartment("Foran", "stupid fucking ice fairy");
+addAssociate("socalledleo", "Portrait Studio");
 
 
 
