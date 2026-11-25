@@ -2049,6 +2049,31 @@
       "Dev": false,
       "FunnyCallboxes": false,
       "Departments": [{ "Name": "Portrait Studio" }]
+    },
+    {
+      "VRC_Username": "hiiampikachuu",
+      "RegistryTimeStamp": 1795571336761,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "Electronics" }]
+    },
+    {
+      "VRC_Username": "Foran",
+      "RegistryTimeStamp": 1694275860000,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [
+        { "Name": "Portrait Studio" },
+        { "Name": "DEVELOPER" },
+        { "Name": "stupid fucking ice fairy" }
+      ]
+    },
+    {
+      "VRC_Username": "socalledleo",
+      "RegistryTimeStamp": 1795571336768,
+      "Dev": false,
+      "FunnyCallboxes": false,
+      "Departments": [{ "Name": "DEVELOPER" },{ "Name": "Portrait Studio" }]
     }
   ],
   "header": {
